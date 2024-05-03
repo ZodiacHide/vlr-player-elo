@@ -1,0 +1,2 @@
+agent; rating; acs; kills; deaths; assists; kast; adr; hsp; fk; fd
+Raze; 1.56; 322.0; 23.0; 12.0; 5.0; 11.0; 74.0; 225.0; 27.0; 6.0; 
