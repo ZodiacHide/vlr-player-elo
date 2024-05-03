@@ -76,7 +76,9 @@ map_dtype = np.dtype([
 
 # Lines 72-82
 def find_map_winner_loser(left_team):
-    # Find the map winner
+    '''
+    Finds and retrieves name, starting side and div of the left team.
+    '''
     left_team_name_element = left_team.find_next('div', class_='team-name').string
     left_team_name = ' '.join(left_team_name_element.split())
 
