@@ -8,7 +8,7 @@ from data_struct import player_dtype, team_data_dtype, map_dtype, find_map_winne
  
 def invert_match_link_list():
     match_link_array = np.array([])
-    with open('C:\\Users\\Simen\\Desktop\\valorant-rankings\\test_urls.txt', 'r') as infile:
+    with open('test_urls.txt', 'r') as infile:
         for line in infile:
             match_link_array = np.append(match_link_array, line)
 
@@ -69,17 +69,13 @@ def fetch_match_data(match_link_array):
                 # Set default
                 right_is_winner = True
 
-                # Find the map winner
+                # Set team elements
                 left_team = map_element.find_previous_sibling('div', class_='team')
-                left_team_name_element = left_team.find_next('div', class_='team-name').string
-                left_team_name = ' '.join(left_team_name_element.split())
+                right_team = map_element.find_next_sibling('div', class_='team mod-right')
 
-                # Span after team_name is always starting side
-                left_team_starting_side_element = left_team_name_element.find_next('span')['class'][0]
-                left_team_starting_side = left_team_starting_side_element.split('-')[-1]
-
-                # Check if left_team is winner.
-                left_team_won = left_team.find_next('div')
+                # Find the map winner
+                left_team_name, left_team_starting_side, left_team_won = find_map_winner_loser(left_team=left_team)
+                
                 # Left is winner
                 if 'mod-win' in left_team_won.get('class', []):
                     left_team_t_score = int(left_team.find_next('span', class_='mod-t').get_text())
@@ -93,7 +89,6 @@ def fetch_match_data(match_link_array):
                     left_team_score = left_team_t_score + left_team_ct_score
                     right_is_winner = True
 
-                right_team = map_element.find_next_sibling('div', class_='team mod-right')
                 right_team_name_element = right_team.find_next('div', class_='team-name').string
                 right_team_name = ' '.join(right_team_name_element.split())
                 
