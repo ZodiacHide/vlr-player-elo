@@ -75,18 +75,24 @@ map_dtype = np.dtype([
 ])
 
 # Lines 72-82
-def find_map_winner_loser(left_team):
+def find_team_name_side(team):
     '''
     Finds and retrieves name, starting side and div of the left team.
     '''
-    left_team_name_element = left_team.find_next('div', class_='team-name').string
-    left_team_name = ' '.join(left_team_name_element.split())
+    name_element = team.find_next('div', class_='team-name').string
+    team_name = ' '.join(name_element.split())
 
     # Span after team_name is always starting side
-    left_team_starting_side_element = left_team_name_element.find_next('span')['class'][0]
-    left_team_starting_side = left_team_starting_side_element.split('-')[-1]
+    team_starting_side_element = name_element.find_next('span')['class'][0]
+    team_starting_side = team_starting_side_element.split('-')[-1]
 
-    # Check if left_team is winner.
-    left_team_won = left_team.find_next('div')
+    # Check if team is winner.
+    team_won = team.find_next('div')
 
-    return left_team_name, left_team_starting_side, left_team_won
+    return team_name, team_starting_side, team_won
+
+def get_team_ct_t_score(team):
+    t_score = int(team.find_next('span', class_='mod-t').get_text())
+    ct_score = int(team.find_next('span', class_='mod-ct').get_text())
+
+    return t_score, ct_score
