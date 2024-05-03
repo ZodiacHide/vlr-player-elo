@@ -76,6 +76,7 @@ def fetch_match_data(match_link_array):
                 # Find the map winner
                 left_team_name, left_team_starting_side, left_team_won = find_team_name_side(left_team)
                 
+                ## MAKE FUNC ##
                 # Left is winner
                 if 'mod-win' in left_team_won.get('class', []):
                     left_team_t_score, left_team_ct_score = get_team_ct_t_score(left_team)
@@ -110,6 +111,8 @@ def fetch_match_data(match_link_array):
                 map_name = split_map_element[0]
                 map_length = split_map_element[-1]
 
+
+                ## MAKE FUNC ##
                 if right_is_winner:
                     map_winner = right_team_name
                     map_winner_score = right_team_score
@@ -124,6 +127,7 @@ def fetch_match_data(match_link_array):
                 # Getting Player Data #
                 parent_element = map_element.find_parent('div').find_parent('div')
 
+                ## MAKE FUNC ##
                 ## Left Team
                 left_team_player_element_whole = parent_element.find_next('table', class_='wf-table-inset mod-overview')
                 left_team_player_elements = left_team_player_element_whole.find('tbody')
@@ -134,6 +138,7 @@ def fetch_match_data(match_link_array):
                 right_team_player_elements = right_team_player_element_whole.find('tbody')
                 right_players = right_team_player_elements.find_all('tr')
 
+                # DELETE??? #
                 k = 0
                 for player_set in (left_players, right_players):
                     for n, element in enumerate(player_set):
@@ -194,6 +199,7 @@ def fetch_match_data(match_link_array):
                         
                     k += 1
 
+                ## MAKE FUNC ##
                 # team1 = np.ndarray{[Team name, starting side, rounds won first half, rounds won second half], [player1], [player2],...}
                 if left_team_starting_side == 't':
                     left_team_data = (left_team_name, left_team_starting_side, left_team_t_score, left_team_ct_score)
@@ -347,18 +353,6 @@ for i in range(len(team)):
 print(team[0][0])
 print(team[0][1])
 # print(players[0][0][0])
-# for i in range(len(map)):
-#     for j in range(2):
-#         for k in range(5):
-#             team[i][j][-1][k] = players[i][j][k]
-
-# # print(map[0])
-# for i in range(len(map)):
-#     for j in range(2):
-#         map[i][-1][j] = team[i][j]
-
-# for i in range(len(map)):
-#     final_data[-1][i] = map[i]
 
 def write_player_data_to_file(player_data, teamname, result, filename, agent):
     if os.path.exists(f'players\{filename}'):
