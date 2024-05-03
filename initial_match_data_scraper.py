@@ -4,7 +4,7 @@ import time
 import numpy as np
 import os
 import data_struct as struct
-from data_struct import player_dtype, team_data_dtype, map_dtype, find_map_winner_loser
+from data_struct import player_dtype, team_data_dtype, map_dtype, find_team_name_side, get_team_ct_t_score
  
 def invert_match_link_list():
     match_link_array = np.array([])
@@ -74,30 +74,23 @@ def fetch_match_data(match_link_array):
                 right_team = map_element.find_next_sibling('div', class_='team mod-right')
 
                 # Find the map winner
-                left_team_name, left_team_starting_side, left_team_won = find_map_winner_loser(left_team=left_team)
+                left_team_name, left_team_starting_side, left_team_won = find_team_name_side(left_team)
                 
                 # Left is winner
                 if 'mod-win' in left_team_won.get('class', []):
-                    left_team_t_score = int(left_team.find_next('span', class_='mod-t').get_text())
-                    left_team_ct_score = int(left_team.find_next('span', class_='mod-ct').get_text())
+                    left_team_t_score, left_team_ct_score = get_team_ct_t_score(left_team)
                     left_team_score = left_team_t_score + left_team_ct_score
                     right_is_winner = False
                 # Left is not winner
                 else:
-                    left_team_t_score = int(left_team.find_next('span', class_='mod-t').get_text())
-                    left_team_ct_score = int(left_team.find_next('span', class_='mod-ct').get_text())
+                    left_team_t_score, left_team_ct_score = get_team_ct_t_score(left_team)
                     left_team_score = left_team_t_score + left_team_ct_score
                     right_is_winner = True
 
-                right_team_name_element = right_team.find_next('div', class_='team-name').string
-                right_team_name = ' '.join(right_team_name_element.split())
-                
-                # Span after team_name is always starting side
-                right_team_starting_side_element = right_team_name_element.find_next('span')['class'][0]
-                right_team_starting_side = right_team_starting_side_element.split('-')[-1]
-  
-                right_team_t_score = int(right_team.find_next('span', class_='mod-t').get_text())
-                right_team_ct_score = int(right_team.find_next('span', class_='mod-ct').get_text())
+                # fubar is never used
+                # Right team basic info
+                right_team_name, right_team_starting_side, fubar = find_team_name_side(right_team)
+                right_team_t_score, right_team_ct_score = get_team_ct_t_score(right_team)
                 right_team_score = right_team_t_score + right_team_ct_score
 
                 # Remove empty spaces and join with ,
@@ -351,7 +344,9 @@ for i in range(len(team)):
             for l, (attribute, value) in enumerate(team[i][j][-1][k].__dict__.items()):
                 players[i][j][k][l] = value
 
-print(players[0][0][0])
+print(team[0][0])
+print(team[0][1])
+# print(players[0][0][0])
 # for i in range(len(map)):
 #     for j in range(2):
 #         for k in range(5):
