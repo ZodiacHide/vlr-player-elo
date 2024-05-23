@@ -94,7 +94,9 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
 
 def write_team_data_to_file(team_name: str, players: list, opposing_team: str, 
                             map_name: str, map_pick: str, starting_side: 
-                            str, map_result: str, scoreline: str, overtime_flag: bool):
+                            str, map_result: str, scoreline: str, overtime_flag: bool,
+                            match_length: str, date_of_match: str, event_name: str,
+                            vod_link):
     path = f'teams\{team_name}.txt'
     if os.path.exists(path):
         with open(path, 'a') as infile:
@@ -106,12 +108,17 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
             for player in players:
                 infile.write(player + ';')
             infile.write(scoreline + ';')
-            infile.write(f'{overtime_flag}' + ';' + '\n')
+            infile.write(f'{overtime_flag}' + ';')
+            infile.write(match_length + ';')
+            infile.write(date_of_match + ';')
+            infile.write(event_name + ';')
+            infile.write(vod_link + ';'+ '\n')
     else:
         with open(path, 'a') as infile:
             infile.write('starting_side; map_result; opposing_team_name; map_name; map_pick; ' 
                          + 'player1; player2; player3; player4; player5; '
-                         + 'scoreline; overtime;\n')
+                         + 'scoreline; overtime;'
+                         + 'match_length; date_of_match; event_name; vod_link;\n')
             infile.write(starting_side + ';')
             infile.write(map_result + ';')
             infile.write(opposing_team + ';')
@@ -120,7 +127,11 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
             for player in players:
                 infile.write(player + ';')
             infile.write(scoreline + ';')
-            infile.write(f'{overtime_flag}' + ';' + '\n')
+            infile.write(f'{overtime_flag}' + ';')
+            infile.write(match_length + ';')
+            infile.write(date_of_match + ';')
+            infile.write(event_name + ';')
+            infile.write(vod_link + ';'+ '\n')
 
 def invert_match_link_list(filename):
     match_link_array = np.array([])

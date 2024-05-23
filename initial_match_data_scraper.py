@@ -208,17 +208,25 @@ def fetch_match_data(match_url):
         vods_links = vods_element.find_all('a')
         vods_links = [link.get('href') for link in vods_links]
         vods_links = np.array(vods_links)
-    
-        for i in range(len(vods_links)):
-            matchup['maps'][i]['vod_link'] = vods_links[i]
+
+        if len(vods_links) == 1:
+            for i in range(len(map_element)):
+                matchup['maps'][i]['vod_link'] = vods_links[0]
+        else:
+            for i in range(len(vods_links)):
+                matchup['maps'][i]['vod_link'] = vods_links[i]
 
         return matchup
 
 match_url = invert_match_link_list('test_urls.txt')
-for url in match_url:
+for matchup_count, url in enumerate(match_url):
     # Initialise values #
     # Data from match played
     matchup_data = fetch_match_data(match_url=url)
+
+    # Event and start strings
+    date_of_match = matchup_data['matchup_start_time']
+    event_name = matchup_data['event_name']
 
     # Strings containing team names
     team_a_name = matchup_data['teams'][0]['team_name']
@@ -246,11 +254,17 @@ for url in match_url:
                                       team_b_name=team_b_name)
 
         for i, map in enumerate(maps):
+            # Set vod link for map
+            vod_link = map['vod_link']
+
             # Flag to know which scoreline is team's
             team_is_a = False
 
             # Flag to check for overtime
             overtime_flag = False
+
+            # Set match time length
+            match_length = map['map_length']
 
             # Set map name and picked by
             map_name = map['map_name']
@@ -312,4 +326,5 @@ for url in match_url:
             write_team_data_to_file(team_name=team_name, players=player_names, 
                                     opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
                                     starting_side=starting_side, map_result=map_result, 
-                                    scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag)
+                                    scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag,
+                                    match_length=match_length, date_of_match=date_of_match, event_name=event_name, vod_link=vod_link)
