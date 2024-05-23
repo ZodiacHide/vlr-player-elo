@@ -1,83 +1,16 @@
+import bs4
 import numpy as np
+import os
 
-class playerStats:
-    def __init__(self, username, agent, rating, acs, kills, deaths, assists, kast, adr, hsp, fk, fd) -> None:
-        self.username = username
-        self.agent = agent
-        self.rating = rating
-        self.acs = acs
-        self.kills = kills
-        self.deaths = deaths
-        self.asssists = assists
-        self.kast = kast
-        self.adr = adr
-        self.hsp = hsp
-        self.fk = fk
-        self.fd = fd
-
-class teamStats:
-    def __init__(self, name, startside, first_half, second_half, players_stats) -> None:
-        self.name = name
-        self.startside = startside
-        self.first_half = first_half
-        self.second_half = second_half
-        self.player_stats = players_stats
-
-class mapData:
-    def __init__(self, winner, loser, map_name, picked_by, map_length, winner_score, loser_score, team_stats) -> None:
-        self.winner = winner
-        self.loser = loser
-        self.map_name = map_name
-        self.picked_by = picked_by
-        self.map_length = map_length
-        self.winner_score = winner_score
-        self.loser_score = loser_score
-        self.team_stats = team_stats
-
-class gameSeries:
-    def __init__(self, event_name, time_of_series, teams, scoreline, format, num_maps, vods, maps_data) -> None:
-        self.event_name = event_name
-        self.time_of_series = time_of_series
-        self.teams = teams
-        self.format = format
-        self.scoreline = scoreline
-        self.num_maps = num_maps
-        self.vods = vods
-        self.maps_data = maps_data
-    
-player_dtype = np.dtype([
-    ('player_name', 'U50'),  # Unicode string, maximum length 50 characters
-    ('agent_name', 'U50'),
-    ('team_name', 'U50'),
-    ('player_data', (float, (12, 3))) # 12x3 array of floats per player
-])
-
-team_dtype = np.dtype([
-    ('team_name', 'U50'),
-    ('starting_side', 'U50'),
-    ('first_half', int),
-    ('second_half', int)
-])
-
-team_data_dtype = np.dtype([
-    ('team1_data', team_dtype),
-    ('team2_data', team_dtype)
-])
-
-map_dtype = np.dtype([
-    ('winner_name', 'U50'),
-    ('loser_name', 'U50'),
-    ('map_name', 'U50'),
-    ('team_pick', 'U50'),
-    ('map_length', 'U50'),
-    ('winner_score', int),
-    ('loser_score', int)
-])
-
-# Lines 72-82
-def find_team_name_side(team):
+def find_team_name_side(team: bs4.element.Tag) -> tuple:
     '''
-    Finds and retrieves name, starting side and div of the left team.
+    Finds and retrieves name and starting side for a team.
+
+    Args:
+        team (bs4.element.Tag): Beautiful soup div tag of the team.
+
+    Returns:
+        str: Scorelines for Attack side and Defender side.
     '''
     name_element = team.find_next('div', class_='team-name').string
     team_name = ' '.join(name_element.split())
@@ -86,13 +19,82 @@ def find_team_name_side(team):
     team_starting_side_element = name_element.find_next('span')['class'][0]
     team_starting_side = team_starting_side_element.split('-')[-1]
 
-    # Check if team is winner.
-    team_won = team.find_next('div')
+    return team_name, team_starting_side
 
-    return team_name, team_starting_side, team_won
+def get_team_ct_t_score(team: bs4.element.Tag) -> tuple:
+    '''
+    Finds and retrieves scorelines from both halves for a team.
 
-def get_team_ct_t_score(team):
+    Args:
+        team (bs4.element.Tag): Beautiful soup tag of the team.
+
+    Returns:
+        str: Scorelines for Attack side and Defender side.
+    '''
     t_score = int(team.find_next('span', class_='mod-t').get_text())
     ct_score = int(team.find_next('span', class_='mod-ct').get_text())
 
     return t_score, ct_score
+
+def write_player_data_to_file(player_data: dict, team_name: str, maps: list, 
+                              scoreline: str, team_a_name: str, team_b_name: str
+                              ) -> None:
+    player_name = player_data['player_name']
+    map_count = int(scoreline[0]) + int(scoreline[-1])
+
+    # Retrieve player data for each map #
+    map_data = []
+    for i, map in enumerate(player_data['matches']):
+        # Skip default stats
+        if i > map_count-1:
+            continue
+        map_stats = list(map.values())
+        map_data.extend([map_stats])
+    
+    ## MAKE FUNC ##
+    # Make array of wins/losses for player
+    map_results = np.zeros(map_count, dtype=str)
+    for i in range(map_count):
+        scores = maps[i]['scoreline']
+        team_a_score = scores['first_half']['team_a'] + scores['second_half']['team_a'] # + OT scores
+        team_b_score = scores['first_half']['team_b'] + scores['second_half']['team_b'] # + OT scores
+        if team_a_score > team_b_score:
+            if team_name == team_a_name:
+                map_results[i] = 'W'
+            else:
+                map_results[i] = 'L'
+        else:
+            if team_name == team_b_name:
+                map_results[i] = 'W'
+            else:
+                map_results[i] = 'L'
+
+    if os.path.exists(f'players\{player_name}.txt'):
+        print('pp')
+        # Update file with relevant info
+        with open(f'players\{player_name}.txt', 'a') as infile:
+            for i, stats_tuple in enumerate(map_data):
+                infile.write(map_results[int(i)] + ';')
+                for item in stats_tuple:
+                    infile.write(item + ';')
+                infile.write(team_name + ';\n')
+    else:   
+        with open(f'players\{player_name}.txt', 'a') as infile:
+            infile.write('map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;\n')
+            for i, stats_tuple in enumerate(map_data):
+                infile.write(map_results[int(i)] + ';')
+                for item in stats_tuple:
+                    infile.write(item + ';')
+                infile.write(team_name + ';\n')
+
+def invert_match_link_list(filename):
+    match_link_array = np.array([])
+    with open(filename, 'r') as infile:
+        for line in infile:
+            match_link_array = np.append(match_link_array, line)
+
+    # Most recent match played is first
+    # Reverse array such that first is the first played
+    match_link_array = np.flip(match_link_array)
+    
+    return match_link_array
