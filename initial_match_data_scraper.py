@@ -5,6 +5,9 @@ import numpy as np
 import os
 import data_struct as struct
 from data_struct import player_dtype, team_data_dtype, map_dtype, find_team_name_side, get_team_ct_t_score
+import match_dict as md
+import team_dict as td
+import player_dict as pd
  
 def invert_match_link_list():
     match_link_array = np.array([])
@@ -30,10 +33,10 @@ def fetch_match_data(match_link_array):
     Team names, Player names, Format, Scoreline.
 
     Data per map: 
-    Winner, Loser, Map name, team pick, 
+    Winner, Loser, Map name, team pick, Starting side, 
+    {Team name, first half, second half}
 
     Per team:
-    Team name, Starting side, first half, second half
 
     Per player:
     Player name, Agent, Rating, ACS, Kills, Deaths, Assist, 
@@ -61,38 +64,75 @@ def fetch_match_data(match_link_array):
 
             # Empty array for amount of matches
             map_num = 0
+
+            matchup = md.matchup
             maps_arr = np.zeros(len(map_name_element), dtype=map_dtype)
+            A_team_dict = td.team_data
+            B_team_dict = td.team_data
             team_data = np.zeros((len(map_name_element), 1), dtype=team_data_dtype)
-            left_team_players = np.zeros((len(map_name_element), 5, 1), dtype=player_dtype)
-            right_team_players = np.zeros((len(map_name_element), 5, 1), dtype=player_dtype)
+            A_team_players = np.zeros((len(map_name_element), 5, 1), dtype=player_dtype)
+            B_team_players = np.zeros((len(map_name_element), 5, 1), dtype=player_dtype)
             for i, map_element in enumerate(map_name_element):
+                current_map = matchup['maps'][i]
+
                 # Set default
-                right_is_winner = True
+                B_won_map = True
 
                 # Set team elements
-                left_team = map_element.find_previous_sibling('div', class_='team')
-                right_team = map_element.find_next_sibling('div', class_='team mod-right')
+                A_team = map_element.find_previous_sibling('div', class_='team')
+                B_team = map_element.find_next_sibling('div', class_='team mod-right')
 
                 # Find the map winner
-                left_team_name, left_team_starting_side, left_team_won = find_team_name_side(left_team)
+                A_team_name, A_team_starting_side, team_A_won = find_team_name_side(A_team)
                 
                 ## MAKE FUNC ##
-                # Left is winner
-                if 'mod-win' in left_team_won.get('class', []):
-                    left_team_t_score, left_team_ct_score = get_team_ct_t_score(left_team)
-                    left_team_score = left_team_t_score + left_team_ct_score
-                    right_is_winner = False
-                # Left is not winner
+                # A is winner
+                if 'mod-win' in team_A_won.get('class', []):
+                    A_team_t_score, A_team_ct_score = get_team_ct_t_score(A_team)
+                    A_team_score = A_team_t_score + A_team_ct_score
+                    B_won_map = False
+                # A is not winner
                 else:
-                    left_team_t_score, left_team_ct_score = get_team_ct_t_score(left_team)
-                    left_team_score = left_team_t_score + left_team_ct_score
-                    right_is_winner = True
+                    A_team_t_score, A_team_ct_score = get_team_ct_t_score(A_team)
+                    A_team_score = A_team_t_score + A_team_ct_score
+                    B_won_map = True
 
+                # A team basic info
+                A_team_dict['team_name'] = A_team_name
+                
                 # fubar is never used
-                # Right team basic info
-                right_team_name, right_team_starting_side, fubar = find_team_name_side(right_team)
-                right_team_t_score, right_team_ct_score = get_team_ct_t_score(right_team)
-                right_team_score = right_team_t_score + right_team_ct_score
+                # B team basic info
+                B_team_name, B_team_starting_side, fubar = find_team_name_side(B_team)
+                B_team_t_score, B_team_ct_score = get_team_ct_t_score(B_team)
+                B_team_score = B_team_t_score + B_team_ct_score
+
+                B_team_dict['team_name'] = B_team_name
+
+                # map i basic info
+                matchup['teams'][0]['team_name'] = A_team_name
+                current_map['starting_sides']['team_a'] = A_team_starting_side
+
+                matchup['teams'][1]['team_name'] = B_team_name
+                current_map['starting_sides']['team_b'] = B_team_starting_side
+
+                if A_team_starting_side == 't':
+                    current_map['starting_sides']['team_a'] = 'Attack'
+                    current_map['starting_sides']['team_b'] = 'Defense'
+
+                    current_map['scoreline']['first_half']['team_a'] = A_team_t_score
+                    current_map['scoreline']['second_half']['team_a'] = A_team_ct_score
+
+                    current_map['scoreline']['first_half']['team_b'] = B_team_ct_score
+                    current_map['scoreline']['second_half']['team_b'] = B_team_t_score
+                else:
+                    current_map['starting_sides']['team_b'] = 'Attack'
+                    current_map['starting_sides']['team_a'] = 'Defense'
+
+                    current_map['scoreline']['first_half']['team_a'] = A_team_ct_score
+                    current_map['scoreline']['second_half']['team_a'] = A_team_t_score
+
+                    current_map['scoreline']['first_half']['team_b'] = B_team_t_score
+                    current_map['scoreline']['second_half']['team_b'] = B_team_ct_score  
 
                 # Remove empty spaces and join with ,
                 joined_map_element = ','.join(map_element.get_text().split())
@@ -101,74 +141,85 @@ def fetch_match_data(match_link_array):
                 # Find team who picked map
                 map_picker = map_element.find('span', class_='picked mod-1 ge-text-light')
                 if map_picker:
-                    # mod-1 is left
-                    team_pick = left_team_name
+                    # mod-1 is A
+                    team_pick = A_team_name
+                    current_map['picked_by'] = A_team_name
                 else:
-                    # mod-2 is right
-                    team_pick = right_team_name
+                    # mod-2 is B
+                    team_pick = B_team_name
+                    current_map['picked_by'] = B_team_name
 
                 # 2nd element is just 'PICK'
                 map_name = split_map_element[0]
-                map_length = split_map_element[-1]
+                map_time_length = split_map_element[-1]
 
+                current_map['map_name'] = map_name
+                current_map['map_length'] = map_time_length
 
                 ## MAKE FUNC ##
-                if right_is_winner:
-                    map_winner = right_team_name
-                    map_winner_score = right_team_score
-                    map_loser = left_team_name
-                    map_loser_score = left_team_score
+                # Delete #
+                if B_won_map:
+                    map_winner = B_team_name
+                    map_winner_score = B_team_score
+                    map_loser = A_team_name
+                    map_loser_score = A_team_score
                 else:
-                    map_winner = left_team_name
-                    map_winner_score = left_team_score
-                    map_loser = right_team_name
-                    map_loser_score = right_team_score
+                    map_winner = A_team_name
+                    map_winner_score = A_team_score
+                    map_loser = B_team_name
+                    map_loser_score = B_team_score
 
                 # Getting Player Data #
                 parent_element = map_element.find_parent('div').find_parent('div')
 
                 ## MAKE FUNC ##
-                ## Left Team
+                ## A Team
                 left_team_player_element_whole = parent_element.find_next('table', class_='wf-table-inset mod-overview')
                 left_team_player_elements = left_team_player_element_whole.find('tbody')
-                left_players = left_team_player_elements.find_all('tr')
+                A_players = left_team_player_elements.find_all('tr')
 
-                ## Right Team
+                ## B Team
                 right_team_player_element_whole = left_team_player_element_whole.find_next('table', class_='wf-table-inset mod-overview')
                 right_team_player_elements = right_team_player_element_whole.find('tbody')
-                right_players = right_team_player_elements.find_all('tr')
+                B_players = right_team_player_elements.find_all('tr')
 
-                # DELETE??? #
-                k = 0
-                for player_set in (left_players, right_players):
+
+                for k, player_set in enumerate((A_players, B_players)):
                     for n, element in enumerate(player_set):
+                        current_player = matchup['teams'][k]['players'][n]['matches'][i]
                         if k != 0:
-                            player_team_name = right_team_name
+                            player_team_name = B_team_name
                         else:
-                            player_team_name = left_team_name
+                            player_team_name = A_team_name
 
                         ## Player Name
                         player_name_string = element.find('div', class_='text-of').string
                         player_name = ''.join(player_name_string.split())
+                        matchup['teams'][k]['players'][n]['player_name'] = player_name
 
                         ## Player Agent
                         player_agent_element = element.find('img')
                         player_agent_name = player_agent_element['title']
-
-                        # player1 = np.ndarray{[Player name, Agent, Rating, 
-                        # ACS, Kills, Deaths, Assists, KAST, ADR, HS%, FK, FD]}
-
+                        current_player['agent'] = player_agent_name
+                        
                         sub_elements = element.find_all('td')
                         player_game_stats = np.zeros((len(sub_elements)-2, 3), dtype=float)
-                        for i, item in enumerate(sub_elements):
-                            # i = 0 - player name
-                            # i = 1 - agent name
+                        for j, item in enumerate(sub_elements):
+                            # j = 0 - player name
+                            # j = 1 - agent name
                             # 2 - 13 {Rating, ACS, K, D, A, 
                             #        KD Diff, KAST, ADR, HS, 
                             #        FK, FD, FK Diff}
-                            if i < 2:
+                            
+                            # ignore 7th index, KD Diff not saved
+                            stat_names = ['rating', 'acs', 'kills', 'deaths', 'assists', 'kast', 'adr', 'hs_percent', 'fk', 'fd']
+                            
+                            ###
+                            # Remove ct and t elements after revision, not saved
+                            ###
+                            if j < 2:
                                 continue
-                            if i == 5:
+                            if j == 5:
                                 # Adress 'Death' edge case span design
                                 item_span = item.find('span').find_next('span').find_next('span')
                                 item_total = item_span.find_next('span').string
@@ -182,31 +233,35 @@ def fetch_match_data(match_link_array):
 
                             # Adress 'XX%' case and remove % to allow for float array
                             try:
-                                player_game_stats[i-2][0] = item_total
-                                player_game_stats[i-2][1] = item_t
-                                player_game_stats[i-2][2] = item_ct
+                                player_game_stats[j-2][0] = item_total
+                                player_game_stats[j-2][1] = item_t
+                                player_game_stats[j-2][2] = item_ct
                             except ValueError:
-                                player_game_stats[i-2][0] = item_total[:-1]
-                                player_game_stats[i-2][1] = item_t[:-1]
-                                player_game_stats[i-2][2] = item_ct[:-1]
+                                player_game_stats[j-2][0] = item_total[:-1]
+                                player_game_stats[j-2][1] = item_t[:-1]
+                                player_game_stats[j-2][2] = item_ct[:-1]
+                            
+                            if j != 7 and j < 12:
+                                try:
+                                    current_player[stat_names[j-2]] = item_total
+                                except ValueError:
+                                    current_player[stat_names[j-2]] = item_total[:-1]
+
 
                         player_data = player_name, player_agent_name, player_team_name, player_game_stats
-                        # player_data = np.array(inter_player_data, dtype=player_dtype)
                         if k != 0:
-                            right_team_players[map_num][n] = player_data
+                            B_team_players[i][n] = player_data
                         else:
-                            left_team_players[map_num][n] = player_data
-                        
-                    k += 1
+                            A_team_players[i][n] = player_data
 
                 ## MAKE FUNC ##
                 # team1 = np.ndarray{[Team name, starting side, rounds won first half, rounds won second half], [player1], [player2],...}
-                if left_team_starting_side == 't':
-                    left_team_data = (left_team_name, left_team_starting_side, left_team_t_score, left_team_ct_score)
-                    right_team_data = (right_team_name, right_team_starting_side, right_team_ct_score, right_team_t_score)
+                if A_team_starting_side == 't':
+                    left_team_data = (A_team_name, A_team_starting_side, A_team_t_score, A_team_ct_score)
+                    right_team_data = (B_team_name, A_team_starting_side, B_team_ct_score, B_team_t_score)
                 else:
-                    left_team_data = (left_team_name, left_team_starting_side, left_team_ct_score, left_team_t_score)
-                    right_team_data = (right_team_name, right_team_starting_side, right_team_t_score, right_team_ct_score)
+                    left_team_data = (A_team_name, A_team_starting_side, A_team_ct_score, A_team_t_score)
+                    right_team_data = (B_team_name, A_team_starting_side, B_team_t_score, B_team_ct_score)
 
                 # left_team_data = np.array(inter_left_team_data, dtype=team_dtype)
                 # right_team_data = np.array(inter_right_team_data, dtype=team_dtype)
@@ -216,7 +271,7 @@ def fetch_match_data(match_link_array):
                 # team_data = np.array(inter_team_data, dtype=inter_team_dtype)
 
                 # Map data #
-                map_data = (map_winner, map_loser, map_name, team_pick, map_length, map_winner_score, map_loser_score)
+                map_data = (map_winner, map_loser, map_name, team_pick, map_time_length, map_winner_score, map_loser_score)
                 # map_data = np.array(inter_map_data, dtype=map_dtype)
 
                 # Put map data in array for all maps #
@@ -228,6 +283,7 @@ def fetch_match_data(match_link_array):
             event_element = match_header_element.find_next('div')
             event_name_raw = event_element.find('div', class_='match-header-event-series').find_previous('div').string
             event_name = ' '.join(event_name_raw.split())
+            matchup['event_name'] = event_name
 
             # Time of match #
             match_date_element = match_header_element.find('div', class_='match-header-date')
@@ -236,7 +292,8 @@ def fetch_match_data(match_link_array):
             match_date_time_div = match_date_date_div.find_next('div')
             match_date_time = ' '.join(match_date_time_div.string.split())
 
-            time_of_match = ', '.join([match_date_date, match_date_time])
+            time_of_matchup = ', '.join([match_date_date, match_date_time])
+            matchup['matchup_start_time'] = time_of_matchup
 
             # Team names #
             team_name_1_element = parsed_content.find('div', class_='wf-title-med')
@@ -267,14 +324,14 @@ def fetch_match_data(match_link_array):
             vods_links = [link.get('href') for link in vods_links]
             vods_links = np.array(vods_links)
 
-            match_data = [event_name, time_of_match, team_name_1, team_name_2, scoreline, format, map_num, vods_links.tolist()]
-            return match_data, maps_arr, team_data, left_team_players, right_team_players 
+            match_data = [event_name, time_of_matchup, team_name_1, team_name_2, scoreline, format, map_num, vods_links.tolist()]
+            return match_data, maps_arr, team_data, A_team_players, B_team_players 
         else:
             print(f"Failed to retrieve data from {match_url}. Status code: {response.status_code}")
             continue
 
 match_link_array = invert_match_link_list()
-match_data, maps_arr, team_data, left_players, right_player = fetch_match_data(match_link_array=match_link_array)
+match_data, maps_arr, team_data, A_players, right_player = fetch_match_data(match_link_array=match_link_array)
 
 # Sample data in classes #
 def _create_player_stats(username, agent, rating, acs, kills, deaths, assists, kast, adr, hsp, fk, fd):
@@ -286,14 +343,14 @@ def _create_team_stats(name, startside, first_half, second_half, player_data):
         player_data[i][0][3][2], player_data[i][0][3][3], player_data[i][0][3][4], player_data[i][0][3][5], 
         player_data[i][0][3][6], player_data[i][0][3][7], player_data[i][0][3][8], player_data[i][0][3][9]) for i in range(5)])
 
-def _create_map_data(winner, loser, map_name, picked_by, map_length, winner_score, loser_score, 
-                     left_players, right_players,
+def _create_map_data(winner, loser, map_name, picked_by, map_time_length, winner_score, loser_score, 
+                     A_players, B_players,
                      name, startside, first_half, second_half) -> list:
-    return struct.mapData(winner, loser, map_name, picked_by, map_length, winner_score, loser_score, 
-                          [_create_team_stats(name[0][0][0], startside[0][0][1], first_half[0][0][2], second_half[0][0][3], left_players),
-                           _create_team_stats(name[0][1][0], startside[0][1][1], first_half[0][1][2], second_half[0][1][3], right_players)])
+    return struct.mapData(winner, loser, map_name, picked_by, map_time_length, winner_score, loser_score, 
+                          [_create_team_stats(name[0][0][0], startside[0][0][1], first_half[0][0][2], second_half[0][0][3], A_players),
+                           _create_team_stats(name[0][1][0], startside[0][1][1], first_half[0][1][2], second_half[0][1][3], B_players)])
 
-def create_series_data(match_data, maps_arr, team_data, left_players, right_players):
+def create_series_data(match_data, maps_arr, team_data, A_players, B_players):
     # gameSeries dependencies
     event_name=match_data[0]
     time_of_series=match_data[1] 
@@ -308,7 +365,7 @@ def create_series_data(match_data, maps_arr, team_data, left_players, right_play
     loser=[maps_arr[0][1], maps_arr[1][1]]
     map_name=[maps_arr[0][2], maps_arr[1][2]]
     picked_by=[maps_arr[0][3], maps_arr[1][3]]
-    map_length=[maps_arr[0][4], maps_arr[1][4]]
+    map_time_length=[maps_arr[0][4], maps_arr[1][4]]
     winner_score=[maps_arr[0][5], maps_arr[1][5]]
     loser_score=[maps_arr[0][6], maps_arr[1][6]]
 
@@ -319,11 +376,11 @@ def create_series_data(match_data, maps_arr, team_data, left_players, right_play
     second_half=[team_data[0], team_data[1]]
 
     return struct.gameSeries(event_name, time_of_series, teams, scoreline, format, num_maps, vods, 
-                             [_create_map_data(winner[i], loser[i], map_name[i], picked_by[i], map_length[i], 
-                                               winner_score[i], loser_score[i], left_players[i], right_players[i], 
+                             [_create_map_data(winner[i], loser[i], map_name[i], picked_by[i], map_time_length[i], 
+                                               winner_score[i], loser_score[i], A_players[i], B_players[i], 
                                                name[i], startside[i], first_half[i], second_half[i]) for i in range(num_maps)])
 
-series = create_series_data(match_data, maps_arr, team_data, left_players, right_player)
+series = create_series_data(match_data, maps_arr, team_data, A_players, right_player)
 final_data = []
 for attribute, value in series.__dict__.items():
     final_data.append(value)
