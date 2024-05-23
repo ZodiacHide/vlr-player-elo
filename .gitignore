@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 # Generated text files
 players/*.txt
+teams/*.txt
