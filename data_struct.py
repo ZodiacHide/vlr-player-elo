@@ -33,12 +33,12 @@ def get_team_ct_t_score(team: bs4.element.Tag) -> tuple:
     '''
     t_score = int(team.find_next('span', class_='mod-t').get_text())
     ct_score = int(team.find_next('span', class_='mod-ct').get_text())
-
+    score_div = team.find_next('span', class_='mod-ct')
     # Check if map went to OT, handle if it didn't
     try:
-        ot_score = int(team.find_next('span', class_='mod-ot').get_text())
+        ot_score = int(score_div.find_next_sibling('span', class_='mod-ot').get_text())
     except AttributeError:
-        ot_score = '0'
+        ot_score = 0
 
     return t_score, ct_score, ot_score
 
@@ -47,7 +47,7 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
                               ) -> None:
     player_name = player_data['player_name']
     map_count = int(scoreline[0]) + int(scoreline[-1])
-
+    path = f'players\{player_name}.txt'
     # Retrieve player data for each map #
     map_data = []
     for i, map in enumerate(player_data['matches']):
@@ -75,23 +75,52 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
             else:
                 map_results[i] = 'L'
 
-    if os.path.exists(f'players\{player_name}.txt'):
-        print('pp')
+    if os.path.exists(path):
         # Update file with relevant info
-        with open(f'players\{player_name}.txt', 'a') as infile:
+        with open(path, 'a') as infile:
             for i, stats_tuple in enumerate(map_data):
                 infile.write(map_results[int(i)] + ';')
                 for item in stats_tuple:
                     infile.write(item + ';')
                 infile.write(team_name + ';\n')
     else:   
-        with open(f'players\{player_name}.txt', 'a') as infile:
+        with open(path, 'a') as infile:
             infile.write('map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;\n')
             for i, stats_tuple in enumerate(map_data):
                 infile.write(map_results[int(i)] + ';')
                 for item in stats_tuple:
                     infile.write(item + ';')
                 infile.write(team_name + ';\n')
+
+def write_team_data_to_file(team_name: str, players: list, opposing_team: str, 
+                            map_name: str, map_pick: str, starting_side: 
+                            str, map_result: str, scoreline: str, overtime_flag: bool):
+    path = f'teams\{team_name}.txt'
+    if os.path.exists(path):
+        with open(path, 'a') as infile:
+            infile.write(starting_side + ';')
+            infile.write(map_result + ';')
+            infile.write(opposing_team + ';')
+            infile.write(map_name + ';')
+            infile.write(map_pick + ';')
+            for player in players:
+                infile.write(player + ';')
+            infile.write(scoreline + ';')
+            infile.write(f'{overtime_flag}' + ';' + '\n')
+    else:
+        with open(path, 'a') as infile:
+            infile.write('starting_side; map_result; opposing_team_name; map_name; map_pick; ' 
+                         + 'player1; player2; player3; player4; player5; '
+                         + 'scoreline; overtime;\n')
+            infile.write(starting_side + ';')
+            infile.write(map_result + ';')
+            infile.write(opposing_team + ';')
+            infile.write(map_name + ';')
+            infile.write(map_pick + ';')
+            for player in players:
+                infile.write(player + ';')
+            infile.write(scoreline + ';')
+            infile.write(f'{overtime_flag}' + ';' + '\n')
 
 def invert_match_link_list(filename):
     match_link_array = np.array([])
