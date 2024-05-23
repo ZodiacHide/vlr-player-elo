@@ -257,7 +257,6 @@ for url in match_url:
             # If last map, it's a decider
             if i+1 == integer_scoreline:
                 map_pick = 'Decider'
-                print("hello")
             else:
                 map_pick = map['picked_by']
 
