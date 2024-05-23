@@ -57,9 +57,11 @@ def fetch_match_data(match_url):
             matchup['teams'][1]['team_name'] = B_team_name
 
             # Set team scores
-            A_team_t_score, A_team_ct_score = get_team_ct_t_score(A_team)
-            B_team_t_score, B_team_ct_score = get_team_ct_t_score(B_team)
-
+            A_team_t_score, A_team_ct_score, A_team_ot_score = get_team_ct_t_score(A_team)
+            B_team_t_score, B_team_ct_score, B_team_ot_score = get_team_ct_t_score(B_team)
+            current_map['scoreline']['overtime']['team_a'] = A_team_ot_score
+            current_map['scoreline']['overtime']['team_b'] = B_team_ot_score
+            
             ## MAKE FUNC ##
             if A_team_starting_side == 't':
                 current_map['starting_sides']['team_a'] = 'Attack'
@@ -232,3 +234,8 @@ for url in match_url:
 ### Then compare team1 elo to team2 elo ###
 ### Do elo calculations ###
 ### Update elo in file ###
+
+## OTHER LINKS ##
+# https://www.vlr.gg/79075/fnatic-vs-m3-champions-champions-tour-stage-1-emea-challengers-ubsf
+# https://www.vlr.gg/323253/aura-differential-vs-lilith-game-changers-2024-southeast-asia-stage-1-lr1
+# https://www.vlr.gg/348723/nom-esports-vs-acend-challengers-league-2024-east-surge-split-2-regular-season-w1
