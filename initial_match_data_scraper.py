@@ -61,7 +61,7 @@ def fetch_match_data(match_url):
             B_team_t_score, B_team_ct_score, B_team_ot_score = get_team_ct_t_score(B_team)
             current_map['scoreline']['overtime']['team_a'] = A_team_ot_score
             current_map['scoreline']['overtime']['team_b'] = B_team_ot_score
-            
+
             ## MAKE FUNC ##
             if A_team_starting_side == 't':
                 current_map['starting_sides']['team_a'] = 'Attack'
@@ -167,12 +167,8 @@ def fetch_match_data(match_url):
                                         'hs_percent', 'fk', 'fd']
                         if j != 7 and j < 13:
                             try:
-                                # print("j = ", j)
-                                # print(stat_names[j-2], item_total)
                                 current_player[stat_names[j-2]] = item_total
                             except ValueError:
-                                # print("j = ", j)
-                                # print(stat_names[j-2], item_total[:-1])
                                 current_player[stat_names[j-2]] = item_total[:-1]
 
         # Event name #
@@ -220,20 +216,104 @@ def fetch_match_data(match_url):
 
 match_url = invert_match_link_list('test_urls.txt')
 for url in match_url:
+    # Initialise values #
+    # Data from match played
     matchup_data = fetch_match_data(match_url=url)
+
+    # Strings containing team names
     team_a_name = matchup_data['teams'][0]['team_name']
     team_b_name = matchup_data['teams'][1]['team_name']
+    
+    # String containing final scoreline
+    scoreline = matchup_data['final_scoreline']
+    integer_scoreline = int(scoreline[0])+int(scoreline[-1])
+
+    # List containing dicts of all maps played
+    maps = matchup_data['maps']
+
+    ## Write data to files ##
     for team in matchup_data['teams']:
+        # List to store player names
+        player_names = []
         team_name = team['team_name']
         for player in team['players']:
-            write_player_data_to_file(player_data=player, team_name=team_name, maps=matchup_data['maps'],
-                                      scoreline=matchup_data['final_scoreline'], team_a_name=team_a_name,
+            # Add player name to list
+            player_names.append(player['player_name'])
+
+            # Write player data to file
+            write_player_data_to_file(player_data=player, team_name=team_name, maps=maps,
+                                      scoreline=scoreline, team_a_name=team_a_name,
                                       team_b_name=team_b_name)
 
-### Make file / Append stats to file for every player in match - New players get fresh elo as stat in file ###
-### Then compare team1 elo to team2 elo ###
-### Do elo calculations ###
-### Update elo in file ###
+        for i, map in enumerate(maps):
+            # Flag to know which scoreline is team's
+            team_is_a = False
+
+            # Flag to check for overtime
+            overtime_flag = False
+
+            # Set map name and picked by
+            map_name = map['map_name']
+            # If last map, it's a decider
+            if i+1 == integer_scoreline:
+                map_pick = 'Decider'
+                print("hello")
+            else:
+                map_pick = map['picked_by']
+
+            # Verify which team is which
+            if team_name == team_a_name:
+                opposing_team = team_b_name
+                team_is_a = True
+            else:
+                opposing_team = team_a_name
+
+            # Check to avoid errors
+            if i+1 > integer_scoreline:
+                continue
+
+            # Check for overtime
+            if map['scoreline']['overtime']['team_a'] > 0 or map['scoreline']['overtime']['team_b'] > 0:
+                overtime_flag = True
+
+            # Evaluate the result of the map
+            if team_is_a:
+                team_first_half = map['scoreline']['first_half']['team_a']
+                team_second_half = map['scoreline']['second_half']['team_a']
+                team_ot = map['scoreline']['overtime']['team_a']
+                team_score = team_first_half + team_second_half + team_ot
+                
+                opposing_first_half = map['scoreline']['first_half']['team_b']
+                opposing_second_half = map['scoreline']['second_half']['team_b']
+                opposing_ot = map['scoreline']['overtime']['team_b']
+                opposing_score = opposing_first_half + opposing_second_half + opposing_ot
+
+                starting_side = map['starting_sides']['team_a']
+                if team_score > opposing_score:
+                    map_result = 'W'
+                else:
+                    map_result = 'L'
+            else:
+                team_first_half = map['scoreline']['first_half']['team_b']
+                team_second_half = map['scoreline']['second_half']['team_b']
+                team_ot = map['scoreline']['overtime']['team_b']
+                team_score = team_first_half + team_second_half + team_ot
+                
+                opposing_first_half = map['scoreline']['first_half']['team_a']
+                opposing_second_half = map['scoreline']['second_half']['team_a']
+                opposing_ot = map['scoreline']['overtime']['team_a']
+                opposing_score = opposing_first_half + opposing_second_half + opposing_ot
+
+                starting_side = map['starting_sides']['team_b']
+                if team_score > opposing_score:
+                    map_result = 'W'
+                else:
+                    map_result = 'L'
+            
+            write_team_data_to_file(team_name=team_name, players=player_names, 
+                                    opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
+                                    starting_side=starting_side, map_result=map_result, 
+                                    scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag)
 
 ## OTHER LINKS ##
 # https://www.vlr.gg/79075/fnatic-vs-m3-champions-champions-tour-stage-1-emea-challengers-ubsf
