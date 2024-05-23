@@ -737,6 +737,10 @@ matchup = {
                 "second_half": {
                     "team_a": 4,
                     "team_b": 8
+                },
+                "overtime": {
+                    "team_a": 0,
+                    "team_b": 0
                 }
             }
         },
@@ -757,6 +761,10 @@ matchup = {
                 "second_half": {
                     "team_a": 4,
                     "team_b": 8
+                },
+                "overtime": {
+                    "team_a": 0,
+                    "team_b": 0
                 }
             }
         },
@@ -777,6 +785,10 @@ matchup = {
                 "second_half": {
                     "team_a": 4,
                     "team_b": 8
+                },
+                "overtime": {
+                    "team_a": 0,
+                    "team_b": 0
                 }
             }
         },
@@ -797,6 +809,10 @@ matchup = {
                 "second_half": {
                     "team_a": 4,
                     "team_b": 8
+                },
+                "overtime": {
+                    "team_a": 0,
+                    "team_b": 0
                 }
             }
         },
@@ -817,6 +833,10 @@ matchup = {
                 "second_half": {
                     "team_a": 4,
                     "team_b": 8
+                },
+                "overtime": {
+                    "team_a": 0,
+                    "team_b": 0
                 }
             }
         }
