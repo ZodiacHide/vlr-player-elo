@@ -34,7 +34,13 @@ def get_team_ct_t_score(team: bs4.element.Tag) -> tuple:
     t_score = int(team.find_next('span', class_='mod-t').get_text())
     ct_score = int(team.find_next('span', class_='mod-ct').get_text())
 
-    return t_score, ct_score
+    # Check if map went to OT, handle if it didn't
+    try:
+        ot_score = int(team.find_next('span', class_='mod-ot').get_text())
+    except AttributeError:
+        ot_score = '0'
+
+    return t_score, ct_score, ot_score
 
 def write_player_data_to_file(player_data: dict, team_name: str, maps: list, 
                               scoreline: str, team_a_name: str, team_b_name: str
@@ -56,8 +62,8 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
     map_results = np.zeros(map_count, dtype=str)
     for i in range(map_count):
         scores = maps[i]['scoreline']
-        team_a_score = scores['first_half']['team_a'] + scores['second_half']['team_a'] # + OT scores
-        team_b_score = scores['first_half']['team_b'] + scores['second_half']['team_b'] # + OT scores
+        team_a_score = scores['first_half']['team_a'] + scores['second_half']['team_a'] + scores['overtime']['team_a']
+        team_b_score = scores['first_half']['team_b'] + scores['second_half']['team_b'] + scores['overtime']['team_b']
         if team_a_score > team_b_score:
             if team_name == team_a_name:
                 map_results[i] = 'W'
