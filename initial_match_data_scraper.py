@@ -314,8 +314,3 @@ for url in match_url:
                                     opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
                                     starting_side=starting_side, map_result=map_result, 
                                     scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag)
-
-## OTHER LINKS ##
-# https://www.vlr.gg/79075/fnatic-vs-m3-champions-champions-tour-stage-1-emea-challengers-ubsf
-# https://www.vlr.gg/323253/aura-differential-vs-lilith-game-changers-2024-southeast-asia-stage-1-lr1
-# https://www.vlr.gg/348723/nom-esports-vs-acend-challengers-league-2024-east-surge-split-2-regular-season-w1
