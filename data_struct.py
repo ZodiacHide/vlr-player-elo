@@ -293,3 +293,19 @@ def get_essential_if_not_played(parsed_content: bs4.element.Tag) -> tuple:
     B_team_name = parsed_content.find('div', class_='match-header-link-name mod-2').get_text()
     B_team_name = ''.join(B_team_name.split())
     return time_of_matchup, event_name, A_team_name, B_team_name, scoreline
+
+def get_user_input_on_scraping():
+    user_input = input('Continue with scraping? Yes: y, No: n \n')
+    if user_input == 'Y' or user_input == 'y':
+        no_scrape = input('How many matchups? Input integer: ')
+        try:
+            no_matchups_to_do = int(no_scrape)
+            return no_matchups_to_do
+        except ValueError:
+            # Poor input, try again
+            return get_user_input_on_scraping()
+    elif user_input != 'N' or user_input != 'N':
+        # Poor input, try again
+        return get_user_input_on_scraping()
+    else:
+        return None
