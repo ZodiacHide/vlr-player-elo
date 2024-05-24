@@ -31,9 +31,20 @@ def get_team_ct_t_score(team: bs4.element.Tag) -> tuple:
     Returns:
         str: Scorelines for Attack side and Defender side.
     '''
-    t_score = int(team.find_next('span', class_='mod-t').get_text())
-    ct_score = int(team.find_next('span', class_='mod-ct').get_text())
-    score_div = team.find_next('span', class_='mod-ct')
+    try:
+        score_div = team.find_next('span', class_='mod-ct')
+        t_score = int(team.find_next('span', class_='mod-t').get_text())
+        ct_score = int(team.find_next('span', class_='mod-ct').get_text())
+    except:
+        final_score = team.find('div', style='margin-right: 12px;')
+        if final_score != None:
+            ct_score = final_score.get_text()
+            t_score = 0
+        else:
+            final_score = team.find('div', style='margin-left: 8px;')
+            ct_score = final_score.get_text()
+            t_score = 0
+        
     # Check if map went to OT, handle if it didn't
     try:
         ot_score = int(score_div.find_next_sibling('span', class_='mod-ot').get_text())
