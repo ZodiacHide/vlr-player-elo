@@ -79,18 +79,18 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
         # Update file with relevant info
         with open(path, 'a') as infile:
             for i, stats_tuple in enumerate(map_data):
-                infile.write(map_results[int(i)] + ';')
+                infile.write(str(map_results[int(i)]) + ';')
                 for item in stats_tuple:
-                    infile.write(item + ';')
-                infile.write(team_name + ';\n')
+                    infile.write(str(item) + ';')
+                infile.write(str(team_name) + ';\n')
     else:   
         with open(path, 'a') as infile:
             infile.write('map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;\n')
             for i, stats_tuple in enumerate(map_data):
-                infile.write(map_results[int(i)] + ';')
+                infile.write(str(map_results[int(i)]) + ';')
                 for item in stats_tuple:
-                    infile.write(item + ';')
-                infile.write(team_name + ';\n')
+                    infile.write(str(item) + ';')
+                infile.write(str(team_name) + ';\n')
 
 def write_team_data_to_file(team_name: str, players: list, opposing_team: str, 
                             map_name: str, map_pick: str, starting_side: 
@@ -100,38 +100,38 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
     path = f'teams\{team_name}.txt'
     if os.path.exists(path):
         with open(path, 'a') as infile:
-            infile.write(starting_side + ';')
-            infile.write(map_result + ';')
-            infile.write(opposing_team + ';')
-            infile.write(map_name + ';')
-            infile.write(map_pick + ';')
+            infile.write(str(starting_side) + ';')
+            infile.write(str(map_result) + ';')
+            infile.write(str(opposing_team) + ';')
+            infile.write(str(map_name) + ';')
+            infile.write(str(map_pick) + ';')
             for player in players:
-                infile.write(player + ';')
-            infile.write(scoreline + ';')
+                infile.write(str(player) + ';')
+            infile.write(str(scoreline) + ';')
             infile.write(f'{overtime_flag}' + ';')
-            infile.write(match_length + ';')
-            infile.write(date_of_match + ';')
-            infile.write(event_name + ';')
-            infile.write(vod_link + ';'+ '\n')
+            infile.write(str(match_length) + ';')
+            infile.write(str(date_of_match) + ';')
+            infile.write(str(event_name) + ';')
+            infile.write(str(vod_link) + ';'+ '\n')
     else:
         with open(path, 'a') as infile:
             infile.write('starting_side; map_result; opposing_team_name; map_name; map_pick; ' 
                          + 'player1; player2; player3; player4; player5; '
                          + 'scoreline; overtime;'
                          + 'match_length; date_of_match; event_name; vod_link;\n')
-            infile.write(starting_side + ';')
-            infile.write(map_result + ';')
-            infile.write(opposing_team + ';')
-            infile.write(map_name + ';')
-            infile.write(map_pick + ';')
+            infile.write(str(starting_side) + ';')
+            infile.write(str(map_result) + ';')
+            infile.write(str(opposing_team) + ';')
+            infile.write(str(map_name) + ';')
+            infile.write(str(map_pick) + ';')
             for player in players:
-                infile.write(player + ';')
-            infile.write(scoreline + ';')
+                infile.write(str(player) + ';')
+            infile.write(str(scoreline) + ';')
             infile.write(f'{overtime_flag}' + ';')
-            infile.write(match_length + ';')
-            infile.write(date_of_match + ';')
-            infile.write(event_name + ';')
-            infile.write(vod_link + ';'+ '\n')
+            infile.write(str(match_length) + ';')
+            infile.write(str(date_of_match) + ';')
+            infile.write(str(event_name) + ';')
+            infile.write(str(vod_link) + ';'+ '\n')
 
 def invert_match_link_list(filename):
     match_link_array = np.array([])
@@ -142,5 +142,13 @@ def invert_match_link_list(filename):
     # Most recent match played is first
     # Reverse array such that first is the first played
     match_link_array = np.flip(match_link_array)
+    
+    return match_link_array
+
+def text_file_to_array(filename):
+    match_link_array = np.array([])
+    with open(filename, 'r') as infile:
+        for line in infile:
+            match_link_array = np.append(match_link_array, line)
     
     return match_link_array
