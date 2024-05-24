@@ -107,7 +107,7 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
                             map_name: str, map_pick: str, starting_side: 
                             str, map_result: str, scoreline: str, overtime_flag: bool,
                             match_length: str, date_of_match: str, event_name: str,
-                            vod_link):
+                            vod_link) -> None:
     # Check if string contains illegal characters
     # Remove if found
     illegal_file_chars = ['<','>',':','"','/','\\','|','?','*']
@@ -151,7 +151,7 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
             infile.write(str(event_name) + ';')
             infile.write(str(vod_link) + ';'+ '\n')
 
-def invert_match_link_list(filename):
+def invert_match_link_list(filename) -> np.ndarray:
     match_link_array = np.array([])
     with open(filename, 'r') as infile:
         for line in infile:
@@ -163,7 +163,7 @@ def invert_match_link_list(filename):
     
     return match_link_array
 
-def text_file_to_array(filename):
+def text_file_to_array(filename) -> np.ndarray:
     match_link_array = np.array([])
     with open(filename, 'r') as infile:
         for line in infile:
@@ -208,3 +208,38 @@ def choose_match_format(scoreline: str) -> str:
     
     return match_format
 
+def evaluate_map_result(map: dict, flag: bool) -> tuple:
+    if flag:
+        team_first_half = map['scoreline']['first_half']['team_a']
+        team_second_half = map['scoreline']['second_half']['team_a']
+        team_ot = map['scoreline']['overtime']['team_a']
+        team_score = team_first_half + team_second_half + team_ot
+        
+        opposing_first_half = map['scoreline']['first_half']['team_b']
+        opposing_second_half = map['scoreline']['second_half']['team_b']
+        opposing_ot = map['scoreline']['overtime']['team_b']
+        opposing_score = opposing_first_half + opposing_second_half + opposing_ot
+
+        starting_side = map['starting_sides']['team_a']
+        if team_score > opposing_score:
+            map_result = 'W'
+        else:
+            map_result = 'L'
+    else:
+        team_first_half = map['scoreline']['first_half']['team_b']
+        team_second_half = map['scoreline']['second_half']['team_b']
+        team_ot = map['scoreline']['overtime']['team_b']
+        team_score = team_first_half + team_second_half + team_ot
+        
+        opposing_first_half = map['scoreline']['first_half']['team_a']
+        opposing_second_half = map['scoreline']['second_half']['team_a']
+        opposing_ot = map['scoreline']['overtime']['team_a']
+        opposing_score = opposing_first_half + opposing_second_half + opposing_ot
+
+        starting_side = map['starting_sides']['team_b']
+        if team_score > opposing_score:
+            map_result = 'W'
+        else:
+            map_result = 'L'
+
+    return map_result, starting_side, team_score, opposing_score
