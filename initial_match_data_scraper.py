@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import numpy as np
 import os
+import copy
 from data_struct import *
 import match_dict as md
 import team_dict as td
@@ -28,9 +29,9 @@ def fetch_match_data(match_url):
         map_name_element = parsed_content.find_all('div', class_='map')
 
         # Initialise dictionaries
-        matchup = md.matchup
-        A_team_dict = td.team_data
-        B_team_dict = td.team_data
+        matchup = copy.deepcopy(md.matchup)
+        A_team_dict = copy.deepcopy(td.team_data)
+        B_team_dict = copy.deepcopy(td.team_data)
 
         for i, map_element in enumerate(map_name_element):
             current_map = matchup['maps'][i]
@@ -131,10 +132,32 @@ def fetch_match_data(match_url):
                     if not_first_map and player_name == matchup['teams'][k]['players'][n]['player_name']:
                         pass
                     elif not_first_map:
+                        # Check if player exists and which position 
+                        # current player is in set that position to active current player
+                        player_found = False
                         for l, player in enumerate(matchup['teams'][k]['players']):
                             if player['player_name'] == player_name:
                                 current_player = matchup['teams'][k]['players'][l]['matches'][i]
-                    else: 
+                                player_found = True
+                                break
+                        if not player_found:
+                            # Player was not in previous match
+                            # Make new dict, set player name
+                            player_dict = copy.deepcopy(matchup['teams'][k]['players'][n])
+                            player_dict['player_name'] = player_name
+
+                            keys = list(player_dict['matches'][0].keys())
+                            # Set values for previous matches
+                            for m in range(i):
+                                for key in keys:
+                                    player_dict['matches'][m][key] = 0
+                                player_dict['matches'][m]['agent'] = "None"
+
+                            # Append new dict to existing team
+                            matchup['teams'][k]['players'].append(player_dict)
+                            current_player = matchup['teams'][k]['players'][-1]['matches'][i]
+                    elif not not_first_map:
+                        # For first map, set player names 
                         matchup['teams'][k]['players'][n]['player_name'] = player_name
 
                     ## Player Agent
@@ -218,8 +241,11 @@ def fetch_match_data(match_url):
 
         return matchup
 
-match_url = invert_match_link_list('test_urls.txt')
-for matchup_count, url in enumerate(match_url):
+match_urls = text_file_to_array('test_urls.txt')
+for matchup_count, url in enumerate(match_urls):
+    if matchup_count >= 50:
+        exit()
+    print(f"Finished matchup num: {matchup_count}")
     # Initialise values #
     # Data from match played
     matchup_data = fetch_match_data(match_url=url)
@@ -254,6 +280,17 @@ for matchup_count, url in enumerate(match_url):
                                       team_b_name=team_b_name)
 
         for i, map in enumerate(maps):
+            # Check to avoid errors
+            if i+1 > integer_scoreline:
+                continue
+
+            # Check if player played on map
+            map_player_names = []
+            map_player_names = player_names.copy()
+            for player in team['players']:
+                if player['matches'][i]['agent'] == 'None':
+                    map_player_names.remove(player['player_name'])
+
             # Set vod link for map
             vod_link = map['vod_link']
 
@@ -269,7 +306,7 @@ for matchup_count, url in enumerate(match_url):
             # Set map name and picked by
             map_name = map['map_name']
             # If last map, it's a decider
-            if i+1 == integer_scoreline:
+            if i+1 == int(matchup_data['format'][-1]):
                 map_pick = 'Decider'
             else:
                 map_pick = map['picked_by']
@@ -280,11 +317,7 @@ for matchup_count, url in enumerate(match_url):
                 team_is_a = True
             else:
                 opposing_team = team_a_name
-
-            # Check to avoid errors
-            if i+1 > integer_scoreline:
-                continue
-
+            
             # Check for overtime
             if map['scoreline']['overtime']['team_a'] > 0 or map['scoreline']['overtime']['team_b'] > 0:
                 overtime_flag = True
@@ -323,7 +356,7 @@ for matchup_count, url in enumerate(match_url):
                 else:
                     map_result = 'L'
             
-            write_team_data_to_file(team_name=team_name, players=player_names, 
+            write_team_data_to_file(team_name=team_name, players=map_player_names, 
                                     opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
                                     starting_side=starting_side, map_result=map_result, 
                                     scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag,
