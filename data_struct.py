@@ -58,7 +58,7 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
                               ) -> None:
     player_name = player_data['player_name']
     map_count = int(scoreline[0]) + int(scoreline[-1])
-    path = f'players\{player_name}.txt'
+    path = f'players\\{player_name}.txt'
     # Retrieve player data for each map #
     map_data = []
     for i, map in enumerate(player_data['matches']):
@@ -88,14 +88,14 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
 
     if os.path.exists(path):
         # Update file with relevant info
-        with open(path, 'a') as infile:
+        with open(path, 'a', encoding="utf-8") as infile:
             for i, stats_tuple in enumerate(map_data):
                 infile.write(str(map_results[int(i)]) + ';')
                 for item in stats_tuple:
                     infile.write(str(item) + ';')
                 infile.write(str(team_name) + ';\n')
     else:   
-        with open(path, 'a') as infile:
+        with open(path, 'a', encoding="utf-8") as infile:
             infile.write('map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;\n')
             for i, stats_tuple in enumerate(map_data):
                 infile.write(str(map_results[int(i)]) + ';')
@@ -108,9 +108,16 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
                             str, map_result: str, scoreline: str, overtime_flag: bool,
                             match_length: str, date_of_match: str, event_name: str,
                             vod_link):
-    path = f'teams\{team_name}.txt'
+    # Check if string contains illegal characters
+    # Remove if found
+    illegal_file_chars = ['<','>',':','"','/','\\','|','?','*']
+    for char in illegal_file_chars:
+        if char in team_name:
+            team_name = ''.join([string.replace(char,'') for string in team_name])
+
+    path = f'teams\\{team_name}.txt'
     if os.path.exists(path):
-        with open(path, 'a') as infile:
+        with open(path, 'a', encoding="utf-8") as infile:
             infile.write(str(starting_side) + ';')
             infile.write(str(map_result) + ';')
             infile.write(str(opposing_team) + ';')
@@ -125,7 +132,7 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
             infile.write(str(event_name) + ';')
             infile.write(str(vod_link) + ';'+ '\n')
     else:
-        with open(path, 'a') as infile:
+        with open(path, 'a', encoding="utf-8") as infile:
             infile.write('starting_side; map_result; opposing_team_name; map_name; map_pick; ' 
                          + 'player1; player2; player3; player4; player5; '
                          + 'scoreline; overtime;'
@@ -163,3 +170,41 @@ def text_file_to_array(filename):
             match_link_array = np.append(match_link_array, line)
     
     return match_link_array
+
+def choose_match_format(scoreline: str) -> str:
+    team_scores = [int(scoreline[0]), int(scoreline[-1])]
+    scoreline_sum = np.sum(team_scores)
+    match_format = 'bo0'
+    if scoreline_sum >= 13:
+        # Assume bo1 (13-x)
+        match_format = 'bo1'
+    elif scoreline_sum == 1:
+        # Assume bo1 (1-0)
+        match_format = 'bo1'
+    elif scoreline_sum == 2:
+        # Assume bo2 (1-1)
+        match_format = 'bo2'
+        # If either team has 0 points, it's bo3 (2-0)
+        if team_scores[0] == 0 or team_scores[1] == 0:
+            match_format = 'bo3'
+    elif scoreline_sum == 3:
+        # Assume bo3 (2-1)
+        match_format == 'bo3'
+        # If either team has 0 points, it's bo5 (3-0)
+        if team_scores[0] == 0 or team_scores[1] == 0:
+            match_format = 'bo5'
+    elif scoreline_sum == 4:
+        # Assume bo5 (3-1)
+        match_format = 'bo5'
+    elif scoreline_sum == 5:
+        # Assume bo5 (3-2)
+        match_format = 'bo5'
+        # If either team has 0 points, it's bo7 (5-0)
+        if team_scores[0] == 0 or team_scores[1] == 0:
+            match_format = 'bo7'
+    elif scoreline_sum > 5 and scoreline_sum <= 9:
+        # assume bo7 (5-1), (5-2), (5-3), (5-4)
+        match_format = 'bo7'
+    
+    return match_format
+
