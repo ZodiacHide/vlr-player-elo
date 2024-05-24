@@ -243,3 +243,29 @@ def evaluate_map_result(map: dict, flag: bool) -> tuple:
             map_result = 'L'
 
     return map_result, starting_side, team_score, opposing_score
+
+def get_event_name_date_scoreline(parsed_content: bs4.element.Tag) -> tuple:
+    # Event name #
+    match_header_element = parsed_content.find('div', class_="match-header-super")
+    event_element = match_header_element.find_next('div')
+    event_name_raw = event_element.find('div', class_='match-header-event-series').find_previous('div').string
+    event_name = ' '.join(event_name_raw.split())
+
+    # Time of match #
+    match_date_element = match_header_element.find('div', class_='match-header-date')
+    match_date_date_div = match_date_element.find_next('div')
+    match_date_date = ' '.join(match_date_date_div.string.split())
+    match_date_time_div = match_date_date_div.find_next('div')
+    match_date_time = ' '.join(match_date_time_div.string.split())
+    time_of_matchup = ', '.join([match_date_date, match_date_time])
+
+    # Scoreline #
+    scoreline_element = parsed_content.find('div', class_='match-header-vs-score')
+    scoreline_div = scoreline_element.find('div', class_='js-spoiler')
+    scoreline_team_1 = scoreline_div.find_next('span')
+    scoreline_team_1_str = ''.join(scoreline_team_1.string.split())
+    scoreline_team_2 = scoreline_team_1.find_next('span').find_next('span')
+    scoreline_team_2_str = ''.join(scoreline_team_2.string.split())
+    scoreline = ':'.join([scoreline_team_1_str, scoreline_team_2_str])
+
+    return event_name, time_of_matchup, scoreline
