@@ -227,7 +227,7 @@ def fetch_match_data(match_url):
         # Format #
         # Utilise scoreline to find format
         matchup['format'] = choose_match_format(scoreline=scoreline)
-        
+
         # VODs #
         vods_element = parsed_content.find_all('div', class_='match-streams-container')[-1]
         vods_links = vods_element.find_all('a')
@@ -241,7 +241,7 @@ def fetch_match_data(match_url):
             for i in range(len(vods_links)):
                 matchup['maps'][i]['vod_link'] = vods_links[i]
 
-        return matchup
+        return matchup, time_of_matchup, event_name, A_team_name, B_team_name, scoreline
 
 def main():
     match_urls = text_file_to_array('test_urls.txt')
@@ -249,18 +249,10 @@ def main():
         print(f"Finished matchup num: {matchup_count+1}")
         # Initialise values #
         # Data from match played
-        matchup_data = fetch_match_data(match_url=url)
-
-        # Event and start strings
-        date_of_match = matchup_data['matchup_start_time']
-        event_name = matchup_data['event_name']
-
-        # Strings containing team names
-        team_a_name = matchup_data['teams'][0]['team_name']
-        team_b_name = matchup_data['teams'][1]['team_name']
+        (matchup_data, date_of_match, event_name, 
+         team_a_name, team_b_name, scoreline) = fetch_match_data(match_url=url)
         
-        # String containing final scoreline
-        scoreline = matchup_data['final_scoreline']
+        # Integer value containing sum of final scoreline
         integer_scoreline = int(scoreline[0])+int(scoreline[-1])
 
         # List containing dicts of all maps played
@@ -341,38 +333,8 @@ def main():
                     overtime_flag = True
 
                 # Evaluate the result of the map
-                if team_is_a:
-                    team_first_half = map['scoreline']['first_half']['team_a']
-                    team_second_half = map['scoreline']['second_half']['team_a']
-                    team_ot = map['scoreline']['overtime']['team_a']
-                    team_score = team_first_half + team_second_half + team_ot
-                    
-                    opposing_first_half = map['scoreline']['first_half']['team_b']
-                    opposing_second_half = map['scoreline']['second_half']['team_b']
-                    opposing_ot = map['scoreline']['overtime']['team_b']
-                    opposing_score = opposing_first_half + opposing_second_half + opposing_ot
-
-                    starting_side = map['starting_sides']['team_a']
-                    if team_score > opposing_score:
-                        map_result = 'W'
-                    else:
-                        map_result = 'L'
-                else:
-                    team_first_half = map['scoreline']['first_half']['team_b']
-                    team_second_half = map['scoreline']['second_half']['team_b']
-                    team_ot = map['scoreline']['overtime']['team_b']
-                    team_score = team_first_half + team_second_half + team_ot
-                    
-                    opposing_first_half = map['scoreline']['first_half']['team_a']
-                    opposing_second_half = map['scoreline']['second_half']['team_a']
-                    opposing_ot = map['scoreline']['overtime']['team_a']
-                    opposing_score = opposing_first_half + opposing_second_half + opposing_ot
-
-                    starting_side = map['starting_sides']['team_b']
-                    if team_score > opposing_score:
-                        map_result = 'W'
-                    else:
-                        map_result = 'L'
+                (map_result, starting_side, 
+                 team_score, opposing_score) = evaluate_map_result(map, team_is_a)
                 
                 try:
                     write_team_data_to_file(team_name=team_name, players=map_player_names, 
@@ -396,4 +358,4 @@ if __name__=='__main__':
     
     stats = pstats.Stats(pr)
     stats.sort_stats(pstats.SortKey.TIME)
-    stats.print_stats() # Print The Stats
+    # stats.print_stats() # Print The Stats
