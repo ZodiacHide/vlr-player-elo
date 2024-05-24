@@ -33,6 +33,16 @@ def fetch_match_data(match_url):
         A_team_dict = copy.deepcopy(td.team_data)
         B_team_dict = copy.deepcopy(td.team_data)
 
+        if not map_name_element:
+            (time_of_matchup, event_name, 
+             A_team_name, B_team_name, scoreline
+             ) = get_essential_if_not_played(parsed_content=parsed_content)
+
+            matchup['event_name'] = event_name
+            matchup['matchup_start_time'] = time_of_matchup
+            matchup['final_scoreline'] = scoreline
+            return matchup, time_of_matchup, event_name, A_team_name, B_team_name, scoreline
+
         for i, map_element in enumerate(map_name_element):
             current_map = matchup['maps'][i]
 
@@ -198,31 +208,10 @@ def fetch_match_data(match_url):
                             except ValueError:
                                 current_player[stat_names[j-2]] = item_total[:-1]
 
-        # Event name #
-        match_header_element = parsed_content.find('div', class_="match-header-super")
-        event_element = match_header_element.find_next('div')
-        event_name_raw = event_element.find('div', class_='match-header-event-series').find_previous('div').string
-        event_name = ' '.join(event_name_raw.split())
+        event_name, time_of_matchup, scoreline = get_event_name_date_scoreline(parsed_content=parsed_content)
         matchup['event_name'] = event_name
-
-        # Time of match #
-        match_date_element = match_header_element.find('div', class_='match-header-date')
-        match_date_date_div = match_date_element.find_next('div')
-        match_date_date = ' '.join(match_date_date_div.string.split())
-        match_date_time_div = match_date_date_div.find_next('div')
-        match_date_time = ' '.join(match_date_time_div.string.split())
-        time_of_matchup = ', '.join([match_date_date, match_date_time])
         matchup['matchup_start_time'] = time_of_matchup
-
-        # Scoreline #
-        scoreline_element = parsed_content.find('div', class_='match-header-vs-score')
-        scoreline_div = scoreline_element.find('div', class_='js-spoiler')
-        scoreline_team_1 = scoreline_div.find_next('span')
-        scoreline_team_1_str = ''.join(scoreline_team_1.string.split())
-        scoreline_team_2 = scoreline_team_1.find_next('span').find_next('span')
-        scoreline_team_2_str = ''.join(scoreline_team_2.string.split())
-        scoreline = ':'.join([scoreline_team_1_str, scoreline_team_2_str])
-        matchup['final_scoreline'] = scoreline 
+        matchup['final_scoreline'] = scoreline
 
         # Format #
         # Utilise scoreline to find format
@@ -259,7 +248,7 @@ def main():
         maps = matchup_data['maps']
 
         ## Write data to files ##
-        for team in matchup_data['teams']:
+        for team_count, team in enumerate(matchup_data['teams']):
             # List to store player names
             player_names = []
             team_name = team['team_name']
@@ -277,8 +266,30 @@ def main():
                     with open('error.txt', 'a') as infile:
                         infile.write(f"Failed to write player data on line: {matchup_count+1}\n")
 
+            # If the matchup wasn't played #
+            if integer_scoreline == 0:
+                # Fill in empty team names
+                if team_count == 0:
+                    team_name = team_a_name
+                    opposing_team = team_b_name
+                else:
+                    team_name = team_b_name
+                    opposing_team = team_a_name
+                try:
+                    write_team_data_to_file(team_name=team_name, players=player_names, 
+                        opposing_team=opposing_team, map_name='None', map_pick='None',
+                        starting_side='None', map_result='None', 
+                        scoreline=f'{0}:{0}', overtime_flag=False,
+                        match_length='00:00', date_of_match=date_of_match, event_name=event_name, vod_link='None')
+                    continue
+                except:
+                    print(f"Failed to write unplayed team data on line: {matchup_count+1}\n")
+                    with open('error.txt', 'a') as infile:
+                        infile.write(f"Failed to write unplayed team data on line: {matchup_count+1}\n")
+                    continue
+
             for i, map in enumerate(maps):
-                # Check to avoid errors
+                # Check to avoid adding unplayed maps
                 if i+1 > integer_scoreline:
                     continue
                 
@@ -348,7 +359,6 @@ def main():
                         infile.write(f"Failed to write team data on line: {matchup_count+1}\n")
 
 # Profiling #
-
 if __name__=='__main__':
     import cProfile
     import pstats
