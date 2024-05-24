@@ -225,11 +225,9 @@ def fetch_match_data(match_url):
         matchup['final_scoreline'] = scoreline 
 
         # Format #
-        # 2 match-header-vs-notes, last one is format.
-        format_div = scoreline_element.find_all_next('div', class_='match-header-vs-note')[-1]
-        format = ''.join(format_div.string.split())
-        matchup['format'] = format
-
+        # Utilise scoreline to find format
+        matchup['format'] = choose_match_format(scoreline=scoreline)
+        
         # VODs #
         vods_element = parsed_content.find_all('div', class_='match-streams-container')[-1]
         vods_links = vods_element.find_all('a')
@@ -245,141 +243,157 @@ def fetch_match_data(match_url):
 
         return matchup
 
-match_urls = text_file_to_array('match_urls.txt')
-for matchup_count, url in enumerate(match_urls):
-    print(f"Finished matchup num: {matchup_count+1}")
-    # Initialise values #
-    # Data from match played
-    matchup_data = fetch_match_data(match_url=url)
+def main():
+    match_urls = text_file_to_array('test_urls.txt')
+    for matchup_count, url in enumerate(match_urls):
+        print(f"Finished matchup num: {matchup_count+1}")
+        # Initialise values #
+        # Data from match played
+        matchup_data = fetch_match_data(match_url=url)
 
-    # Event and start strings
-    date_of_match = matchup_data['matchup_start_time']
-    event_name = matchup_data['event_name']
+        # Event and start strings
+        date_of_match = matchup_data['matchup_start_time']
+        event_name = matchup_data['event_name']
 
-    # Strings containing team names
-    team_a_name = matchup_data['teams'][0]['team_name']
-    team_b_name = matchup_data['teams'][1]['team_name']
-    
-    # String containing final scoreline
-    scoreline = matchup_data['final_scoreline']
-    integer_scoreline = int(scoreline[0])+int(scoreline[-1])
+        # Strings containing team names
+        team_a_name = matchup_data['teams'][0]['team_name']
+        team_b_name = matchup_data['teams'][1]['team_name']
+        
+        # String containing final scoreline
+        scoreline = matchup_data['final_scoreline']
+        integer_scoreline = int(scoreline[0])+int(scoreline[-1])
 
-    # List containing dicts of all maps played
-    maps = matchup_data['maps']
+        # List containing dicts of all maps played
+        maps = matchup_data['maps']
 
-    ## Write data to files ##
-    for team in matchup_data['teams']:
-        # List to store player names
-        player_names = []
-        team_name = team['team_name']
-        for player in team['players']:
-            # Add player name to list
-            player_names.append(player['player_name'])
+        ## Write data to files ##
+        for team in matchup_data['teams']:
+            # List to store player names
+            player_names = []
+            team_name = team['team_name']
+            for player in team['players']:
+                # Add player name to list
+                player_names.append(player['player_name'])
 
-            # Write player data to file
-            try:
-                write_player_data_to_file(player_data=player, team_name=team_name, maps=maps,
-                                        scoreline=scoreline, team_a_name=team_a_name,
-                                        team_b_name=team_b_name)
-            except:
-                with open('error.txt', 'a') as infile:
+                # Write player data to file
+                try:
+                    write_player_data_to_file(player_data=player, team_name=team_name, maps=maps,
+                                            scoreline=scoreline, team_a_name=team_a_name,
+                                            team_b_name=team_b_name)
+                except:
                     infile.write(f"Failed to write player data on line: {matchup_count+1}\n")
+                    with open('error.txt', 'a') as infile:
+                        infile.write(f"Failed to write player data on line: {matchup_count+1}\n")
 
-        for i, map in enumerate(maps):
-            # Check to avoid errors
-            if i+1 > integer_scoreline:
-                continue
-            
-            map_player_names = []
-            map_player_names = player_names.copy()
-            if map['map_length'] != '-':
-                # Check if player played on map
-                for player in team['players']:
-                    if player['matches'][i]['agent'] == 'None':
-                        map_player_names.remove(player['player_name'])
-            else:
-                for player in team['players']:
-                    try:
-                        player_idx = map_player_names.index(team['players'][-1]['player_name'])
-                        map_player_names.remove(team['players'][-1]['player_name'])
-                    except:
-                        pass
-                    if 5 > len(map_player_names):
-                        map_player_names.insert(player_idx, team['players'][-1]['player_name'])
-                        break
+            for i, map in enumerate(maps):
+                # Check to avoid errors
+                if i+1 > integer_scoreline:
+                    continue
+                
+                map_player_names = []
+                map_player_names = player_names.copy()
+                if map['map_length'] != '-':
+                    # Check if player played on map
+                    for player in team['players']:
+                        if player['matches'][i]['agent'] == 'None':
+                            map_player_names.remove(player['player_name'])
+                else:
+                    for player in team['players']:
+                        try:
+                            player_idx = map_player_names.index(team['players'][-1]['player_name'])
+                            map_player_names.remove(team['players'][-1]['player_name'])
+                        except:
+                            pass
+                        if 5 > len(map_player_names):
+                            map_player_names.insert(player_idx, team['players'][-1]['player_name'])
+                            break
+                        else:
+                            continue
+                # Set vod link for map
+                vod_link = map['vod_link']
+
+                # Flag to know which scoreline is team's
+                team_is_a = False
+
+                # Flag to check for overtime
+                overtime_flag = False
+
+                # Set match time length
+                match_length = map['map_length']
+
+                # Set map name and picked by
+                map_name = map['map_name']
+                # If last map, it's a decider
+                if i+1 == int(matchup_data['format'][-1]):
+                    map_pick = 'Decider'
+                else:
+                    map_pick = map['picked_by']
+
+                # Verify which team is which
+                if team_name == team_a_name:
+                    opposing_team = team_b_name
+                    team_is_a = True
+                else:
+                    opposing_team = team_a_name
+                
+                # Check for overtime
+                if map['scoreline']['overtime']['team_a'] > 0 or map['scoreline']['overtime']['team_b'] > 0:
+                    overtime_flag = True
+
+                # Evaluate the result of the map
+                if team_is_a:
+                    team_first_half = map['scoreline']['first_half']['team_a']
+                    team_second_half = map['scoreline']['second_half']['team_a']
+                    team_ot = map['scoreline']['overtime']['team_a']
+                    team_score = team_first_half + team_second_half + team_ot
+                    
+                    opposing_first_half = map['scoreline']['first_half']['team_b']
+                    opposing_second_half = map['scoreline']['second_half']['team_b']
+                    opposing_ot = map['scoreline']['overtime']['team_b']
+                    opposing_score = opposing_first_half + opposing_second_half + opposing_ot
+
+                    starting_side = map['starting_sides']['team_a']
+                    if team_score > opposing_score:
+                        map_result = 'W'
                     else:
-                        continue
-            # Set vod link for map
-            vod_link = map['vod_link']
-
-            # Flag to know which scoreline is team's
-            team_is_a = False
-
-            # Flag to check for overtime
-            overtime_flag = False
-
-            # Set match time length
-            match_length = map['map_length']
-
-            # Set map name and picked by
-            map_name = map['map_name']
-            # If last map, it's a decider
-            if i+1 == int(matchup_data['format'][-1]):
-                map_pick = 'Decider'
-            else:
-                map_pick = map['picked_by']
-
-            # Verify which team is which
-            if team_name == team_a_name:
-                opposing_team = team_b_name
-                team_is_a = True
-            else:
-                opposing_team = team_a_name
-            
-            # Check for overtime
-            if map['scoreline']['overtime']['team_a'] > 0 or map['scoreline']['overtime']['team_b'] > 0:
-                overtime_flag = True
-
-            # Evaluate the result of the map
-            if team_is_a:
-                team_first_half = map['scoreline']['first_half']['team_a']
-                team_second_half = map['scoreline']['second_half']['team_a']
-                team_ot = map['scoreline']['overtime']['team_a']
-                team_score = team_first_half + team_second_half + team_ot
-                
-                opposing_first_half = map['scoreline']['first_half']['team_b']
-                opposing_second_half = map['scoreline']['second_half']['team_b']
-                opposing_ot = map['scoreline']['overtime']['team_b']
-                opposing_score = opposing_first_half + opposing_second_half + opposing_ot
-
-                starting_side = map['starting_sides']['team_a']
-                if team_score > opposing_score:
-                    map_result = 'W'
+                        map_result = 'L'
                 else:
-                    map_result = 'L'
-            else:
-                team_first_half = map['scoreline']['first_half']['team_b']
-                team_second_half = map['scoreline']['second_half']['team_b']
-                team_ot = map['scoreline']['overtime']['team_b']
-                team_score = team_first_half + team_second_half + team_ot
-                
-                opposing_first_half = map['scoreline']['first_half']['team_a']
-                opposing_second_half = map['scoreline']['second_half']['team_a']
-                opposing_ot = map['scoreline']['overtime']['team_a']
-                opposing_score = opposing_first_half + opposing_second_half + opposing_ot
+                    team_first_half = map['scoreline']['first_half']['team_b']
+                    team_second_half = map['scoreline']['second_half']['team_b']
+                    team_ot = map['scoreline']['overtime']['team_b']
+                    team_score = team_first_half + team_second_half + team_ot
+                    
+                    opposing_first_half = map['scoreline']['first_half']['team_a']
+                    opposing_second_half = map['scoreline']['second_half']['team_a']
+                    opposing_ot = map['scoreline']['overtime']['team_a']
+                    opposing_score = opposing_first_half + opposing_second_half + opposing_ot
 
-                starting_side = map['starting_sides']['team_b']
-                if team_score > opposing_score:
-                    map_result = 'W'
-                else:
-                    map_result = 'L'
-            
-            try:
-                write_team_data_to_file(team_name=team_name, players=map_player_names, 
-                                        opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
-                                        starting_side=starting_side, map_result=map_result, 
-                                        scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag,
-                                        match_length=match_length, date_of_match=date_of_match, event_name=event_name, vod_link=vod_link)
-            except:
-                with open('error.txt', 'a') as infile:
-                    infile.write(f"Failed to write team data on line: {matchup_count+1}\n")
+                    starting_side = map['starting_sides']['team_b']
+                    if team_score > opposing_score:
+                        map_result = 'W'
+                    else:
+                        map_result = 'L'
+                
+                try:
+                    write_team_data_to_file(team_name=team_name, players=map_player_names, 
+                                            opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
+                                            starting_side=starting_side, map_result=map_result, 
+                                            scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag,
+                                            match_length=match_length, date_of_match=date_of_match, event_name=event_name, vod_link=vod_link)
+                except:
+                    print(f"Failed to write team data on line: {matchup_count+1}\n")
+                    with open('error.txt', 'a') as infile:
+                        infile.write(f"Failed to write team data on line: {matchup_count+1}\n")
+
+# Profiling #
+
+if __name__=='__main__':
+    import cProfile
+    import pstats
+
+    with cProfile.Profile() as pr:
+        main()
+    
+    stats = pstats.Stats(pr)
+    stats.sort_stats(pstats.SortKey.TIME)
+    stats.print_stats() # Print The Stats
