@@ -233,9 +233,15 @@ def fetch_match_data(match_url):
         return matchup, time_of_matchup, event_name, A_team_name, B_team_name, scoreline
 
 def main():
-    match_urls = text_file_to_array('test_urls.txt')
+    match_urls = text_file_to_array('match_urls_by_date.txt')
+    no_matchups_to_do = 0
     for matchup_count, url in enumerate(match_urls):
-        print(f"Finished matchup num: {matchup_count+1}")
+        if matchup_count - no_matchups_to_do >= 0:
+            new_no = get_user_input_on_scraping()
+            no_matchups_to_do += new_no
+            if no_matchups_to_do == None:
+                break
+            
         # Initialise values #
         # Data from match played
         (matchup_data, date_of_match, event_name, 
@@ -262,9 +268,9 @@ def main():
                                             scoreline=scoreline, team_a_name=team_a_name,
                                             team_b_name=team_b_name)
                 except:
-                    infile.write(f"Failed to write player data on line: {matchup_count+1}\n")
+                    infile.write(f"Failed to write player on line: {matchup_count+1}, Player: {player['player_name']}, Team: {team_name}\n")
                     with open('error.txt', 'a') as infile:
-                        infile.write(f"Failed to write player data on line: {matchup_count+1}\n")
+                        infile.write(f"Failed to write player on line: {matchup_count+1}, Player: {player['player_name']}, Team: {team_name}\n")
 
             # If the matchup wasn't played #
             if integer_scoreline == 0:
@@ -354,9 +360,11 @@ def main():
                                             scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag,
                                             match_length=match_length, date_of_match=date_of_match, event_name=event_name, vod_link=vod_link)
                 except:
-                    print(f"Failed to write team data on line: {matchup_count+1}\n")
+                    print(f"Failed to write team on line: {matchup_count+1}, Team name: {team_name}, Opposition: {opposing_team} on {map_name}\n")
                     with open('error.txt', 'a') as infile:
-                        infile.write(f"Failed to write team data on line: {matchup_count+1}\n")
+                        infile.write(f"Failed to write team on line: {matchup_count+1}, Team name: {team_name}, Opposition: {opposing_team} on {map_name}\n")
+
+        print(f"Finished matchup num: {matchup_count+1}")        
 
 # Profiling #
 if __name__=='__main__':
@@ -368,4 +376,5 @@ if __name__=='__main__':
     
     stats = pstats.Stats(pr)
     stats.sort_stats(pstats.SortKey.TIME)
-    # stats.print_stats() # Print The Stats
+    stats.print_stats() # Print The Stats
+    stats.dump_stats("stats.prof") # Dump to file
