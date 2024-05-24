@@ -269,3 +269,15 @@ def get_event_name_date_scoreline(parsed_content: bs4.element.Tag) -> tuple:
     scoreline = ':'.join([scoreline_team_1_str, scoreline_team_2_str])
 
     return event_name, time_of_matchup, scoreline
+
+def get_essential_if_not_played(parsed_content: bs4.element.Tag) -> tuple:
+    event_name, time_of_matchup, scoreline = get_event_name_date_scoreline(parsed_content=parsed_content)
+    
+    # Find large left team name #
+    A_team_name = parsed_content.find('div', class_='match-header-link-name mod-1').get_text()
+    A_team_name = ''.join(A_team_name.split())
+
+    # Find large right team name #
+    B_team_name = parsed_content.find('div', class_='match-header-link-name mod-2').get_text()
+    B_team_name = ''.join(B_team_name.split())
+    return time_of_matchup, event_name, A_team_name, B_team_name, scoreline
