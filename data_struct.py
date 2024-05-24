@@ -38,11 +38,11 @@ def get_team_ct_t_score(team: bs4.element.Tag) -> tuple:
     except:
         final_score = team.find('div', style='margin-right: 12px;')
         if final_score != None:
-            ct_score = final_score.get_text()
+            ct_score = int(final_score.get_text())
             t_score = 0
         else:
             final_score = team.find('div', style='margin-left: 8px;')
-            ct_score = final_score.get_text()
+            ct_score = int(final_score.get_text())
             t_score = 0
         
     # Check if map went to OT, handle if it didn't
