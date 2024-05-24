@@ -161,9 +161,13 @@ def fetch_match_data(match_url):
                         matchup['teams'][k]['players'][n]['player_name'] = player_name
 
                     ## Player Agent
-                    player_agent_element = element.find('img')
-                    player_agent_name = player_agent_element['title']
-                    current_player['agent'] = player_agent_name
+                    try:
+                        player_agent_element = element.find('img')
+                        player_agent_name = player_agent_element['title']
+                        current_player['agent'] = player_agent_name
+                    except:
+                        # Handle abnormal datapoints
+                        continue
                     
                     sub_elements = element.find_all('td')
                     for j, item in enumerate(sub_elements):
@@ -241,11 +245,9 @@ def fetch_match_data(match_url):
 
         return matchup
 
-match_urls = text_file_to_array('test_urls.txt')
+match_urls = text_file_to_array('match_urls.txt')
 for matchup_count, url in enumerate(match_urls):
-    if matchup_count >= 50:
-        exit()
-    print(f"Finished matchup num: {matchup_count}")
+    print(f"Finished matchup num: {matchup_count+1}")
     # Initialise values #
     # Data from match played
     matchup_data = fetch_match_data(match_url=url)
@@ -275,22 +277,38 @@ for matchup_count, url in enumerate(match_urls):
             player_names.append(player['player_name'])
 
             # Write player data to file
-            write_player_data_to_file(player_data=player, team_name=team_name, maps=maps,
-                                      scoreline=scoreline, team_a_name=team_a_name,
-                                      team_b_name=team_b_name)
+            try:
+                write_player_data_to_file(player_data=player, team_name=team_name, maps=maps,
+                                        scoreline=scoreline, team_a_name=team_a_name,
+                                        team_b_name=team_b_name)
+            except:
+                with open('error.txt', 'a') as infile:
+                    infile.write(f"Failed to write player data on line: {matchup_count+1}\n")
 
         for i, map in enumerate(maps):
             # Check to avoid errors
             if i+1 > integer_scoreline:
                 continue
-
-            # Check if player played on map
+            
             map_player_names = []
             map_player_names = player_names.copy()
-            for player in team['players']:
-                if player['matches'][i]['agent'] == 'None':
-                    map_player_names.remove(player['player_name'])
-
+            if map['map_length'] != '-':
+                # Check if player played on map
+                for player in team['players']:
+                    if player['matches'][i]['agent'] == 'None':
+                        map_player_names.remove(player['player_name'])
+            else:
+                for player in team['players']:
+                    try:
+                        player_idx = map_player_names.index(team['players'][-1]['player_name'])
+                        map_player_names.remove(team['players'][-1]['player_name'])
+                    except:
+                        pass
+                    if 5 > len(map_player_names):
+                        map_player_names.insert(player_idx, team['players'][-1]['player_name'])
+                        break
+                    else:
+                        continue
             # Set vod link for map
             vod_link = map['vod_link']
 
@@ -356,8 +374,12 @@ for matchup_count, url in enumerate(match_urls):
                 else:
                     map_result = 'L'
             
-            write_team_data_to_file(team_name=team_name, players=map_player_names, 
-                                    opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
-                                    starting_side=starting_side, map_result=map_result, 
-                                    scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag,
-                                    match_length=match_length, date_of_match=date_of_match, event_name=event_name, vod_link=vod_link)
+            try:
+                write_team_data_to_file(team_name=team_name, players=map_player_names, 
+                                        opposing_team=opposing_team, map_name=map_name, map_pick=map_pick,
+                                        starting_side=starting_side, map_result=map_result, 
+                                        scoreline=f'{team_score}:{opposing_score}', overtime_flag=overtime_flag,
+                                        match_length=match_length, date_of_match=date_of_match, event_name=event_name, vod_link=vod_link)
+            except:
+                with open('error.txt', 'a') as infile:
+                    infile.write(f"Failed to write team data on line: {matchup_count+1}\n")
