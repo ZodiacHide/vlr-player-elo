@@ -304,8 +304,8 @@ def get_user_input_on_scraping():
         except ValueError:
             # Poor input, try again
             return get_user_input_on_scraping()
-    elif user_input != 'N' or user_input != 'N':
+    elif user_input == 'N' or user_input == 'n':
+        return None
+    else:
         # Poor input, try again
         return get_user_input_on_scraping()
-    else:
-        return None
