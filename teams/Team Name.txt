@@ -1,0 +1,15 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Time In;Ascent;Team Name;Kellar;ptr;Mendo;BcJ;nvK;15:17;True;1:03:35;Saturday, October 24th, 8:00 PM CEST;Nerd Street Gamers October Monthly;url.net;
+Defense;W;Time In;Haven;Team Name;Kellar;ptr;Mendo;BcJ;nvK;13:4;False;32:08;Saturday, October 24th, 8:00 PM CEST;Nerd Street Gamers October Monthly;url.net;
+Defense;W;Time In;Split;Team Name;Kellar;ptr;Mendo;BcJ;nvK;13:8;False;39:30;Saturday, October 24th, 8:00 PM CEST;Nerd Street Gamers October Monthly;url.net;
+Defense;L;Noble;Bind;Noble;Mendo;ptr;Kellar;BcJ;nvK;6:13;False;38:07;Sunday, October 25th, 1:10 AM CEST;Nerd Street Gamers October Monthly;url.net;
+Attack;W;Noble;Ascent;Noble;Mendo;ptr;Kellar;BcJ;nvK;13:8;False;41:51;Sunday, October 25th, 1:10 AM CEST;Nerd Street Gamers October Monthly;url.net;
+Attack;W;Noble;Haven;Noble;Mendo;ptr;Kellar;BcJ;nvK;13:11;False;42:51;Sunday, October 25th, 1:10 AM CEST;Nerd Street Gamers October Monthly;url.net;
+Attack;L;Renegades;Bind;Team Name;Kellar;Mendo;BcJ;nvK;ptr;10:13;False;44:25;Sunday, October 25th, 6:00 PM CET;Nerd Street Gamers October Monthly;url.net;
+Defense;L;Renegades;Split;Team Name;Kellar;Mendo;BcJ;nvK;ptr;12:14;True;47:08;Sunday, October 25th, 6:00 PM CET;Nerd Street Gamers October Monthly;url.net;
+Attack;L;Renegades;Bind;Team Name;Dcop;freakazoid;nvK;ezpk;tyti;11:13;False;44:24;Saturday, April 17th, 12:00 AM CEST;Champions Tour North America Stage 2: Challengers 2;url.net;
+Defense;L;Renegades;Icebox;Renegades;Dcop;freakazoid;nvK;ezpk;tyti;8:13;False;37:03;Saturday, April 17th, 12:00 AM CEST;Champions Tour North America Stage 2: Challengers 2;url.net;
+Attack;L;Complexity;Split;Decider;Mendo;freakazoid;Dcop;nvK;ezpk;5:13;False;30:01;Tuesday, April 20th, 12:00 AM CEST;Nerd Street Gamers Summer Championship - Open 3;url.net;
+Attack;W;Renegades;Bind;Team Name;ezpk;Dcop;Mendo;freakazoid;nvK;13:9;False;42:51;Tuesday, April 20th, 2:00 AM CEST;Nerd Street Gamers Summer Championship - Open 3;url.net;
+Defense;L;Renegades;Icebox;Renegades;ezpk;Dcop;Mendo;freakazoid;nvK;1:13;False;27:24;Tuesday, April 20th, 2:00 AM CEST;Nerd Street Gamers Summer Championship - Open 3;url.net;
+Attack;L;Renegades;Split;Team Name;ezpk;Dcop;Mendo;freakazoid;nvK;11:13;False;46:41;Tuesday, April 20th, 2:00 AM CEST;Nerd Street Gamers Summer Championship - Open 3;url.net;

@@ -1,0 +1,8 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;GochuGaru;Split;RYU Gaming;NealX;Yohan;Sorewrist;INTD;BrightBlue;10:13;False;49:00;Sunday, July 11th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1083218970?t=3h20m54s;
+Defense;L;GochuGaru;Bind;GochuGaru;NealX;Yohan;Sorewrist;INTD;BrightBlue;7:13;False;40:07;Sunday, July 11th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1083218970?t=3h20m54s;
+Defense;L;DAMWON Gaming;Bind;DAMWON Gaming;Sorewrist;BrightBlue;NealX;INTD;Yohan;2:13;False;34:39;Thursday, July 22nd, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1094348725?t=0h45m49s;
+Attack;L;DAMWON Gaming;Split;RYU Gaming;Sorewrist;BrightBlue;NealX;INTD;Yohan;9:13;False;1:14:43;Thursday, July 22nd, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1094348725?t=0h45m49s;
+Defense;W;Noble Experience;Icebox;RYU Gaming;INTD;BrightBlue;NealX;Yohan;Sorewrist;13:2;False;36:45;Thursday, July 29th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=0h42m10s;
+Defense;L;Noble Experience;Haven;Noble Experience;INTD;BrightBlue;NealX;Yohan;Sorewrist;7:13;False;41:08;Thursday, July 29th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=0h42m10s;
+Defense;L;Noble Experience;Breeze;RYU Gaming;INTD;BrightBlue;NealX;Yohan;Sorewrist;6:13;False;35:43;Thursday, July 29th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=0h42m10s;

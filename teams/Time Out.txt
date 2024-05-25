@@ -1,0 +1,11 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Luminosity;Icebox;Time Out;tyti;jawgemo;Elevate;Bewd;Kurt;8:13;False;36:37;Friday, July 23rd, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 2;url.net;
+Attack;L;Luminosity;Haven;Time Out;tyti;jawgemo;Elevate;Bewd;Kurt;5:13;False;30:45;Friday, July 23rd, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 2;url.net;
+Defense;W;1337;Haven;1337;epathy;Grego;Kurt;Bewd;jawgemo;13:9;False;39:37;Tuesday, August 31st, 12:30 AM CEST;Knights Monthly Gauntlet: August;url.net;
+Defense;W;1337;Bind;1337;epathy;Grego;Kurt;Bewd;jawgemo;13:10;False;43:13;Tuesday, August 31st, 12:30 AM CEST;Knights Monthly Gauntlet: August;url.net;
+Defense;L;Complexity;Icebox;Complexity;jawgemo;epathy;Kurt;Grego;Bewd;2:13;False;27:57;Tuesday, August 31st, 8:00 PM CEST;Knights Monthly Gauntlet: August;url.net;
+Attack;L;Complexity;Haven;Complexity;jawgemo;epathy;Kurt;Grego;Bewd;4:13;False;41:19;Tuesday, August 31st, 8:00 PM CEST;Knights Monthly Gauntlet: August;url.net;
+Defense;W;FLICKBAITERS;Icebox;Decider;jawgemo;Bewd;Kurt;Grego;Drakious;13:9;False;45:06;Monday, September 27th, 10:00 PM CEST;Knights Monthly Gauntlet: September;url.net;
+Defense;L;Squirtle Squad;Icebox;Decider;Kurt;Grego;jawgemo;Bewd;Drakious;6:13;False;37:34;Monday, September 27th, 11:00 PM CEST;Knights Monthly Gauntlet: September;url.net;
+Attack;L;FLICKBAITERS;Icebox;FLICKBAITERS;jawgemo;Grego;Kurt;Bewd;Drakious;7:13;False;37:41;Tuesday, September 28th, 12:00 AM CEST;Knights Monthly Gauntlet: September;url.net;
+Defense;L;FLICKBAITERS;Split;FLICKBAITERS;jawgemo;Grego;Kurt;Bewd;Drakious;5:13;False;29:41;Tuesday, September 28th, 12:00 AM CEST;Knights Monthly Gauntlet: September;url.net;

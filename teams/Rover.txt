@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;aNg DarkHorse;Bind;Decider;SamMa;Fantasy;Felix;seokJ;Rain;6:13;False;33:43;Tuesday, October 20th, 1:15 PM CEST;Clan Battle Act 2;https://www.twitch.tv/videos/776069998?t=2h0m27s;
+Defense;W;BearClaw Gaming;Ascent;BearClaw Gaming;Rain;SamMa;Fantasy;Felix;seokJ;13:3;False;30:46;Sunday, November 15th, 11:45 AM CET;First Strike: Korea;url.net;
+Attack;W;BearClaw Gaming;Split;Rover;Rain;SamMa;Fantasy;Felix;seokJ;13:7;False;37:41;Sunday, November 15th, 11:45 AM CET;First Strike: Korea;url.net;
+Defense;L;T1 Korea;Ascent;T1 Korea;Rain;Fantasy;Felix;SamMa;seokJ;6:13;False;37:50;Sunday, November 22nd, 11:40 AM CET;First Strike: Korea;https://www.twitch.tv/videos/811738421?t=3h2m59s;
+Attack;L;T1 Korea;Haven;Rover;Rain;Fantasy;Felix;SamMa;seokJ;9:13;False;41:34;Sunday, November 22nd, 11:40 AM CET;First Strike: Korea;https://www.twitch.tv/videos/811738421?t=3h2m59s;

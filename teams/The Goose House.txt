@@ -1,0 +1,15 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;TENSTAR;Split;Decider;euanval;Viscern;Matik;HulkzteN;chanformer;5:13;False;40:35;Monday, June 7th, 10:00 PM CEST;VALORANT UK & I Skirmish;https://www.twitch.tv/videos/1048823823?t=02h54m44s;
+Defense;L;AREA;Split;Decider;HulkzteN;Matik;chanformer;euanval;Viscern;5:13;False;38:23;Wednesday, June 9th, 8:00 PM CEST;VALORANT UK & I Skirmish;https://www.twitch.tv/videos/1050884039?t=01h52m17s;
+Defense;L;Rix.GG Thunder;Ascent;Decider;Matik;Viscern;kaps;euanval;HulkzteN;8:13;False;42:23;Saturday, June 12th, 10:00 PM CEST;VALORANT UK & I Skirmish;https://www.twitch.tv/videos/1054054245?t=04h08m53s;
+Defense;L;TENSTAR;Haven;Decider;chanformer;Matik;HulkzteN;Viscern;euanval;7:13;False;40:04;Sunday, June 13th, 10:00 PM CEST;VALORANT UK & I Skirmish;https://www.twitch.tv/videos/1055075695?t=04h03m02s;
+Defense;L;AREA;Haven;Decider;euanval;Viscern;Matik;HulkzteN;chanformer;1:13;False;30:17;Wednesday, June 16th, 7:00 PM CEST;VALORANT UK & I Skirmish;https://www.twitch.tv/videos/1058051378?t=01h00m12s;
+Defense;W;Rix.GG Thunder;Breeze;Decider;chanformer;Matik;Viscern;HulkzteN;euanval;13:10;False;43:22;Thursday, June 17th, 7:00 PM CEST;VALORANT UK & I Skirmish;https://www.twitch.tv/videos/1059089063?t=00h48m21s;
+Defense;L;Bifrost;Ascent;Bifrost;chanformer;ReQz;Peter;truk;Dev0;15:17;True;1:04:30;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;
+Attack;W;Bifrost;Bind;Bifrost;chanformer;ReQz;Peter;truk;Dev0;13:3;False;30:03;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;
+Attack;W;Bifrost;Haven;Bifrost;chanformer;ReQz;Peter;truk;Dev0;13:11;False;49:58;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;
+Attack;L;eSuba;Bind;eSuba;Dev0;truk;ReQz;chanformer;Peter;6:13;False;36:12;Thursday, August 26th, 8:20 PM CEST;LVP Rising Series #3;url.net;
+Defense;W;eSuba;Ascent;eSuba;Dev0;truk;ReQz;chanformer;Peter;13:11;False;50:09;Thursday, August 26th, 8:20 PM CEST;LVP Rising Series #3;url.net;
+Defense;L;eSuba;Haven;eSuba;Dev0;truk;ReQz;chanformer;Peter;6:13;False;34:15;Thursday, August 26th, 8:20 PM CEST;LVP Rising Series #3;url.net;
+Defense;L;Reject$;Split;The Goose House;ReQz;Peter;Dev0;chanformer;truk;9:13;False;43:48;Sunday, August 29th, 1:15 PM CEST;Rix.GG Open August;url.net;
+Attack;L;Reject$;Ascent;The Goose House;ReQz;Peter;Dev0;chanformer;truk;7:13;False;35:27;Sunday, August 29th, 1:15 PM CEST;Rix.GG Open August;url.net;

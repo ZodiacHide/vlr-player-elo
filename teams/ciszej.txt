@@ -1,0 +1,16 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Fordon Boars;Haven;ciszej;jas;maniek;憤怒11111;pociong;g0rdie;13:5;False;31:38;Wednesday, September 2nd, 6:00 PM CEST;Polish Open #FRAMESWINGAMES;https://www.twitch.tv/videos/729059868?t=2h12m36s;
+Attack;W;Fordon Boars;Ascent;ciszej;jas;maniek;憤怒11111;pociong;g0rdie;13:7;False;37:33;Wednesday, September 2nd, 6:00 PM CEST;Polish Open #FRAMESWINGAMES;https://www.twitch.tv/videos/729059868?t=2h12m36s;
+Attack;L;THOSE GUYS;Ascent;ciszej;pociong;jas;maniek;憤怒11111;g0rdie;10:13;False;46:20;Thursday, September 3rd, 5:15 PM CEST;Polish Open #FRAMESWINGAMES;https://www.twitch.tv/videos/730097987?t=0h9m33s;
+Defense;W;THOSE GUYS;Haven;ciszej;pociong;jas;maniek;憤怒11111;g0rdie;13:8;False;36:24;Thursday, September 3rd, 5:15 PM CEST;Polish Open #FRAMESWINGAMES;https://www.twitch.tv/videos/730097987?t=0h9m33s;
+Attack;L;THOSE GUYS;Split;ciszej;pociong;jas;maniek;憤怒11111;g0rdie;5:13;False;34:33;Thursday, September 3rd, 5:15 PM CEST;Polish Open #FRAMESWINGAMES;https://www.twitch.tv/videos/730097987?t=0h9m33s;
+Defense;W;Project D;Haven;Project D;jas;pociong;maniek;g0rdie;憤怒11111;13:4;False;30:06;Thursday, September 3rd, 9:30 PM CEST;Polish Open #FRAMESWINGAMES;url.net;
+Attack;W;Project D;Ascent;Project D;jas;pociong;maniek;g0rdie;憤怒11111;13:5;False;33:39;Thursday, September 3rd, 9:30 PM CEST;Polish Open #FRAMESWINGAMES;url.net;
+Defense;W;BRACIA;Haven;BRACIA;maniek;jas;pociong;g0rdie;michi;13:10;False;41:53;Friday, January 29th, 9:00 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/892626327?t=4h50m35s;
+Attack;W;BRACIA;Ascent;BRACIA;maniek;jas;pociong;g0rdie;michi;13:4;False;28:45;Friday, January 29th, 9:00 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/892626327?t=4h50m35s;
+Defense;W;Ballista;Split;Ballista;maniek;pociong;g0rdie;jas;michi;13:11;False;48:50;Saturday, January 30th, 7:15 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/893953323?t=5h20m29s;
+Defense;W;Ballista;Ascent;Ballista;maniek;pociong;g0rdie;jas;michi;13:6;False;38:19;Saturday, January 30th, 7:15 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/893953323?t=5h20m29s;
+Defense;W;Pit Stop;Split;ciszej;jas;g0rdie;pociong;maniek;michi;13:11;False;51:34;Sunday, January 31st, 5:00 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/895538804?t=0h16m37s;
+Attack;L;Pit Stop;Haven;ciszej;jas;g0rdie;pociong;maniek;michi;5:13;False;36:28;Sunday, January 31st, 5:00 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/895538804?t=0h16m37s;
+Defense;L;Pit Stop;Icebox;ciszej;jas;g0rdie;pociong;maniek;michi;6:13;False;38:32;Sunday, January 31st, 5:00 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/895538804?t=0h16m37s;
+Defense;L;Pit Stop;Ascent;ciszej;jas;g0rdie;pociong;maniek;michi;10:13;False;50:17;Sunday, January 31st, 5:00 PM CET;Beloud Cup #1;https://www.twitch.tv/videos/895538804?t=0h16m37s;

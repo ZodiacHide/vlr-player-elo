@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;The Ultimates;TBD;The Ultimates;Near;havoK;xelouz;cheK;breAker;0:0;False;-;Wednesday, November 25th, 5:00 PM CET;First Strike: MENA;https://www.twitch.tv/videos/815290487?t=0h42m51s;
+Defense;W;The Ultimates;Haven;The Ultimates;Near;havoK;xelouz;cheK;breAker;16:14;True;1:02:31;Wednesday, November 25th, 5:00 PM CET;First Strike: MENA;https://www.twitch.tv/videos/815290487?t=0h42m51s;
+Defense;W;The Ultimates;Split;RvN;Near;havoK;xelouz;cheK;breAker;13:9;False;44:52;Wednesday, November 25th, 5:00 PM CET;First Strike: MENA;https://www.twitch.tv/videos/815290487?t=0h42m51s;

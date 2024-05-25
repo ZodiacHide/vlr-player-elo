@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Lankräm;Haven;Lankräm;jenyagod;basicb0y;RARE;Orange;InFernal;8:13;False;38:39;Saturday, November 14th, 4:00 PM CET;First Strike: CIS;url.net;
+Attack;L;Lankräm;Ascent;Lankräm;jenyagod;basicb0y;RARE;Orange;InFernal;5:13;False;32:15;Saturday, November 14th, 4:00 PM CET;First Strike: CIS;url.net;
+Defense;L;aspyxia;Ascent;aspyxia;InFernal;Orange;RARE;basicb0y;jenyagod;10:13;False;46:27;Saturday, November 21st, 4:00 PM CET;First Strike: CIS;https://www.twitch.tv/videos/810710660?t=00h21m23s;
+Attack;L;aspyxia;Bind;aspyxia;InFernal;Orange;RARE;basicb0y;jenyagod;1:13;False;25:03;Saturday, November 21st, 4:00 PM CET;First Strike: CIS;https://www.twitch.tv/videos/810710660?t=00h21m23s;

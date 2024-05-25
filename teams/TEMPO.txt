@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Pit Stop;Haven;TEMPO;demek;kaajak;hazgi;Lajsky;NeFi;11:13;False;46:52;Sunday, February 28th, 5:15 PM CET;Beloud Cup #2;https://www.twitch.tv/videos/931839118?t=0h45m44s;
+Attack;L;Pit Stop;Icebox;TEMPO;demek;kaajak;hazgi;Lajsky;NeFi;6:13;False;38:22;Sunday, February 28th, 5:15 PM CET;Beloud Cup #2;https://www.twitch.tv/videos/931839118?t=0h45m44s;
+Attack;L;Pit Stop;Ascent;TEMPO;demek;kaajak;hazgi;Lajsky;NeFi;3:13;False;30:31;Sunday, February 28th, 5:15 PM CET;Beloud Cup #2;https://www.twitch.tv/videos/931839118?t=0h45m44s;
+Defense;L;G2 Esports;Ascent;G2 Esports;Lajsky;kaajak;hazgi;demek;NeFi;6:13;False;-;Saturday, April 10th, 7:15 PM CEST;Champions Tour Europe Stage 2: Challengers 2;https://www.twitch.tv/videos/982511334?t=01h40m39s;
+Attack;L;G2 Esports;Split;G2 Esports;Lajsky;kaajak;hazgi;demek;NeFi;1:13;False;23:43;Saturday, April 10th, 7:15 PM CEST;Champions Tour Europe Stage 2: Challengers 2;https://www.twitch.tv/videos/982511334?t=01h40m39s;

@@ -1,0 +1,14 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;PartyParrots;Bind;PartyParrots;Seba;FOOLZZ;Woozy;Tiimie;Nenwin;9:13;False;-;Friday, May 22nd, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;W;PartyParrots;Haven;PartyParrots;Seba;FOOLZZ;Woozy;Tiimie;Nenwin;13:10;False;-;Friday, May 22nd, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;PartyParrots;Split;PartyParrots;Seba;FOOLZZ;Woozy;Tiimie;Nenwin;4:13;False;-;Friday, May 22nd, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;Ferrari Peek;Ascent;Team Spectralis;Seba;FOOLZZ;Woozy;Tiimie;Nenwin;7:13;False;-;Friday, June 19th, 8:23 PM CEST;Absolute Masters;url.net;
+Attack;L;Ferrari Peek;Bind;Team Spectralis;Seba;FOOLZZ;Woozy;Tiimie;Nenwin;4:13;False;-;Friday, June 19th, 8:23 PM CEST;Absolute Masters;url.net;
+Attack;L;Team Toxic;Haven;Decider;Patix;WANHEDA;saveeey;Seba;Limix;11:13;False;44:25;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;
+Attack;W;Team Gravity;Ascent;Team Gravity;WANHEDA;Patix;Woozy;Seba;Grmekista;13:10;False;41:58;Saturday, January 16th, 7:00 PM CET;LVP Rising Series #1;url.net;
+Defense;L;Team Gravity;Haven;Team Gravity;WANHEDA;Patix;Woozy;Seba;Grmekista;14:16;True;54:35;Saturday, January 16th, 7:00 PM CET;LVP Rising Series #1;url.net;
+Defense;W;Team Gravity;Bind;Team Gravity;WANHEDA;Patix;Woozy;Seba;Grmekista;14:12;True;51:33;Saturday, January 16th, 7:00 PM CET;LVP Rising Series #1;url.net;
+Defense;L;iPon Esport;Ascent;Decider;WANHEDA;Woozy;Seba;Patix;Grmekista;6:13;False;44:02;Tuesday, January 19th, 8:00 PM CET;VERSUS LEGENDS;url.net;
+Attack;L;Finest;Bind;Decider;Grmekista;WANHEDA;Patix;Woozy;Seba;11:13;False;44:09;Tuesday, January 19th, 10:00 PM CET;VERSUS LEGENDS;url.net;
+Defense;L;Finest;Ascent;Decider;WANHEDA;Woozy;Grmekista;Patix;Seba;5:13;False;37:00;Wednesday, January 20th, 8:00 PM CET;VERSUS LEGENDS;url.net;
+Attack;L;iPon Esport;Split;Decider;WANHEDA;Seba;Grmekista;Woozy;Patix;5:13;False;33:24;Wednesday, January 20th, 10:00 PM CET;VERSUS LEGENDS;url.net;

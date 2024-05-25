@@ -1,0 +1,15 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;French Frogs;Haven;Decider;Rip;Turko;pAura;m1tez;qRaxs;13:12;True;-;Thursday, June 4th, 6:00 PM CEST;CLUTCH BATTLES LAIR.GG;url.net;
+Defense;W;LOL;Split;Decider;Rip;Turko;pAura;m1tez;qRaxs;13:8;False;-;Thursday, June 4th, 7:00 PM CEST;CLUTCH BATTLES LAIR.GG;url.net;
+Attack;W;Purple Cobras;Bind;Purple Cobras;Rip;Turko;pAura;m1tez;qRaxs;13:9;False;-;Thursday, June 4th, 8:00 PM CEST;CLUTCH BATTLES LAIR.GG;url.net;
+Defense;L;Purple Cobras;Haven;Purple Cobras;Rip;Turko;pAura;m1tez;qRaxs;11:13;False;-;Thursday, June 4th, 8:00 PM CEST;CLUTCH BATTLES LAIR.GG;url.net;
+Attack;L;Purple Cobras;Split;Purple Cobras;Rip;Turko;pAura;m1tez;qRaxs;11:13;False;-;Thursday, June 4th, 8:00 PM CEST;CLUTCH BATTLES LAIR.GG;url.net;
+Defense;W;Worst Players;Haven;Decider;m1tez;Rip;qRaxs;Turko;pAura;13:12;True;-;Monday, June 22nd, 8:00 PM CEST;Take the Throne;https://www.twitch.tv/videos/658330784?t=0h21m42s;
+Attack;L;HypHypHyp;Ascent;Team Turkey;pAura;qRaxs;m1tez;Rip;Turko;8:13;False;-;Monday, June 22nd, 9:00 PM CEST;Take the Throne;url.net;
+Attack;L;HypHypHyp;Bind;Team Turkey;pAura;qRaxs;m1tez;Rip;Turko;4:13;False;-;Monday, June 22nd, 9:00 PM CEST;Take the Throne;url.net;
+Defense;L;Team France;Bind;Decider;Maiko;woxic;mini;Rip;rogu;11:13;False;47:44;Sunday, September 13th, 5:30 PM CEST;BLAST Twitch Invitational;https://www.twitch.tv/videos/739860149?t=4h4m56s;
+Defense;W;Team Spain;Haven;Decider;legoo;wtcN;kero;Rip;rogu;13:11;False;48:36;Friday, November 6th, 11:30 AM CET;BLAST Spike Nations;url.net;
+Defense;W;Team France;Ascent;Decider;Rip;kero;rogu;wtcN;legoo;13:6;False;43:12;Friday, November 6th, 1:30 PM CET;BLAST Spike Nations;url.net;
+Defense;W;Team Italy;Haven;Decider;kero;Rip;legoo;wtcN;rogu;13:8;False;34:40;Friday, November 6th, 7:00 PM CET;BLAST Spike Nations;url.net;
+Defense;W;Team Poland;Haven;Decider;kero;legoo;rogu;Rip;wtcN;13:7;False;33:01;Saturday, November 7th, 12:00 PM CET;BLAST Spike Nations;https://www.twitch.tv/videos/794744074?t=1h39m1s;
+Attack;L;Team UK;Haven;Decider;kero;Rip;legoo;rogu;wtcN;10:13;False;45:55;Sunday, November 8th, 3:30 PM CET;BLAST Spike Nations;https://www.twitch.tv/videos/795907438?t=5h7m39s;

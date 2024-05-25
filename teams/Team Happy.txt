@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Team ScreaM;Ascent;Decider;Happy;RickRAGE;XPFyXtoN;Yukie;F1cube;0:13;False;21:55;Saturday, December 12th, 4:30 PM CET;Swisscom Gaming Cup;url.net;
+Attack;L;Team gob b;Bind;Team Happy;Happy;F1cube;XPFyXtoN;RickRAGE;Yukie;2:13;False;24:51;Saturday, December 12th, 5:30 PM CET;Swisscom Gaming Cup;url.net;
+Defense;L;Team gob b;Split;Team Happy;Happy;F1cube;XPFyXtoN;RickRAGE;Yukie;3:13;False;26:58;Saturday, December 12th, 5:30 PM CET;Swisscom Gaming Cup;url.net;

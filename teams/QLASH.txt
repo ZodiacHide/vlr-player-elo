@@ -1,0 +1,10 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;VETERANOS e-Sports;Split;Decider;littlesataN1;Vinice;Star;Laks;Maik;13:8;False;43:16;Tuesday, October 27th, 5:00 PM CET;NGL Open Cup;url.net;
+Defense;W;S2V Esports;Split;Decider;Laks;Maik;Star;Vinice;littlesataN1;13:8;False;43:09;Tuesday, October 27th, 6:50 PM CET;NGL Open Cup;url.net;
+Defense;L;Gambit Esports;Ascent;Decider;Laks;Star;Maik;littlesataN1;Vinice;5:13;False;30:37;Tuesday, October 27th, 9:00 PM CET;NGL Open Cup;url.net;
+Defense;W;S2V Esports;Bind;Decider;YuRk0;littlesataN1;Star;Vinice;Laks;13:4;False;32:05;Wednesday, November 4th, 7:00 PM CET;LVP Genesis Cup Visión;https://www.twitch.tv/videos/791774954?t=1h37m28s;
+Defense;L;eXiLe eSports;Haven;Decider;Vinice;Maik;Laks;Star;littlesataN1;10:13;False;41:52;Wednesday, November 4th, 7:50 PM CET;LVP Genesis Cup Visión;https://www.twitch.tv/videos/791774954?t=2h35m59s;
+Attack;L;S2V Esports;Ascent;Decider;Laks;Vinice;Maik;Star;littlesataN1;3:13;False;31:26;Wednesday, November 4th, 9:45 PM CET;LVP Genesis Cup Visión;https://www.twitch.tv/videos/791774954?t=4h36m25s;
+Attack;L;Prodigy;Ascent;Decider;Vinice;Laks;Star;littlesataN1;Maik;4:13;False;37:02;Monday, November 16th, 7:00 PM CET;First Strike: Europe;url.net;
+Attack;L;Team Queso;Haven;Decider;NaOw;xikii;LouZ;YuRk0;famsek;13:15;True;51:14;Sunday, November 29th, 7:15 PM CET;LVP Genesis Cup Radiants;https://www.twitch.tv/videos/819855488?t=01h56m49s;
+Attack;L;ex-Giants Gaming;Split;Decider;LouZ;NaOw;YuRk0;famsek;xikii;4:13;False;28:55;Sunday, November 29th, 9:15 PM CET;LVP Genesis Cup Radiants;https://www.twitch.tv/videos/819855488?t=04h03m21s;

@@ -1,0 +1,14 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;MAXD Esports;Bind;Team Arrow;gothchild;Protagonist;DarKkKy;BUTTSAHAB;MSK;13:4;False;31:46;Wednesday, May 5th, 6:00 PM CEST;Jazba Pro Invitational #7;url.net;
+Attack;W;MAXD Esports;Ascent;Team Arrow;gothchild;Protagonist;DarKkKy;BUTTSAHAB;MSK;13:10;False;39:59;Wednesday, May 5th, 6:00 PM CEST;Jazba Pro Invitational #7;url.net;
+Defense;W;Namak Boys;Bind;Team Arrow;Protagonist;BUTTSAHAB;gothchild;MSK;DarKkKy;13:3;False;24:55;Saturday, July 17th, 9:30 PM CEST;Valorant Conquerors Championship;url.net;
+Attack;W;Namak Boys;Haven;Team Arrow;Protagonist;BUTTSAHAB;gothchild;MSK;DarKkKy;13:4;False;24:55;Saturday, July 17th, 9:30 PM CEST;Valorant Conquerors Championship;url.net;
+Defense;L;Salt Esports;Bind;Team Arrow;BUTTSAHAB;gothchild;MSK;Protagonist;DarKkKy;7:13;False;35:45;Sunday, July 18th, 6:00 PM CEST;Valorant Conquerors Championship;https://youtu.be/l6Ps4ey6csg?t=1911;
+Defense;L;Salt Esports;Ascent;Team Arrow;BUTTSAHAB;gothchild;MSK;Protagonist;DarKkKy;6:13;False;35:46;Sunday, July 18th, 6:00 PM CEST;Valorant Conquerors Championship;https://youtu.be/l6Ps4ey6csg?t=1911;
+Attack;W;Salt Esports;Breeze;Team Arrow;BUTTSAHAB;gothchild;MSK;Protagonist;DarKkKy;13:4;False;29:55;Sunday, July 18th, 6:00 PM CEST;Valorant Conquerors Championship;https://youtu.be/l6Ps4ey6csg?t=1911;
+Defense;L;Salt Esports;Split;Team Arrow;BUTTSAHAB;gothchild;MSK;Protagonist;DarKkKy;5:13;False;37:34;Sunday, July 18th, 6:00 PM CEST;Valorant Conquerors Championship;https://youtu.be/l6Ps4ey6csg?t=1911;
+Attack;L;Team Exploit;Breeze;Team Arrow;Protagonist;gothchild;Jivix;DarKkKy;MSK;8:13;False;37:54;Thursday, August 5th, 3:00 PM CEST;Valorant Conquerors Championship;url.net;
+Defense;L;Team Exploit;Split;Team Arrow;Protagonist;gothchild;Jivix;DarKkKy;MSK;9:13;False;41:02;Thursday, August 5th, 3:00 PM CEST;Valorant Conquerors Championship;url.net;
+Attack;L;Team Exploit;Icebox;Team Arrow;Protagonist;gothchild;Jivix;DarKkKy;MSK;6:13;False;39:05;Thursday, August 5th, 3:00 PM CEST;Valorant Conquerors Championship;url.net;
+Attack;W;Lexious Gaming;Haven;Lexious Gaming;DarKkKy;gothchild;Protagonist;MSK;BUTTSAHAB;13:5;False;34:56;Tuesday, August 10th, 2:30 PM CEST;Valorant Conquerors Championship;url.net;
+Defense;W;Lexious Gaming;Bind;Lexious Gaming;DarKkKy;gothchild;Protagonist;MSK;BUTTSAHAB;13:11;False;40:40;Tuesday, August 10th, 2:30 PM CEST;Valorant Conquerors Championship;url.net;

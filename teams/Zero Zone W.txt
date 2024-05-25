@@ -1,0 +1,3 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;SMARACIS eSports Female;Bind;Zero Zone W;Kleisy;Liz;LitsePoine;dociless;Destina;17:19;True;1:16:57;Thursday, September 30th, 7:00 PM CEST;Champions Tour Game Changers Series I: EMEA;url.net;
+Attack;L;SMARACIS eSports Female;Haven;Zero Zone W;Kleisy;Liz;LitsePoine;dociless;Destina;7:13;False;37:38;Thursday, September 30th, 7:00 PM CEST;Champions Tour Game Changers Series I: EMEA;url.net;

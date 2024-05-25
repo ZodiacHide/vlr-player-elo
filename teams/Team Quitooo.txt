@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Shawty Gamin';Bind;Shawty Gamin';mana;KENZYY;ELMSTxD;Nymach;Quitoooo;11:13;False;-;Saturday, July 18th, 1:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=0h27m52s;
+Attack;W;Shawty Gamin';Haven;Shawty Gamin';mana;KENZYY;ELMSTxD;Nymach;Quitoooo;13:11;False;-;Saturday, July 18th, 1:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=1h24m40s;
+Defense;W;Shawty Gamin';Ascent;Shawty Gamin';mana;KENZYY;ELMSTxD;Nymach;Quitoooo;13:5;False;-;Saturday, July 18th, 1:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=2h24m29s;
+Attack;L;Team123;Haven;Team123;mana;Quitoooo;KENZYY;ELMSTxD;Nymach;4:13;False;-;Saturday, July 18th, 7:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=4h52m7s;
+Defense;L;Team123;Split;Team123;mana;Quitoooo;KENZYY;ELMSTxD;Nymach;5:13;False;-;Saturday, July 18th, 7:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=5h34m1s;

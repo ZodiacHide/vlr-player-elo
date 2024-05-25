@@ -1,0 +1,17 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Team123;Haven;Team123;MALFOy;Mizzz;Wan;ri4d;nio;6:13;False;-;Saturday, July 18th, 4:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=3h16m55s;
+Attack;L;Team123;Ascent;Team123;MALFOy;Mizzz;Wan;ri4d;nio;5:13;False;-;Saturday, July 18th, 4:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=4h2m4s;
+Attack;W;Blitz;Split;Decider;Nara;jovahnii;psh;foreplay;xeboda;13:8;False;39:01;Tuesday, October 6th, 9:15 PM CEST;Allied Esports Strafe Series #2;url.net;
+None;None;DogPound;None;None;Player A1;Player A2;Player A3;Player A4;Player A5;0:0;False;00:00;Tuesday, October 6th, 10:25 PM CEST;Allied Esports Strafe Series #2;None;
+Attack;L;Serenity;Bind;Decider;foreplay;psh;xeboda;jovahnii;Nara;10:13;False;45:51;Tuesday, October 6th, 11:25 PM CEST;Allied Esports Strafe Series #2;url.net;
+Defense;L;Vision Strikers;Icebox;Unknown;INTER;GODLIKE;Moothie;RyZzi;LuZ;4:13;False;35:59;Saturday, July 3rd, 10:30 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1075213738?t=3h6m43s;
+Defense;L;Vision Strikers;Haven;Vision Strikers;INTER;GODLIKE;Moothie;RyZzi;LuZ;8:13;False;45:19;Saturday, July 3rd, 10:30 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1075213738?t=3h6m43s;
+Defense;L;F4Q;Ascent;F4Q;RyZzi;LuZ;Moothie;GODLIKE;INTER;2:13;False;32:55;Saturday, July 10th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1082250205?t=3h19m12s;
+Attack;L;F4Q;Haven;Unknown;RyZzi;LuZ;Moothie;GODLIKE;INTER;4:13;False;32:40;Saturday, July 10th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1082250205?t=3h19m12s;
+Defense;W;World Game Star;Haven;Unknown;GODLIKE;INTER;Moothie;LuZ;RyZzi;13:7;False;40:42;Friday, July 23rd, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1095377857?t=0h42m9s;
+Defense;W;World Game Star;Ascent;World Game Star;GODLIKE;INTER;Moothie;LuZ;RyZzi;13:6;False;38:11;Friday, July 23rd, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1095377857?t=0h42m9s;
+Defense;L;Vision Strikers;Split;Vision Strikers;GODLIKE;Moothie;RyZzi;LuZ;INTER;7:13;False;51:03;Sunday, July 25th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1097413856?t=0h28m56s;
+Defense;L;Vision Strikers;Haven;Unknown;GODLIKE;Moothie;RyZzi;LuZ;INTER;6:13;False;34:46;Sunday, July 25th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1097413856?t=0h28m56s;
+Defense;W;World Game Star;Breeze;Unknown;LuZ;GODLIKE;RyZzi;Moothie;INTER;13:9;False;40:37;Sunday, August 1st, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1104596916?t=0h43m13s;
+Defense;L;World Game Star;Haven;World Game Star;LuZ;GODLIKE;RyZzi;Moothie;INTER;12:14;True;55:21;Sunday, August 1st, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1104596916?t=0h43m13s;
+Defense;L;World Game Star;Bind;World Game Star;LuZ;GODLIKE;RyZzi;Moothie;INTER;8:13;False;43:17;Sunday, August 1st, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1104596916?t=0h43m13s;

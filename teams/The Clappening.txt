@@ -1,0 +1,7 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Cloud9 White;Ascent;The Clappening;DFOX;retra;PureVNS;sideSWIPE;Jovi;17:19;True;1:15:08;Friday, November 13th, 9:15 PM CET;First Strike: North America;https://www.twitch.tv/videos/801793897?t=0h19m17s;
+Defense;W;Cloud9 White;Bind;Cloud9 White;DFOX;retra;PureVNS;sideSWIPE;Jovi;13:11;False;49:03;Friday, November 13th, 9:15 PM CET;First Strike: North America;https://www.twitch.tv/videos/801793897?t=0h19m17s;
+Defense;W;Cloud9 White;Split;The Clappening;DFOX;retra;PureVNS;sideSWIPE;Jovi;13:3;False;28:45;Friday, November 13th, 9:15 PM CET;First Strike: North America;https://www.twitch.tv/videos/801793897?t=0h19m17s;
+Defense;W;Kudos;Ascent;The Clappening;sideSWIPE;retra;Jovi;DFOX;PureVNS;16:14;True;57:25;Saturday, November 14th, 12:30 AM CET;First Strike: North America;url.net;
+Defense;L;Kudos;Haven;The Clappening;sideSWIPE;retra;Jovi;DFOX;PureVNS;4:13;False;28:26;Saturday, November 14th, 12:30 AM CET;First Strike: North America;url.net;
+Defense;L;Kudos;Bind;The Clappening;sideSWIPE;retra;Jovi;DFOX;PureVNS;6:13;False;33:21;Saturday, November 14th, 12:30 AM CET;First Strike: North America;url.net;

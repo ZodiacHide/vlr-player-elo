@@ -1,0 +1,7 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Kaizen Esports;Haven;Rainbow7;dRACULA;fykaN;0ng0wa;Niwde;sun;9:13;False;38:09;Tuesday, September 15th, 11:00 PM CEST;GGTech Invitational 2 LA-N;https://www.twitch.tv/videos/742092144?t=0h33m8s;
+Attack;W;Kaizen Esports;Ascent;Rainbow7;dRACULA;fykaN;0ng0wa;Niwde;sun;13:4;False;31:51;Tuesday, September 15th, 11:00 PM CEST;GGTech Invitational 2 LA-N;https://www.twitch.tv/videos/742092144?t=0h33m8s;
+Defense;W;Kaizen Esports;Bind;Rainbow7;dRACULA;fykaN;0ng0wa;Niwde;sun;13:11;False;46:36;Tuesday, September 15th, 11:00 PM CEST;GGTech Invitational 2 LA-N;https://www.twitch.tv/videos/742092144?t=0h33m8s;
+Attack;L;INFINITY;Split;INFINITY;Niwde;0ng0wa;fykaN;sun;dRACULA;5:13;False;36:12;Saturday, September 19th, 1:00 AM CEST;GGTech Invitational 2 LA-N;https://www.twitch.tv/videos/745168236?t=0h48m18s;
+Defense;L;INFINITY;Bind;INFINITY;Niwde;0ng0wa;fykaN;sun;dRACULA;9:13;False;42:13;Saturday, September 19th, 1:00 AM CEST;GGTech Invitational 2 LA-N;https://www.twitch.tv/videos/745168236?t=0h48m18s;
+Attack;L;INFINITY;Haven;INFINITY;Niwde;0ng0wa;fykaN;sun;dRACULA;3:13;False;26:56;Saturday, September 19th, 1:00 AM CEST;GGTech Invitational 2 LA-N;https://www.twitch.tv/videos/745168236?t=0h48m18s;

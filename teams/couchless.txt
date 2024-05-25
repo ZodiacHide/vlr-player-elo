@@ -1,0 +1,3 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Team Liquid;Ascent;Team Liquid;Felix;Sebster;Taang;KadN1Da;Prim0;3:13;False;30:52;Wednesday, March 31st, 6:00 PM CEST;Champions Tour Europe Stage 2: Challengers 1;url.net;
+Attack;L;Team Liquid;Haven;Team Liquid;Felix;Sebster;Taang;KadN1Da;Prim0;1:13;False;23:14;Wednesday, March 31st, 6:00 PM CEST;Champions Tour Europe Stage 2: Challengers 1;url.net;

@@ -1,0 +1,9 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;aNg DarkHorse;Ascent;Decider;SEOKWOO;YuNae;Slash;Lawrence;Carry;9:13;False;47:19;Wednesday, October 7th, 1:00 PM CEST;Clan Battle Act 2;https://www.twitch.tv/videos/763125415?t=0h40m31s;
+Attack;L;CoreNine Esports;Haven;Decider;Lawrence;Slash;SEOKWOO;Carry;YuNae;12:14;True;50:49;Tuesday, October 13th, 2:15 PM CEST;Clan Battle Act 2;url.net;
+Attack;L;Cloud9 Korea;Haven;Decider;Lawrence;Slash;Carry;YuNae;SEOKWOO;6:13;False;38:52;Tuesday, October 27th, 1:15 PM CET;Clan Battle Act 2;url.net;
+Attack;L;Crazy Hamster;Haven;Crazy Hamster;Lawrence;SEOKWOO;Carry;YuNae;Slash;5:13;False;34:30;Friday, November 20th, 11:45 AM CET;First Strike: Korea;url.net;
+Attack;L;Crazy Hamster;Split;Crazy Hamster;Lawrence;SEOKWOO;Carry;YuNae;Slash;8:13;False;37:39;Friday, November 20th, 11:45 AM CET;First Strike: Korea;url.net;
+Attack;W;GOMA;Haven;GOMA;Slash;Halbae;JoXJo;Lawrence;kobra;13:5;False;36:25;Sunday, January 31st, 12:00 PM CET;Champions Tour Korea Stage 1: Challengers 1;url.net;
+Defense;L;GOMA;Ascent;GOMA;Slash;Halbae;JoXJo;Lawrence;kobra;5:13;False;28:40;Sunday, January 31st, 12:00 PM CET;Champions Tour Korea Stage 1: Challengers 1;url.net;
+Attack;L;GOMA;Bind;GOMA;Slash;Halbae;JoXJo;Lawrence;kobra;7:13;False;35:40;Sunday, January 31st, 12:00 PM CET;Champions Tour Korea Stage 1: Challengers 1;url.net;

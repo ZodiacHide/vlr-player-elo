@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Movistar Riders;Bind;top500 and dog;Tenker;Lanerinno;Desqyapp;voxi2k;r3x;9:13;False;40:20;Saturday, January 16th, 7:00 PM CET;LVP Rising Series #1;url.net;
+Attack;L;Movistar Riders;Haven;top500 and dog;Tenker;Lanerinno;Desqyapp;voxi2k;r3x;13:15;True;48:22;Saturday, January 16th, 7:00 PM CET;LVP Rising Series #1;url.net;
+Attack;L;CrowСrowd;Haven;top500 and dog;Lanerinno;r3x;Desqyapp;voxi2k;Tenker;3:13;False;27:22;Friday, February 12th, 7:00 PM CET;Champions Tour CIS Stage 1: Challengers 1;url.net;
+Defense;L;CrowСrowd;Bind;top500 and dog;Lanerinno;r3x;Desqyapp;voxi2k;Tenker;4:13;False;30:38;Friday, February 12th, 7:00 PM CET;Champions Tour CIS Stage 1: Challengers 1;url.net;

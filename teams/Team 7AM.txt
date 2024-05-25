@@ -1,0 +1,8 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Wave Esports;Split;Decider;aninjas;FakeAnanas;Flaring;Eso177;Keorai;4:13;False;33:46;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;
+Attack;L;DfuseTeam;Split;Team 7AM;giuden51;FakeAnanas;Epzz;Izzy;Spolen;10:13;False;43:36;Tuesday, March 2nd, 10:15 PM CET;Champions Tour Europe Stage 1: Challengers 3;url.net;
+Defense;L;DfuseTeam;Bind;Team 7AM;giuden51;FakeAnanas;Epzz;Izzy;Spolen;2:13;False;28:00;Tuesday, March 2nd, 10:15 PM CET;Champions Tour Europe Stage 1: Challengers 3;url.net;
+Defense;L;Team Heretics;Haven;Team Heretics;Izzy;FakeAnanas;giuden51;Epzz;Spolen;3:13;False;28:43;Wednesday, March 31st, 6:00 PM CEST;Champions Tour Europe Stage 2: Challengers 1;url.net;
+Attack;L;Team Heretics;Ascent;Team Heretics;Izzy;FakeAnanas;giuden51;Epzz;Spolen;6:13;False;34:55;Wednesday, March 31st, 6:00 PM CEST;Champions Tour Europe Stage 2: Challengers 1;url.net;
+Defense;L;WiLD MultiGaming;Breeze;Team 7AM;FakeAnanas;Alyx;Greyy;Carter;Hadi;7:13;False;38:28;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;
+Defense;L;WiLD MultiGaming;Ascent;Team 7AM;FakeAnanas;Alyx;Greyy;Carter;Hadi;10:13;False;49:38;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;

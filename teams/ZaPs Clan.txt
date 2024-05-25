@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;JMNY6;Split;Decider;Dawin;Xekiness;Creistal;Fr0sT;EterNity;3:13;False;25:41;Saturday, December 19th, 5:00 AM CET;WCS20 SEA Community Tournament;url.net;
+Attack;W;TheDuckArmy;Ascent;Decider;Xekiness;Creistal;Gone;Fr0sT;Dawin;13:11;False;39:08;Saturday, December 19th, 6:00 AM CET;WCS20 SEA Community Tournament;url.net;
+Attack;W;Inertia;Icebox;Decider;Xekiness;Fr0sT;Meko;Gone;Dawin;13:8;False;39:40;Saturday, December 19th, 7:00 AM CET;WCS20 SEA Community Tournament;url.net;
+Attack;W;FTG Esports;Bind;Decider;Gone;Xekiness;Meko;Dawin;Fr0sT;13:9;False;42:05;Saturday, December 19th, 8:00 AM CET;WCS20 SEA Community Tournament;url.net;
+Defense;L;FFQ;Ascent;Decider;Xekiness;Meko;Gone;Fr0sT;Dawin;3:13;False;23:07;Sunday, December 20th, 9:00 AM CET;WCS20 SEA Community Tournament;url.net;

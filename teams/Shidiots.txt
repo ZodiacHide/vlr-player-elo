@@ -1,0 +1,11 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Tilted;Ascent;Shidiots;kalth;Nation;pilski;STRAXEH;Junior;13:6;False;51:35;Thursday, February 25th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/927639581?t=00h26m08s;
+Defense;L;Tilted;Bind;Shidiots;kalth;Nation;pilski;STRAXEH;Junior;5:13;False;39:54;Thursday, February 25th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/927639581?t=00h26m08s;
+Attack;W;Tilted;Split;Shidiots;kalth;Nation;pilski;STRAXEH;Junior;13:6;False;42:19;Thursday, February 25th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/927639581?t=00h26m08s;
+Defense;W;Wheels;Bind;Wheels;kalth;Junior;Nation;pilski;STRAXEH;13:7;False;40:14;Friday, February 26th, 9:00 AM CET;Oceania Tour: Stage 01;url.net;
+Attack;W;Wheels;Ascent;Wheels;kalth;Junior;Nation;pilski;STRAXEH;13:10;False;46:46;Friday, February 26th, 9:00 AM CET;Oceania Tour: Stage 01;url.net;
+Attack;L;Funcrew;Ascent;Funcrew;RetlocThePiper;Mac;Junior;kalth;STRAXEH;17:19;True;1:15:34;Saturday, February 27th, 6:30 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/930077144?t=0h7m36s;
+Defense;L;Funcrew;Icebox;Funcrew;RetlocThePiper;Mac;Junior;kalth;STRAXEH;12:14;True;47:16;Saturday, February 27th, 6:30 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/930077144?t=0h7m36s;
+Attack;L;Mindfreak;Ascent;Shidiots;Nation;kalth;STRAXEH;RetlocThePiper;Junior;7:13;False;36:31;Thursday, March 4th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/936401414?t=0h30m39s;
+Defense;W;Mindfreak;Bind;Mindfreak;Nation;kalth;STRAXEH;RetlocThePiper;Junior;13:10;False;47:06;Thursday, March 4th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/936401414?t=0h30m39s;
+Attack;L;Mindfreak;Icebox;Shidiots;Nation;kalth;STRAXEH;RetlocThePiper;Junior;12:14;True;53:03;Thursday, March 4th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/936401414?t=0h30m39s;

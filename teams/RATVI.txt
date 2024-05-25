@@ -1,0 +1,9 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Wave Esports;Bind;Decider;Supmah;PHYRN;Anton;THAIEN;Zaphehe;13:12;True;-;Tuesday, June 23rd, 5:00 PM CEST;Wave Esports Invitational;url.net;
+Attack;L;5Dogs;Haven;Decider;THAIEN;Supmah;PHYRN;Anton;Zaphehe;0:0;False;-;Tuesday, June 23rd, 6:05 PM CEST;Wave Esports Invitational;url.net;
+Attack;L;PartyParrots;Bind;Decider;Supmah;PHYRN;Anton;THAIEN;Zaphehe;4:13;False;-;Tuesday, June 23rd, 7:10 PM CEST;Wave Esports Invitational;url.net;
+Attack;W;Mattistack;Haven;RATVI;PHYRN;Zaphehe;Anton;Supmah;THAIEN;13:9;False;-;Tuesday, June 23rd, 8:40 PM CEST;Wave Esports Invitational;https://www.twitch.tv/videos/659149732?t=3h49m34s;
+Defense;L;Mattistack;Bind;RATVI;PHYRN;Zaphehe;Anton;Supmah;THAIEN;7:13;False;-;Tuesday, June 23rd, 8:40 PM CEST;Wave Esports Invitational;https://www.twitch.tv/videos/659149732?t=3h49m34s;
+Attack;W;Mattistack;Split;RATVI;PHYRN;Zaphehe;Anton;Supmah;THAIEN;13:12;True;-;Tuesday, June 23rd, 8:40 PM CEST;Wave Esports Invitational;https://www.twitch.tv/videos/659149732?t=3h49m34s;
+Defense;L;FABRIKEN;Bind;FABRIKEN;PHYRN;Supmah;THAIEN;Zaphehe;Anton;4:13;False;-;Wednesday, June 24th, 4:00 PM CEST;Wave Esports Invitational;https://www.twitch.tv/videos/660087635?t=0h34m27s;
+Attack;L;FABRIKEN;Haven;FABRIKEN;PHYRN;Supmah;THAIEN;Zaphehe;Anton;2:13;False;-;Wednesday, June 24th, 4:00 PM CEST;Wave Esports Invitational;https://www.twitch.tv/videos/660087635?t=0h34m27s;

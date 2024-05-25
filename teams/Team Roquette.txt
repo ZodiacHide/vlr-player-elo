@@ -1,0 +1,11 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;POWER;Ascent;Team Roquette;Kraît;bRAAHH;LnR;NowaXxZang;SpaceBud;11:13;False;48:08;Sunday, May 9th, 3:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Attack;W;POWER;Haven;Team Roquette;Kraît;bRAAHH;LnR;NowaXxZang;SpaceBud;13:0;False;24:51;Sunday, May 9th, 3:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Defense;W;POWER;Icebox;Team Roquette;Kraît;bRAAHH;LnR;NowaXxZang;SpaceBud;14:12;True;52:29;Sunday, May 9th, 3:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Attack;L;MTP Esport;Split;MTP Esport;bRAAHH;SpaceBud;Kraît;LnR;NowaXxZang;10:13;False;44:24;Saturday, May 15th, 4:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Attack;L;MTP Esport;Bind;MTP Esport;bRAAHH;SpaceBud;Kraît;LnR;NowaXxZang;10:13;False;42:23;Saturday, May 15th, 4:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Defense;W;Je t'aime de ouf;Bind;Je t'aime de ouf;SpaceBud;Kraît;LnR;bRAAHH;NowaXxZang;13:5;False;33:05;Saturday, May 15th, 6:15 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Attack;W;Je t'aime de ouf;Haven;Je t'aime de ouf;SpaceBud;Kraît;LnR;bRAAHH;NowaXxZang;14:12;True;50:47;Saturday, May 15th, 6:15 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Defense;L;BK ROG Esports;Split;BK ROG Esports;LnR;SpaceBud;bRAAHH;Kraît;NowaXxZang;4:13;False;38:42;Sunday, May 16th, 4:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Attack;W;BK ROG Esports;Bind;Team Roquette;LnR;SpaceBud;bRAAHH;Kraît;NowaXxZang;13:6;False;34:28;Sunday, May 16th, 4:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;
+Attack;L;BK ROG Esports;Ascent;BK ROG Esports;LnR;SpaceBud;bRAAHH;Kraît;NowaXxZang;6:13;False;39:28;Sunday, May 16th, 4:00 PM CEST;Valorant Open Tour France: Spring Qualifier;url.net;

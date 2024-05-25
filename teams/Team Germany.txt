@@ -1,0 +1,2 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Team Spain;Haven;Decider;Tomqp;zonixx;rAx;nistra;kikii;13:11;False;45:06;Saturday, September 12th, 6:30 PM CEST;BLAST Twitch Invitational;https://www.twitch.tv/videos/738870581?t=4h13m12s;

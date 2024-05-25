@@ -1,0 +1,9 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Andbox;Ascent;Zealous;Frosty;King;Blahst;nerve;tdawgg;13:10;False;42:27;Saturday, August 28th, 7:00 PM CEST;Community Gaming Premier Series: Finale;url.net;
+Attack;L;Andbox;Haven;Zealous;Frosty;King;Blahst;nerve;tdawgg;8:13;False;39:04;Saturday, August 28th, 7:00 PM CEST;Community Gaming Premier Series: Finale;url.net;
+Defense;L;Andbox;Icebox;Zealous;Frosty;King;Blahst;nerve;tdawgg;4:13;False;33:02;Saturday, August 28th, 7:00 PM CEST;Community Gaming Premier Series: Finale;url.net;
+Defense;W;VIRTUOSO;Ascent;Decider;Blahst;nerve;Frosty;King;tdawgg;13:10;False;41:43;Monday, August 30th, 8:00 PM CEST;Knights Monthly Gauntlet: August;url.net;
+Defense;L;Renegades;Haven;Decider;King;tdawgg;Blahst;Frosty;nerve;9:13;False;39:14;Monday, August 30th, 9:00 PM CEST;Knights Monthly Gauntlet: August;url.net;
+Attack;W;Knights;Ascent;Zealous;King;Blahst;Frosty;nerve;tdawgg;13:7;False;39:43;Tuesday, August 31st, 12:00 AM CEST;Knights Monthly Gauntlet: August;https://www.twitch.tv/videos/1134386879?t=0h11m16s;
+Attack;L;Knights;Breeze;Zealous;King;Blahst;Frosty;nerve;tdawgg;14:16;True;59:33;Tuesday, August 31st, 12:00 AM CEST;Knights Monthly Gauntlet: August;https://www.twitch.tv/videos/1134386879?t=0h11m16s;
+Defense;L;Knights;Haven;Zealous;King;Blahst;Frosty;nerve;tdawgg;2:13;False;27:37;Tuesday, August 31st, 12:00 AM CEST;Knights Monthly Gauntlet: August;https://www.twitch.tv/videos/1134386879?t=0h11m16s;

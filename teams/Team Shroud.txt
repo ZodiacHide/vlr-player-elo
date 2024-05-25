@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;mouseSpaz;Bind;Team Shroud;shroud;Hiko;Relyks;just9n;n0thing;1:13;False;-;Monday, May 4th, 7:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;
+Attack;L;mouseSpaz;Haven;Team Shroud;shroud;Hiko;Relyks;just9n;n0thing;8:13;False;-;Monday, May 4th, 7:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;
+Attack;L;Prospects;Split;Decider;shroud;Hiko;Relyks;just9n;n0thing;0:0;False;-;Monday, May 4th, 9:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;
+Attack;L;Sentinels;Haven;Decider;shroud;Hiko;Relyks;just9n;n0thing;0:0;False;-;Monday, May 4th, 11:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;
+Defense;L;mouseSpaz;Bind;Decider;shroud;Hiko;Relyks;just9n;n0thing;0:0;False;-;Tuesday, May 5th, 12:00 AM CEST;T1 x Nerd Street Gamers Invitational;url.net;

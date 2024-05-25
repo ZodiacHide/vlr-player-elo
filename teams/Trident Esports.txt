@@ -1,0 +1,11 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;FURY;Bind;FURY;Myth;Pocket;MaiShiu;Klockzy;Marsh;13:5;False;34:20;Monday, September 6th, 12:15 PM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1140554698?t=1h52m8s;
+Attack;W;FURY;Ascent;Trident Esports;Myth;Pocket;MaiShiu;Klockzy;Marsh;13:6;False;32:58;Monday, September 6th, 12:15 PM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1140554698?t=1h52m8s;
+Defense;W;Legacy Esports;Ascent;Legacy Esports;Pocket;MaiShiu;Klockzy;Marsh;Myth;17:15;True;1:03:42;Tuesday, September 14th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1148341830?t=0h25m40s;
+Attack;L;Legacy Esports;Bind;Trident Esports;Pocket;MaiShiu;Klockzy;Marsh;Myth;5:13;False;35:39;Tuesday, September 14th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1148341830?t=0h25m40s;
+Defense;W;Legacy Esports;Split;Legacy Esports;Pocket;MaiShiu;Klockzy;Marsh;Myth;13:4;False;33:55;Tuesday, September 14th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1148341830?t=0h25m40s;
+Attack;W;FURY;Haven;FURY;Myth;Klockzy;MaiShiu;Marsh;Pocket;13:5;False;33:12;Monday, September 20th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1154022213?t=0h17m50s;
+Attack;W;FURY;Ascent;FURY;Myth;Klockzy;MaiShiu;Marsh;Pocket;13:7;False;37:56;Monday, September 20th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1154022213?t=0h17m50s;
+Defense;L;Chiefs ESC;Split;Chiefs ESC;Myth;Klockzy;Marsh;Pocket;MaiShiu;11:13;False;44:58;Monday, September 27th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1160561642?t=0h25m58s;
+Attack;L;Chiefs ESC;Ascent;Trident Esports;Myth;Klockzy;Marsh;Pocket;MaiShiu;9:13;False;40:28;Monday, September 27th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1160561642?t=0h25m58s;
+Defense;L;Chiefs ESC;Haven;Chiefs ESC;Myth;Klockzy;Marsh;Pocket;MaiShiu;8:13;False;30:07;Monday, September 27th, 10:30 AM CEST;LPL Winter Cup Legends 2021;https://www.twitch.tv/videos/1160561642?t=0h25m58s;

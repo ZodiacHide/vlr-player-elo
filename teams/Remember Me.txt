@@ -1,0 +1,12 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Invincible Gaming;Split;Invincible Gaming;yourking;HeadShotMachine;Queen;Charlotte;959yxy洋;13:11;False;46:38;Thursday, June 24th, 11:00 AM CEST;ImbaTV Fearless Invitational Cup;url.net;
+Attack;L;Invincible Gaming;Breeze;Invincible Gaming;yourking;HeadShotMachine;Queen;Charlotte;959yxy洋;12:14;True;50:48;Thursday, June 24th, 11:00 AM CEST;ImbaTV Fearless Invitational Cup;url.net;
+Attack;W;Invincible Gaming;Haven;Invincible Gaming;yourking;HeadShotMachine;Queen;Charlotte;959yxy洋;13:6;False;40:38;Thursday, June 24th, 11:00 AM CEST;ImbaTV Fearless Invitational Cup;url.net;
+Attack;W;MAX Esports;Split;Remember Me;Queen;yourking;HeadShotMachine;Charlotte;959yxy洋;13:11;False;49:24;Saturday, June 26th, 7:00 AM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1067993881?t=0h38m21s;
+Attack;L;MAX Esports;Ascent;MAX Esports;Queen;yourking;HeadShotMachine;Charlotte;959yxy洋;9:13;False;42:59;Saturday, June 26th, 7:00 AM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1067993881?t=0h38m21s;
+Attack;L;MAX Esports;Bind;Remember Me;Queen;yourking;HeadShotMachine;Charlotte;959yxy洋;11:13;False;50:52;Saturday, June 26th, 7:00 AM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1067993881?t=0h38m21s;
+Attack;L;Underdog;Split;Underdog;959yxy洋;Charlotte;HeadShotMachine;yourking;Queen;3:13;False;31:13;Sunday, June 27th, 10:00 AM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1069078210?t=1h43m10s;
+Attack;L;Underdog;Ascent;Underdog;959yxy洋;Charlotte;HeadShotMachine;yourking;Queen;2:13;False;28:30;Sunday, June 27th, 10:00 AM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1069078210?t=1h43m10s;
+Defense;W;Invincible Gaming;Icebox;Remember Me;HeadShotMachine;冥羽羽羽;Queen;959yxy洋;zooR;13:6;False;37:07;Sunday, June 27th, 1:00 PM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1069078210?t=04h40m20s;
+Defense;L;Invincible Gaming;Haven;Remember Me;HeadShotMachine;冥羽羽羽;Queen;959yxy洋;zooR;10:13;False;48:34;Sunday, June 27th, 1:00 PM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1069078210?t=04h40m20s;
+Defense;W;Invincible Gaming;Split;Remember Me;HeadShotMachine;冥羽羽羽;Queen;959yxy洋;zooR;13:2;False;27:12;Sunday, June 27th, 1:00 PM CEST;ImbaTV Fearless Invitational Cup;https://www.twitch.tv/videos/1069078210?t=04h40m20s;

@@ -1,0 +1,15 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Unknown;Haven;Team123;Carcass;Zik;AvovA;SEIDER;smythj;13:6;False;-;Saturday, July 18th, 4:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=3h16m55s;
+Defense;W;Unknown;Ascent;Team123;Carcass;Zik;AvovA;SEIDER;smythj;13:5;False;-;Saturday, July 18th, 4:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=4h2m4s;
+Defense;W;Team Quitooo;Haven;Team123;Carcass;AvovA;smythj;SEIDER;Zik;13:4;False;-;Saturday, July 18th, 7:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=4h52m7s;
+Attack;W;Team Quitooo;Split;Team123;Carcass;AvovA;smythj;SEIDER;Zik;13:5;False;-;Saturday, July 18th, 7:00 PM CEST;Copenhagen Flames Curveball Cup;https://www.twitch.tv/videos/683289535?t=5h34m1s;
+Defense;L;DPE;Split;Decider;AvovA;SEIDER;smythj;eXerZ;Carcass;12:14;False;-;Friday, July 31st, 9:00 PM CEST;Mandatory.gg Cup #2;url.net;
+Defense;L;Rix.GG;Haven;Decider;AvovA;eXerZ;smythj;Carcass;SEIDER;7:13;False;40:31;Monday, August 3rd, 3:00 PM CEST;GLX Elite Series;url.net;
+Attack;W;NVM;Haven;Decider;Carcass;AvovA;SEIDER;smythj;eXerZ;13:7;False;43:58;Wednesday, August 5th, 4:00 PM CEST;GLX Elite Series;url.net;
+Defense;L;Lankräm;Split;Decider;Carcass;eXerZ;SEIDER;smythj;AvovA;13:15;True;53:57;Wednesday, August 5th, 5:20 PM CEST;GLX Elite Series;url.net;
+Defense;L;flawless;Bind;Decider;SEIDER;AvovA;eXerZ;Carcass;smythj;3:13;False;27:27;Wednesday, August 5th, 6:30 PM CEST;GLX Elite Series;https://www.twitch.tv/videos/701117593?t=2h36m32s;
+Defense;L;forZe;Ascent;Team123;wh1sk;Zik;Carcass;SEIDER;AvovA;10:13;False;42:53;Friday, September 11th, 6:00 PM CEST;Happy Birthday Cup;url.net;
+Attack;W;forZe;Bind;Team123;wh1sk;Zik;Carcass;SEIDER;AvovA;13:9;False;43:12;Friday, September 11th, 6:00 PM CEST;Happy Birthday Cup;url.net;
+Attack;L;forZe;Haven;Team123;wh1sk;Zik;Carcass;SEIDER;AvovA;2:13;False;27:30;Friday, September 11th, 6:00 PM CEST;Happy Birthday Cup;url.net;
+Defense;L;SUMN FC;Haven;Decider;wh1sk;SEIDER;Carcass;Zik;MALFOy;6:13;False;32:35;Thursday, October 8th, 4:00 PM CEST;GLX Elite Series;https://www.twitch.tv/videos/764180625?t=00h33m35s;
+Attack;L;Entropiq;Bind;Decider;SEIDER;MALFOy;Carcass;wh1sk;Zik;8:13;False;41:10;Thursday, October 8th, 5:00 PM CEST;GLX Elite Series;https://www.twitch.tv/videos/764180625?t=01h20m36s;

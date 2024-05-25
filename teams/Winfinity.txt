@@ -1,0 +1,18 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Inside Games;Bind;Decider;woody;DKN;FabbiN;ecko;garzeN;8:13;False;42:26;Monday, December 7th, 8:00 PM CET;HyperX Valorant Nightcup;url.net;
+Attack;L;Ninjas in Pyjamas;Haven;Winfinity;DKN;DESTINY;garzeN;ecko;woody;11:13;False;50:52;Friday, February 5th, 6:00 PM CET;Champions Tour Europe Stage 1: Challengers 1;url.net;
+Defense;L;Ninjas in Pyjamas;Split;Winfinity;DKN;DESTINY;garzeN;ecko;woody;2:13;False;28:50;Friday, February 5th, 6:00 PM CET;Champions Tour Europe Stage 1: Challengers 1;url.net;
+Attack;L;Yendez;Ascent;Winfinity;DKN;woody;ecko;DESTINY;garzeN;5:13;False;38:35;Tuesday, February 16th, 7:00 PM CET;Champions Tour Europe Stage 1: Challengers 2;url.net;
+Defense;L;Yendez;Icebox;Winfinity;DKN;woody;ecko;DESTINY;garzeN;10:13;False;42:56;Tuesday, February 16th, 7:00 PM CET;Champions Tour Europe Stage 1: Challengers 2;url.net;
+Defense;L;NASR Esports;Ascent;Winfinity;ecko;DKN;woody;garzeN;DESTINY;7:13;False;36:13;Saturday, February 27th, 7:00 PM CET;Nicecactus February Trophy;url.net;
+Attack;W;NASR Esports;Haven;Winfinity;ecko;DKN;woody;garzeN;DESTINY;13:10;False;40:45;Saturday, February 27th, 7:00 PM CET;Nicecactus February Trophy;url.net;
+Attack;W;NASR Esports;Bind;Winfinity;ecko;DKN;woody;garzeN;DESTINY;13:11;False;42:39;Saturday, February 27th, 7:00 PM CET;Nicecactus February Trophy;url.net;
+Attack;L;FTW Esports;Haven;FTW Esports;garzeN;DKN;ecko;DESTINY;woody;2:13;False;25:12;Saturday, February 27th, 10:30 PM CET;Nicecactus February Trophy;url.net;
+Defense;L;FTW Esports;Ascent;FTW Esports;garzeN;DKN;ecko;DESTINY;woody;11:13;False;44:11;Saturday, February 27th, 10:30 PM CET;Nicecactus February Trophy;url.net;
+Defense;L;Finest;Icebox;Finest;garzeN;woody;ecko;DKN;DESTINY;2:13;False;24:13;Wednesday, March 3rd, 6:00 PM CET;Champions Tour Europe Stage 1: Challengers 3;url.net;
+Attack;L;Finest;Bind;Finest;garzeN;woody;ecko;DKN;DESTINY;4:13;False;33:09;Wednesday, March 3rd, 6:00 PM CET;Champions Tour Europe Stage 1: Challengers 3;url.net;
+Defense;L;Finest;Ascent;Winfinity;ecko;mikigoalie;garzeN;DKN;woody;4:13;False;32:54;Monday, June 28th, 7:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;url.net;
+Attack;W;Finest;Bind;Winfinity;ecko;mikigoalie;garzeN;DKN;woody;13:12;True;54:23;Monday, June 28th, 7:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;url.net;
+Defense;L;Finest;Haven;Winfinity;ecko;mikigoalie;garzeN;DKN;woody;9:13;False;45:05;Monday, June 28th, 7:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;url.net;
+Attack;L;Giants Gaming;Icebox;Winfinity;woody;DKN;mikigoalie;ecko;garzeN;5:13;False;30:57;Wednesday, July 21st, 9:00 PM CEST;Champions Tour Europe Stage 3: Challengers 2;https://www.twitch.tv/videos/1093615683?t=02h55m00s;
+Defense;L;Giants Gaming;Split;Winfinity;woody;DKN;mikigoalie;ecko;garzeN;8:13;False;40:24;Wednesday, July 21st, 9:00 PM CEST;Champions Tour Europe Stage 3: Challengers 2;https://www.twitch.tv/videos/1093615683?t=02h55m00s;

@@ -1,0 +1,8 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Anti Eco Eco Club;Icebox;TRAITORS;kevinzone;bibiwater;inin77;Mao;WrathSoul;11:13;False;45:19;Friday, February 26th, 7:00 AM CET;Champions Tour Hong Kong & Taiwan Stage 1: Challengers 2;https://www.twitch.tv/videos/928791073?t=0h34m42s;
+Attack;L;Anti Eco Eco Club;Ascent;TRAITORS;kevinzone;bibiwater;inin77;Mao;WrathSoul;7:13;False;41:10;Friday, February 26th, 7:00 AM CET;Champions Tour Hong Kong & Taiwan Stage 1: Challengers 2;https://www.twitch.tv/videos/928791073?t=0h34m42s;
+Attack;W;Ka4 e-Sports Club;Bind;Decider;bibiwater;kevinzone;Mao;WrathSoul;inin77;13:8;False;41:12;Sunday, March 7th, 2:00 PM CET;Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3;url.net;
+Defense;L;CBT Gaming;Split;TRAITORS;Mao;kevinzone;inin77;bibiwater;WrathSoul;5:13;False;36:42;Friday, March 12th, 9:00 AM CET;Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3;url.net;
+Attack;L;CBT Gaming;Ascent;TRAITORS;Mao;kevinzone;inin77;bibiwater;WrathSoul;7:13;False;42:53;Friday, March 12th, 9:00 AM CET;Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3;url.net;
+Attack;L;Five Ace Esports;Ascent;TRAITORS;kevinzone;bibiwater;CcC;Mao;SecreT;6:13;False;34:19;Friday, July 23rd, 2:00 PM CEST;Champions Tour Hong Kong & Taiwan Stage 3: Challengers 2;https://www.twitch.tv/videos/1095377634?t=6h23m54s;
+Defense;L;Five Ace Esports;Icebox;TRAITORS;kevinzone;bibiwater;CcC;SecreT;UCc;10:13;False;44:08;Friday, July 23rd, 2:00 PM CEST;Champions Tour Hong Kong & Taiwan Stage 3: Challengers 2;https://www.twitch.tv/videos/1095377634?t=6h23m54s;

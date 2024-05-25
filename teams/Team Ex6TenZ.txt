@@ -1,0 +1,11 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Team izak;Haven;Team Ex6TenZ;Ex6TenZ;pipsoN;Kryptix;luckeRRR;Amandine;13:12;True;-;Saturday, June 20th, 3:00 PM CEST;G2 Esports Invitational;https://www.twitch.tv/videos/656280865?t=1h7m55s;
+Attack;W;Team izak;Bind;Team Ex6TenZ;Ex6TenZ;pipsoN;Kryptix;luckeRRR;Amandine;13:10;False;-;Saturday, June 20th, 3:00 PM CEST;G2 Esports Invitational;https://www.twitch.tv/videos/656280865?t=1h7m55s;
+Defense;L;Team Taimou;Bind;Team Ex6TenZ;luckeRRR;Kryptix;Ex6TenZ;pipsoN;Amandine;9:13;False;-;Saturday, June 20th, 6:20 PM CEST;G2 Esports Invitational;url.net;
+Attack;W;Team Taimou;Split;Team Ex6TenZ;luckeRRR;Kryptix;Ex6TenZ;pipsoN;Amandine;13:8;False;-;Saturday, June 20th, 6:20 PM CEST;G2 Esports Invitational;url.net;
+Defense;L;Team Taimou;Ascent;Team Ex6TenZ;luckeRRR;Kryptix;Ex6TenZ;pipsoN;Amandine;9:13;False;-;Saturday, June 20th, 6:20 PM CEST;G2 Esports Invitational;url.net;
+Attack;W;Team ANGE1;Split;Team ANGE1;Ex6TenZ;Amandine;Kryptix;pipsoN;luckeRRR;13:6;False;-;Saturday, June 20th, 9:30 PM CEST;G2 Esports Invitational;url.net;
+Attack;L;Team ANGE1;Ascent;Team ANGE1;Ex6TenZ;Amandine;Kryptix;pipsoN;luckeRRR;9:13;False;-;Saturday, June 20th, 9:30 PM CEST;G2 Esports Invitational;url.net;
+Defense;L;Team ANGE1;Bind;Team ANGE1;Ex6TenZ;Amandine;Kryptix;pipsoN;luckeRRR;11:13;False;-;Saturday, June 20th, 9:30 PM CEST;G2 Esports Invitational;url.net;
+Defense;L;Team draken;Haven;Team Ex6TenZ;Kryptix;luckeRRR;Ex6TenZ;Amandine;pipsoN;4:13;False;-;Sunday, June 21st, 3:00 PM CEST;G2 Esports Invitational;https://www.twitch.tv/videos/657234740?t=1h7m36s;
+Attack;L;Team draken;Split;Team Ex6TenZ;Kryptix;luckeRRR;Ex6TenZ;Amandine;pipsoN;4:13;False;-;Sunday, June 21st, 3:00 PM CEST;G2 Esports Invitational;https://www.twitch.tv/videos/657234740?t=1h7m36s;

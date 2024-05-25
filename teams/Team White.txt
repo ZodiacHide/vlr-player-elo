@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;ehehxd;Haven;Team White;MAKER;TASP;kewzy;k1zpawn;k1zZuP;12:14;True;49:13;Thursday, October 29th, 8:00 PM CET;Valorant Master Series;https://www.twitch.tv/videos/785665259?t=0h24m2s;
+Attack;L;ehehxd;Ascent;Team White;MAKER;TASP;kewzy;k1zpawn;k1zZuP;2:13;False;30:53;Thursday, October 29th, 8:00 PM CET;Valorant Master Series;https://www.twitch.tv/videos/785665259?t=0h24m2s;
+Defense;L;Team Queso;Haven;Team Queso;k0mpa;Tiki;kewzy;k1zpawn;k1zZuP;6:13;False;35:38;Tuesday, December 8th, 7:00 PM CET;Valorant Master Series;https://www.twitch.tv/videos/830121109?t=0h35m59s;
+Attack;W;Team Queso;Split;Team Queso;k0mpa;Tiki;kewzy;k1zpawn;k1zZuP;13:6;False;34:41;Tuesday, December 8th, 7:00 PM CET;Valorant Master Series;https://www.twitch.tv/videos/830121109?t=0h35m59s;
+Attack;L;Team Queso;Ascent;Team Queso;k0mpa;Tiki;kewzy;k1zpawn;k1zZuP;7:13;False;39:24;Tuesday, December 8th, 7:00 PM CET;Valorant Master Series;https://www.twitch.tv/videos/830121109?t=0h35m59s;

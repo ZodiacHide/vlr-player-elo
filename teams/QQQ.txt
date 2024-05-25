@@ -1,0 +1,9 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Team 69;Ascent;QQQ;ZeNith;BoNeS;Deoxys;Anaiz;BuLL3T;12:14;True;50:50;Thursday, June 3rd, 12:00 PM CEST;Lethal Esports Invitational - Season 1;url.net;
+Defense;W;Team 69;Haven;QQQ;ZeNith;BoNeS;Deoxys;Anaiz;Inferno;17:15;True;1:06:33;Thursday, June 3rd, 12:00 PM CEST;Lethal Esports Invitational - Season 1;url.net;
+Defense;L;Team 69;Split;QQQ;ZeNith;BoNeS;Deoxys;Anaiz;Inferno;8:13;False;33:51;Thursday, June 3rd, 12:00 PM CEST;Lethal Esports Invitational - Season 1;url.net;
+Defense;W;RGB Gaming;Icebox;RGB Gaming;BuLL3T;Deoxys;BoNeS;Anaiz;TITAN;13:6;False;37:15;Monday, June 7th, 2:30 PM CEST;Lethal Esports Invitational - Season 1;https://youtu.be/Alz2sgE8610?t=11870;
+Defense;W;RGB Gaming;Ascent;RGB Gaming;BuLL3T;Deoxys;BoNeS;Anaiz;ZeNith;13:3;False;31:16;Monday, June 7th, 2:30 PM CEST;Lethal Esports Invitational - Season 1;https://youtu.be/Alz2sgE8610?t=11870;
+Attack;W;True Rippers;Ascent;QQQ;BoNeS;TITAN;Anaiz;BuLL3T;Deoxys;13:11;False;42:52;Monday, June 14th, 3:00 PM CEST;Lethal Esports Invitational - Season 1;url.net;
+Defense;L;True Rippers;Haven;QQQ;BoNeS;TITAN;Anaiz;BuLL3T;Deoxys;9:13;False;41:16;Monday, June 14th, 3:00 PM CEST;Lethal Esports Invitational - Season 1;url.net;
+Attack;L;True Rippers;Split;QQQ;BoNeS;TITAN;Anaiz;BuLL3T;Deoxys;10:13;False;47:33;Monday, June 14th, 3:00 PM CEST;Lethal Esports Invitational - Season 1;url.net;

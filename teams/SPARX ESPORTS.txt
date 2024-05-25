@@ -1,0 +1,13 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;BIG;TBD;Decider;mjyoh;Kuba;Yannis;Rev3rus;TiMBOWSLICE;11:13;False;-;Monday, August 3rd, 3:00 PM CEST;GLX Elite Series;url.net;
+Defense;W;ROX TEAM;Bind;Decider;Tritos;Kuba;ycn;cLeVerLy;Yannis;15:13;True;54:56;Sunday, September 6th, 4:00 PM CEST;GLX Elite Series;url.net;
+Attack;L;ZEROZONE;Ascent;Decider;Yannis;Tritos;cLeVerLy;ycn;Kuba;9:13;False;41:46;Sunday, September 6th, 5:10 PM CEST;GLX Elite Series;url.net;
+Defense;L;HSDIRR;Haven;Decider;KiNGDOM;cLeVerLy;Tritos;Kuba;Yannis;10:13;False;42:40;Saturday, September 26th, 3:00 PM CEST;Rix.GG Cup;url.net;
+Defense;L;Rix.GG;Split;Decider;Obnoks;neiixZz;Kuba;KiNGDOM;Yannis;8:13;False;39:57;Thursday, November 12th, 5:00 PM CET;First Strike: Europe;url.net;
+Attack;L;Wygers;Ascent;Decider;KiNGDOM;Obnoks;Yannis;neiixZz;Kuba;9:13;False;47:02;Tuesday, November 17th, 5:00 PM CET;First Strike: Europe;url.net;
+Defense;L;NerdTown eSport;Ascent;Decider;Leon;Kuba;Yannis;B3ASTM0D3;Obnoks;8:13;False;39:33;Friday, December 11th, 6:00 PM CET;LVL Clash Regional #1;https://www.twitch.tv/videos/833603111?t=0h42m11s;
+Defense;L;eSuba;Ascent;eSuba;neiixZz;Obnoks;Blandfers;Kuba;Leon;11:13;False;47:43;Friday, December 11th, 9:00 PM CET;Charge Gaming Cup #2;https://www.twitch.tv/videos/833617285?t=2h32m23s;
+Defense;L;eSuba;Haven;eSuba;neiixZz;Obnoks;Blandfers;Kuba;Leon;2:13;False;27:43;Friday, December 11th, 9:00 PM CET;Charge Gaming Cup #2;https://www.twitch.tv/videos/833617285?t=2h32m23s;
+Defense;L;Wave Esports;Haven;SPARX ESPORTS;neiixZz;Obnoks;Kuba;Leon;Blandfers;12:14;True;47:19;Saturday, December 12th, 6:30 PM CET;Charge Gaming Cup #2;url.net;
+Defense;L;Wave Esports;Split;Wave Esports;neiixZz;Obnoks;Kuba;Leon;Blandfers;10:13;False;44:28;Saturday, December 12th, 6:30 PM CET;Charge Gaming Cup #2;url.net;
+Attack;L;Yendez;Split;Decider;Kuba;neiixZz;y0shi;Obnoks;Blandfers;5:13;False;36:59;Sunday, December 20th, 6:15 PM CET;Nicecactus Christmas Trophy;url.net;

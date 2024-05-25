@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Entropiq Bravo;Split;Decider;elllement;leakeN;biohazard;Limp;DH;6:13;False;38:55;Tuesday, November 17th, 5:00 PM CET;First Strike: Europe;url.net;
+Attack;W;Yendez;Haven;Decider;elllement;biohazard;Limp;leakeN;DH;13:9;False;43:12;Wednesday, November 18th, 5:00 PM CET;First Strike: Europe;url.net;
+Defense;W;eSuba;Bind;Decider;leakeN;elllement;Limp;DH;biohazard;13:9;False;40:58;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;https://www.twitch.tv/videos/808356651?t=1h6m21s;
+Defense;L;Warthox Esport;Haven;Decider;DH;elllement;leakeN;biohazard;Limp;10:13;False;45:13;Thursday, November 19th, 6:00 PM CET;First Strike: Europe;url.net;
+Defense;L;Swag Silicone;Haven;Decider;elllement;DH;giuden51;Limp;biohazard;8:13;False;40:22;Sunday, December 13th, 6:20 PM CET;Radiant Academy;https://www.twitch.tv/videos/836071295?t=1h48m9s;

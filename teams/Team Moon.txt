@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Velocity Gaming;Bind;Team Moon;Flex;Asitte;Astronaut;Infflicks;Kawaii;7:13;False;1:16:01;Friday, June 4th, 11:30 AM CEST;Lethal Esports Invitational - Season 1;https://youtu.be/Cru8a-QHc-o?t=1774;
+Attack;W;Velocity Gaming;Haven;Team Moon;Flex;Asitte;Astronaut;Infflicks;Kawaii;13:6;False;39:38;Friday, June 4th, 11:30 AM CEST;Lethal Esports Invitational - Season 1;https://youtu.be/Cru8a-QHc-o?t=1774;
+Attack;L;Velocity Gaming;Icebox;Team Moon;Flex;Asitte;Astronaut;Infflicks;Kawaii;5:13;False;31:29;Friday, June 4th, 11:30 AM CEST;Lethal Esports Invitational - Season 1;https://youtu.be/Cru8a-QHc-o?t=1774;
+Attack;W;Rebellious Gaming;Haven;Rebellious Gaming;Flex;Astronaut;Asitte;Kawaii;Infflicks;13:6;False;39:13;Monday, June 7th, 11:30 AM CEST;Lethal Esports Invitational - Season 1;https://youtu.be/Alz2sgE8610?t=593;
+Defense;W;Rebellious Gaming;Ascent;Rebellious Gaming;Flex;Astronaut;Asitte;Kawaii;Infflicks;13:2;False;25:52;Monday, June 7th, 11:30 AM CEST;Lethal Esports Invitational - Season 1;https://youtu.be/Alz2sgE8610?t=593;

@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;FENNEL;Bind;Decider;Aarin;Swee;柳ヶ瀬鈴乃;Affe;mnz;7:13;False;38:05;Friday, February 19th, 8:00 AM CET;Champions Tour Japan Stage 1: Challengers 1;https://www.mildom.com/playback/12287123/12287123-1613716186;
+Defense;L;DetonatioN FocusMe;Ascent;Decider;Affe;mnz;Swee;Aarin;柳ヶ瀬鈴乃;11:13;False;46:14;Saturday, April 3rd, 6:45 AM CEST;Champions Tour Japan Stage 2: Challengers 1;url.net;
+Defense;L;Criterion;Ascent;Decider;Swee;柳ヶ瀬鈴乃;Aarin;Affe;mnz;1:13;False;29:37;Saturday, April 17th, 9:10 AM CEST;Champions Tour Japan Stage 2: Challengers 2;url.net;
+Defense;L;Absolute JUPITER;Ascent;Decider;Affe;柳ヶ瀬鈴乃;Swee;anbasa;mnz;4:13;False;29:28;Sunday, July 4th, 11:30 AM CEST;Champions Tour Japan Stage 3: Challengers 1;https://www.twitch.tv/videos/1076145111?t=5h26m50s;

@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Broskis;Haven;Broskis;MSRw0w;pzkid;niqow0w;Kairo;Liquid;13:10;False;41:09;Saturday, January 30th, 6:30 AM CET;Champions Tour Malaysia & Singapore Stage 1: Challengers 1;url.net;
+Attack;W;Broskis;Ascent;Broskis;MSRw0w;pzkid;niqow0w;Kairo;Liquid;13:8;False;35:03;Saturday, January 30th, 6:30 AM CET;Champions Tour Malaysia & Singapore Stage 1: Challengers 1;url.net;
+Defense;L;Todak;Ascent;ex-Timing Monster Gaming;niqow0w;Kairo;MSRw0w;pzkid;Liquid;7:13;False;38:21;Friday, February 5th, 3:00 AM CET;Champions Tour Malaysia & Singapore Stage 1: Challengers 1;url.net;
+Defense;L;Todak;Split;ex-Timing Monster Gaming;niqow0w;Kairo;MSRw0w;pzkid;Liquid;13:15;True;53:31;Friday, February 5th, 3:00 AM CET;Champions Tour Malaysia & Singapore Stage 1: Challengers 1;url.net;
+Defense;L;XIAO;Ascent;Decider;Kairo;pzkid;Liquid;MSRw0w;niqow0w;6:13;False;40:18;Friday, February 5th, 1:10 PM CET;Champions Tour Malaysia & Singapore Stage 1: Challengers 1;https://www.twitch.tv/videos/901385875?t=10h39m25s;

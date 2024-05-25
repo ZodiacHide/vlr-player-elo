@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;FlamexSerenity;Haven;SUS SquaD;ChoBz;Kubrix;Drix;AEZ;Zoid;10:13;False;41:47;Tuesday, August 24th, 10:30 AM CEST;The Esports Club Gauntlet - Season 2;url.net;
+Defense;W;FlamexSerenity;Ascent;SUS SquaD;ChoBz;Kubrix;Drix;AEZ;Zoid;13:2;False;27:43;Tuesday, August 24th, 10:30 AM CEST;The Esports Club Gauntlet - Season 2;url.net;
+Defense;W;FlamexSerenity;Split;SUS SquaD;ChoBz;Kubrix;Drix;AEZ;Zoid;13:4;False;29:15;Tuesday, August 24th, 10:30 AM CEST;The Esports Club Gauntlet - Season 2;url.net;

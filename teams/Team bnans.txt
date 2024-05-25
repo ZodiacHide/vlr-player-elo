@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Team Austin Creed;Bind;Decider;bnans;Electra;LuluLuvely;Iridium;Gameface;13:0;False;-;Sunday, June 7th, 3:00 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/643475249?t=1h15m51s;
+Attack;L;Team Mendo;Bind;Decider;bnans;Electra;LuluLuvely;Iridium;Gameface;0:13;False;-;Sunday, June 7th, 4:15 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/643399265?t=3h50m14s;
+Defense;L;Team Jordan Fisher;Haven;Decider;bnans;Electra;LuluLuvely;Iridium;Gameface;6:13;False;-;Sunday, June 7th, 5:30 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/643514040?t=2h26m34s;

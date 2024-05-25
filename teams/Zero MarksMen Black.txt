@@ -1,0 +1,2 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Ghost Gaming;Icebox;Decider;stare;enteka;runi;Harmony;wOBBS;1:13;False;21:07;Monday, August 30th, 8:00 PM CEST;Knights Monthly Gauntlet: August;url.net;

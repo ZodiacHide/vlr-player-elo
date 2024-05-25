@@ -1,0 +1,3 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Rise Gaming;Ascent;ROLO COMPRESSOR;Zanatsu;4DR;Dauerrrヅ;marcelintb;morari;12:14;True;51:13;Thursday, June 24th, 7:00 PM CEST;Ultimasters AOC #2;https://www.twitch.tv/videos/1066185744?t=1h11m20s;
+Attack;L;Rise Gaming;Haven;ROLO COMPRESSOR;Zanatsu;4DR;Dauerrrヅ;marcelintb;morari;10:13;False;54:25;Thursday, June 24th, 7:00 PM CEST;Ultimasters AOC #2;https://www.twitch.tv/videos/1066185744?t=1h11m20s;

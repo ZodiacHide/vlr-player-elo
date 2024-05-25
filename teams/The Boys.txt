@@ -1,0 +1,10 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Team Fi;Haven;Decider;tetchra;Player A2;Player A3;Player A4;Player A5;13:1;False;-;Saturday, May 9th, 7:30 PM CEST;Valhalla Invitational;url.net;
+Defense;W;Clover;Haven;Decider;tetchra;Player A2;Player A3;Player A4;Player A5;13:4;False;-;Saturday, May 9th, 8:15 PM CEST;Valhalla Invitational;url.net;
+Attack;L;smoke;Haven;Decider;tetchra;Player B2;Player B3;Player B4;Player B5;9:13;False;-;Saturday, May 9th, 9:00 PM CEST;Valhalla Invitational;url.net;
+Attack;L;Jacked Gamers;Haven;The Boys;tetchra;Player B2;Player B3;Player B4;Player B5;7:13;False;-;Sunday, May 10th, 9:15 PM CEST;Valhalla Invitational;url.net;
+Attack;L;Jacked Gamers;Split;The Boys;tetchra;Player B2;Player B3;Player B4;Player B5;10:13;False;-;Sunday, May 10th, 9:15 PM CEST;Valhalla Invitational;url.net;
+Attack;L;T1;Ascent;The Boys;Lou;Singularity;StunZ;Hope;Tyler;2:13;False;30:05;Monday, October 26th, 10:00 PM CET;First Strike: North America;https://www.twitch.tv/videos/782760823?t=0h38m56s;
+Defense;L;T1;Bind;The Boys;Lou;Singularity;StunZ;Hope;Tyler;10:13;False;48:26;Monday, October 26th, 10:00 PM CET;First Strike: North America;https://www.twitch.tv/videos/782760823?t=0h38m56s;
+Attack;L;Time In;Bind;The Boys;Hope;Medusa;sn1per;Tyler;StunZ;10:13;False;50:20;Friday, November 13th, 9:00 PM CET;First Strike: North America;https://www.twitch.tv/videos/801786974?t=0h21m3s;
+Defense;L;Time In;Ascent;The Boys;Hope;Medusa;sn1per;Tyler;StunZ;11:13;False;51:46;Friday, November 13th, 9:00 PM CET;First Strike: North America;https://www.twitch.tv/videos/801786974?t=0h21m3s;

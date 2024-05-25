@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Time In;Bind;Sandwich Eaters 40;flames;SH4D3;Serving;Dynasty;Frisco;13:9;False;40:02;Thursday, January 28th, 1:00 AM CET;Champions Tour North America Stage 1: Challengers 1;url.net;
+Defense;W;Time In;Ascent;Sandwich Eaters 40;flames;SH4D3;Serving;Dynasty;Frisco;13:10;False;43:59;Thursday, January 28th, 1:00 AM CET;Champions Tour North America Stage 1: Challengers 1;url.net;
+Defense;L;Renegades;Haven;Decider;ZeroData;Serving;royal;Sora;Frisco;4:13;False;28:53;Saturday, May 22nd, 7:00 PM CEST;Nerd Street Gamers Summer Championship - May Qualifier;url.net;
+Attack;L;Renegades;Breeze;Sandwich Eaters 40;Serving;ZeroData;Sora;royal;Frisco;5:13;False;31:04;Saturday, May 22nd, 10:30 PM CEST;Nerd Street Gamers Summer Championship - May Qualifier;url.net;
+Attack;L;Renegades;Haven;Sandwich Eaters 40;Serving;ZeroData;Sora;royal;Frisco;5:13;False;29:36;Saturday, May 22nd, 10:30 PM CEST;Nerd Street Gamers Summer Championship - May Qualifier;url.net;
