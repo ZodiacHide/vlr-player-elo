@@ -403,3 +403,5 @@ test_urls.txt
 test_urls2.txt
 match_urls*
 *.prof
+players/*.txt
+teams/*.txt
