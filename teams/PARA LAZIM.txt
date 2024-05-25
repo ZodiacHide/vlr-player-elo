@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;HaZe Clan;Ascent;HaZe Clan;AthE;coco;Yato;Draven;cipi;11:13;False;48:27;Saturday, October 24th, 4:00 PM CEST;First Strike: Turkey;url.net;
-Defense;W;HaZe Clan;Haven;HaZe Clan;AthE;coco;Yato;Draven;cipi;13:10;False;52:02;Saturday, October 24th, 4:00 PM CEST;First Strike: Turkey;url.net;
-Attack;L;HaZe Clan;Bind;HaZe Clan;AthE;coco;Yato;Draven;cipi;15:17;True;1:03:34;Saturday, October 24th, 4:00 PM CEST;First Strike: Turkey;url.net;
-Defense;L;eSuba;Ascent;Decider;Draven;coco;W1cked;Guanji;cipi;7:13;False;33:53;Saturday, January 23rd, 3:15 PM CET;Red Bull Home Ground;url.net;

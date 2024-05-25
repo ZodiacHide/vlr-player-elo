@@ -1,7 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Hashira;Haven;Decider;JesXzaN;rkz;Roden;gnaru;Juls;1:13;False;24:06;Saturday, November 21st, 8:00 AM CET;Mineski VxV;https://www.facebook.com/ilustradocasts/videos/1230850120627829/?t=8194;
-Attack;L;ArkAngel;Bind;Decider;gnaru;rkz;JesXzaN;Roden;Juls;7:13;False;39:13;Saturday, November 21st, 10:00 AM CET;Mineski VxV;https://www.facebook.com/ilustradocasts/videos/1230850120627829/?t=13739;
-Attack;W;LG Terra;Split;Decider;gnaru;GabbyDiz;Juls;Roden;rkz;13:5;False;36:38;Sunday, February 28th, 8:00 AM CET;Champions Tour Philippines Stage 1: Challengers 3;url.net;
-Defense;L;ULVL;Ascent;Decider;Roden;gnaru;rkz;Juls;GabbyDiz;11:13;False;46:31;Sunday, February 28th, 9:00 AM CET;Champions Tour Philippines Stage 1: Challengers 3;url.net;
-Defense;W;KADILIMAN;Icebox;Decider;gnaru;GabbyDiz;Foods;Juls;cmsph;14:12;True;52:11;Saturday, April 10th, 9:00 AM CEST;Champions Tour Philippines Stage 2: Challengers 2;url.net;
-Defense;W;GD Esports Club;Ascent;Decider;gnaru;Foods;rkz;GabbyDiz;cmsph;13:2;False;26:14;Saturday, April 10th, 10:00 AM CEST;Champions Tour Philippines Stage 2: Challengers 2;url.net;

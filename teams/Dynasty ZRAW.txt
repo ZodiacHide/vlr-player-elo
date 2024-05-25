@@ -1,2 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;THANATOS;Icebox;Decider;Hiwo;Ineox;peng;GIOGRAPHY;Lodenspree;8:13;False;47:27;Saturday, April 10th, 9:00 AM CEST;Champions Tour Philippines Stage 2: Challengers 2;url.net;

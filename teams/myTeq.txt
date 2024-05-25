@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Valorando;Ascent;myTeq;Player B1;Player B2;Player B3;Player B4;Player B5;5:13;False;-;Sunday, June 14th, 4:00 PM CEST;Fragster Valorant Invitational;https://www.twitch.tv/videos/650595244?t=0h14m57s;
-Attack;L;Valorando;Haven;myTeq;Player B1;Player B2;Player B3;Player B4;Player B5;8:13;False;-;Sunday, June 14th, 4:00 PM CEST;Fragster Valorant Invitational;https://www.twitch.tv/videos/650595244?t=0h14m57s;
-Defense;L;Team zonixx;Ascent;Team zonixx;Player A1;Player A2;Player A3;Player A4;Player A5;10:10;False;-;Sunday, June 14th, 6:00 PM CEST;Fragster Valorant Invitational;https://www.twitch.tv/videos/650595244?t=2h9m12s;
-Attack;L;Team zonixx;Haven;Team zonixx;Player A1;Player A2;Player A3;Player A4;Player A5;10:13;False;-;Sunday, June 14th, 6:00 PM CEST;Fragster Valorant Invitational;https://www.twitch.tv/videos/650595244?t=2h9m12s;
-Defense;L;Team zonixx;Split;Team zonixx;Player A1;Player A2;Player A3;Player A4;Player A5;10:13;False;-;Sunday, June 14th, 6:00 PM CEST;Fragster Valorant Invitational;https://www.twitch.tv/videos/650595244?t=2h9m12s;

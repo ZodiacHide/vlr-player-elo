@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Envy;Split;Aquatik;whis;spring;ClaymorePlatypus;Kozmik;mino;1:13;False;21:36;Friday, February 12th, 12:00 AM CET;Champions Tour North America Stage 1: Challengers 2;url.net;
-Defense;L;Envy;Bind;Aquatik;whis;spring;ClaymorePlatypus;Kozmik;mino;2:13;False;22:24;Friday, February 12th, 12:00 AM CET;Champions Tour North America Stage 1: Challengers 2;url.net;

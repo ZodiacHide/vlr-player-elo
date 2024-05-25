@@ -1,7 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Worst Players;Bind;Worst Players;DKN;garzeN;woody;ecko;DEFQONZ;6:13;False;-;Thursday, May 21st, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/627652518?t=0h21m3s;
-Defense;W;Worst Players;Split;Worst Players;DKN;garzeN;woody;ecko;DEFQONZ;13:12;True;-;Thursday, May 21st, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/627652518?t=0h21m3s;
-Defense;L;Worst Players;Haven;Worst Players;DKN;garzeN;woody;ecko;DEFQONZ;11:13;False;-;Thursday, May 21st, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/627652518?t=0h21m3s;
-Defense;L;Clan123;Bind;NeverEndingStory;woody;ecko;DKN;Subaru;garzeN;6:13;False;-;Thursday, June 18th, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/654465771?t=0h38m18s;
-Attack;W;Clan123;Split;NeverEndingStory;woody;ecko;DKN;Subaru;garzeN;13:12;True;-;Thursday, June 18th, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/654465771?t=0h38m18s;
-Attack;L;Clan123;Haven;NeverEndingStory;woody;ecko;DKN;Subaru;garzeN;4:13;False;-;Thursday, June 18th, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/654465771?t=0h38m18s;

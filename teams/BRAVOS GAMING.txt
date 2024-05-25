@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Athletico Zombies;Split;BRAVOS GAMING;soyer;proelle;PELEZ1N;KARIM;SmK;11:13;False;47:38;Wednesday, January 20th, 11:00 PM CET;D2E Series Brazil;https://www.twitch.tv/videos/881470362?t=0h19m23s;
-Attack;L;Athletico Zombies;Icebox;BRAVOS GAMING;soyer;proelle;PELEZ1N;KARIM;SmK;2:13;False;22:50;Wednesday, January 20th, 11:00 PM CET;D2E Series Brazil;https://www.twitch.tv/videos/881470362?t=0h19m23s;
-Attack;L;Gamelanders Blue;Ascent;BRAVOS GAMING;KARIM;stkJ;proelle;valois;kid;3:13;False;26:31;Wednesday, June 30th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 1;url.net;
-Defense;L;Gamelanders Blue;Bind;BRAVOS GAMING;KARIM;stkJ;proelle;valois;kid;6:13;False;32:21;Wednesday, June 30th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 1;url.net;

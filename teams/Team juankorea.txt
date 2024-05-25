@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;W;Team staxvlrt;Ascent;Decider;wmfsolo;R0K3T;biancpur;exy;JuanK;13:12;True;-;Saturday, June 6th, 5:15 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642613374?t=0h25m29s;
-Attack;L;Team gabrielcro;Ascent;Decider;JuanK;exy;wmfsolo;R0K3T;biancpur;0:0;False;-;Saturday, June 6th, 6:30 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642598006?t=1h55m30s;
-Defense;W;Team ocheon2;Bind;Decider;R0K3T;biancpur;exy;wmfsolo;JuanK;13:12;True;-;Saturday, June 6th, 7:30 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642598006?t=3h0m11s;
-Attack;W;Team staxvlrt;Bind;Team staxvlrt;R0K3T;biancpur;JuanK;exy;wmfsolo;13:11;False;-;Saturday, June 6th, 8:30 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642612128?t=3h45m19s;
-Defense;L;Team staxvlrt;TBD;Team staxvlrt;R0K3T;biancpur;JuanK;exy;wmfsolo;0:0;False;-;Saturday, June 6th, 8:30 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642612128?t=3h45m19s;

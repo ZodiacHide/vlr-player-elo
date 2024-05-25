@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;SALOH;Haven;PULSAR OLDSTARS;HopesteRR;XSOO;youms;Uzzziii;moonL;10:13;False;43:42;Saturday, June 26th, 1:00 PM CEST;Valorant Open Tour France: Summer Qualifier;url.net;
-Defense;L;SALOH;Icebox;PULSAR OLDSTARS;HopesteRR;XSOO;youms;Uzzziii;moonL;6:13;False;33:12;Saturday, June 26th, 1:00 PM CEST;Valorant Open Tour France: Summer Qualifier;url.net;

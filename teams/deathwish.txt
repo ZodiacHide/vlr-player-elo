@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;W;Anyway;Ascent;deathwish;1ndra;AiyvaN;s3mig0d;soze;Anreit;13:10;False;43:54;Friday, July 23rd, 8:05 PM CEST;Champions Tour CIS Stage 3: Challengers 2;https://www.twitch.tv/videos/1095627143?t=14950s;
-Attack;W;Anyway;Haven;deathwish;1ndra;AiyvaN;s3mig0d;soze;Anreit;13:3;False;32:13;Friday, July 23rd, 8:05 PM CEST;Champions Tour CIS Stage 3: Challengers 2;https://www.twitch.tv/videos/1095627143?t=14950s;
-Defense;W;Crypto Esports;Breeze;Crypto Esports;s3mig0d;1ndra;soze;Anreit;AiyvaN;13:6;False;35:45;Saturday, July 24th, 7:30 PM CEST;Champions Tour CIS Stage 3: Challengers 2;https://www.twitch.tv/videos/1096659259?t=13117s;
-Attack;L;Crypto Esports;Split;deathwish;s3mig0d;1ndra;soze;Anreit;AiyvaN;7:13;False;38:57;Saturday, July 24th, 7:30 PM CEST;Champions Tour CIS Stage 3: Challengers 2;https://www.twitch.tv/videos/1096659259?t=13117s;
-Defense;L;Crypto Esports;Ascent;deathwish;s3mig0d;1ndra;soze;Anreit;AiyvaN;11:13;False;45:07;Saturday, July 24th, 7:30 PM CEST;Champions Tour CIS Stage 3: Challengers 2;https://www.twitch.tv/videos/1096659259?t=13117s;

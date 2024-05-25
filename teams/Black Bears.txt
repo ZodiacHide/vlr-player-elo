@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Stampede Gaming;Ascent;Stampede Gaming;titooh;huikgX;Jav1eh;cr1smeist3r;feLiZnOJkE;10:13;False;42:14;Wednesday, February 3rd, 11:00 PM CET;Champions Tour LATAM Stage 1: Challengers 2;url.net;
-Attack;W;Stampede Gaming;Haven;Stampede Gaming;titooh;huikgX;Jav1eh;cr1smeist3r;feLiZnOJkE;13:9;False;39:26;Wednesday, February 3rd, 11:00 PM CET;Champions Tour LATAM Stage 1: Challengers 2;url.net;
-Attack;L;Stampede Gaming;Split;Stampede Gaming;titooh;huikgX;Jav1eh;cr1smeist3r;feLiZnOJkE;8:13;False;40:33;Wednesday, February 3rd, 11:00 PM CET;Champions Tour LATAM Stage 1: Challengers 2;url.net;

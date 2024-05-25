@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Naura;Haven;Naura;KoNuS;BabciaJuzia;MAXIKING;Uncle;TajReX;6:13;False;45:59;Wednesday, October 14th, 7:30 PM CEST;Polish Esport Cup 2020;https://www.twitch.tv/videos/770150542?t=2h22m19s;
-Defense;L;Naura;Bind;Naura;KoNuS;BabciaJuzia;MAXIKING;Uncle;TajReX;4:13;False;26:06;Wednesday, October 14th, 7:30 PM CEST;Polish Esport Cup 2020;https://www.twitch.tv/videos/770150542?t=2h22m19s;

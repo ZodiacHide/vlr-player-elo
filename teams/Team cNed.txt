@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Team Fearoth;Split;Decider;cNed;m1tez;yT;Turko;deNc;7:13;False;38:18;Friday, December 11th, 7:00 PM CET;Logitech G Invitational;url.net;
-Defense;W;Team nookyyy;Bind;Decider;m1tez;yT;Turko;cNed;deNc;13:3;False;29:41;Friday, December 11th, 8:00 PM CET;Logitech G Invitational;url.net;
-Attack;W;Team RosieRiver;Bind;Decider;yT;deNc;m1tez;Turko;cNed;13:2;False;25:04;Friday, December 11th, 9:00 PM CET;Logitech G Invitational;url.net;
-Defense;L;Team Davidp;Ascent;Decider;deNc;cNed;yT;m1tez;Turko;11:13;False;48:28;Friday, December 11th, 9:50 PM CET;Logitech G Invitational;url.net;

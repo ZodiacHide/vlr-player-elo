@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Washed Players;Haven;Decider;StarWraith;HITBOXKING;Linepro;Fit1nho;blackelespanolito;8:13;False;-;Friday, June 5th, 1:00 PM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/641835980?t=0h38m34s;
-Attack;L;Ninjas in Pyjamas;Split;Decider;Linepro;StarWraith;blackelespanolito;Fit1nho;HITBOXKING;3:13;False;-;Friday, June 5th, 2:00 PM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/641835980?t=1h30m44s;
-Attack;W;Team Impakt;Ascent;Decider;HITBOXKING;StarWraith;Fit1nho;Linepro;blackelespanolito;13:6;False;-;Friday, June 5th, 3:00 PM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/641835980?t=2h20m52s;

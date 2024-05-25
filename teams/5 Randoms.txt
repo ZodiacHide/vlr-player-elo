@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Funkboings;Split;5 Randoms;Juanito;Muffin;Speekth;Mopix;unusuaL;9:13;False;41:55;Saturday, February 20th, 4:00 AM CET;Champions Tour LATAM Stage 1: Challengers 3;https://www.twitch.tv/videos/920617833?t=6h48m4s;
-Defense;L;Funkboings;Haven;5 Randoms;Juanito;Muffin;Speekth;Mopix;unusuaL;6:13;False;33:43;Saturday, February 20th, 4:00 AM CET;Champions Tour LATAM Stage 1: Challengers 3;https://www.twitch.tv/videos/920617833?t=6h48m4s;

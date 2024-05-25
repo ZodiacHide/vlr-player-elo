@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Cloud9 White;Haven;Decider;Abrvxas;D3V;feint;Ev0;mime;6:13;False;34:34;Tuesday, May 11th, 12:00 AM CEST;Nerd Street Gamers Summer Championship - Open 5;url.net;
-Attack;L;Noble;Haven;Slaughter House;D3V;Abrvxas;feint;Ev0;mime;1:13;False;24:06;Saturday, May 22nd, 8:00 PM CEST;Nerd Street Gamers Summer Championship - May Qualifier;url.net;
-Defense;L;Noble;Breeze;Slaughter House;D3V;Abrvxas;feint;Ev0;mime;8:13;False;33:26;Saturday, May 22nd, 8:00 PM CEST;Nerd Street Gamers Summer Championship - May Qualifier;url.net;

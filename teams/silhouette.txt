@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;W;Sailor Scouts;Split;Decider;Naomi;Laisha;starriebun;athxna;Boucharderino;13:9;False;39:42;Saturday, September 12th, 2:10 AM CEST;FTW Summer Showdown;url.net;
-Defense;L;Dignitas;Ascent;Dignitas;starriebun;Naomi;athxna;Laisha;Boucharderino;2:13;False;27:29;Sunday, September 13th, 12:35 AM CEST;FTW Summer Showdown;https://www.twitch.tv/videos/739271313?t=1h52m37s;
-Attack;L;Dignitas;Haven;Dignitas;starriebun;Naomi;athxna;Laisha;Boucharderino;7:13;False;33:14;Sunday, September 13th, 12:35 AM CEST;FTW Summer Showdown;https://www.twitch.tv/videos/739271313?t=1h52m37s;

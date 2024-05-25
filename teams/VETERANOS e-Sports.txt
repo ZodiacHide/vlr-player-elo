@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;QLASH;Split;Decider;Marinoz;Guardy;gon;SiirKje;KoKa;8:13;False;43:16;Tuesday, October 27th, 5:00 PM CET;NGL Open Cup;url.net;
-Defense;L;Gambit Esports;Haven;Decider;Marinoz;KoKa;Guardy;gon;SiirKje;3:13;False;30:40;Tuesday, October 27th, 6:00 PM CET;NGL Open Cup;url.net;
-Attack;L;Wizards Club;Bind;Decider;Marinoz;Guardy;KoKa;gon;SiirKje;8:13;False;45:30;Tuesday, October 27th, 8:00 PM CET;NGL Open Cup;url.net;
-Attack;W;S2V Esports;Split;Decider;Marinoz;Guardy;SiirKje;KoKa;gon;13:9;False;41:51;Tuesday, October 27th, 9:00 PM CET;NGL Open Cup;url.net;
-Defense;L;SKADE;Ascent;Decider;Marinoz;syyzz;Gabr1;Guardy;Neiker;11:13;False;49:22;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;

@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;ArkAngel;Bind;ArkAngel;Amiel;Breadpan;Tet;SHEANY;Dys4nia;4:13;False;32:29;Thursday, December 3rd, 6:15 AM CET;Mineski VxV;https://www.twitch.tv/videos/823929187?t=0h52m27s;
-Attack;L;ArkAngel;Split;NXP.Aether;Amiel;Breadpan;Tet;SHEANY;Dys4nia;10:13;False;44:03;Thursday, December 3rd, 6:15 AM CET;Mineski VxV;https://www.twitch.tv/videos/823929187?t=0h52m27s;
-Attack;L;6045Pirates;Bind;Decider;Amiel;Dys4nia;SHEANY;Tet;him1k00;12:14;True;52:00;Saturday, February 27th, 8:00 AM CET;Champions Tour Philippines Stage 1: Challengers 3;url.net;
-Defense;L;Swear To God;Split;Decider;Tet;Amiel;Dys4nia;SHEANY;him1k00;10:13;False;41:49;Sunday, February 28th, 8:00 AM CET;Champions Tour Philippines Stage 1: Challengers 3;url.net;

@@ -1,8 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;InFernal;Split;FFT;n0lif3r;hutji;keshandr;Ivan4ezz;Veryut1n;5:13;False;33:32;Monday, November 9th, 4:00 PM CET;First Strike: CIS;url.net;
-Attack;W;InFernal;Haven;FFT;n0lif3r;hutji;keshandr;Ivan4ezz;Veryut1n;13:7;False;43:27;Monday, November 9th, 4:00 PM CET;First Strike: CIS;url.net;
-Defense;W;InFernal;Bind;FFT;n0lif3r;hutji;keshandr;Ivan4ezz;Veryut1n;13:4;False;33:06;Monday, November 9th, 4:00 PM CET;First Strike: CIS;url.net;
-Defense;W;FiftyOne;Bind;FiftyOne;Veryut1n;n0lif3r;keshandr;Ivan4ezz;hutji;14:12;True;48:51;Thursday, November 19th, 4:00 PM CET;First Strike: CIS;url.net;
-Attack;W;FiftyOne;Split;FiftyOne;Veryut1n;n0lif3r;keshandr;Ivan4ezz;hutji;13:4;False;31:02;Thursday, November 19th, 4:00 PM CET;First Strike: CIS;url.net;
-Defense;L;Aim.Attack;Split;Aim.Attack;hutji;Veryut1n;keshandr;Ivan4ezz;n0lif3r;7:13;False;33:13;Friday, November 20th, 4:00 PM CET;First Strike: CIS;url.net;
-Attack;L;Aim.Attack;Ascent;Aim.Attack;hutji;Veryut1n;keshandr;Ivan4ezz;n0lif3r;11:13;False;50:54;Friday, November 20th, 4:00 PM CET;First Strike: CIS;url.net;

@@ -1,9 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;W;XSET;Bind;Flow State;Kurtis;STAMINA;Stealthy;Sympul;valyn;13:10;False;46:14;Thursday, November 12th, 2:00 AM CET;First Strike: North America;url.net;
-Defense;W;XSET;Haven;Flow State;Kurtis;STAMINA;Stealthy;Sympul;valyn;14:12;True;50:16;Thursday, November 12th, 2:00 AM CET;First Strike: North America;url.net;
-Attack;L;Knights;Ascent;Knights;Sympul;valyn;Kurtis;Stealthy;STAMINA;7:13;False;41:01;Thursday, November 12th, 9:00 PM CET;First Strike: North America;url.net;
-Defense;L;Knights;Split;Knights;Sympul;valyn;Kurtis;Stealthy;STAMINA;4:13;False;33:18;Thursday, November 12th, 9:00 PM CET;First Strike: North America;url.net;
-Attack;L;Rise;Ascent;Flow State;STAMINA;Stealthy;Kurtis;Sympul;valyn;4:13;False;30:14;Saturday, November 14th, 2:00 AM CET;First Strike: North America;url.net;
-Defense;L;Rise;Bind;Flow State;STAMINA;Stealthy;Kurtis;Sympul;valyn;7:13;False;38:54;Saturday, November 14th, 2:00 AM CET;First Strike: North America;url.net;
-Attack;L;FaZe Clan;Split;Flow State;b0ssy;Sympul;valyn;DENYA;Bewd;10:13;False;40:20;Friday, February 12th, 1:45 AM CET;Champions Tour North America Stage 1: Challengers 2;url.net;
-Defense;L;FaZe Clan;Ascent;Flow State;b0ssy;Sympul;valyn;DENYA;Bewd;5:13;False;27:47;Friday, February 12th, 1:45 AM CET;Champions Tour North America Stage 1: Challengers 2;url.net;

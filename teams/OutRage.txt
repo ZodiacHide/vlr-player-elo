@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Zero Zone;Ascent;OutRage;magl0r;SNA;KristA;MasH;ward3n;9:13;False;47:33;Saturday, July 24th, 5:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 2;https://www.twitch.tv/videos/1096662528?t=4112s;
-Defense;W;Zero Zone;Bind;Zero Zone;magl0r;SNA;KristA;MasH;ward3n;16:14;True;1:04:22;Saturday, July 24th, 5:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 2;https://www.twitch.tv/videos/1096662528?t=4112s;
-Attack;L;Zero Zone;Split;Zero Zone;magl0r;SNA;KristA;MasH;ward3n;6:13;False;38:02;Saturday, July 24th, 5:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 2;https://www.twitch.tv/videos/1096662528?t=4112s;

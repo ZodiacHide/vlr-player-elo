@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Keyd Stars;Haven;Decider;Magic;sant;Sasaki;boltiNxd;bUURST;1:13;False;26:49;Thursday, November 5th, 1:00 AM CET;VALORÃO Cup - Invitational;https://www.twitch.tv/videos/792149649?t=1h1m12s;
-Attack;L;Team oNe;Ascent;eRa Eternity;sant;Magic;Sasaki;boltiNxd;bUURST;6:13;False;34:47;Saturday, November 14th, 10:00 PM CET;First Strike: Brazil;https://www.twitch.tv/videos/802798984?t=6h5m20s;
-Defense;L;Team oNe;Split;eRa Eternity;sant;Magic;Sasaki;boltiNxd;bUURST;8:13;False;37:07;Saturday, November 14th, 10:00 PM CET;First Strike: Brazil;https://www.twitch.tv/videos/802798984?t=6h5m20s;

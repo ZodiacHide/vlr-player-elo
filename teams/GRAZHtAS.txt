@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Giants Gaming;Ascent;GRAZHtAS;Magicianas;Destrian;Dreamas;krea6on;fnnts1;7:13;False;38:15;Sunday, January 17th, 5:00 PM CET;LVP Rising Series #1;url.net;
-Attack;L;Giants Gaming;Bind;GRAZHtAS;Magicianas;Destrian;Dreamas;krea6on;fnnts1;11:13;False;49:25;Sunday, January 17th, 5:00 PM CET;LVP Rising Series #1;url.net;
-Attack;L;Giants Gaming;Icebox;Decider;teddy;Magicianas;krea6on;Dreamas;fnnts1;5:13;False;32:01;Thursday, June 10th, 5:00 PM CEST;LVP Rising Series #2;https://www.twitch.tv/videos/1051831779?t=0h32m39s;
-Defense;W;Team Queso;Bind;Decider;krea6on;Dreamas;fnnts1;Magicianas;teddy;13:9;False;39:00;Thursday, June 10th, 8:00 PM CEST;LVP Rising Series #2;https://www.twitch.tv/videos/1051831779?t=3h44m24s;
-Defense;L;SUPRMODE Gaming;Haven;Decider;fnnts1;Dreamas;teddy;krea6on;Magicianas;7:13;False;39:11;Thursday, June 10th, 9:00 PM CEST;LVP Rising Series #2;https://www.twitch.tv/videos/1051831779?t=4h41m1s;

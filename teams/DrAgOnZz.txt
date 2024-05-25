@@ -1,2 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Kamil Klein new chapter;Haven;Decider;y4stonO;shiddy;kemo;stephhhh;remi;7:13;False;37:21;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;

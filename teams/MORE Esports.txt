@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Fenerbahçe Esports;Haven;Fenerbahçe Esports;iXeonN;SHNAZNNNN;Surprise;EXTREMEE;foiz;10:13;False;49:00;Thursday, April 1st, 8:00 PM CEST;Champions Tour Turkey Stage 2: Challengers 1;url.net;
-Attack;L;Fenerbahçe Esports;Bind;Fenerbahçe Esports;iXeonN;SHNAZNNNN;Surprise;EXTREMEE;foiz;10:13;False;45:52;Thursday, April 1st, 8:00 PM CEST;Champions Tour Turkey Stage 2: Challengers 1;url.net;
-Attack;L;Oxygen Esports;Icebox;MORE Esports;EXTREMEE;SHNAZNNNN;foiz;Surprise;iXeonN;12:14;True;57:30;Wednesday, April 7th, 7:45 PM CEST;Champions Tour Turkey Stage 2: Challengers 1;https://www.twitch.tv/videos/978665805?t=3h43m5s;
-Defense;L;Oxygen Esports;Bind;Oxygen Esports;EXTREMEE;SHNAZNNNN;foiz;Surprise;iXeonN;7:13;False;38:31;Wednesday, April 7th, 7:45 PM CEST;Champions Tour Turkey Stage 2: Challengers 1;https://www.twitch.tv/videos/978665805?t=3h43m5s;

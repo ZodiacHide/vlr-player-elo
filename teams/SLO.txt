@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Dire Wolves;Bind;Decider;PoyQ;silverlining;Sneasing;klebthegadget;Byun;5:13;False;34:48;Saturday, November 14th, 7:00 AM CET;First Strike: Oceania;url.net;
-Defense;L;Avant;Haven;Decider;silverlining;klebthegadget;Byun;Sneasing;PoyQ;3:13;False;33:40;Saturday, November 14th, 9:10 AM CET;First Strike: Oceania;url.net;
-Attack;L;RipNTear;Bind;Decider;klebthegadget;Sneasing;Pqyu;Byun;silverlining;9:13;False;50:39;Sunday, November 15th, 7:00 AM CET;First Strike: Oceania;url.net;

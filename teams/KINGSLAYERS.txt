@@ -1,9 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;W;Occamy Omega;Bind;KINGSLAYERS;bLonded;PandaWGF;2ez4MPI;Arixa;iShawshanks;13:4;False;34:23;Wednesday, December 2nd, 9:30 AM CET;First Strike: Indonesia;url.net;
-Attack;W;Occamy Omega;Ascent;KINGSLAYERS;bLonded;PandaWGF;2ez4MPI;Arixa;iShawshanks;13:3;False;29:20;Wednesday, December 2nd, 9:30 AM CET;First Strike: Indonesia;url.net;
-Attack;L;NXL LIGAGAME;Ascent;KINGSLAYERS;Arixa;PandaWGF;2ez4MPI;bLonded;iShawshanks;8:13;False;44:51;Friday, December 4th, 9:30 AM CET;First Strike: Indonesia;https://youtu.be/B_Qtil_VNfA?t=3464;
-Attack;L;NXL LIGAGAME;Icebox;KINGSLAYERS;Arixa;PandaWGF;2ez4MPI;bLonded;iShawshanks;0:0;False;-;Friday, December 4th, 9:30 AM CET;First Strike: Indonesia;https://youtu.be/B_Qtil_VNfA?t=3464;
-Defense;L;Morph Impact;Split;Decider;PandaWGF;Arixa;Luii;bLonded;FLoki;11:13;False;47:17;Sunday, January 31st, 2:00 PM CET;Champions Tour Indonesia Stage 1: Challengers 1;url.net;
-Attack;L;BOOM Esports;Haven;KINGSLAYERS;Arixa;Luii;FLoki;bLonded;PandaWGF;14:16;True;58:35;Friday, April 2nd, 8:30 AM CEST;Champions Tour Indonesia Stage 2: Challengers 1;url.net;
-Defense;W;BOOM Esports;Ascent;BOOM Esports;Arixa;Luii;FLoki;bLonded;PandaWGF;13:9;False;41:33;Friday, April 2nd, 8:30 AM CEST;Champions Tour Indonesia Stage 2: Challengers 1;url.net;
-Attack;L;BOOM Esports;Bind;KINGSLAYERS;Arixa;Luii;FLoki;bLonded;PandaWGF;10:13;False;45:23;Friday, April 2nd, 8:30 AM CEST;Champions Tour Indonesia Stage 2: Challengers 1;url.net;

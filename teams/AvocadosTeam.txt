@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-None;None;PurpleCobras;None;None;Player A1;Player A2;Player A3;Player A4;Player A5;0:0;False;00:00;Tuesday, August 25th, 5:00 PM CEST;Guardianes GG Series;None;
-None;None;ClubDecennium;None;None;Player B1;Player B2;Player B3;Player B4;Player B5;0:0;False;00:00;Wednesday, August 26th, 6:00 PM CEST;Guardianes GG Series;None;
-None;None;ex-GiantsGaming;None;None;Player B1;Player B2;Player B3;Player B4;Player B5;0:0;False;00:00;Wednesday, August 26th, 7:00 PM CEST;Guardianes GG Series;None;

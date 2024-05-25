@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;W;E-Xolos LAZER;Ascent;Decider;Mempho;gabrieloN;pompzN;FRANKG;Veckz;13:6;False;38:28;Tuesday, July 27th, 11:00 PM CEST;Champions Tour LATAM Stage 3: Challengers 2;https://www.twitch.tv/videos/1099989526?t=0h32m52s;
-Defense;L;Border Monsters;Icebox;Border Monsters;Mempho;pompzN;Veckz;gabrieloN;FRANKG;4:13;False;29:15;Thursday, July 29th, 11:00 PM CEST;Champions Tour LATAM Stage 3: Challengers 2;url.net;
-Defense;L;Border Monsters;Bind;Border Monsters;Mempho;pompzN;Veckz;gabrieloN;FRANKG;3:13;False;31:58;Thursday, July 29th, 11:00 PM CEST;Champions Tour LATAM Stage 3: Challengers 2;url.net;
-Defense;L;E-Xolos LAZER;Haven;E-Xolos LAZER;pompzN;Mempho;gabrieloN;FRANKG;Veckz;5:13;False;32:31;Friday, July 30th, 11:00 PM CEST;Champions Tour LATAM Stage 3: Challengers 2;url.net;
-Attack;L;E-Xolos LAZER;Icebox;E-Xolos LAZER;pompzN;Mempho;gabrieloN;FRANKG;Veckz;3:13;False;26:22;Friday, July 30th, 11:00 PM CEST;Champions Tour LATAM Stage 3: Challengers 2;url.net;

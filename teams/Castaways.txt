@@ -1,9 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Cloud9 White;Haven;Castaways;Shockah;jen;Starryy;Kay;leah;2:13;False;28:18;Saturday, September 25th, 12:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;
-Attack;L;Cloud9 White;Ascent;Castaways;Shockah;jen;Starryy;Kay;leah;0:13;False;22:40;Saturday, September 25th, 12:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;
-Attack;W;TLP Peach;Ascent;Castaways;Shockah;Kay;jen;Starryy;leah;13:4;False;38:37;Sunday, September 26th, 3:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;
-Defense;W;TLP Peach;Icebox;Castaways;Shockah;Kay;jen;Starryy;leah;13:8;False;41:44;Sunday, September 26th, 3:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;
-Attack;L;Shopify Rebellion GC;Icebox;Castaways;jen;Kay;Shockah;leah;Starryy;6:13;False;39:43;Sunday, September 26th, 9:00 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
-Defense;L;Shopify Rebellion GC;Haven;Castaways;jen;Kay;Shockah;leah;Starryy;3:13;False;28:18;Sunday, September 26th, 9:00 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
-Attack;L;+22;Ascent;+22;jen;leah;Starryy;Shockah;Kay;3:13;False;29:40;Sunday, September 26th, 11:50 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
-Defense;L;+22;Bind;+22;jen;leah;Starryy;Shockah;Kay;5:13;False;36:45;Sunday, September 26th, 11:50 PM CEST;Champions Tour Game Changers Series III: North America;url.net;

@@ -1,8 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Team Portugal;Bind;Decider;Flights;SoMarcus;ONSCREEN;ConnorBall;KIRBZ;12:14;True;53:48;Saturday, November 7th, 2:30 PM CET;BLAST Spike Nations;https://www.twitch.tv/videos/794744074?t=4h9m11s;
-Attack;W;Team DACH;Bind;Decider;SoMarcus;Flights;ONSCREEN;ConnorBall;KIRBZ;13:10;False;46:02;Saturday, November 7th, 4:30 PM CET;BLAST Spike Nations;url.net;
-Defense;W;Team CIS;Haven;Decider;Flights;ONSCREEN;SoMarcus;KIRBZ;ConnorBall;15:13;True;55:31;Sunday, November 8th, 11:00 AM CET;BLAST Spike Nations;https://www.twitch.tv/videos/795907438?t=0h33m58s;
-Defense;W;Team Nordics;Haven;Decider;Flights;SoMarcus;ONSCREEN;ConnorBall;KIRBZ;13:10;False;47:11;Sunday, November 8th, 2:00 PM CET;BLAST Spike Nations;https://www.twitch.tv/videos/795907438?t=3h35m32s;
-Defense;W;Team Turkey;Haven;Decider;ONSCREEN;Flights;SoMarcus;KIRBZ;ConnorBall;13:10;False;45:55;Sunday, November 8th, 3:30 PM CET;BLAST Spike Nations;https://www.twitch.tv/videos/795907438?t=5h7m39s;
-Defense;L;Team Portugal;Bind;Team Portugal;Flights;ONSCREEN;SoMarcus;KIRBZ;ConnorBall;3:13;False;34:47;Sunday, November 8th, 6:00 PM CET;BLAST Spike Nations;https://www.twitch.tv/videos/795907439?t=7h56m25s;
-Defense;L;Team Portugal;Haven;Team UK;Flights;ONSCREEN;SoMarcus;KIRBZ;ConnorBall;4:13;False;33:09;Sunday, November 8th, 6:00 PM CET;BLAST Spike Nations;https://www.twitch.tv/videos/795907439?t=7h56m25s;

@@ -1,7 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;NUTURN;Bind;NUTURN;Sylvan;R0K3T;Sunday;EUROPHA;GODLIKE;9:13;False;44:27;Friday, April 9th, 12:20 PM CEST;Champions Tour Korea Stage 2: Challengers;https://www.twitch.tv/videos/980888551?t=3h7m3s;
-Attack;L;NUTURN;Ascent;AUTOCRACY;Sylvan;R0K3T;Sunday;EUROPHA;GODLIKE;11:13;False;47:56;Friday, April 9th, 12:20 PM CEST;Champions Tour Korea Stage 2: Challengers;https://www.twitch.tv/videos/980888551?t=3h7m3s;
-Attack;W;Food Eat;Bind;AUTOCRACY;Try;R0K3T;Sylvan;GODLIKE;EUROPHA;13:6;False;39:08;Friday, April 16th, 9:30 AM CEST;Champions Tour Korea Stage 2: Challengers;https://www.twitch.tv/videos/989311060?t=0h46m36s;
-Attack;W;Food Eat;Ascent;Food Eat;Try;R0K3T;Sylvan;GODLIKE;EUROPHA;13:7;False;37:33;Friday, April 16th, 9:30 AM CEST;Champions Tour Korea Stage 2: Challengers;https://www.twitch.tv/videos/989311060?t=0h46m36s;
-Attack;L;DAMWON Gaming;Bind;DAMWON Gaming;Sunday;R0K3T;EUROPHA;Sylvan;GODLIKE;16:18;True;1:04:44;Saturday, April 24th, 1:30 PM CEST;Champions Tour Korea Stage 2: Challengers;https://www.twitch.tv/videos/998942077?t=4h20m24s;
-Attack;L;DAMWON Gaming;Ascent;AUTOCRACY;Sunday;R0K3T;EUROPHA;Sylvan;GODLIKE;7:13;False;38:53;Saturday, April 24th, 1:30 PM CEST;Champions Tour Korea Stage 2: Challengers;https://www.twitch.tv/videos/998942077?t=4h20m24s;

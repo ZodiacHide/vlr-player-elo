@@ -1,8 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;unsigned;Bind;unsigned;Monstrum;CRZY;xyta;Peter;benzki;4:13;False;32:07;Saturday, October 10th, 1:00 PM CEST;epic31 Online;url.net;
-Defense;L;unsigned;Split;unsigned;Monstrum;CRZY;xyta;Peter;benzki;12:14;True;55:50;Saturday, October 10th, 1:00 PM CEST;epic31 Online;url.net;
-Defense;L;HSDIRR;Bind;Decider;Triux;xyta;Hyperzxz;Monstrum;benzki;2:13;False;27:41;Thursday, November 12th, 6:10 PM CET;First Strike: Europe;https://www.twitch.tv/videos/800455380;
-Defense;W;InetGamer;Ascent;Decider;Monstrum;benzki;xyta;Hyperzxz;Triux;13:6;False;48:56;Monday, November 16th, 6:00 PM CET;First Strike: Europe;url.net;
-Defense;L;Entropiq;Ascent;Decider;Monstrum;benzki;Hyperzxz;xyta;Triux;4:13;False;44:03;Tuesday, November 17th, 5:00 PM CET;First Strike: Europe;url.net;
-Defense;W;Entropiq Bravo;Ascent;Decider;benzki;Monstrum;xyta;Hyperzxz;Triux;13:10;False;46:08;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;
-Defense;L;L'institut;Split;Decider;benzki;Monstrum;xyta;Triux;Hyperzxz;7:13;False;37:44;Thursday, November 19th, 6:00 PM CET;First Strike: Europe;url.net;

@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Team Mixwell;Bind;Decider;KovaQ;gobb;musashi;NeXie;Mqwed;12:14;True;40:41;Saturday, December 12th, 3:00 PM CET;Swisscom Gaming Cup;url.net;
-Defense;W;Team Happy;Bind;Team Happy;musashi;KovaQ;Mqwed;NeXie;gobb;13:2;False;24:51;Saturday, December 12th, 5:30 PM CET;Swisscom Gaming Cup;url.net;
-Attack;W;Team Happy;Split;Team Happy;musashi;KovaQ;Mqwed;NeXie;gobb;13:3;False;26:58;Saturday, December 12th, 5:30 PM CET;Swisscom Gaming Cup;url.net;

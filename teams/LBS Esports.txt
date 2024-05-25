@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;W;Wygers Argentina;Bind;LBS Esports;nu1t;Pyorn;sh0twell;sdufen;Cotokz0R;13:9;False;41:04;Sunday, September 6th, 12:30 AM CEST;W Click Pro Series Invitational;url.net;
-Attack;W;Wygers Argentina;Haven;LBS Esports;nu1t;Pyorn;sh0twell;sdufen;Cotokz0R;13:4;False;27:34;Sunday, September 6th, 12:30 AM CEST;W Click Pro Series Invitational;url.net;
-Attack;W;Catolica Esports;Bind;Decider;Capi;angrykorea;LOW;guishorro;xcz;13:10;False;41:06;Tuesday, September 22nd, 4:00 AM CEST;Sneaky Major;url.net;
-Attack;L;DKS Esports;Ascent;Decider;Capi;xcz;LOW;angrykorea;guishorro;10:13;False;44:50;Tuesday, September 29th, 3:00 AM CEST;Sneaky Major;url.net;
-Defense;L;Dylema Gaming;Bind;Decider;angrykorea;Capi;xcz;guishorro;LOW;8:13;False;44:43;Tuesday, October 6th, 4:20 AM CEST;Sneaky Major;https://www.twitch.tv/videos/761918241?t=1h9m16s;

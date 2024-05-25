@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;HIGHPOWER;Bind;volei e peteca;mxm;pdr;m4ndzin;Made;oWchet;2:13;False;32:26;Tuesday, July 13th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 2;url.net;
-Attack;W;HIGHPOWER;Icebox;volei e peteca;mxm;pdr;m4ndzin;Made;oWchet;13:7;False;37:41;Tuesday, July 13th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 2;url.net;
-Defense;L;HIGHPOWER;Ascent;volei e peteca;mxm;pdr;m4ndzin;Made;oWchet;14:16;True;1:11:47;Tuesday, July 13th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 2;url.net;

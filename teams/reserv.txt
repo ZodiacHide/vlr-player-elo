@@ -1,2 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;HypHypHyp;Haven;Decider;ANGE1;leakeN;s3mig0d;dinkzj;FRESHS4Y;11:13;False;-;Friday, May 8th, 2:30 PM CEST;Fnatic Proving Grounds;url.net;

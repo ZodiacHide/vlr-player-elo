@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;G2 Esports;Ascent;G2 Esports;tawwe;ArkenTANK;givar;SevenOfNine;sifen;5:13;False;31:39;Saturday, April 10th, 9:00 PM CEST;Champions Tour Europe Stage 2: Challengers 2;https://www.twitch.tv/videos/982529663?t=03h04m43s;
-Attack;L;G2 Esports;Icebox;G2 Esports;tawwe;ArkenTANK;givar;SevenOfNine;sifen;1:13;False;18:37;Saturday, April 10th, 9:00 PM CEST;Champions Tour Europe Stage 2: Challengers 2;https://www.twitch.tv/videos/982529663?t=03h04m43s;
-Defense;L;NoPoaching;Icebox;qz;SevenOfNine;tawwe;puggy;sifen;givar;7:13;False;35:46;Saturday, May 22nd, 6:30 PM CEST;Rix.GG May Open;url.net;
-Defense;L;NoPoaching;Haven;qz;SevenOfNine;tawwe;puggy;sifen;givar;3:13;False;28:18;Saturday, May 22nd, 6:30 PM CEST;Rix.GG May Open;url.net;

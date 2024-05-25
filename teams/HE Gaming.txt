@@ -1,9 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Dominus Esports;Ascent;HE Gaming;AnkaraMessi;AzBonn;BánhMj;Ngaos;egaR;8:13;False;45:35;Thursday, August 5th, 2:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;url.net;
-Attack;W;Dominus Esports;Haven;Dominus Esports;AnkaraMessi;AzBonn;BánhMj;Ngaos;egaR;13:3;False;35:53;Thursday, August 5th, 2:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;url.net;
-Defense;W;Dominus Esports;Icebox;Dominus Esports;AnkaraMessi;AzBonn;BánhMj;Ngaos;egaR;13:11;False;47:56;Thursday, August 5th, 2:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;url.net;
-Defense;L;FEARUS;Bind;HE Gaming;AzBonn;AnkaraMessi;egaR;BánhMj;Ngaos;12:14;True;50:01;Friday, August 6th, 2:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;https://www.youtube.com/watch?v=W4IgEW1I2b8&list=PLwqsbe7cBAGpyUJAwd6MuVkKsgR9eZNBt&index=6;
-Defense;L;FEARUS;Ascent;HE Gaming;AzBonn;AnkaraMessi;egaR;BánhMj;Ngaos;11:13;False;44:43;Friday, August 6th, 2:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;https://www.youtube.com/watch?v=Cwcl41klLzk&list=PLwqsbe7cBAGpyUJAwd6MuVkKsgR9eZNBt&index=5;
-Defense;W;YAMAGAN;Bind;YAMAGAN;AzBonn;Ngaos;AnkaraMessi;BánhMj;egaR;15:13;True;57:18;Saturday, August 7th, 1:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;url.net;
-Defense;L;YAMAGAN;Icebox;HE Gaming;AzBonn;Ngaos;AnkaraMessi;BánhMj;egaR;7:13;False;34:29;Saturday, August 7th, 1:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;url.net;
-Attack;L;YAMAGAN;Ascent;YAMAGAN;AzBonn;Ngaos;AnkaraMessi;BánhMj;egaR;2:13;False;28:37;Saturday, August 7th, 1:00 PM CEST;Champions Tour Vietnam Stage 3: Challengers 3;url.net;

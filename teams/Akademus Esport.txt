@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;InetGamer;Bind;Decider;Mezoo;MichelCastr0;SimteK;IZIX;Aba;6:13;False;36:54;Monday, November 9th, 6:00 PM CET;First Strike: Europe;url.net;
-Defense;L;Wizards Club;Haven;Decider;Aba;Mezoo;MichelCastr0;IZIX;SimteK;5:13;False;35:28;Wednesday, November 11th, 6:00 PM CET;First Strike: Europe;url.net;
-Attack;L;PuR eSport;Haven;Decider;IZIX;Mezoo;Aba;REZ;SimteK;8:13;False;40:44;Wednesday, November 18th, 5:00 PM CET;First Strike: Europe;url.net;

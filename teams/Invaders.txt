@@ -1,6 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Rugratz;Bind;Decider;Player B1;Player B2;Player B3;Player B4;Player B5;10:13;False;-;Saturday, June 13th, 7:00 PM CEST;Knights Invitational;url.net;
-Attack;L;Gen.G;TBD;Decider;Player B1;Player B2;Player B3;Player B4;Player B5;4:13;False;-;Saturday, June 13th, 8:00 PM CEST;Knights Invitational;url.net;
-Defense;L;Charlotte Phoenix;TBD;Decider;Player A1;Player A2;Player A3;Player A4;Player A5;9:13;False;-;Saturday, June 13th, 9:00 PM CEST;Knights Invitational;url.net;
-Attack;L;Team Lightning;Haven;Team Lightning;Mahdawii;Falez;gloxo;F0RTEXX4T;rey;14:16;True;58:40;Monday, April 19th, 9:30 PM CEST;Strike Arabia Championship: Season 1;url.net;
-Defense;L;Team Lightning;Bind;Team Lightning;Mahdawii;Falez;gloxo;F0RTEXX4T;rey;1:13;False;27:21;Monday, April 19th, 9:30 PM CEST;Strike Arabia Championship: Season 1;url.net;

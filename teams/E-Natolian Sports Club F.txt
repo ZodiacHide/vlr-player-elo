@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;THE ORIGINALS;Ascent;E-Natolian Sports Club F;Veralin;Piuv;Bint;Eospoine;daffy;1:13;False;25:38;Wednesday, September 29th, 7:00 PM CEST;Champions Tour Game Changers Series I: EMEA;url.net;
-Attack;L;THE ORIGINALS;Haven;E-Natolian Sports Club F;Veralin;Piuv;Bint;Eospoine;daffy;2:13;False;29:24;Wednesday, September 29th, 7:00 PM CEST;Champions Tour Game Changers Series I: EMEA;url.net;

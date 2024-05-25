@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;ISOL-BULIL;Bind;Decider;QUERNI;bmblbe;DcTzR;FRESHY;fir;2:13;False;29:24;Friday, July 31st, 8:00 PM CEST;Mandatory.gg Cup #2;url.net;
-Defense;W;UCAM Esports Club;Split;Decider;Raymon;Leare;Alyx;Marw0ll;Nagi;14:12;True;53:43;Tuesday, November 17th, 5:00 PM CET;First Strike: Europe;url.net;
-Defense;W;Dawn of Stars;Ascent;Decider;Alyx;Raymon;Nagi;Leare;Marw0ll;13:11;False;44:33;Tuesday, November 17th, 6:15 PM CET;First Strike: Europe;url.net;
-Attack;L;Purple Cobras;Split;Decider;Leare;Alyx;Marw0ll;Raymon;Nagi;12:14;True;51:08;Friday, November 20th, 5:00 PM CET;First Strike: Europe;url.net;

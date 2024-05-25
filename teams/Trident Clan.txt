@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;W;tyeasy;Haven;Trident Clan;FreeD;w3z1k;amidib;Y4tagan;Raiden;13:5;False;40:02;Thursday, February 25th, 6:20 PM CET;Champions Tour CIS Stage 1: Challengers 2;https://www.twitch.tv/videos/927818356?t=03h20m13s;
-Defense;L;tyeasy;Bind;tyeasy;FreeD;w3z1k;amidib;Y4tagan;Raiden;11:13;False;54:25;Thursday, February 25th, 6:20 PM CET;Champions Tour CIS Stage 1: Challengers 2;https://www.twitch.tv/videos/927818356?t=03h20m13s;
-Attack;L;tyeasy;Split;Trident Clan;FreeD;w3z1k;amidib;Y4tagan;Raiden;3:13;False;30:56;Thursday, February 25th, 6:20 PM CET;Champions Tour CIS Stage 1: Challengers 2;https://www.twitch.tv/videos/927818356?t=03h20m13s;

@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;CBT Gaming;Bind;Shi Shui Wen;mikasa;YungEn;Link;twistzz;ra1nYu;1:13;False;26:24;Friday, April 2nd, 12:00 PM CEST;Champions Tour Hong Kong & Taiwan Stage 2: Challengers 1;url.net;
-Attack;L;CBT Gaming;Ascent;Shi Shui Wen;mikasa;YungEn;Link;twistzz;ra1nYu;4:13;False;29:49;Friday, April 2nd, 12:00 PM CEST;Champions Tour Hong Kong & Taiwan Stage 2: Challengers 1;url.net;
-Attack;L;All Born to Clutch;Haven;Decider;Link;YungEn;mikasa;twistzz;ra1nYu;5:13;False;36:36;Sunday, April 11th, 2:00 PM CEST;Champions Tour Hong Kong & Taiwan Stage 2: Challengers 2;url.net;

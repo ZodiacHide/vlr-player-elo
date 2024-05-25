@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Kanga Esports;Split;Kanga Esports;Nation;cjh;DIEZAY;taxx;azoh;4:13;False;34:35;Friday, February 12th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/910837185?t=0h15m32s;
-Defense;L;Kanga Esports;Bind;Kanga Esports;Nation;cjh;DIEZAY;taxx;azoh;10:13;False;40:46;Friday, February 12th, 9:00 AM CET;Oceania Tour: Stage 01;https://www.twitch.tv/videos/910837185?t=0h15m32s;
-Attack;L;ex-EXO Clan;Haven;Grinch Gang;DIEZAY;azoh;Klockzy;Yuna;taxx;4:13;False;29:43;Friday, February 26th, 9:00 AM CET;Oceania Tour: Stage 01;url.net;
-Defense;L;ex-EXO Clan;Bind;Grinch Gang;DIEZAY;azoh;Klockzy;Yuna;taxx;12:14;True;48:36;Friday, February 26th, 9:00 AM CET;Oceania Tour: Stage 01;url.net;

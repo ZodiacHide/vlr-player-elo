@@ -1,7 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;W;Reckoning Esports;Bind;Team Cohesion;Con3;f1redup;clouda;SKwow;naikzera;13:9;False;46:13;Friday, September 3rd, 10:30 AM CEST;Yuvin Valorant Invitational Cup;url.net;
-Attack;W;Reckoning Esports;Haven;Team Cohesion;Con3;f1redup;clouda;SKwow;naikzera;13:10;False;49:46;Friday, September 3rd, 10:30 AM CEST;Yuvin Valorant Invitational Cup;url.net;
-Defense;L;Team Valor;Haven;Team Cohesion;Con3;f1redup;omkar09;clouda;SKwow;3:13;False;27:19;Saturday, September 4th, 3:30 PM CEST;Yuvin Valorant Invitational Cup;url.net;
-Defense;L;Team Valor;Ascent;Team Cohesion;Con3;f1redup;omkar09;clouda;SKwow;8:13;False;37:47;Saturday, September 4th, 3:30 PM CEST;Yuvin Valorant Invitational Cup;url.net;
-Defense;L;Enigma Gaming;Haven;Team Cohesion;SKwow;Con3;omkar09;naikzera;f1redup;5:13;False;34:52;Sunday, September 5th, 11:45 AM CEST;Yuvin Valorant Invitational Cup;url.net;
-Defense;L;Enigma Gaming;Icebox;Team Cohesion;SKwow;Con3;omkar09;naikzera;f1redup;7:13;False;34:31;Sunday, September 5th, 11:45 AM CEST;Yuvin Valorant Invitational Cup;url.net;

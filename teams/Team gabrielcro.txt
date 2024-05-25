@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Team ocheon2;Haven;Decider;gabrielcro;aimhero;iNTRO;RyZzi;mirdayo;7:13;False;-;Saturday, June 6th, 5:00 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642612128?t=0h26m3s;
-Defense;L;Team juankorea;Ascent;Decider;gabrielcro;aimhero;iNTRO;RyZzi;mirdayo;0:0;False;-;Saturday, June 6th, 6:30 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642598006?t=1h55m30s;
-Defense;L;Team staxvlrt;Haven;Decider;gabrielcro;aimhero;iNTRO;RyZzi;mirdayo;3:13;False;-;Saturday, June 6th, 7:30 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/642613374?t=2h40m33s;

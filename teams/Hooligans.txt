@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Team SMG;Bind;Team SMG;kael;xfathan;EmiRR;Nafzai;homie2j;6:13;False;33:27;Saturday, January 30th, 6:30 AM CET;Champions Tour Malaysia & Singapore Stage 1: Challengers 1;url.net;
-Attack;L;Team SMG;Split;Team SMG;kael;xfathan;EmiRR;Nafzai;homie2j;6:13;False;32:01;Saturday, January 30th, 6:30 AM CET;Champions Tour Malaysia & Singapore Stage 1: Challengers 1;url.net;

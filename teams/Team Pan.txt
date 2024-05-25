@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Team Calango;Haven;Decider;pannshi;NAK;LASERS;LUCASAPE;BAIANOLOL;6:13;False;-;Thursday, June 25th, 3:10 AM CEST;Fusion New Rivals;url.net;
-Attack;L;Bottom Fraggers;Haven;Decider;pannshi;NAK;LASERS;LUCASAPE;BAIANOLOL;2:13;False;-;Thursday, June 25th, 5:10 AM CEST;Fusion New Rivals;url.net;

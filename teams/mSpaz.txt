@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Phoenix1;Bind;Decider;pRDTR;1nguyen;AYJIN;Ematics;Nnyquil;5:13;False;29:26;Saturday, December 26th, 7:00 PM CET;Nerd Street Gamers December Monthly;url.net;
-Attack;L;Prospects;Haven;mSpaz;1nguyen;pRDTR;Ematics;Nnyquil;AYJIN;3:13;False;28:37;Saturday, December 26th, 8:00 PM CET;Nerd Street Gamers December Monthly;https://www.twitch.tv/videos/850585930?t=1h16m17s;
-Defense;L;Prospects;Ascent;mSpaz;1nguyen;pRDTR;Ematics;Nnyquil;AYJIN;14:16;True;49:54;Saturday, December 26th, 8:00 PM CET;Nerd Street Gamers December Monthly;https://www.twitch.tv/videos/850585930?t=1h16m17s;

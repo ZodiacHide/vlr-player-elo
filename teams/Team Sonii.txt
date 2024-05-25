@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Sentinels;Haven;Team Sonii;sonii;Swisher;ROY;thief;anger;0:0;False;-;Monday, May 4th, 7:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;
-Attack;L;Sentinels;Bind;Team Sonii;sonii;Swisher;ROY;thief;anger;0:0;False;-;Monday, May 4th, 7:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;
-Defense;L;Team Kurt;Bind;Decider;sonii;Swisher;ROY;thief;anger;0:0;False;-;Monday, May 4th, 9:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;
-Attack;L;mouseSpaz;Bind;Decider;sonii;Swisher;ROY;thief;anger;0:0;False;-;Monday, May 4th, 11:00 PM CEST;T1 x Nerd Street Gamers Invitational;url.net;

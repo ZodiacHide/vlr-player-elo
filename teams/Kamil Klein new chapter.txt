@@ -1,7 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;W;Arctic;Haven;Decider;yerk;ROUSIK;foxoé;Alfo;file;13:10;False;42:50;Thursday, November 12th, 6:10 PM CET;First Strike: Europe;url.net;
-Defense;L;Team Liquid;Split;Decider;file;foxoé;Alfo;ROUSIK;yerk;1:13;False;25:19;Friday, November 13th, 5:00 PM CET;First Strike: Europe;url.net;
-Attack;W;No Teeth;Haven;Decider;yerk;foxoé;file;ROUSIK;Alfo;13:7;False;36:39;Monday, November 16th, 6:00 PM CET;First Strike: Europe;url.net;
-Attack;W;DrAgOnZz;Haven;Decider;yerk;ROUSIK;Alfo;file;foxoé;13:7;False;37:21;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;
-Defense;L;Purple Cobras;Bind;Decider;ROUSIK;file;yerk;foxoé;Alfo;3:13;False;28:52;Thursday, November 19th, 6:00 PM CET;First Strike: Europe;url.net;
-Attack;L;Entropiq Bravo;Haven;Decider;ROUSIK;xDunno;foxoé;file;brinq;7:13;False;40:20;Monday, December 7th, 8:00 PM CET;HyperX Valorant Nightcup;url.net;

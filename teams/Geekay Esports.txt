@@ -1,7 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Fox Gaming;Haven;Fox Gaming;vAgue;aimhunterr;kasper;Dutch;INFESTOR;11:13;False;-;Wednesday, September 22nd, 12:00 PM CEST;Strike Arabia Championship: Finals;url.net;
-Attack;W;Fox Gaming;Icebox;Geekay Esports;vAgue;aimhunterr;kasper;Dutch;INFESTOR;13:10;False;-;Wednesday, September 22nd, 12:00 PM CEST;Strike Arabia Championship: Finals;url.net;
-Attack;L;Fox Gaming;Bind;Geekay Esports;vAgue;aimhunterr;kasper;Dutch;INFESTOR;7:13;False;-;Wednesday, September 22nd, 12:00 PM CEST;Strike Arabia Championship: Finals;url.net;
-Attack;L;NASR Esports;Haven;Geekay Esports;vAgue;Dutch;aimhunterr;kasper;INFESTOR;5:13;False;39:17;Thursday, September 23rd, 3:00 PM CEST;Strike Arabia Championship: Finals;https://www.twitch.tv/videos/1156855163?t=00h50m51s;
-Defense;W;NASR Esports;Split;NASR Esports;vAgue;Dutch;aimhunterr;kasper;INFESTOR;13:8;False;43:59;Thursday, September 23rd, 3:00 PM CEST;Strike Arabia Championship: Finals;https://www.twitch.tv/videos/1156855163?t=00h50m51s;
-Defense;L;NASR Esports;Bind;NASR Esports;vAgue;Dutch;aimhunterr;kasper;INFESTOR;9:13;False;43:39;Thursday, September 23rd, 3:00 PM CEST;Strike Arabia Championship: Finals;https://www.twitch.tv/videos/1156855163?t=00h50m51s;

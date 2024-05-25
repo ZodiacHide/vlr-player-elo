@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Finest;Icebox;LUNARISs;Dawn;ri4d;starkk;mikigoalie;bishop;6:13;False;32:06;Sunday, September 26th, 5:00 PM CEST;LVP Rising Series #4;url.net;
-Defense;L;Finest;Ascent;LUNARISs;Dawn;ri4d;starkk;mikigoalie;bishop;0:13;False;22:54;Sunday, September 26th, 5:00 PM CEST;LVP Rising Series #4;url.net;

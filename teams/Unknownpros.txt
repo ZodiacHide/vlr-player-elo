@@ -1,5 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;W;Unique;Haven;Unique;Surprise;Kipperman;SHNAZNNNN;duhax;EXTREMEE;13:0;False;25:24;Thursday, July 22nd, 5:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 2;https://www.twitch.tv/videos/1094605065?t=0h25m6s;
-Defense;W;Unique;Ascent;Unique;Surprise;Kipperman;SHNAZNNNN;duhax;EXTREMEE;13:6;False;44:01;Thursday, July 22nd, 5:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 2;https://www.twitch.tv/videos/1094605065?t=0h25m6s;
-Defense;L;RARE Esports;Ascent;Unknownpros;SHNAZNNNN;Kipperman;EXTREMEE;Surprise;duhax;6:13;False;32:27;Thursday, July 22nd, 7:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 2;https://www.twitch.tv/videos/1094605065?t=2h27m23s;
-Attack;L;RARE Esports;Icebox;Unknownpros;SHNAZNNNN;Kipperman;EXTREMEE;Surprise;duhax;7:13;False;34:15;Thursday, July 22nd, 7:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 2;https://www.twitch.tv/videos/1094605065?t=2h27m23s;

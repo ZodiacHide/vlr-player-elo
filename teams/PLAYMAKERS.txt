@@ -1,8 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-None;None;showlevel;None;None;Player B1;Player B2;Player B3;Player B4;Player B5;0:0;False;00:00;Saturday, July 11th, 5:00 PM CEST;Guardianes GG Series;None;
-None;None;B7Warriors;None;None;Player A1;Player A2;Player A3;Player A4;Player A5;0:0;False;00:00;Sunday, July 12th, 6:00 PM CEST;Guardianes GG Series;None;
-Attack;W;Fekyx Esports;Haven;Decider;eNxic;Rubiazo;rubs;diosito;zedt;13:6;False;30:16;Tuesday, September 8th, 5:00 PM CEST;Desafío Legión;url.net;
-Attack;W;ZEROZONE;Haven;Decider;Rubiazo;diosito;zedt;rubs;eNxic;13:7;False;41:33;Wednesday, September 9th, 5:00 PM CEST;Desafío Legión;url.net;
-Defense;W;Sicko Mode;Haven;Sicko Mode;Rubiazo;zedt;eNxic;rubs;diosito;13:7;False;37:00;Wednesday, September 9th, 7:10 PM CEST;Desafío Legión;https://www.twitch.tv/videos/736116960?t=0h1m2s;
-Attack;L;Sicko Mode;Ascent;Sicko Mode;Rubiazo;zedt;eNxic;rubs;diosito;12:14;True;44:43;Wednesday, September 9th, 7:10 PM CEST;Desafío Legión;https://www.twitch.tv/videos/736116960?t=0h1m2s;
-Attack;L;Sicko Mode;Split;Sicko Mode;Rubiazo;zedt;eNxic;rubs;diosito;2:13;False;21:56;Wednesday, September 9th, 7:10 PM CEST;Desafío Legión;https://www.twitch.tv/videos/736116960?t=0h1m2s;

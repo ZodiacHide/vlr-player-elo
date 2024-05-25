@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;DREAMCHASERS;Bind;Decider;StandinOW;0nuqtive;swd_1;Sfory;IrmanPlay;4:13;False;-;Friday, June 5th, 4:00 PM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/641909277?t=1h6m57s;
-Attack;L;Team PAGO3;Ascent;Decider;StandinOW;0nuqtive;Sfory;IrmanPlay;swd_1;0:13;False;-;Friday, June 5th, 5:00 PM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/641909277?t=1h52m48s;
-Attack;L;Team wtcN;Haven;Decider;StandinOW;0nuqtive;swd_1;Sfory;IrmanPlay;2:13;False;-;Friday, June 5th, 6:00 PM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/641909277?t=2h48m9s;

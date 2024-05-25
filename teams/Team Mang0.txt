@@ -1,9 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;Prospects;Bind;Team Mang0;ItzMoogle;fakez;VoiD;Mang0;hysteria;3:13;False;-;Wednesday, July 22nd, 11:00 PM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/687660759?t=0h6m52s;
-Attack;L;Prospects;Haven;Team Mang0;ItzMoogle;fakez;VoiD;Mang0;hysteria;3:13;False;-;Wednesday, July 22nd, 11:00 PM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/687660759?t=0h6m52s;
-Attack;L;Immortals;Haven;Team Mang0;fakez;ItzMoogle;VoiD;hysteria;Mang0;1:13;False;-;Thursday, July 23rd, 2:55 AM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/687865321?t=0h5m43s;
-Defense;L;Immortals;Ascent;Team Mang0;fakez;ItzMoogle;VoiD;hysteria;Mang0;4:13;False;-;Thursday, July 23rd, 2:55 AM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/687865321?t=0h5m43s;
-Attack;L;MIXUP;Bind;Team Mang0;ItzMoogle;fakez;hysteria;VoiD;Mang0;5:13;False;-;Thursday, July 23rd, 11:00 PM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/688667913?t=0h9m55s;
-Defense;L;MIXUP;Haven;Team Mang0;ItzMoogle;fakez;hysteria;VoiD;Mang0;2:13;False;-;Thursday, July 23rd, 11:00 PM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/688667913?t=0h9m55s;
-Defense;L;Gen.G;Bind;Team Mang0;Mang0;fakez;ItzMoogle;VoiD;hysteria;4:13;False;-;Friday, July 24th, 1:30 AM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/688668122?t=1h41m8s;
-Defense;L;Gen.G;Haven;Team Mang0;Mang0;fakez;ItzMoogle;VoiD;hysteria;3:13;False;-;Friday, July 24th, 1:30 AM CEST;PAX Arena Invitational;https://www.twitch.tv/videos/688668122?t=1h41m8s;

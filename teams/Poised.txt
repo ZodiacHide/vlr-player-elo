@@ -1,3 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Cloud9;Ascent;Poised;Showtime;ZK;ZexRow;wippie;Nosyy;5:13;False;30:21;Thursday, January 28th, 3:00 AM CET;Champions Tour North America Stage 1: Challengers 1;https://www.twitch.tv/videos/890698308?t=1h47m55s;
-Defense;L;Cloud9;Icebox;Poised;Showtime;ZK;ZexRow;wippie;Nosyy;9:13;False;43:40;Thursday, January 28th, 3:00 AM CET;Champions Tour North America Stage 1: Challengers 1;https://www.twitch.tv/videos/890698308?t=1h47m55s;

@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Defense;L;All Gamers;Ascent;Decider;泱泱泱;sword9;LuoK1ng;Kasin;Freeout;8:13;False;38:30;Friday, September 4th, 11:30 AM CEST;Huya Summer Festival;url.net;
-Attack;W;DetonatioN FocusMe;Split;Decider;泱泱泱;sword9;Kasin;LuoK1ng;Freeout;13:12;True;55:50;Friday, September 4th, 2:15 PM CEST;Huya Summer Festival;url.net;
-Defense;W;ShengJie Gaming;Split;Decider;Kasin;sword9;泱泱泱;Freeout;LuoK1ng;13:7;False;38:41;Friday, September 4th, 3:30 PM CEST;Huya Summer Festival;url.net;

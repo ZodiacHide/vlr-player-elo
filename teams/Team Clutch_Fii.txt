@@ -1,4 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;Team sabagod2;Haven;Decider;Corone;Clutch_Fi;Icebahn;shoushi;KyouChan;6:13;False;-;Sunday, June 7th, 9:00 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/643738633?t=0h26m57s;
-Defense;L;Team kennymcc;Ascent;Decider;Corone;Icebahn;shoushi;Clutch_Fi;KyouChan;12:13;True;-;Sunday, June 7th, 10:00 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/643747539?t=1h1m58s;
-Attack;L;Team YamatoN;Haven;Decider;shoushi;Corone;KyouChan;Clutch_Fi;Icebahn;5:13;False;-;Sunday, June 7th, 11:00 AM CEST;Twitch Rivals: VALORANT Launch Showdown;https://www.twitch.tv/videos/643742801?t=2h19m0s;

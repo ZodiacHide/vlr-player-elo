@@ -1,7 +1,0 @@
-starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
-Attack;L;OG;Bind;MANGO;YoungOne;hooligaN;sKrula;TeTrixX;z7eus;2:13;False;31:36;Saturday, April 10th, 10:00 PM CEST;Champions Tour Europe Stage 2: Challengers 2;url.net;
-Defense;L;OG;Icebox;MANGO;YoungOne;hooligaN;sKrula;TeTrixX;z7eus;13:15;True;52:05;Saturday, April 10th, 10:00 PM CEST;Champions Tour Europe Stage 2: Challengers 2;url.net;
-Attack;L;BIG;Bind;MANGO;TeTrixX;hooligaN;SM9LE;z7eus;YoungOne;1:13;False;23:15;Wednesday, April 21st, 9:00 PM CEST;A1 eSports VALORANT Cup;url.net;
-Defense;L;BIG;Ascent;MANGO;TeTrixX;hooligaN;SM9LE;z7eus;YoungOne;5:13;False;30:42;Wednesday, April 21st, 9:00 PM CEST;A1 eSports VALORANT Cup;url.net;
-Attack;L;Reject$;Ascent;Reject$;Heessh;KnightVoice;TeTrixX;YoungOne;Domati;6:13;False;39:14;Wednesday, July 21st, 8:30 PM CEST;Champions Tour Europe Stage 3: Challengers 2;url.net;
-Attack;L;Reject$;Haven;Reject$;Heessh;KnightVoice;TeTrixX;YoungOne;Domati;8:13;False;39:41;Wednesday, July 21st, 8:30 PM CEST;Champions Tour Europe Stage 3: Challengers 2;url.net;
