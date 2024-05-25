@@ -227,8 +227,12 @@ def fetch_match_data(match_url):
             for i in range(len(map_element)):
                 matchup['maps'][i]['vod_link'] = vods_links[0]
         else:
-            for i in range(len(vods_links)):
-                matchup['maps'][i]['vod_link'] = vods_links[i]
+            try:
+                for i in range(len(vods_links)):
+                    matchup['maps'][i]['vod_link'] = vods_links[i]
+            except IndexError:
+                for i in range(1, len(vods_links)):
+                    matchup['maps'][i-1]['vod_link'] = vods_links[i-1]
 
         return matchup, time_of_matchup, event_name, A_team_name, B_team_name, scoreline
 
@@ -236,11 +240,13 @@ def main():
     match_urls = text_file_to_array('match_urls_by_date.txt')
     no_matchups_to_do = 0
     for matchup_count, url in enumerate(match_urls):
+        if matchup_count < 7000:
+            continue
         if matchup_count - no_matchups_to_do >= 0:
             new_no = get_user_input_on_scraping()
-            no_matchups_to_do += new_no
-            if no_matchups_to_do == None:
+            if new_no == None:
                 break
+            no_matchups_to_do += new_no
             
         # Initialise values #
         # Data from match played
