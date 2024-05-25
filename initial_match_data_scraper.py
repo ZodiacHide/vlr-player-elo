@@ -238,15 +238,17 @@ def fetch_match_data(match_url):
 
 def main():
     match_urls = text_file_to_array('match_urls_by_date.txt')
-    no_matchups_to_do = 0
+    no_matchups_to_do = get_user_input_on_scraping()
     for matchup_count, url in enumerate(match_urls):
-        if matchup_count < 7000:
+        if matchup_count < 10001:
             continue
-        if matchup_count - no_matchups_to_do >= 0:
+        if no_matchups_to_do <= 0:
             new_no = get_user_input_on_scraping()
             if new_no == None:
                 break
             no_matchups_to_do += new_no
+        else:
+            no_matchups_to_do -= 1
             
         # Initialise values #
         # Data from match played
