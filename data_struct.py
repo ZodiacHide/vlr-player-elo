@@ -57,6 +57,7 @@ def write_player_data_to_file(player_data: dict, team_name: str, maps: list,
                               scoreline: str, team_a_name: str, team_b_name: str
                               ) -> None:
     player_name = player_data['player_name']
+    player_name = remove_illegal_chars_in_filename(player_name)
     map_count = int(scoreline[0]) + int(scoreline[-1])
     path = f'players\\{player_name}.txt'
     # Retrieve player data for each map #
@@ -110,10 +111,7 @@ def write_team_data_to_file(team_name: str, players: list, opposing_team: str,
                             vod_link) -> None:
     # Check if string contains illegal characters
     # Remove if found
-    illegal_file_chars = ['<','>',':','"','/','\\','|','?','*']
-    for char in illegal_file_chars:
-        if char in team_name:
-            team_name = ''.join([string.replace(char,'') for string in team_name])
+    team_name = remove_illegal_chars_in_filename(team_name)
 
     path = f'teams\\{team_name}.txt'
     if os.path.exists(path):
@@ -309,3 +307,14 @@ def get_user_input_on_scraping():
     else:
         # Poor input, try again
         return get_user_input_on_scraping()
+
+def remove_illegal_chars_in_filename(str_string: str):
+    # Check if string contains illegal characters
+    # Remove if found
+    illegal_file_chars = ['<','>',':','"','/',"\\",'|','?','*']
+    for char in illegal_file_chars:
+        if char in str_string:
+            str_string = ''.join([string.replace(char,'') for string in str_string])
+    
+    return str_string
+
