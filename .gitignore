@@ -397,6 +397,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# Generated text files
-players/*.txt
-teams/*.txt
+# Custom files
+error.txt
+test_urls.txt
+test_urls2.txt
+match_urls*
+*.prof
