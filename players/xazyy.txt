@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;197;18;10;2; ;127;44%;1;1;Swag Silicone;
+L;Cypher; ;189;15;16;7; ;120;25%;2;2;Swag Silicone;
+L;Killjoy; ;138;9;17;7; ;88;15%;2;2;Swag Silicone;
+W;Astra;1.13;142;8;6;5;75%;68;12%;3;3;Macko Esports;
+W;Astra;1.18;233;22;14;6;67%;120;28%;1;4;Macko Esports;
+L;Astra;1.14;242;16;15;7;65%;158;29%;4;3;Macko Esports;
+L;Astra;0.86;166;13;15;5;68%;104;31%;1;2;Macko Esports;
+L;Omen;1.09;258;17;15;4;89%;171;25%;3;0;Macko Esports;
+L;Astra;0.88;190;15;15;6;75%;129;27%;0;3;Macko Esports;
+L;Viper;1.20;253;24;19;8;77%;170;31%;6;0;Lucky Boys;
+L;Omen;0.98;241;17;16;2;75%;157;29%;1;3;Lucky Boys;
+L;Astra;0.50;153;7;14;4;67%;99;14%;1;3;Lucky Boys;
+L;Astra;1.21;254;20;19;7;75%;169;30%;0;3;Lucky Boys;

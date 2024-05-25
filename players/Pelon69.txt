@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;XTEN Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;XTEN Esports;
+W;Sova; ;276;23;16;9; ;182;33%;2;0;Janus Esports;
+W;Sova; ;238;26;21;8; ;158;26%;5;1;Janus Esports;
+L;Sage; ;159;10;15;4; ;79;33%;0;2;Janus Esports;
+L;Sova; ;205;17;16;9; ;128;21%;0;1;Janus Esports;
+L;Sova; ;140;8;14;8; ;100;30%;0;2;Janus Esports;

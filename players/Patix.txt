@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;237;21;18;7; ;153;29%;2;2;Team Spectralis;
+W;Jett; ;243;21;17;2; ;142;50%;5;4;Team Spectralis;
+L;Jett; ;226;25;25;2; ;131;43%;2;6;Team Spectralis;
+W;Jett; ;258;26;18;2; ;147;34%;4;0;Team Spectralis;
+L;Jett; ;170;11;17;5; ;113;50%;1;6;Team Spectralis;
+L;Brimstone; ;255;20;18;7; ;179;42%;2;5;Team Spectralis;
+L;Omen; ;103;7;16;3; ;125;50%;0;4;Team Spectralis;
+L;Omen; ;122;6;16;3; ;79;23%;3;3;Team Spectralis;
+L;Breach;0.64;119;8;19;7;59%;70;22%;2;1;breskvice;
+L;Breach;0.90;174;12;16;12;73%;113;29%;1;1;breskvice;

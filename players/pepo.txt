@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;138;10;15;0; ;82;17%;2;2;Wygers Argentina;
+L;Jett; ;72;5;15;1; ;39;9%;1;6;Wygers Argentina;
+L;Jett; ;96;8;16;0; ;58;9%;3;2;Wygers Argentina;
+L;Jett; ;148;9;16;2; ;88;18%;3;2;Wygers Argentina;

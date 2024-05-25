@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;46;3;16;6; ; ; ;0; ;Young and Beautiful;
+L;Sova; ;208;12;13;5; ;135;38%;3;0;Nice Cars;
+W;Sova; ;302;28;17;11; ;187;29%;1;0;Nice Cars;
+L;Sova; ;210;18;13;3; ;134;21%;2;3;Nice Cars;
+W;Sova; ;283;20;7;7; ;168;19%;1;2;Nice Cars;
+W;Sova; ;92;4;15;7; ;78;23%;2;3;Nice Cars;
+L;Sova; ;138;9;17;2; ;69;19%;0;2;Nice Cars;
+L;Brimstone; ;165;13;18;4; ;114;18%;2;1;hej patrik;
+L;Omen; ;251;21;16;5; ;202;22%;1;1;hej patrik;
+L;Omen; ;149;7;13;2; ;93;12%;1;1;VI VET MEST;

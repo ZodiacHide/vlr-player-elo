@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;1.32;296;27;15;7;87%;169;24%;1;2;YAMAGAN;
+L;Astra;0.76;190;15;15;3;67%;114;23%;0;0;YAMAGAN;
+W;Astra;0.69;156;13;22;7;67%;93;19%;0;2;YAMAGAN;
+W;Astra;1.16;170;14;10;6;71%;104;29%;0;1;YAMAGAN;
+L;Astra;0.85;222;14;16;9;70%;144;21%;4;2;YAMAGAN;
+W;Astra;1.12;198;19;17;5;65%;127;25%;0;0;YAMAGAN;
+L;Astra;0.98;161;17;19;8;68%;103;25%;0;1;YAMAGAN;
+W;Astra;1.47;283;24;15;11;83%;165;20%;2;0;YAMAGAN;
+L;Astra;0.64;156;11;17;3;50%;107;28%;1;1;YAMAGAN;
+W;Astra;1.33;221;16;9;9;84%;125;19%;1;0;YAMAGAN;
+L;Astra;0.70;166;13;18;0;60%;103;18%;0;1;YAMAGAN;
+L;Astra;1.06;210;17;17;12;63%;130;21%;1;1;YAMAGAN;
+L;None;0;0;0;0;0;0;0;0;0;0;YAMAGAN;
+L;Omen;0.98;152;12;15;8;62%;107;44%;3;0;YAMAGAN;

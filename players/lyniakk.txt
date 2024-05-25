@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.57;178;6;13;3;46%;112;16%;0;0;NecroRaisers;
+L;Killjoy;0.25;85;2;13;0;15%;67;26%;0;2;NecroRaisers;
+L;Killjoy;0.77;205;10;14;1;47%;137;22%;3;2;Parek v rohliku;
+L;Killjoy;0.51;143;6;15;4;56%;91;11%;1;3;Parek v rohliku;

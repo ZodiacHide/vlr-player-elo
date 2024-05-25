@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;107;5;14;5; ; ; ;0; ;Team arch;
+L;Brimstone; ;87;5;13;3; ; ; ;1; ;Team arch;
+L;Brimstone; ;120;7;15;4; ; ; ;0; ;Team arch;
+L;Raze; ;134;7;13;1; ; ; ;1; ;Team arch;
+L;Sage; ;44;2;14;2; ; ; ;1; ;Team arch;
+L;Brimstone; ;126;6;16;3; ; ; ;1; ;Team arch;

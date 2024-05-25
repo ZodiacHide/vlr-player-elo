@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;115;8;18;7; ;68;3%;0;5;XP Team;
+L;Sova; ;89;5;18;7; ;72;15%;0;5;XP Team;

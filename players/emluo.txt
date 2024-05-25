@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.67;143;8;16;3;53%;89;22%;1;1;Just Breathe;
+W;Sage;1.18;217;17;12;5;71%;133;25%;0;0;Just Breathe;
+W;Killjoy;1.14;244;18;17;4;76%;149;25%;2;2;Just Breathe;
+L;Killjoy;0.63;137;8;13;1;60%;73;30%;0;2;Just Breathe;
+L;Jett;0.69;175;10;17;6;60%;124;26%;0;0;Just Breathe;
+L;Killjoy;0.23;116;4;14;2;36%;75;15%;0;2;Just Breathe;
+L;Jett;0.47;137;8;17;2;58%;91;34%;2;3;Just Breathe;

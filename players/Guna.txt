@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;129;7;15;9; ;85;24%;0;3;Saviors;
+L;Omen; ;248;18;15;3; ;204;21%;3;0;Saviors;

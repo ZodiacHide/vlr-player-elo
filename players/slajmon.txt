@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;156;7;14;4; ;117;15%;0;2;NoNamers;
+L;Skye; ;92;5;15;6; ;61;22%;0;1;NoNamers;
+L;Reyna; ;134;9;15;2; ;85;11%;2;0;NoNamers;
+W;Raze; ;206;14;11;7; ;130;11%;1;1;NoNamers;
+W;Raze; ;173;12;11;2; ;102;20%;0;1;NoNamers;
+L;Raze; ;175;8;14;2; ;126;11%;1;1;NoNamers;
+L;Raze; ;245;14;14;3; ;148;26%;1;1;NoNamers;
+L;Raze; ;274;30;20;7; ;163;15%;0;5;NoNamers;
+W;Raze; ;142;8;10;6; ;103;15%;2;2;NoNamers;
+W;Breach; ;174;12;16;13; ;117;16%;2;1;NoNamers;
+L;Breach; ;155;10;17;7; ;103;20%;0;2;NoNamers;
+W;Raze; ;271;24;18;3; ;176;23%;2;2;NoNamers;
+L;Breach; ;131;12;21;9; ;85;15%;1;3;NoNamers;

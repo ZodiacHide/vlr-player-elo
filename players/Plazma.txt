@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;165;7;13;3; ;127;33%;0;2;Out of sight;
+L;Sova; ;149;5;14;3; ;94;24%;2;2;Out of sight;

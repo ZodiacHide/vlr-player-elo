@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper; ;60;1;13;2; ;52;14%;0;2;GFuel Krabby Patties;

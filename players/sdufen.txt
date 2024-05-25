@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;180;14;12;8; ;115;21%;2;0;LBS Esports;
+W;Sova; ;280;16;6;11; ;221;12%;3;0;LBS Esports;
+L;Sova; ;133;7;12;7; ;66;18%;1;2;Decent Esports;
+W;Sova; ;301;27;12;3; ;198;37%;1;2;Decent Esports;
+L;Sova; ;178;14;13;5; ;115;22%;1;1;Decent Esports;
+L;Sova; ;119;8;16;5; ;89;19%;0;0;kd negativo;
+L;Sova; ;191;9;15;5; ;120;19%;1;1;kd negativo;
+L;Sova;0.86;222;9;12;5;67%;148;27%;0;0;Rebirth Esports;
+L;Sova;1.25;275;18;12;10;90%;189;24%;1;2;Rebirth Esports;

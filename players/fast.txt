@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;166;8;15;5; ;108;10%;2;1;aspyxia;
+L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;
+L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;
+L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;222;12;16;6; ;136;23%;0;5;Vela Gaming;
+L;Jett; ;175;10;15;2; ;105;20%;4;6;Vela Gaming;

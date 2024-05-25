@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.79;191;9;14;2;67%;115;25%;1;1;Unbind Crouch;
+L;Killjoy;0.37;86;3;13;2;38%;70;25%;1;0;Unbind Crouch;
+L;Killjoy;0.51;143;9;16;3;50%;90;8%;1;2;Unbind Crouch;
+L;Cypher;0.51;173;9;17;1;59%;107;13%;2;1;Unbind Crouch;
+L;Killjoy;0.81;186;17;20;2;68%;119;13%;3;3;Unbind Crouch;
+W;Killjoy;0.67;105;6;15;6;67%;75;12%;1;3;Unbind Crouch;
+W;None;0;0;0;0;0;0;0;0;0;0;Unbind Crouch;
+L;Killjoy;0.33;128;6;15;0;47%;81;14%;1;2;Unbind Crouch;
+L;Killjoy;0.46;120;5;14;2;56%;80;7%;0;2;Unbind Crouch;
+L;Killjoy;0.47;157;7;14;2;50%;109;12%;1;3;Unbind Crouch;
+L;Cypher;0.23;80;2;14;3;36%;62;0%;0;3;Unbind Crouch;

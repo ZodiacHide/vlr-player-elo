@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;113;15;25;4; ;79;13%;0;3;The Clappening;
+W;Killjoy; ;194;15;16;8; ;118;10%;2;0;The Clappening;
+W;Cypher; ;286;17;7;3; ;159;16%;2;0;The Clappening;
+W;Killjoy; ;207;23;23;3; ;125;11%;1;4;The Clappening;
+L;Killjoy; ;73;3;13;3; ;63;11%;0;1;The Clappening;
+L;Killjoy; ;146;8;15;1; ;104;9%;0;2;The Clappening;

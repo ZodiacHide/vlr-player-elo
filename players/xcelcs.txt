@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Resurrection Sickness;
+L;Reyna; ;120;7;17;7; ; ; ;2; ;Resurrection Sickness;

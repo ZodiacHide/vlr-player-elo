@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Orbit;
+L;None;0;0;0;0;0;0;0;0;0;0;Orbit;
+L;None;0;0;0;0;0;0;0;0;0;0;Orbit;
+L;Phoenix; ;129;9;16;4; ;89;11%;2;3;Team Untold;
+L;Jett; ;208;12;15;2; ;119;13%;4;3;Team Untold;
+L;Jett; ;216;11;13;5; ;128;18%;3;2;Team Untold;
+L;Breach; ;234;16;17;5; ;144;20%;3;1;Team Untold;
+W;Breach; ;222;18;18;13; ;140;18%;2;2;Team Untold;
+L;Sova; ;200;10;12;9; ;141;21%;1;2;Team Untold;
+L;Raze; ;270;14;14;4; ;173;17%;1;1;Team Untold;
+L;Sova; ;251;19;14;6; ;165;27%;2;2;Team Untold;
+L;Breach; ;133;5;15;8; ;162;19%;2;4;Team Untold;

@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Lemonade Stand;
+L;Brimstone; ;191;11;16;1; ;109;26%;2;2;Lemonade Stand;
+L;Omen; ;172;10;15;6; ;111;17%;0;4;Lemonade Stand;
+W;Omen; ;331;26;16;8; ;187; ;5; ;Lemonade Stand;
+W;Brimstone; ;248;17;12;3; ;155; ;2; ;Lemonade Stand;
+L;Omen; ;131;7;15;4; ;72;9%;0;2;Lemonade Stand;
+W;Brimstone; ;177;12;12;4; ;129;23%;0;2;Lemonade Stand;
+L;Brimstone; ;299;26;18;6; ;188;19%;4;6;Lemonade Stand;
+W;Phoenix; ;198;12;8;10; ;130;35%;2;1;Noble;
+W;Omen; ;204;15;9;2; ;127;37%;1;0;Noble;
+L;Phoenix; ;107;8;19;4; ;81;23%;0;3;Noble;
+L;Omen; ;169;15;16;3; ;114;27%;1;2;Noble;
+L;Jett; ;139;7;18;9; ;104;10%;2;3;Serenity;
+L;Jett; ;112;7;15;3; ;79;14%;0;4;Serenity;
+W;Jett; ;147;12;13;2; ;86;15%;1;3;Serenity;
+W;Reyna;1.15;210;16;13;4;70%;128;19%;1;3;Lemonade Stand;
+W;Sage;0.60;131;12;23;10;57%;86;29%;1;5;Lemonade Stand;

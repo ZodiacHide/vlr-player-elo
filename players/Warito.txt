@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;130;9;17;7; ;104;18%;0;2;IGNIS Esports;
+L;Omen; ;199;13;13;5; ;98;20%;0;1;IGNIS Esports;
+W;Omen; ;143;11;16;5; ;90;31%;0;1;IGNIS Esports;
+W;Breach; ;160;14;17;11; ;95;16%;1;0;IGNIS Esports;
+L;Omen; ;103;8;13;1; ;70;44%;1;4;IGNIS Esports;
+L;Breach; ;114;7;16;1; ;71;27%;1;2;IGNIS Esports;
+L;Omen; ;200;11;14;2; ;115;22%;0;0;IGNIS Esports;

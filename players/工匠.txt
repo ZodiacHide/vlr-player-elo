@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;172;11;14;1; ;100;29%;0;2;FS Gaming;

@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;187;16;18;7; ; ; ;0; ;Shawty Gamin';
+L;Sage; ;133;11;21;5; ; ; ;2; ;Shawty Gamin';
+L;Sage; ;155;10;15;3; ; ; ;0; ;Shawty Gamin';
+L;Jett; ;160;9;14;1; ;102;21%;1;7;NXP.Aether;
+L;Jett; ;156;14;17;2; ;80;15%;4;5;NXP.Aether;
+L;Jett; ;158;14;21;5; ;105;24%;1;2;NXP.Aether;
+L;Jett; ;268;20;18;3; ;159;9%;7;2;NXP.Aether;
+L;Jett;1.58;381;33;20;10;85%;237;20%;7;4;Aether Esports;
+L;Raze;0.63;163;8;17;7;57%;125;13%;2;3;Aether Esports;

@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;182;13;11;8; ;123;28%;0;0;UnSigned;
+W;Raze; ;233;14;13;6; ;131;11%;2;2;UnSigned;
+L;Sova; ;235;15;15;8; ;153;26%;1;2;UnSigned;
+L;Raze; ;186;14;20;3; ;126;12%;2;4;UnSigned;
+W;Sova; ;214;13;8;10; ;162;35%;0;1;UnSigned;
+W;Raze; ;367;25;6;2; ;216;23%;1;2;UnSigned;
+W;Sova; ;284;22;15;16; ;167;28%;1;1;UnSigned;
+L;Raze; ;147;11;14;3; ;107;13%;0;1;UnSigned;
+L;Sova; ;165;13;19;7; ;110;26%;0;1;UnSigned;
+L;Breach; ;117;7;14;6; ;67;23%;0;1;Gamax Esports;
+W;Breach; ;220;14;10;4; ;133;28%;4;0;Gamax Esports;
+L;Phoenix; ;288;24;19;2; ;191;36%;3;2;Gamax Esports;

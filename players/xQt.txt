@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;197;15;19;9; ;123;11%;3;2;Cracked;
+L;Sova; ;151;8;13;2; ;76;23%;1;2;Cracked;
+L;Sova; ;116;5;14;8; ;88;13%;0;2;Cracked;
+W;Sova; ;212;16;16;13; ;179;21%;2;0;Cracked;
+L;Sova; ;121;6;17;11; ;92;6%;0;1;Cracked;
+L;Sova; ;199;17;18;13; ;130;15%;1;1;Cracked;

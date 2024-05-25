@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;220;11;15;4; ;145;11%;2;1;Team Pacify;
+L;Sage;0.44;100;7;16;2;42%;54;13%;0;1;Ronin Team;
+L;Omen;0.82;164;11;16;9;61%;106;26%;0;2;Ronin Team;

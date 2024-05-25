@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.47;207;11;16;4;47%;88;18%;2;4;TiAMAT;
+L;Raze;0.85;263;11;13;4;69%;190;22%;1;1;TiAMAT;
+L;Raze;0.62;162;10;17;3;45%;116;15%;0;3;TiAMAT;
+L;Raze;1.10;227;13;14;1;59%;150;22%;4;2;TiAMAT;

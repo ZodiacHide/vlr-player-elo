@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;180;11;14;3; ;101;19%;2;3;Skull Cracker;
+L;Raze; ;197;14;18;2; ;112;20%;1;3;Skull Cracker;
+L;Raze; ;149;9;19;5; ;99;13%;2;1;Skull Cracker;
+L;Phoenix; ;173;11;14;1; ;94;20%;1;4;Skull Cracker;

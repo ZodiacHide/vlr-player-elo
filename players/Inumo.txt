@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;210;17;11;11; ;112;12%;2;3;Omni;
+L;Sova; ;275;14;14;4; ;152;11%;1;0;Omni;
+L;Sova; ;271;19;17;4; ;172;21%;1;0;Omni;
+W;Sage;0.70;112;8;12;3;53%;74;41%;2;0;ArchiGoKill;
+W;Sage;1.15;244;17;11;7;89%;127;30%;4;0;ArchiGoKill;
+L;Sage;1.18;242;14;12;4;65%;139;44%;2;1;ArchiGoKill;
+L;Sova;0.52;159;9;19;4;65%;111;14%;0;1;ArchiGoKill;
+W;Sage;0.97;147;11;10;4;79%;92;30%;2;1;ArchiGoKill;
+L;Sova;1.00;195;15;17;9;83%;137;31%;0;0;ArchiGoKill;
+L;Sova;1.07;199;15;14;6;85%;121;34%;2;0;ArchiGoKill;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;205;20;20;4; ;128;13%;1;1;Wheels;
+L;Killjoy; ;141;10;16;3; ;78;14%;0;3;Wheels;
+W;Killjoy; ;248;17;11;4; ;141;12%;2;2;Wheels;
+L;Killjoy; ;291;25;13;5; ;185;17%;3;1;Wheels;
+L;Killjoy; ;151;12;14;1; ;106;31%;1;5;Wheels;
+L;Killjoy; ;114;6;17;8; ;92;14%;1;1;Wheels;
+L;Killjoy; ;101;9;14;4; ;63;7%;1;2;Wheels;

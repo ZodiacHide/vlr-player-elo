@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.97;184;15;17;10;73%;121;22%;2;1;UnderDogs Gaming;
+L;Sova;0.51;94;6;20;8;69%;69;3%;1;3;UnderDogs Gaming;
+L;Sova;0.45;77;3;16;8;56%;65;25%;1;2;UnderDogs Gaming;
+W;Sova;0.94;180;14;16;7;70%;125;34%;0;2;UnderDogs Gaming;

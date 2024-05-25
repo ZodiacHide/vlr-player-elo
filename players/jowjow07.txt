@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.33;345;24;14;7;86%;211;32%;7;4;THANATOS;
+L;Jett;0.58;160;8;15;0;53%;93;20%;3;2;THANATOS;

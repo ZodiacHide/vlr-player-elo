@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.62;315;18;6;4;100%;183;15%;2;0;Giants G4E;
+W;Sova;2.10;353;16;2;4;100%;221;15%;1;0;Giants G4E;
+L;Sova;1.18;340;19;16;2;65%;204;19%;1;1;Giants G4E;
+L;Sova;0.69;220;11;16;6;44%;147;12%;1;1;Giants G4E;

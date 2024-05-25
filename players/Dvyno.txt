@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;252;17;12;7; ;176;37%;3;1;Athletico Zombies;
+L;Sova; ;147;11;13;6; ;95;22%;2;0;Athletico Zombies;
+L;Sova; ;167;8;13;1; ;99;18%;0;0;Athletico Zombies;

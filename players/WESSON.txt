@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;136;7;7;5; ;82;19%;1;0;Vital Force;
+L;Sage; ;124;8;18;12; ;72;8%;0;2;Vital Force;
+L;Sova; ;246;21;17;13; ;161;36%;3;4;Vital Force;
+L;Sova; ;208;13;15;5; ;127;19%;0;1;MNA ESPORTS;
+L;Sova; ;217;16;20;9; ;141;17%;0;1;MNA ESPORTS;
+W;Killjoy;0.97;206;15;17;5;86%;153;20%;4;0;KASTIRALIS;
+L;Cypher;1.05;268;19;15;8;71%;144;24%;2;3;KASTIRALIS;
+W;Killjoy;1.33;247;16;10;7;89%;149;28%;1;1;KASTIRALIS;
+L;Viper;0.44;85;5;14;2;38%;55;11%;1;4;KASTIRALIS;
+L;Jett;1.04;198;14;15;4;57%;133;13%;6;2;KASTIRALIS;
+W;Killjoy;1.10;252;18;13;3;80%;132;17%;3;3;KASTIRALIS;
+W;Killjoy;0.94;146;10;11;0;85%;76;40%;3;1;KASTIRALIS;
+L;Killjoy;0.71;132;9;14;6;55%;102;18%;2;4;KASTIRALIS;
+L;Killjoy;0.68;144;8;17;4;55%;114;16%;0;2;KASTIRALIS;

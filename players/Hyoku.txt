@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;162;8;14;3; ;79;3%;3;3;Creme brulee;

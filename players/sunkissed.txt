@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;332;17;10;4; ;151;21%;4;1;QConfirm;
+W;Reyna; ;395;25;8;3; ;221;25%;4;1;QConfirm;
+W;Phoenix; ;248;17;11;6; ;144;26%;4;3;QConfirm;
+W;Reyna; ;230;13;5;5; ;168;2%;2;1;QConfirm;
+L;Phoenix; ;258;16;15;4; ;172;21%;4;2;QConfirm;
+W;Reyna; ;305;29;22;6; ;178;23%;4;5;QConfirm;
+L;Jett; ;279;24;20;4; ;166;9%;8;2;QConfirm;
+W;Reyna; ;331;26;13;5; ;180;25%;5;1;QConfirm;
+W;None;0;0;0;0;0;0;0;0;0;0;QConfirm;
+L;Reyna; ;185;12;17;3; ;128;25%;5;1;QConfirm;
+L;Jett; ;235;14;13;2; ;144;19%;3;2;QConfirm;
+W;Reyna; ;249;16;9;7; ;240;29%;1;0;OhMyGirl;
+W;Raze; ;199;15;16;6; ;134;21%;3;4;OhMyGirl;
+L;Raze; ;302;20;18;2; ;184;13%;4;2;OhMyGirl;
+L;Jett; ;222;14;13;3; ;136;36%;2;4;OhMyGirl;
+L;Raze; ;217;12;14;5; ;137;20%;1;3;OhMyGirl;
+L;Raze; ;169;12;18;5; ;125;21%;2;5;OhMyGirl;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone;0.35;114;5;15;4;65%;75;25%;0;2;MAXD Esports;
+L;Omen;0.87;188;15;16;4;70%;118;29%;0;0;MAXD Esports;
+W;Viper;0.65;156;12;18;3;58%;106;37%;1;2;MAXD Esports;
+L;Brimstone;1.06;214;19;17;6;75%;129;30%;0;1;MAXD Esports;
+L;Omen;0.45;97;4;13;7;57%;72;16%;0;3;MAXD Esports;
+L;Brimstone;0.83;174;13;17;5;67%;110;43%;3;3;MAXD Esports;

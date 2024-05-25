@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach;0.84;185;12;16;6;65%;120;27%;2;1;RedFire.Wasd Arena;
+L;Breach;0.89;168;13;18;7;75%;100;29%;1;6;RedFire.Wasd Arena;
+L;Breach;0.78;161;10;14;5;63%;99;17%;1;4;RedFire.Wasd Arena;

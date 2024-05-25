@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;87;6;15;2; ;53;17%;1;3;K/D Fixers;
+L;Sage; ;115;7;16;4; ;82;18%;1;1;K/D Fixers;
+L;Phoenix; ;207;14;19;2; ;144;21%;7;3;K/D Fixers;

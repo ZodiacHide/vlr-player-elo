@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;AVENUE Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;AVENUE Esports;
+W;Brimstone; ;210;17;14;5; ; ; ;2; ;AVENUE Esports;
+L;Brimstone; ;177;13;16;6; ; ; ;0; ;AVENUE Esports;
+W;Brimstone; ;100;5;14;11; ; ; ;1; ;AVENUE Esports;
+W;Brimstone; ;191;15;14;9; ; ; ;2; ;AVENUE Esports;
+L;Brimstone; ;149;8;13;4; ; ; ;0; ;AVENUE Esports;
+L;Brimstone; ;106;7;21;8; ; ; ;1; ;AVENUE Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;AVENUE Esports;

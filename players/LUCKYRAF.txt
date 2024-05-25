@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;200;16;11;2; ;143;18%;2;1;Outlaws;
+L;Jett; ;150;12;19;6; ;110;13%;2;1;Outlaws;
+L;Jett; ;205;15;12;2; ;134;21%;4;3;Outlaws;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Vanish;
+L;None;0;0;0;0;0;0;0;0;0;0;Vanish;
+L;Jett;0.97;223;16;16;1;58%;129;25%;4;5;OG4Z;

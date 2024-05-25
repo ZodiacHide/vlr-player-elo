@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;233;14;6;2; ;155;20%;4;1;Kaos Latin Gamers;
+W;Reyna; ;225;13;7;2; ;119;13%;2;2;Kaos Latin Gamers;
+L;Raze; ;215;18;17;4; ;135;14%;1;4;Kaos Latin Gamers;
+L;Sova; ;266;19;13;8; ;183;39%;2;2;Kaos Latin Gamers;
+L;Raze; ;151;5;13;3; ;184;9%;0;3;Kaos Latin Gamers;
+L;Raze; ;195;9;15;4; ;134;14%;0;1;Kaos Latin Gamers;
+L;Reyna; ;195;12;15;3; ;107;24%;2;2;Kaos Latin Gamers;
+L;Raze; ;180;10;16;1; ;112;11%;1;3;Kaos Latin Gamers;

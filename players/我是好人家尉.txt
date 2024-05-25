@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;219;10;14;6; ;139;21%;0;3;LGD Gaming;
+L;Omen; ;199;14;19;15; ;138;21%;0;2;LGD Gaming;
+W;Sova; ;262;22;11;10; ;174;28%;2;0;LGD Gaming;

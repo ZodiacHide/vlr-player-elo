@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;288;18;14;4; ; ; ;5; ;Anuncie Aqui;
+L;Raze; ; ; ; ; ; ; ; ; ; ;Anuncie Aqui;
+W;None;0;0;0;0;0;0;0;0;0;0;Anuncie Aqui;
+L;Jett; ; ; ; ; ; ; ; ; ; ;Anuncie Aqui;
+W;Jett; ;274;22;11;0; ;171;10%;3;2;Anuncie Aqui;
+L;Jett; ;208;26;26;3; ;117;12%;4;5;Anuncie Aqui;
+L;Jett; ;168;9;14;1; ;85;12%;2;2;Anuncie Aqui;
+W;Jett; ;228;19;17;2; ;131;16%;6;3;Anuncie Aqui;
+L;Jett; ;155;11;19;2; ;102;11%;3;5;Anuncie Aqui;
+L;Jett; ;177;13;18;3; ;96;15%;7;2;Anuncie Aqui;
+L;Jett; ;222;14;14;2; ;114;14%;6;2;leões da Ranked;
+L;Jett; ;237;16;19;3; ;144;12%;3;8;leões da Ranked;
+W;Jett; ;219;17;13;1; ;99;14%;3;1;Athletico Zombies;
+L;Jett; ;288;22;19;3; ;175;13%;4;3;Athletico Zombies;
+L;Jett; ;68;3;15;2; ;46;7%;1;6;Athletico Zombies;

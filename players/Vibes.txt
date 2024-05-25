@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper; ;128;7;14;0; ;84;41%;1;1;Amarok Esports;
+L;Killjoy; ;245;13;15;0; ;149;17%;0;0;Amarok Esports;
+L;Skye;0.22;105;4;15;1;43%;59;12%;1;4;HalfBliss;
+L;Cypher;0.44;80;4;15;3;41%;64;11%;0;0;HalfBliss;

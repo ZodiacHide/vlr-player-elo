@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;98;5;13;1; ;55;25%;0;3;Manse PP;
+L;Omen; ;267;18;14;3; ;156;9%;1;2;Manse PP;
+L;Skye; ;210;10;13;1; ;120;17%;1;0;Manse PP;
+L;Sage; ;193;10;14;3; ;167;24%;1;1;Manse PP;
+L;Cypher; ;141;7;13;2; ;72;26%;0;2;Manse PP;
+L;Cypher; ;95;4;14;2; ;72;7%;1;1;Manse PP;

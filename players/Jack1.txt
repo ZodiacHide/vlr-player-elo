@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;JSD;
+W;None;0;0;0;0;0;0;0;0;0;0;JSD;
+W;None;0;0;0;0;0;0;0;0;0;0;JSD;
+L;None;0;0;0;0;0;0;0;0;0;0;MIXUP;
+L;None;0;0;0;0;0;0;0;0;0;0;MIXUP;
+L;None;0;0;0;0;0;0;0;0;0;0;MIXUP;
+L;Phoenix; ;190;16;23;6; ; ; ;3; ;MIXUP;
+W;Phoenix; ;129;7;12;3; ; ; ;0; ;MIXUP;
+L;Phoenix; ;218;16;23;4; ; ; ;4; ;MIXUP;
+W;None;0;0;0;0;0;0;0;0;0;0;MIXUP;
+L;None;0;0;0;0;0;0;0;0;0;0;MIXUP;
+L;Sova; ;163;10;15;7; ;97;17%;1;1;Proven;
+L;Sova; ;200;16;20;7; ;128;24%;1;0;Proven;

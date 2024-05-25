@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;123;7;15;3; ;76;19%;1;2;Griffin E-Sports;
+L;Sage; ;69;2;16;6; ;41;12%;0;2;Griffin E-Sports;
+W;Sova;0.99;203;12;13;9;67%;125;21%;1;0;Griffin E-Sports;
+L;Sova; ;104;5;18;10; ;64;9%;1;1;Griffin E-Sports;
+L;Sage; ;140;9;17;1; ;93;22%;1;3;Griffin E-Sports;

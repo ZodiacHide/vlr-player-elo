@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;255;15;15;7; ;160;18%;5;3;Darkness;
+L;Jett; ;96;12;16;2; ;38;30%;4;1;Darkness;
+W;Raze; ;209;14;16;5; ;133;15%;3;5;KADILIMAN;
+L;Raze; ;254;19;18;9; ;166;10%;1;2;KADILIMAN;
+L;Raze;0.90;225;15;19;8;67%;152;18%;4;3;KADILIMAN;
+L;Reyna;0.84;244;17;20;4;70%;167;22%;3;5;KADILIMAN;
+L;Raze;0.98;189;17;19;8;69%;144;16%;0;5;KADILIMAN;
+L;Raze;1.01;234;17;18;4;65%;146;9%;3;4;KADILIMAN;
+L;Raze;0.87;229;15;18;5;65%;146;15%;3;2;KADILIMAN;

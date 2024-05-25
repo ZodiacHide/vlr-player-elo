@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.43;146;9;17;2;56%;90;17%;1;1;ZAMAN;
+L;Reyna;0.78;191;11;14;1;50%;123;17%;1;2;ZAMAN;

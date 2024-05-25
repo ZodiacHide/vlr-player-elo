@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;1.15;242;18;15;3;62%;131;23%;6;2;PN Crew;
+L;Kayo;0.89;169;14;15;5;65%;82;43%;0;5;PN Crew;

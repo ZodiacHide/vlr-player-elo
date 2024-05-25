@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.80;185;10;13;3;69%;139;32%;0;2;TempesT;
+W;Sova;0.94;106;4;9;14;89%;77;23%;0;0;TempesT;
+L;Sage;0.74;161;9;16;8;56%;98;10%;3;1;TempesT;
+L;Sova;1.06;215;15;14;8;71%;143;22%;0;2;TempesT;
+L;Sova;0.85;177;11;15;4;52%;124;24%;1;1;TempesT;
+L;Sova;0.95;177;14;16;8;61%;123;24%;1;0;SUS SquaD;
+W;Sova;1.30;222;12;8;8;93%;145;23%;0;1;SUS SquaD;
+W;Skye;1.16;147;9;9;9;88%;105;10%;0;0;SUS SquaD;

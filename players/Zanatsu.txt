@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;176;12;18;1; ;105;18%;2;3;DAVR;
+L;Raze; ;118;5;13;0; ;69;25%;2;4;DAVR;
+L;Raze;1.29;281;22;16;9;69%;183;15%;4;3;ROLO COMPRESSOR;
+L;Jett;1.01;215;18;18;3;70%;125;22%;4;2;ROLO COMPRESSOR;
+L;Reyna;0.66;206;8;14;4;57%;141;31%;1;4;Botafogo eSports;
+L;Jett;0.59;166;9;17;4;63%;119;23%;3;5;Botafogo eSports;

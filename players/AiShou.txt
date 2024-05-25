@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;181;13;16;8; ;115;14%;3;5;XIAO;
+W;Jett; ;344;23;7;3; ;205;19%;5;0;XIAO;
+L;Jett; ;151;11;16;2; ;89;14%;3;5;XIAO;
+L;Jett; ;263;19;18;5; ;152;13%;5;4;XIAO;
+W;Jett; ;364;25;10;1; ;197;11%;6;2;XIAO;
+W;Jett; ;246;19;12;6; ;126;11%;5;4;XIAO;
+L;Jett; ;182;8;11;0; ;178;17%;2;2;XIAO;
+L;Jett; ;137;8;15;3; ;85;25%;1;4;XIAO;
+L;Jett; ;141;9;15;3; ;84;15%;2;3;XIAO;
+L;Jett; ;171;15;18;0; ;97;8%;6;4;XIAO;

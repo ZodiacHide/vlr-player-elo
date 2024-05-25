@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;87;8;21;13; ;48;19%;1;2;Exorcist.ESC;
+L;Breach; ;97;6;15;7; ;61;15%;0;1;Exorcist.ESC;

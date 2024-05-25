@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;159;8;15;5; ; ; ;0; ;AKIHABARA ENCOUNT;

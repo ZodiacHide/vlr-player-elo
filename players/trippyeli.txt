@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;159;8;17;6; ;115;18%;0;5;Sac State Hornets;
+L;None;0;0;0;0;0;0;0;0;0;0;Sac State Hornets;
+L;Raze; ;104;5;15;2; ;72;12%;0;3;Sac State Hornets;
+L;Raze; ;167;8;15;5; ;93;12%;0;2;Sac State Hornets;

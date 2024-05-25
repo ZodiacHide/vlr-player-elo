@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;307;18;12;0; ;161;15%;4;3;Vital Force;
+L;Jett; ;136;10;21;4; ;82;8%;6;7;Vital Force;
+L;Jett; ;196;16;21;6; ;127;17%;5;3;Vital Force;
+W;Jett; ;274;24;16;2; ;209;32%;4;8;ALFA Esport;
+L;Jett; ;170;8;17;3; ;96;30%;3;7;ALFA Esport;
+L;Jett; ;296;25;17;6; ;178;28%;8;6;ALFA Esport;

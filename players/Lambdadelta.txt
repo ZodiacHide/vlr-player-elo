@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.48;263;19;10;10;95%;167;29%;2;3;Rebirth Esports;
+L;Sova;1.24;244;18;16;6;67%;164;20%;1;2;Rebirth Esports;
+W;Sova;0.99;202;20;17;3;76%;122;26%;0;1;Rebirth Esports;

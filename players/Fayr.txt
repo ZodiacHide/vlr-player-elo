@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;240;18;17;5; ;141;12%;2;3;Sedated;
+L;Reyna; ;200;13;16;4; ;115;14%;3;3;Sedated;
+L;Omen; ;209;14;16;10; ;133;32%;0;1;Penguin Sledding;
+W;Omen; ;195;12;6;5; ;117;27%;0;1;Penguin Sledding;
+W;Omen; ;284;18;10;5; ;167;37%;0;2;Penguin Sledding;
+W;Omen; ;333;25;7;3; ;168;29%;1;0;Penguin Sledding;
+W;Omen; ;273;14;9;9; ;169;24%;3;1;Penguin Sledding;
+W;Omen; ;215;18;17;4; ;120;23%;3;4;Penguin Sledding;
+L;Omen; ;148;12;17;7; ;88;18%;1;4;Penguin Sledding;
+L;Omen; ;132;7;14;6; ;99;19%;1;1;Penguin Sledding;
+L;Killjoy; ;173;12;15;3; ;105;27%;0;2;Penguin Sledding;
+L;Omen; ;85;6;16;3; ;56;10%;1;2;YFP Gaming;

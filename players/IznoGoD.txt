@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.66;162;10;17;11;71%;110;25%;1;3;PN Crew;
+L;Brimstone;0.58;177;10;18;4;45%;128;19%;1;4;PN Crew;

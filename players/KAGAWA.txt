@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;174;13;18;2; ;118;23%;3;3;AVALON Gaming;
+L;Reyna; ;108;6;18;7; ;72;11%;2;5;AVALON Gaming;
+W;Phoenix; ;286;17;8;5; ;172;28%;1;5;AVALON Gaming;
+W;Phoenix; ;272;21;12;3; ;154;26%;6;3;AVALON Gaming;
+L;Breach; ;157;9;12;2; ;159;33%;0;1;AVALON Gaming;
+L;Phoenix; ;245;20;17;3; ;152;19%;6;2;AVALON Gaming;

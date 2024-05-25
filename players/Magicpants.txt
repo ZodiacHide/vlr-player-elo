@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;295;14;10;4; ;184;18%;2;0;Team LZ;
+L;Jett; ;278;15;14;0; ;134;22%;6;4;Team LZ;
+W;Jett; ;235;12;10;5; ;145;15%;4;3;Team LZ;
+L;Jett; ;283;19;17;5; ;168;27%;4;2;Team LZ;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.26;69;2;13;0;29%;58;26%;0;1;Waifu Warriors;

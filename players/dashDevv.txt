@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;105;7;16;1; ;53;19%;1;2;On Top Soon;
+L;Cypher; ;152;7;13;0; ;104;44%;1;0;On Top Soon;
+L;Jett;0.52;170;11;17;1;47%;101;34%;2;6;MishMash Gaming;
+L;Sage;0.44;138;8;19;3;60%;79;21%;5;2;White Lotus;
+L;Sova;0.35;118;5;14;0;40%;81;24%;0;0;White Lotus;

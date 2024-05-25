@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Mendo;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Mendo;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Mendo;
+L;Raze; ;181;9;17;3; ; ; ;1; ;Team Mendo;
+L;Raze; ;266;21;19;3; ; ; ;1; ;Team Mendo;

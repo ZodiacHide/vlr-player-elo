@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Exalted Esports;
+L;Phoenix; ;209;15;16;1; ; ; ;2; ;Exalted Esports;
+L;Phoenix; ;133;7;13;2; ; ; ;0; ;Exalted Esports;
+W;Phoenix; ;132;7;16;4; ; ; ;1; ;Exalted Esports;
+W;Phoenix; ;173;13;14;3; ; ; ;3; ;Exalted Esports;
+L;Jett;0.81;184;10;14;1;59%;106;30%;3;2;ASI;

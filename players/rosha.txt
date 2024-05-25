@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;79;7;18;2; ;54;24%;2;0;VK Gaming;
+L;Omen; ;119;8;16;6; ;82;16%;1;2;VK Gaming;

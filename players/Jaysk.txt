@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.87;188;12;15;4;68%;106;23%;1;1;Dark Tigers;
+L;Breach;0.35;88;3;14;4;47%;58;11%;1;2;Dark Tigers;
+L;Sage;1.15;211;17;17;12;67%;139;30%;1;4;Dark Tigers;
+L;Skye;0.48;140;7;13;2;47%;74;17%;0;1;Dark Tigers;
+L;Viper;0.34;131;8;19;6;65%;86;17%;2;4;Dark Tigers;

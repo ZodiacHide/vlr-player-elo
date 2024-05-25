@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.29;106;4;14;1;43%;56;36%;2;2;5Ravens;
+L;Brimstone;0.82;222;12;14;2;50%;129;36%;2;3;5Ravens;
+L;Brimstone;1.36;277;23;15;3;70%;180;25%;2;1;5Ravens;
+L;Omen;0.63;201;12;17;4;61%;122;16%;1;1;5Ravens;
+L;Jett;0.93;275;12;13;2;69%;140;26%;1;1;5Ravens;
+W;Jett;1.04;200;12;11;5;82%;117;12%;4;3;5Ravens;

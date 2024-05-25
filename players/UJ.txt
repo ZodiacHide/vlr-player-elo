@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;0.78;184;11;15;3;59%;112;17%;3;2;NBD Esports;
+L;Sova;0.83;196;10;14;4;75%;123;19%;1;1;NBD Esports;
+L;Sova;0.76;168;12;17;8;70%;114;33%;1;2;NBD Esports;
+L;Sova;1.32;332;26;17;4;73%;213;25%;2;2;NBD Esports;

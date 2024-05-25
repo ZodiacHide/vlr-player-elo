@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;169;8;15;2; ;70;41%;0;3;B Beasts;
+L;Jett; ;220;13;15;0; ;134;31%;2;4;B Beasts;
+L;Raze; ;162;8;14;2; ;90;23%;2;2;B Beasts;
+L;Jett; ;240;17;16;2; ;134;18%;4;2;B Beasts;

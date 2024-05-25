@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;171;7;13;1; ; ; ;0; ;Team Miss Rage;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Miss Rage;
+L;Cypher; ;118;8;14;3; ; ; ;1; ;Team ANGE1;
+L;Cypher; ;160;14;19;4; ; ; ;1; ;Team ANGE1;
+L;Cypher; ;172;13;16;2; ; ; ;1; ;Team ANGE1;
+W;Cypher; ;92;7;18;3; ; ; ;0; ;Team ANGE1;
+W;Cypher; ;126;10;12;5; ; ; ;1; ;Team ANGE1;
+L;Cypher; ;89;6;15;3; ; ; ;4; ;Team ANGE1;
+W;Cypher; ;82;7;18;4; ; ; ;1; ;Team ANGE1;
+W;Cypher; ;99;7;18;3; ; ; ;2; ;Team ANGE1;
+W;Cypher; ;175;10;11;3; ; ; ;1; ;Team ANGE1;
+L;Cypher; ;92;5;15;3; ; ; ;0; ;Team ANGE1;
+W;Cypher; ;99;7;14;5; ; ; ;1; ;Team ANGE1;
+L;Cypher; ;113;7;16;2; ; ; ;0; ;Team ANGE1;
+W;Cypher; ;112;9;18;3; ; ; ;2; ;Team ANGE1;

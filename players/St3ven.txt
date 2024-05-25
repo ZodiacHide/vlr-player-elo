@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;62;2;14;5; ;35;30%;0;1;TopHard Esports;
+L;Cypher; ;87;3;16;7; ;58;7%;0;0;TopHard Esports;
+L;Reyna; ;99;6;17;1; ;72;14%;1;1;TopHard Esports;
+W;Reyna; ;182;13;12;3; ;105;20%;2;2;TopHard Esports;
+L;Phoenix; ;99;4;15;2; ;75;8%;0;0;TopHard Esports;
+L;Reyna; ;177;9;13;2; ;96;12%;0;0;TopHard Esports;
+L;Sage; ;55;2;12;3; ;34;8%;0;0;TopHard Esports;
+L;Sage; ;75;3;16;5; ;43;10%;0;1;TopHard Esports;

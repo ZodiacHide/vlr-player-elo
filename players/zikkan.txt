@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;149;10;16;9; ;98;13%;0;1;Cakebois;
+L;Breach; ;142;11;15;9; ;125;20%;0;0;Cakebois;
+L;Breach; ;72;4;13;4; ;42;0%;0;2;Cakebois;
+W;Breach; ;153;9;18;9; ;74;6%;1;1;Cakebois;
+L;Breach; ;132;8;17;11; ;74;5%;1;1;Cakebois;

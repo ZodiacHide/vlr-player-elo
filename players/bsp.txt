@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye; ;189;11;15;1; ;120;26%;1;0;LES PILLEURS;
+L;Skye;0.65;155;8;16;7;59%;89;32%;0;2;DNA PEEK;
+L;Omen;0.68;146;12;19;2;74%;90;11%;2;3;DNA PEEK;

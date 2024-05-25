@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.49;118;5;15;3;50%;87;24%;0;2;Goats and Glory;

@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;108;6;9;5; ; ; ;0; ;Les Farmers;
+W;Cypher; ;224;16;7;5; ; ; ;2; ;Les Farmers;
+W;Cypher; ;149;10;17;6; ; ; ;1; ;Les Farmers;
+L;Cypher; ;222;17;17;7; ; ; ;0; ;Les Farmers;
+L;Cypher; ;217;17;15;4; ; ; ;0; ;Les Farmers;
+L;Sova; ;194;17;17;8; ;118;29%;0;3;ChillinWithFriends;
+L;Sova; ;95;5;15;3; ;62;22%;0;2;ChillinWithFriends;
+L;Sova; ;95;10;18;5; ;53;11%;0;2;ChillinWithFriends;
+L;Sova; ;173;9;14;1; ;109;24%;0;1;ChillinWithFriends;
+L;Raze;0.76;100;9;17;4;70%;68;16%;0;2;TERROR.NET;
+W;Reyna;0.78;170;14;18;3;67%;101;18%;2;2;TERROR.NET;
+W;Raze;1.09;157;9;8;5;78%;119;25%;1;2;TERROR.NET;
+W;Raze;1.15;238;19;14;4;68%;145;30%;6;4;TERROR.NET;
+W;Jett;1.57;330;24;13;4;90%;190;21%;6;1;TERROR.NET;
+W;Jett;1.27;291;22;13;4;85%;171;30%;3;2;TERROR.NET;

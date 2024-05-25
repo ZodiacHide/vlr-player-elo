@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.73;148;9;16;4;53%;99;23%;1;2;Icicle Conflict;
+L;Viper;0.30;92;3;13;3;29%;63;38%;1;3;Icicle Conflict;
+L;Omen;0.36;94;3;15;8;50%;84;17%;0;2;Icicle Conflict;
+L;Omen;0.35;102;5;15;5;44%;60;13%;0;2;Icicle Conflict;
+L;Omen;0.76;191;10;17;6;44%;139;31%;3;3;Icicle Conflict;
+L;Omen;0.66;104;9;19;9;67%;70;17%;1;1;Icicle Conflict;
+L;Astra;0.57;112;7;17;3;63%;65;50%;0;2;Icicle Conflict;
+L;Astra;0.56;118;9;19;9;74%;87;10%;2;5;Icicle Conflict;
+L;Viper;0.92;195;15;18;7;70%;128;16%;2;3;Icicle Conflict;
+L;Astra;0.38;70;3;15;4;47%;50;28%;0;2;Icicle Conflict;
+W;Viper;1.08;191;14;16;14;67%;137;30%;0;1;Icicle Conflict;
+L;Viper;0.52;190;9;16;3;60%;99;26%;2;1;Icicle Conflict;

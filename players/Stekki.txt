@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;195;21;28;4; ;118;18%;3;5;Invicta;
+L;Sova; ;163;11;17;7; ;102;20%;3;4;Invicta;
+L;Sova; ;197;10;15;8; ;138;43%;3;2;Invicta;

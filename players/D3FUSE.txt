@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;236;12;15;5; ;148;21%;2;0;Emerald Gaming;
+W;Raze; ;183;13;13;5; ;119;17%;0;2;Emerald Gaming;
+L;Raze; ;161;12;13;2; ;156;20%;2;0;Emerald Gaming;

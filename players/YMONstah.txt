@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.31;72;3;14;2;29%;46;36%;0;1;SE ATLAS;
+L;Cypher;1.22;186;18;15;3;69%;128;23%;2;2;SE ATLAS;
+W;Viper;1.12;163;12;11;9;95%;113;18%;1;2;SE ATLAS;
+L;Astra;0.93;192;16;16;2;62%;139;41%;0;3;SE ATLAS;
+L;Omen;0.15;79;3;14;2;36%;48;25%;0;4;SE ATLAS;
+L;Omen;0.74;152;11;19;9;82%;93;21%;3;3;SE ATLAS;

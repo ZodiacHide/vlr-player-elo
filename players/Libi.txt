@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.72;175;12;17;4;65%;108;25%;1;2;Finest Female;
+L;Jett;0.86;156;12;14;2;65%;112;38%;6;1;Finest Female;
+L;Reyna;1.02;200;14;14;3;58%;133;21%;0;1;Finest Female;
+L;Jett;0.89;231;9;12;1;50%;141;30%;1;1;Finest Female;

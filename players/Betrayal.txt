@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;186;9;16;4; ;141;36%;1;1;Caught in 4k;
+L;Jett; ;21;0;14;2; ;11;25%;0;4;Caught in 4k;

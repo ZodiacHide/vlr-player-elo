@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;240;17;15;4; ; ; ;0; ;Resurrection Sickness;
+W;Brimstone; ;136;10;14;3; ; ; ;5; ;Resurrection Sickness;
+W;Brimstone; ;234;22;16;5; ; ; ;1; ;Resurrection Sickness;
+L;None;0;0;0;0;0;0;0;0;0;0;Resurrection Sickness;
+L;Sova; ;157;9;16;6; ; ; ;1; ;Resurrection Sickness;
+L;Sova; ;157;10;14;3; ; ; ;1; ;Resurrection Sickness;
+L;Raze; ;160;9;14;3; ; ; ;1; ;Resurrection Sickness;

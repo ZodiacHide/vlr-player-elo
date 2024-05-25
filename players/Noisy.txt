@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.65;138;7;13;2;50%;97;25%;0;0;5Ravens;
+L;Sova;0.43;152;6;15;7;50%;96;12%;0;1;5Ravens;
+L;Sova;0.79;142;10;17;8;74%;93;18%;2;1;5Ravens;
+L;Sova;0.81;189;11;15;6;72%;128;21%;0;1;5Ravens;
+L;Sova;0.71;189;9;12;2;54%;125;38%;1;1;5Ravens;
+W;Sova;1.85;286;19;6;11;76%;179;27%;0;0;5Ravens;
+L;Jett;0.43;128;5;14;4;44%;64;14%;2;2;Dominus Esports;
+W;Sova;1.26;173;15;9;6;81%;120;27%;0;1;Dominus Esports;
+L;Sova;0.59;131;6;14;3;44%;80;8%;0;2;Dominus Esports;
+L;Sova;0.83;95;12;17;5;71%;45;14%;1;0;Dominus Esports;
+L;Sova;0.70;133;8;14;3;53%;99;20%;0;2;Dominus Esports;
+L;Sova;0.29;47;3;13;2;31%;34;14%;0;5;Dominus Esports;

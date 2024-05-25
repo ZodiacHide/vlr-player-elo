@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;185;20;28;11; ;121;27%;6;6;LEGENDs;
+W;Cypher; ;219;19;17;2; ;145;30%;4;3;LEGENDs;
+L;Cypher; ;283;19;16;3; ;174;31%;4;4;LEGENDs;

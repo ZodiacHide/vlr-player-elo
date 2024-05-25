@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;146;8;15;0; ;111;23%;0;3;Dallas Vendetta;
+L;Raze; ;178;14;14;2; ;106;11%;1;6;Dallas Vendetta;

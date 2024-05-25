@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;113;7;15;3; ;67;14%;0;2;Caught in 4k;
+L;Raze; ;41;1;14;1; ;37;10%;0;3;Caught in 4k;

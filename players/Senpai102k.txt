@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Viper;0.97;205;20;19;7;69%;127;17%;2;3;368;
+L;Jett;0.86;194;15;17;5;61%;117;26%;3;4;368;
+L;Raze;1.31;279;25;16;6;73%;167;6%;5;2;368;

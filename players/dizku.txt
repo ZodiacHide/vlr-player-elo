@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;141;6;14;0; ;89;25%;1;4;Team Samurai;
+L;Omen; ;157;12;14;4; ;137;22%;0;1;Team Samurai;
+L;Omen; ;191;12;15;4; ;132;12%;0;2;Team Samurai;
+L;Omen; ;179;21;21;3; ;118;25%;3;3;Team Samurai;
+L;Omen; ;196;10;14;1; ;112;27%;1;1;Team Samurai;
+L;Omen; ;188;12;15;2; ;119;39%;1;0;Team Samurai;

@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;190;9;13;3; ;113;25%;1;5;All Born to Clutch;
+L;Raze; ;224;14;16;6; ;133;10%;1;4;All Born to Clutch;
+W;Jett; ;295;20;13;4; ;177;24%;8;2;All Born to Clutch;
+L;Jett; ;254;22;18;3; ;160;15%;7;4;All Born to Clutch;
+L;Jett; ;277;27;21;6; ;171;27%;4;4;All Born to Clutch;
+W;Jett;1.04;267;18;13;2;67%;154;40%;3;3;All Born to Clutch;
+W;Jett;0.89;259;16;15;5;76%;180;34%;2;2;All Born to Clutch;
+L;None;0;0;0;0;0;0;0;0;0;0;All Born to Clutch;
+L;Jett;1.32;300;26;18;4;77%;186;29%;4;2;All Born to Clutch;
+L;Jett;0.83;212;19;23;4;71%;122;28%;7;5;All Born to Clutch;
+L;Jett;0.57;159;8;14;0;33%;81;35%;4;3;All Born to Clutch;
+W;Jett;1.06;230;11;9;4;86%;144;29%;4;3;Lightning;
+L;Jett;0.58;108;7;16;5;47%;65;24%;1;4;Lightning;

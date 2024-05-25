@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;237;17;14;4; ;141;14%;2;6;ZaPs Clan;
+W;Cypher; ;143;12;9;0; ;94;23%;1;4;ZaPs Clan;
+L;Cypher; ;230;14;14;5; ;105;13%;0;0;ZaPs Clan;

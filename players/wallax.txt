@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;171;12;19;11; ; ; ;1; ;Valorantaupe;
+L;Cypher; ;128;9;15;2; ; ; ;1; ;Valorantaupe;
+W;Breach; ;132;10;7;5; ;74;29%;0;0;Opportunists;
+L;Killjoy; ;102;6;16;3; ;86;13%;1;3;Opportunists;

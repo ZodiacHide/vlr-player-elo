@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;164;12;15;9; ;140;17%;0;1;Snowmen;
+L;Cypher; ;157;8;15;3; ;99;26%;1;1;Snowmen;
+L;Cypher; ;194;11;15;3; ;117;27%;0;0;Snowmen;

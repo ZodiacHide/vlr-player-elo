@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.52;260;28;19;18;78%;168;15%;4;2;KJC eSports;
+L;Raze;0.87;264;13;16;4;71%;148;22%;4;3;KJC eSports;
+L;Jett;0.75;185;15;18;3;48%;111;15%;1;5;TYPHOONS;
+W;Jett;0.80;191;14;15;1;60%;112;16%;6;2;TYPHOONS;
+W;Skye;0.62;162;12;19;3;63%;104;14%;1;2;TYPHOONS;
+L;Jett;0.74;191;9;13;2;47%;119;23%;3;3;TYPHOONS;
+L;Jett;1.01;238;17;15;1;74%;127;34%;0;4;TYPHOONS;

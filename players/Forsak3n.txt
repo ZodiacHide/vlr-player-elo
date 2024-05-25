@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper; ; ; ; ; ; ; ; ; ; ;GOAGOAGOA;
+W;Omen; ;164;11;9;6; ;104;9%;0;0;Event Horizon;
+L;Omen; ;152;8;15;2; ;103;11%;0;1;Event Horizon;
+W;Omen; ;173;14;18;4; ;114;18%;1;5;Event Horizon;
+L;Omen; ;126;11;17;3; ;84;13%;1;2;Event Horizon;

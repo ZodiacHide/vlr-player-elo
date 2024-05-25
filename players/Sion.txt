@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;229;14;15;4; ;147;19%;1;4;REVIVE;
+L;Reyna; ;152;6;16;4; ;165;18%;2;6;REVIVE;
+L;Breach; ;67;3;13;2; ;45;11%;0;5;REVIVE;
+W;Phoenix; ;247;17;17;7; ;203;16%;6;3;REVIVE;
+L;Breach; ;133;9;16;2; ;139;35%;2;6;REVIVE;

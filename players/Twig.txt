@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;161;6;12;6; ;95;36%;0;3;Shadownet;
+L;Sova; ;267;16;16;7; ;168;11%;3;4;Shadownet;
+L;Sova; ;128;7;15;5; ;79;12%;1;1;Shadownet;

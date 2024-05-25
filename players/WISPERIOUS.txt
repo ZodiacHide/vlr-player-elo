@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;241;14;13;5; ;143;17%;3;1;Team PAGO;
+L;Sova; ;133;8;15;5; ;102;20%;0;1;Team PAGO;
+W;Sova; ;339;17;6;10; ;207;29%;1;2;Chakalaka;
+W;Raze; ;273;20;14;2; ;174;16%;4;1;Chakalaka;
+L;Sova; ;273;17;16;8; ;163;21%;4;2;Chakalaka;
+W;Sova; ;302;35;20;11; ;189;31%;1;0;Hajty;
+W;Sova; ;290;15;6;5; ;170;31%;2;1;Hajty;
+W;Killjoy; ;188;14;16;5; ;151;13%;4;2;Hajty;
+L;Sova; ;225;13;15;7; ;157;26%;2;3;Hajty;
+L;Sova; ;221;14;18;8; ;141;23%;3;1;Hajty;

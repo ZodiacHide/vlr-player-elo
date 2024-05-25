@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;70;3;20;5; ;51;8%;0;4;Team cNed;
+W;Sova; ;206;11;10;5; ;130;25%;1;2;Team cNed;
+W;Sova; ;277;16;7;5; ;153;34%;4;0;Team cNed;
+L;Sova; ;216;19;19;2; ;145;19%;0;3;Team cNed;

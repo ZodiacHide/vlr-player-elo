@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.86;202;11;14;3;63%;129;23%;1;1;DaBaby Clan;
+L;Cypher;0.44;139;9;15;1;41%;75;30%;3;2;DaBaby Clan;

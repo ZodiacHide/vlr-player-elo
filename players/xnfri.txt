@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;149;6;13;0; ;96;13%;0;3;AVALON Gaming;
+W;Reyna; ;217;11;8;5; ;127;26%;3;1;AVALON Gaming;
+W;Raze; ;264;15;7;6; ;154;15%;1;1;AVALON Gaming;
+W;Jett;1.12;242;17;15;2;67%;139;27%;8;5;Tiimu Sagashitemasu;
+L;Sova;0.62;139;7;13;1;47%;99;20%;1;2;Tiimu Sagashitemasu;
+L;Reyna;1.10;255;16;15;4;67%;152;22%;3;2;Tiimu Sagashitemasu;
+L;Jett;0.66;211;9;15;2;80%;116;11%;3;1;Tiimu Sagashitemasu;
+L;Jett;0.83;228;13;17;3;63%;123;30%;1;4;Tiimu Sagashitemasu;
+L;Yoru;0.41;63;3;15;1;58%;49;25%;1;4;Tiimu Sagashitemasu;
+L;Reyna;0.71;121;6;13;3;44%;102;14%;0;3;Tiimu Sagashitemasu;
+L;Reyna;1.08;242;14;16;7;70%;166;34%;4;2;Tiimu Sagashitemasu;
+W;Phoenix;0.98;198;15;16;4;77%;136;25%;4;1;Tiimu Sagashitemasu;
+L;Reyna;0.59;152;6;13;7;77%;78;10%;2;2;Tiimu Sagashitemasu;
+W;Reyna;1.84;384;22;11;5;88%;234;29%;5;1;Tiimu Sagashitemasu;
+W;Raze;1.00;227;17;17;4;83%;151;19%;5;4;Tiimu Sagashitemasu;
+W;Jett;1.52;266;17;7;5;89%;165;26%;2;1;Run it Back;

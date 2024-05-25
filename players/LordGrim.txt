@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;220;10;15;4; ;128;41%;2;3;Big Brain;
+L;Reyna; ;136;5;15;3; ;96;19%;0;2;Big Brain;

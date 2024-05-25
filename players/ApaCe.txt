@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach;0.61;154;7;14;2;47%;111;21%;1;2;Atfinest;
+L;Raze;0.18;78;2;15;2;50%;53;16%;0;5;Atfinest;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;136;10;18;7; ;91;10%;1;1;ANARCHY;
+W;Cypher; ;120;10;18;3; ;80;10%;1;2;ANARCHY;
+W;Cypher; ;188;16;21;6; ;116;12%;2;2;ANARCHY;
+L;Omen; ;119;7;14;1; ;77;26%;0;2;ANARCHY;
+L;Cypher; ;134;7;16;2; ;75;9%;1;1;ANARCHY;

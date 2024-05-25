@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.28;88;4;13;0;31%;44;25%;1;4;Vieux Touristes;
+L;Jett;0.40;111;5;12;0;38%;66;50%;2;0;Vieux Touristes;

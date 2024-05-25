@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;168;13;16;6; ;106;37%;2;2;JG and friends;
+L;Sage;0.75;189;11;14;2;63%;118;36%;1;4;JG and friends;

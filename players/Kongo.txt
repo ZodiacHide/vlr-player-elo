@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;170;11;18;0; ;93;25%;3;2;Noctis;
+L;Breach; ;189;10;17;6; ;119;32%;1;2;Noctis;

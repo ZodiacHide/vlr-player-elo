@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;0.69;77;5;12;5;63%;55;25%;0;1;Team RA'AD;
+W;Sova;1.16;197;14;12;5;80%;133;33%;0;1;Team RA'AD;
+W;None;0;0;0;0;0;0;0;0;0;0;Team RA'AD;
+W;None;0;0;0;0;0;0;0;0;0;0;Team RA'AD;
+W;Sova;1.40;178;12;5;7;93%;96;10%;0;0;Team RA'AD;
+W;None;0;0;0;0;0;0;0;0;0;0;Team RA'AD;
+L;Sova;0.80;175;13;18;6;63%;125;13%;1;1;Team RA'AD;
+W;Kayo;1.24;177;14;12;13;86%;123;29%;3;0;Team RA'AD;
+W;None;0;0;0;0;0;0;0;0;0;0;Team RA'AD;
+W;Sova;1.44;196;13;6;8;100%;129;22%;0;0;Team RA'AD;
+W;None;0;0;0;0;0;0;0;0;0;0;Team RA'AD;
+L;Sova;0.54;150;8;16;4;53%;93;42%;1;0;Team RA'AD;
+L;None;0;0;0;0;0;0;0;0;0;0;Team RA'AD;
+L;Sova;0.77;167;18;25;9;59%;117;22%;1;3;Team RA'AD;

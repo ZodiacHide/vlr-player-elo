@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;241;13;10;4; ;203;30%;1;1;Megastitut;
+W;Cypher; ;215;19;15;5; ;155;25%;2;0;Megastitut;
+L;Breach; ;158;8;16;9; ;92;19%;0;3;Megastitut;
+L;Killjoy;0.92;190;12;14;4;74%;139;19%;0;3;FC Pat Patrouille;
+L;Viper;0.71;152;7;13;3;80%;115;22%;1;2;FC Pat Patrouille;

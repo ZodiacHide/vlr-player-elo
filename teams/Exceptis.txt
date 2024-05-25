@@ -1,0 +1,13 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;need more DM;Bind;need more DM;iDex;BouLy;Ada;TiduS;Dawn;13:7;False;-;Saturday, May 23rd, 6:00 PM CEST;Absolute Masters;url.net;
+Defense;L;need more DM;Haven;need more DM;iDex;BouLy;Ada;TiduS;Dawn;10:13;False;-;Saturday, May 23rd, 6:00 PM CEST;Absolute Masters;url.net;
+Defense;L;need more DM;Split;need more DM;iDex;BouLy;Ada;TiduS;Dawn;10:13;False;-;Saturday, May 23rd, 6:00 PM CEST;Absolute Masters;url.net;
+Attack;W;AMENO;Ascent;Exceptis;iDex;BouLy;Ada;TiduS;Dawn;13:8;False;-;Saturday, June 20th, 6:00 PM CEST;Absolute Masters;url.net;
+Attack;W;AMENO;Haven;Exceptis;iDex;BouLy;Ada;TiduS;Dawn;13:4;False;-;Saturday, June 20th, 6:00 PM CEST;Absolute Masters;url.net;
+Defense;W;Royals;Bind;Exceptis;logaN;TiduS;Kursy;liptoNNN;iDex;13:12;True;-;Saturday, June 27th, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/663115591?t=0h21m56s;
+Defense;W;Royals;Haven;Exceptis;logaN;TiduS;Kursy;liptoNNN;iDex;13:10;False;-;Saturday, June 27th, 6:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/663115591?t=0h21m56s;
+Defense;W;Fordon Boars;Haven;Exceptis;rodeN;TakaS;hoppY;Makazin;logaN;13:4;False;-;Saturday, July 25th, 6:15 PM CEST;Absolute Masters;https://www.twitch.tv/videos/690394862?t=0h31m55s;
+Attack;W;Fordon Boars;Ascent;Exceptis;rodeN;TakaS;hoppY;Makazin;logaN;13:8;False;-;Saturday, July 25th, 6:15 PM CEST;Absolute Masters;https://www.twitch.tv/videos/690394862?t=0h31m55s;
+Attack;W;bonk;Haven;bonk;hoppY;bramz;logaN;TakaS;rodeN;13:11;False;-;Sunday, July 26th, 8:00 PM CEST;Absolute Masters;url.net;
+Defense;L;bonk;Split;bonk;hoppY;bramz;logaN;TakaS;rodeN;10:13;False;-;Sunday, July 26th, 8:00 PM CEST;Absolute Masters;url.net;
+Attack;W;bonk;Ascent;bonk;hoppY;bramz;logaN;TakaS;rodeN;13:10;False;-;Sunday, July 26th, 8:00 PM CEST;Absolute Masters;url.net;

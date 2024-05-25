@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.85;195;13;13;1;61%;106;28%;0;3;Illuzion Orange;
+L;Viper;0.34;119;5;15;5;40%;75;26%;1;3;Illuzion Orange;

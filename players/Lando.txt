@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;187;14;13;9; ;115;26%;5;3;Italian Hope;
+W;Omen; ;132;10;18;6; ;74;32%;4;1;Italian Hope;
+W;Omen; ;248;22;13;7; ;146;15%;2;1;Italian Hope;
+L;Omen; ;166;14;20;8; ;113;29%;2;2;Offlimits;
+L;Omen; ;112;6;15;2; ;72;21%;1;4;Offlimits;
+W;Skye;1.39;201;13;6;3;94%;109;25%;3;0;Macko Esports;
+W;Skye;0.76;147;12;17;12;75%;90;17%;0;2;Macko Esports;
+L;Skye;0.85;199;13;16;4;75%;135;15%;0;1;Macko Esports;
+L;Skye;0.81;164;14;17;4;68%;110;32%;2;1;Macko Esports;
+L;Sage;0.68;126;9;16;4;63%;86;21%;0;1;Macko Esports;
+L;Breach;0.80;184;11;16;6;75%;122;32%;3;2;Macko Esports;

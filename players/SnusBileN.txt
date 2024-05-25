@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;247;19;15;12; ;140;16%;4;1;Cakebois;
+L;Killjoy; ;155;10;18;7; ;105;7%;3;1;Cakebois;
+L;Sova; ;130;8;13;3; ;147;16%;1;1;Cakebois;
+W;Killjoy; ;179;15;13;8; ;112;6%;0;2;Cakebois;
+L;Killjoy; ;162;13;17;1; ;105;22%;0;2;Cakebois;

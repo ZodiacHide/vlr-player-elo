@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;224;14;5;6; ;201;11%;0;0;OhMyGirl;
+W;Killjoy; ;186;13;16;8; ;93;10%;3;1;OhMyGirl;
+L;Killjoy; ;109;8;15;2; ;75;10%;0;2;OhMyGirl;
+L;Raze; ;241;13;17;4; ;147;6%;3;2;OhMyGirl;
+L;Jett; ;172;10;14;4; ;163;3%;3;6;OhMyGirl;
+L;Phoenix; ;201;15;16;6; ;121;14%;2;3;OhMyGirl;

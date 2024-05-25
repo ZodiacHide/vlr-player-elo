@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;88;6;18;4; ;67;17%;1;4;VETERANOS e-Sports;
+L;Cypher; ;140;8;14;1; ;143;27%;1;1;VETERANOS e-Sports;
+L;Cypher; ;160;11;18;1; ;98;23%;3;2;VETERANOS e-Sports;
+W;Cypher; ;174;13;18;6; ;119;35%;3;1;VETERANOS e-Sports;

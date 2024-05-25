@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;216;19;18;12; ;122;12%;2;2;1stCav eSport Club;
+L;Sova; ;143;7;13;0; ;151;29%;1;1;1stCav eSport Club;
+L;Sova; ;206;12;14;3; ;81;27%;1;1;1stCav eSport Club;
+L;Omen; ;163;7;13;1; ;102;25%;1;0;1stCav eSport Club;

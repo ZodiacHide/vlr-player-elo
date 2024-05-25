@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;175;9;12;1; ; ; ;0; ;exuLt.gg;
+L;Sage; ;208;15;14;6; ; ; ;3; ;exuLt.gg;
+L;Jett; ;102;7;15;0; ;64;19%;1;0;exuLt.gg;
+W;Jett; ;234;18;12;4; ;138;9%;3;0;exuLt.gg;
+W;Sage; ;157;15;11;5; ;86;18%;2;1;exuLt.gg;

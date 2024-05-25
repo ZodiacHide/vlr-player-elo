@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;204;19;19;4; ;171;28%;3;2;seeker;
+L;Omen; ;205;15;17;2; ;127;28%;2;1;seeker;
+W;Omen; ;231;17;12;7; ;151;30%;0;1;seeker;
+L;Omen; ;276;20;15;3; ;220;26%;1;1;seeker;
+L;Omen; ;177;10;14;2; ;111;22%;0;0;seeker;
+L;Omen; ;248;20;14;7; ;149;21%;3;0;seeker;
+L;Omen; ;239;22;17;4; ;150;23%;1;1;seeker;

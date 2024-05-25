@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;321;16;13;4; ;186;23%;1;1;DIRTY;
+L;Raze; ;118;6;16;4; ;84;17%;1;3;DIRTY;
+W;Omen;0.94;187;22;19;1;70%;118;39%;2;0;EZclap;
+W;Sova;1.57;318;23;14;6;76%;208;37%;2;2;trying to win;
+L;Sova;1.12;210;20;18;3;75%;136;31%;1;0;trying to win;
+W;Skye;0.83;162;13;18;8;75%;126;24%;2;1;trying to win;

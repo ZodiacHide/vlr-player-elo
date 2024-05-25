@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;176;9;14;3; ;109;30%;2;2;zTitans;
+L;Sage; ;191;17;19;9; ;114;35%;2;0;zTitans;

@@ -1,0 +1,3 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Elevate;Haven;Decider;Lzruss;MasterPo;Sen9k;Voku;sim;2:13;False;32:05;Friday, September 18th, 4:00 AM CEST;30Bomb Invitational Series #2;url.net;
+Attack;L;Shiba;Haven;Decider;Lzruss;Voku;Sen9k;MasterPo;4:13;False;29:29;Saturday, September 19th, 4:05 AM CEST;30Bomb Invitational Series #2;url.net;

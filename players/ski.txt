@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;1.24;300;21;16;1;63%;182;21%;2;1;Rebellious Gaming;
+L;Phoenix;0.89;233;12;15;4;73%;141;21%;2;3;Rebellious Gaming;

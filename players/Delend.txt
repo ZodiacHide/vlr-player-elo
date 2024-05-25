@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;123;7;15;4; ;69;21%;1;3;NongWaen;
+L;Omen; ;191;9;13;3; ;105;10%;0;0;NongWaen;
+L;Cypher; ;140;7;13;2; ;87;23%;0;1;NongWaen;
+L;Cypher; ;140;7;13;2; ;87;23%;0;1;NongWaen;
+L;Killjoy;0.96;220;17;16;4;71%;145;18%;0;3;47 Gaming;
+L;Killjoy;0.63;143;8;17;3;64%;101;21%;1;0;47 Gaming;
+W;Killjoy;1.19;197;17;11;3;87%;156;24%;2;2;47 Gaming;
+L;Viper;0.69;140;10;16;5;71%;93;15%;0;2;47 Gaming;
+L;Viper;0.74;146;11;15;4;45%;86;50%;2;0;47 Gaming;
+L;Killjoy;0.84;119;10;15;5;77%;81;15%;1;0;47 Gaming;
+L;Viper;0.69;184;12;15;2;65%;107;24%;1;1;47 Gaming;
+L;Viper;1.10;255;16;14;3;71%;177;29%;1;4;47 Gaming;
+L;Killjoy;1.18;220;18;16;4;78%;150;25%;2;4;47 Gaming;

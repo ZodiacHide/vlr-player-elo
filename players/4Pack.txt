@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Underrated;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Underrated;
+W;Sova; ;147;12;12;5; ; ; ;0; ;Team Underrated;
+W;Sova; ;219;17;16;4; ; ; ;3; ;Team Underrated;
+W;Sova; ;208;17;18;8; ; ; ;3; ;Team Underrated;
+L;Sova; ;190;14;17;5; ; ; ;2; ;Team Underrated;
+L;Sova; ;155;13;16;4; ; ; ;2; ;Team Underrated;
+L;Raze; ;200;10;15;3; ;123;14%;0;0;Grind City;
+L;Raze; ;194;14;21;2; ;110;16%;2;4;Grind City;
+L;Reyna; ;236;12;16;4; ;146;14%;3;3;Grind City;
+W;Sova; ;251;18;19;13; ;156;25%;1;0;Grind City;
+L;Sova; ;241;19;17;2; ;167;29%;1;2;Grind City;
+L;Sova; ;187;11;17;6; ;120;10%;2;2;Grind City;
+L;Raze; ;172;8;18;6; ;104;7%;2;6;Grind City;
+L;Sova; ;197;17;20;9; ;172;23%;1;1;Grind City;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;0.87;199;16;17;10;74%;113;14%;3;2;Rhyno Esports;
+L;Viper;0.70;156;9;16;3;50%;95;21%;0;1;Rhyno Esports;
+W;Astra;0.95;167;15;14;8;59%;82;20%;0;3;Rhyno Esports;
+W;Omen;0.80;139;9;15;12;85%;82;26%;1;2;Rhyno Esports;
+L;Omen;0.83;182;11;14;2;53%;108;23%;1;1;Rhyno Esports;
+L;Astra;0.89;214;16;17;4;73%;142;25%;3;3;Rhyno Esports;

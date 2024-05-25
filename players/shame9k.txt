@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;198;13;7;3; ; ; ;3; ;InetGamer;
+L;Brimstone; ;119;8;15;1; ; ; ;0; ;InetGamer;
+W;Breach; ;186;12;13;8; ; ; ;0; ;InetGamer;
+L;Breach; ;108;6;13;2; ;79;21%;1;1;Eternal;
+L;Omen; ;91;3;13;3; ;69;5%;2;0;YoungTalents;

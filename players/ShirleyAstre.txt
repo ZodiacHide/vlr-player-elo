@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;142;7;11;2; ; ; ;4; ;DetonatioN FocusMe;
+L;Reyna; ;305;25;15;2; ; ; ;4; ;DetonatioN FocusMe;

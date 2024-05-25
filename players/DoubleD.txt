@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.90;211;10;13;4;69%;134;18%;0;2;Las Palmas Unity;
+L;Sage;0.48;140;5;13;5;54%;79;50%;0;0;Las Palmas Unity;
+W;Sova;1.70;313;22;8;6;100%;200;30%;3;0;Team Galaga;
+L;Sova;0.64;181;10;14;3;69%;127;40%;0;3;Team Galaga;
+L;Sova;0.51;135;8;15;3;67%;99;21%;2;2;Team Galaga;
+W;Sova;1.32;209;18;11;4;86%;142;31%;3;0;Team Galaga;
+W;Sova;1.24;195;14;11;11;83%;136;23%;2;0;Team Galaga;

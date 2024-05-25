@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;203;18;14;8; ; ; ;3; ;team cotch;
+L;Sova; ;147;10;16;8; ; ; ;0; ;team cotch;
+L;Sova; ;158;11;15;5; ; ; ;3; ;team cotch;
+L;Sova; ;200;20;19;9; ;123;19%;0;3;6'4 fully tatted;

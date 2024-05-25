@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;154;9;14;1; ; ; ;1; ;Bantz;
+L;Sage; ;210;14;16;5; ; ; ;5; ;Bantz;
+L;Sage; ;142;9;15;4; ; ; ;0; ;Bantz;

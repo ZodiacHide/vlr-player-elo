@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;210;10;15;2; ; ; ;6; ;Headshot;
+L;Jett; ;185;10;16;4; ;119;20%;4;4;FFT;
+W;Jett; ;335;24;14;3; ;194;18%;5;3;FFT;
+W;Jett; ;265;17;8;2; ;155;17%;8;2;FFT;
+W;Jett; ;204;20;17;2; ;123;20%;7;6;FFT;
+W;Jett; ;121;8;11;2; ;70;33%;2;2;FFT;
+L;Jett; ;171;11;18;1; ;110;19%;5;6;FFT;
+L;Jett; ;250;21;17;1; ;156;24%;2;1;FFT;

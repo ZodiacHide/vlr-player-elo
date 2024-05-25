@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;0.97;189;21;21;5;70%;113;26%;1;1;Kaos Latin Gamers;
+W;Reyna;1.30;262;23;15;9;83%;159;19%;2;2;Kaos Latin Gamers;
+L;Viper;0.98;197;12;12;4;63%;120;17%;1;0;Kaos Latin Gamers;
+W;Astra;1.09;147;13;10;7;73%;88;31%;1;2;Kaos Latin Gamers;
+W;Astra;1.16;175;15;9;5;84%;100;12%;1;1;Kaos Latin Gamers;
+W;Brimstone;1.26;239;23;19;15;75%;167;14%;1;2;Kaos Latin Gamers;
+L;Astra;0.51;160;8;14;2;47%;104;22%;0;2;Pana.Rabbit;
+L;Reyna;1.31;309;25;17;5;68%;186;21%;2;2;Pana.Rabbit;
+L;Astra;0.71;165;8;15;8;61%;113;16%;1;1;Pana.Rabbit;
+L;Astra;0.21;61;2;12;0;15%;43;8%;0;1;Pana.Rabbit;

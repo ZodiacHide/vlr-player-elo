@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;265;17;15;1; ;158;18%;3;2;Onslaught Gaming;
+L;Omen; ;156;7;13;0; ;101;39%;2;3;Onslaught Gaming;
+W;Brimstone; ;230;18;16;9; ;154;17%;3;2;Onslaught Gaming;
+L;Omen; ;159;9;19;3; ;122;17%;1;2;Onslaught Gaming;

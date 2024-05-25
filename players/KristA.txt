@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;196;13;16;0; ;129;29%;0;2;MELiNA;
+L;Sage; ;235;20;15;5; ;133;27%;3;2;MELiNA;
+L;Sova;0.77;221;15;18;4;64%;150;27%;0;2;OutRage;
+W;Sova;1.02;240;24;23;7;73%;147;32%;4;2;OutRage;
+L;Sage;0.93;168;11;14;6;68%;125;30%;1;3;OutRage;

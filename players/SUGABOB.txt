@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;173;12;19;3; ;106;29%;3;6;Cakebois;
+L;Jett; ;219;18;15;4; ;136;19%;6;7;Cakebois;
+L;Jett; ;191;10;16;4; ;108;14%;4;3;Cakebois;
+W;Jett; ;323;24;18;5; ;200;20%;6;5;Cakebois;
+L;Jett; ;316;24;16;3; ;212;26%;7;3;Cakebois;
+L;Jett; ;128;6;15;3; ;76;9%;2;2;playzone;
+L;Jett; ;172;11;17;1; ;116;34%;4;4;playzone;
+L;Jett; ;230;20;20;4; ;138;21%;3;3;playzone;
+W;Jett; ;196;13;17;6; ;122;26%;1;5;playzone;
+W;Jett; ;237;15;8;4; ;132;15%;4;3;playzone;
+L;Jett; ;215;17;16;1; ;124;33%;5;4;playzone;
+W;Breach; ;112;10;26;21; ;68;19%;0;2;playzone;
+L;Jett; ;147;9;15;1; ;83;13%;5;4;playzone;
+W;Sage;0.82;109;5;12;13;79%;70;22%;1;2;playzone;
+W;Yoru;0.82;139;9;13;6;65%;98;15%;1;1;playzone;
+W;Yoru;0.67;185;14;18;4;70%;116;24%;3;2;playzone;
+W;Yoru;0.68;85;7;16;6;67%;57;18%;2;3;playzone;

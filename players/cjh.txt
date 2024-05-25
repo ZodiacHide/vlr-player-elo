@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;227;14;15;3; ;122;20%;0;1;Grinch Gang;
+L;Reyna; ;242;20;15;5; ;140;30%;2;4;Grinch Gang;
+L;Astra;0.78;216;11;15;8;56%;120;17%;0;3;Bandit ESC;
+W;Killjoy;1.12;194;13;12;4;80%;132;14%;1;1;Bandit ESC;
+W;None;0;0;0;0;0;0;0;0;0;0;Bandit ESC;
+L;Astra;0.92;223;15;20;4;67%;154;31%;2;1;Bandit ESC;
+L;Jett;0.69;177;10;13;1;56%;114;22%;0;2;Bandit ESC;
+L;Astra;1.03;210;15;14;5;65%;117;10%;0;6;Bandit ESC;
+L;Skye;0.83;143;10;13;4;56%;70;17%;0;0;Bandit ESC;
+L;Astra;0.95;200;14;18;8;71%;139;19%;1;2;Bandit ESC;
+W;Phoenix;1.22;322;27;19;6;71%;183;25%;2;3;Pigeons Esports;
+L;Reyna;0.96;242;16;16;1;68%;139;23%;2;4;Pigeons Esports;
+W;Brimstone;1.49;328;33;22;11;88%;221;44%;7;3;Pigeons Esports;

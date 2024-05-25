@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;120;8;8;4; ;73;24%;0;5;One Shot Esports;
+W;Omen; ;162;11;11;6; ;105;15%;2;2;One Shot Esports;
+L;Omen; ;163;11;14;2; ;107;26%;0;2;One Shot Esports;
+L;Omen; ;196;14;15;1; ;105;48%;2;1;One Shot Esports;
+W;Omen; ;140;9;10;6; ;96;24%;1;0;One Shot Esports;
+L;Omen; ;125;15;26;6; ;93;25%;2;2;One Shot Esports;
+L;Omen; ;106;7;15;7; ;75;17%;0;2;One Shot Esports;

@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Skye;0.89;157;17;18;4;71%;106;23%;0;1;EGO Media;
+L;Sova;0.94;150;12;14;6;92%;100;12%;0;0;EGO Media;
+W;Sova;1.24;206;20;15;10;75%;125;13%;0;1;EGO Media;
+L;Sova;0.96;160;10;12;3;75%;102;20%;0;1;EGO Media;
+L;Sova;0.65;95;5;13;4;47%;75;22%;0;1;EGO Media;
+L;Sova;0.70;200;14;20;8;75%;123;12%;0;0;EGO Media;
+W;Skye;1.32;239;18;10;5;90%;145;12%;0;0;EGO Media;
+L;Sova;0.77;167;12;17;7;67%;113;15%;1;2;EGO Media;

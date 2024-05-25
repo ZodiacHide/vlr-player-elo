@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.90;212;18;18;6;57%;131;13%;2;3;Zero2Hero Esports Academy;
+L;Reyna;0.55;116;9;16;0;45%;61;30%;0;2;Zero2Hero Esports Academy;
+L;Omen;0.61;144;9;15;3;58%;85;17%;0;3;Zero2Hero Esports Academy;

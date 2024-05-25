@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;168;13;17;6; ; ; ;3; ;Crab Walk Killers;
+L;Cypher; ;146;9;15;7; ; ; ;2; ;Crab Walk Killers;
+W;Cypher; ;135;11;13;5; ; ; ;0; ;Crab Walk Killers;
+L;Cypher; ;188;12;16;4; ; ; ;4; ;Crab Walk Killers;
+L;Cypher; ;241;18;18;5; ;146;19%;3;3;Crab Walk Killers;
+L;Cypher; ;260;19;16;9; ;144;25%;2;3;Crab Walk Killers;
+W;Cypher;1.08;153;8;7;7;80%;88;26%;0;1;Mindfreak;
+W;Killjoy;1.27;230;21;13;2;78%;136;11%;1;0;Mindfreak;
+W;Killjoy;1.30;210;17;10;3;81%;123;17%;3;0;Mindfreak;
+L;Cypher;0.76;160;15;21;5;67%;98;18%;4;2;Mindfreak;
+L;Cypher;0.80;163;14;22;8;50%;107;25%;3;1;Mindfreak;
+L;Cypher;0.82;152;11;14;2;48%;100;41%;1;1;Mindfreak;
+W;None;0;0;0;0;0;0;0;0;0;0;Mindfreak;
+W;None;0;0;0;0;0;0;0;0;0;0;Mindfreak;

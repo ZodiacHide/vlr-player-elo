@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;186;15;14;3; ;93;10%;1;1;Noir;
+W;Killjoy; ;151;12;15;3; ;90;21%;1;1;Noir;
+L;Killjoy; ;244;21;13;4; ;169;19%;1;1;Noir;
+L;Killjoy; ;161;8;14;1; ;96;23%;0;1;Noir;
+L;Reyna; ;207;12;15;4; ;121;28%;1;3;Noir;
+L;Reyna; ;151;8;15;4; ;87;23%;1;4;Noir;
+L;Reyna; ;234;13;12;0; ;190;27%;2;4;Noir;
+L;Raze; ;105;4;13;4; ;87;11%;1;4;Noir;

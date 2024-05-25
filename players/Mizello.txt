@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.48;137;7;13;1;50%;84;19%;0;4;Bloodsport;

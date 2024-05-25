@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;163;7;13;2; ;108;13%;0;1;Kakaopulver;
+L;Brimstone; ;284;21;20;8; ;168;12%;3;0;Entropy;
+L;Brimstone; ;132;6;15;6; ;101;22%;0;3;Entropy;

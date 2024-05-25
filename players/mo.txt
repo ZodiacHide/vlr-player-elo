@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach;1.15;249;23;17;8;73%;137;18%;3;2;Team X;
+L;Raze;0.91;169;12;11;2;65%;109;11%;0;1;Team X;
+L;Breach;0.93;182;17;17;9;67%;108;10%;1;1;Team X;
+L;Astra;1.23;275;16;13;4;47%;178;22%;1;0;TLP Peach;
+L;Viper;0.63;131;10;16;6;57%;81;10%;1;1;TLP Peach;

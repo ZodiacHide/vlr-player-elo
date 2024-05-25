@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;226;17;15;9; ;130;20%;2;2;DimmaDome$;
+L;Cypher; ;196;11;13;1; ;96;22%;1;1;DimmaDome$;
+L;Killjoy; ;108;9;19;4; ;68;4%;0;0;DimmaDome$;
+L;Cypher;0.50;82;7;17;2;32%;59;19%;0;2;YFP Gaming;
+L;Breach;0.51;91;5;17;10;55%;61;3%;0;4;YFP Gaming;

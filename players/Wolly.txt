@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;0.59;143;7;14;3;47%;79;21%;2;3;Invicta Gaming;
+L;Skye;1.03;191;17;17;8;73%;120;19%;2;2;Invicta Gaming;
+L;Skye;0.72;150;7;17;8;80%;121;20%;3;3;Invicta Gaming;
+W;Skye;1.01;182;12;13;5;68%;121;13%;1;0;Invicta Gaming;
+L;Skye;1.16;258;19;16;7;65%;169;21%;3;2;Invicta Gaming;
+L;Skye;0.77;178;13;18;5;64%;117;17%;1;1;Invicta Gaming;
+L;Skye;0.66;189;10;14;3;59%;108;17%;2;3;Invicta Gaming;
+L;Skye;0.93;207;17;15;2;68%;125;28%;3;1;Invicta Gaming;
+L;Skye;0.78;156;11;17;5;50%;93;16%;1;4;Invicta Gaming;
+L;Skye;0.53;208;11;19;2;61%;126;20%;1;2;świeca;
+W;Skye;1.09;170;14;9;3;79%;109;22%;2;3;świeca;
+L;Skye;0.79;193;16;20;9;75%;124;9%;3;2;świeca;

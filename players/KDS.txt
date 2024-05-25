@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Obey Alliance;
+L;None;0;0;0;0;0;0;0;0;0;0;Obey Alliance;
+W;None;0;0;0;0;0;0;0;0;0;0;Obey Alliance;
+L;Sova; ;75;3;14;5; ;55;21%;0;2;HotThots;
+L;Sova; ;117;7;17;5; ;113;15%;1;0;HotThots;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.58;175;8;15;2;40%;115;27%;3;2;Skelp Esports;
+L;Jett;0.70;220;12;14;2;80%;112;24%;1;2;Skelp Esports;

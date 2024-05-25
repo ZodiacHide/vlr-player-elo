@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;0.97;212;19;19;7;73%;140;32%;5;6;True Rippers;
+W;Jett;1.37;339;22;13;1;59%;173;27%;5;4;True Rippers;
+L;Jett;0.52;182;11;16;2;53%;90;18%;2;4;True Rippers;
+L;Viper;0.98;223;15;16;5;53%;133;30%;0;4;True Rippers;
+L;Jett;0.74;190;16;20;5;67%;122;24%;3;3;True Rippers;
+W;Jett;1.29;285;21;16;6;68%;153;27%;3;5;True Rippers;
+W;Jett;1.47;329;27;14;2;78%;170;26%;3;3;True Rippers;
+L;Reyna;0.49;86;7;18;5;64%;48;16%;3;3;True Rippers;
+L;Jett;0.61;174;12;21;4;54%;120;20%;4;4;True Rippers;
+L;Jett;0.75;211;13;17;2;53%;131;25%;3;4;True Rippers;
+W;Jett;1.27;276;21;15;7;78%;184;24%;8;4;True Rippers;
+L;Jett;0.52;163;7;16;6;65%;103;18%;4;6;True Rippers;
+L;Jett;0.84;204;11;15;2;61%;140;36%;2;3;True Rippers;
+L;Jett;1.17;326;27;18;3;67%;207;29%;5;6;True Rippers;
+W;Jett;1.21;321;24;18;5;77%;199;25%;3;1;True Rippers;
+L;Jett;0.80;206;12;15;3;59%;133;25%;5;3;True Rippers;
+L;Jett;1.09;266;21;17;0;59%;173;21%;6;3;True Rippers;

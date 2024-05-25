@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;180;15;19;9; ;120;19%;3;2;ChillinWithFriends;
+L;Omen; ;165;9;16;3; ;118;14%;2;2;ChillinWithFriends;
+L;Phoenix; ;245;24;20;4; ;145;27%;4;4;ChillinWithFriends;
+L;Phoenix; ;218;11;14;2; ;122;24%;3;2;ChillinWithFriends;

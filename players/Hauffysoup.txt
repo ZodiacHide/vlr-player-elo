@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;145;7;15;1; ;77;45%;1;1;SFG;
+L;Brimstone; ;157;10;14;0; ;110;31%;0;2;SFG;

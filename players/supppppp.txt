@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;154;11;14;4; ;85;35%;1;2;Optix;
+L;Sova; ;167;10;18;3; ;102;34%;2;2;Optix;
+L;Sova; ;65;6;15;1; ;26;33%;0;1;Optix;

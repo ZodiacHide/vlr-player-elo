@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.06;219;16;15;1;67%;141;13%;5;2;Team Assassin;
+L;Jett;0.68;153;9;14;1;44%;100;21%;2;3;Team Reapers;

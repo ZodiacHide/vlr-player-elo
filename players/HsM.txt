@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;190;16;18;7; ;116;24%;3;4;HaZe Clan;
+L;Jett; ;119;8;16;6; ;82;17%;1;5;HaZe Clan;
+W;Omen; ;219;27;24;8; ;125;19%;2;3;HaZe Clan;
+W;Jett; ;196;17;20;2; ;95;24%;2;3;HaZe Clan;
+L;Jett; ;116;6;15;0; ;69;15%;1;4;HaZe Clan;
+L;Jett; ;112;6;15;1; ;67;5%;2;0;HaZe Clan;
+L;Jett; ;165;9;13;0; ;95;14%;0;0;HaZe Clan;
+L;Jett; ;262;14;15;3; ;155;31%;1;4;HaZe Clan;

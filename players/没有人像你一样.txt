@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.42;126;6;15;3;75%;70;20%;1;3;Shenzhen NTER;
+W;Viper;0.62;130;9;17;5;77%;78;5%;2;3;Shenzhen NTER;
+L;Sage;0.28;106;5;16;4;53%;70;14%;0;5;Shenzhen NTER;
+L;Sova;0.79;178;11;13;1;67%;121;42%;1;2;Invincible Gaming;
+L;Killjoy;0.65;152;8;15;3;59%;105;43%;2;2;Invincible Gaming;
+L;Sova;1.18;235;17;14;10;77%;163;21%;0;1;Invincible Gaming;
+L;Raze;0.80;205;16;17;4;64%;141;15%;3;3;Invincible Gaming;
+L;Killjoy;0.68;141;7;16;4;59%;85;17%;2;1;Invincible Gaming;
+L;Raze;0.89;191;11;17;6;74%;135;13%;5;3;Invincible Gaming;

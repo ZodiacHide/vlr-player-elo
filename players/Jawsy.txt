@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;1.47;290;19;11;2;83%;186;24%;2;2;Genuine Gaming;
+L;Phoenix;0.64;156;10;19;3;60%;94;31%;3;3;Genuine Gaming;
+L;Phoenix;0.97;207;18;19;7;58%;153;27%;3;2;Genuine Gaming;
+W;Phoenix;0.62;202;13;16;2;72%;124;38%;5;5;Genuine Gaming;
+W;Raze;0.88;242;15;16;3;68%;145;17%;3;5;Genuine Gaming;
+L;Phoenix;0.47;118;7;17;3;58%;77;36%;2;4;Genuine Gaming;
+L;Raze;0.69;175;10;14;3;63%;122;30%;3;1;Genuine Gaming;

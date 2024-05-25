@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;303 Esports Orange;
+L;None;0;0;0;0;0;0;0;0;0;0;303 Esports Orange;
+W;None;0;0;0;0;0;0;0;0;0;0;303 Esports Orange;
+L;Raze; ;177;7;14;4; ;109;6%;1;1;EthanK Fan Club;
+L;Jett; ;110;5;14;2; ;85;18%;1;5;EthanK Fan Club;
+L;Astra;1.10;278;16;14;2;75%;143;21%;0;2;Taipan Esports;
+L;Astra;0.72;201;11;15;3;56%;90;19%;1;1;Taipan Esports;
+L;Viper;0.20;85;4;17;1;31%;62;32%;0;2;Taipan Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Taipan Esports;

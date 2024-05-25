@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.68;155;11;16;2;67%;110;15%;2;1;Graviton Surge;
+L;Omen;0.84;175;12;15;2;53%;118;21%;0;0;Graviton Surge;
+L;Omen;0.98;194;14;16;10;80%;112;14%;1;0;Graviton Surge;
+W;Omen;1.21;216;20;14;7;88%;127;25%;1;0;Graviton Surge;
+L;Reyna;0.62;182;14;20;2;61%;120;18%;0;2;Graviton Surge;

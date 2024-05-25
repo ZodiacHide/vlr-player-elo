@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;224;18;18;7; ;148;16%;4;2;OG Esports;
+L;Jett; ;210;11;14;2; ;136;17%;1;1;OG Esports;
+L;Phoenix; ;174;9;15;2; ;122;12%;1;2;OG Esports;
+L;Phoenix; ;252;19;16;9; ;165;12%;3;0;OG Esports;
+L;Phoenix; ;246;22;20;4; ;154;18%;3;1;OG Esports;
+L;Jett; ;199;14;14;4; ;111;14%;1;3;OG Esports;
+L;Jett; ;142;6;14;2; ;112;16%;3;0;OG Esports;
+W;Jett; ;210;14;11;7; ;148;10%;2;0;NO ORG;
+L;Jett; ;165;13;19;7; ;121;26%;0;5;NO ORG;
+W;Jett; ;265;14;9;4; ;197;18%;6;0;NO ORG;
+L;Jett; ;195;11;16;3; ;123;11%;4;4;NO ORG;
+W;Jett; ;269;18;14;6; ;167;12%;4;2;NO ORG;
+L;Jett; ;322;23;14;4; ;269;16%;2;2;NO ORG;
+L;Jett; ;260;20;14;2; ;165;16%;2;2;NO ORG;
+L;Jett; ;250;20;18;5; ;145;21%;2;1;NO ORG;

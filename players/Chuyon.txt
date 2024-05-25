@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;183;10;16;4; ;128;25%;3;2;Pichon Bellaco;
+L;Raze; ;211;12;13;3; ;128;26%;3;3;Pichon Bellaco;

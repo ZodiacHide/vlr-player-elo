@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.46;114;7;16;4;47%;86;20%;0;3;ShanXi Gaming Girls;
+L;Cypher;0.58;122;6;13;4;47%;86;20%;0;0;ShanXi Gaming Girls;
+L;Omen;0.52;151;6;14;0;31%;96;20%;2;1;ShanXi Gaming Girls;
+L;Omen;0.43;137;6;12;0;36%;79;26%;1;4;ShanXi Gaming Girls;

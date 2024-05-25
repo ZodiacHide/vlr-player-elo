@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper; ;74;3;14;1; ;49;20%;0;3;Team Singapore;
+L;Viper; ;113;4;15;4; ;141;15%;1;2;Team Singapore;

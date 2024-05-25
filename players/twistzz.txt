@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.27;92;3;13;1;36%;66;42%;0;1;Shi Shui Wen;
+L;Omen;0.49;108;7;15;1;35%;75;27%;1;1;Shi Shui Wen;
+L;Astra;0.54;114;7;15;3;44%;81;15%;0;1;Shi Shui Wen;
+L;Kayo;0.33;108;6;15;1;31%;75;40%;0;2;Horse Victory;
+L;Kayo;0.81;166;12;15;8;63%;95;14%;1;1;Horse Victory;

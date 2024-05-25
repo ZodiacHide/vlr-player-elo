@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.19;83;3;14;2;36%;61;17%;0;3;E-Natolian Sports Club F;
+L;Jett;0.27;68;3;15;0;33%;53;13%;0;0;E-Natolian Sports Club F;

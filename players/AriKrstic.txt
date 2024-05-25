@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.82;236;12;15;5;63%;150;23%;1;6;Elysium NOIR;
+L;Reyna;1.00;233;21;20;3;62%;153;35%;6;3;Elysium NOIR;
+L;Jett;0.63;222;15;21;3;57%;133;21%;4;4;Elysium NOIR;
+L;Jett;0.38;127;6;14;1;33%;86;25%;1;4;Elysium NOIR;

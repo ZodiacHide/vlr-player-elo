@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.61;165;8;17;7;72%;102;10%;2;5;ex-Overtime Esports;
+L;Reyna;0.78;201;13;20;6;59%;118;26%;6;6;ex-Overtime Esports;

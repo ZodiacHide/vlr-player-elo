@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;202;10;13;2; ; ; ;0; ;Team Zerator;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Zerator;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Zerator;
+W;Raze; ;278;20;12;4; ; ; ;0; ;Mandatory;

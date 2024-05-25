@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;341;27;16;4; ;180;19%;8;2;OtherSide;
+L;Raze; ;240;19;18;2; ;141;21%;4;1;OtherSide;
+W;Raze; ;206;15;17;8; ;138;10%;2;2;OtherSide;
+W;Jett; ;216;19;17;6; ;131;13%;6;4;OtherSide;
+L;Raze; ;169;7;15;4; ;116;31%;0;7;OtherSide;
+L;Jett; ;218;19;22;4; ;133;21%;7;5;OtherSide;

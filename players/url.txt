@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;129;8;18;3; ;83;12%;0;0;Team Toxic;

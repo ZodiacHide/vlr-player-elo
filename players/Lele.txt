@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;166;17;22;8; ;105;12%;1;6;SLAMMING GEARS;
+L;Sage; ;276;18;18;6; ;181;19%;2;1;SLAMMING GEARS;
+L;Jett; ;225;17;18;3; ;124;14%;3;4;SLAMMING GEARS;
+L;Sage; ;283;20;18;10; ;151;24%;2;2;SLAMMING GEARS;
+L;Sage; ;231;18;17;15; ;127;8%;3;3;SLAMMING GEARS;
+L;Jett; ;167;8;17;5; ;112;16%;1;2;SLAMMING GEARS;
+L;Jett; ;144;9;15;3; ;139;9%;2;5;Ignite;
+W;Jett; ;115;7;9;2; ;79;22%;1;3;Ignite;
+W;Jett; ;368;21;13;7; ;194;14%;6;0;Ignite;
+L;Jett; ;204;12;17;6; ;132;25%;3;7;Ignite;
+L;Jett; ;211;12;14;1; ;121;11%;1;2;Ignite;
+L;Jett; ;149;10;19;2; ;86;19%;1;5;Ignite;
+W;Jett; ;273;27;21;3; ;193;12%;4;3;Ignite;
+L;Sage; ;219;14;17;4; ;134;24%;5;4;Ignite;
+L;Jett;0.83;261;18;18;2;60%;131;16%;6;2;RogerRoger;
+L;Jett;0.54;146;10;18;3;60%;83;19%;2;3;RogerRoger;

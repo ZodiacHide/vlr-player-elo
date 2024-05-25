@@ -1,0 +1,13 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Team Jbzz;TBD;Decider;Arthas;AnjK;epicoff;ffmod;Akula;13:9;False;-;Tuesday, May 12th, 6:00 PM CEST;Solary Cup;url.net;
+Defense;L;InetGamer;TBD;Decider;Arthas;AnjK;epicoff;ffmod;Akula;4:13;False;-;Tuesday, May 12th, 7:00 PM CEST;Solary Cup;url.net;
+Attack;L;Uruguay 3;TBD;Decider;Arthas;AnjK;epicoff;ffmod;Akula;2:13;False;-;Tuesday, May 12th, 8:00 PM CEST;Solary Cup;url.net;
+Defense;L;Uruguay 3;TBD;Decider;Arthas;AnjK;epicoff;ffmod;Akula;8:13;False;-;Thursday, May 14th, 6:00 PM CEST;Solary Cup;url.net;
+Attack;L;InetGamer;TBD;Decider;Arthas;AnjK;epicoff;ffmod;Akula;11:13;False;-;Thursday, May 14th, 7:00 PM CEST;Solary Cup;url.net;
+None;None;TeamJbzz;None;None;Player A1;Player A2;Player A3;Player A4;Player A5;0:0;False;00:00;Thursday, May 14th, 8:00 PM CEST;Solary Cup;None;
+Attack;W;Mindfreak;Ascent;Akatsuki;LEW;JUN;ninim;kyoto;PAIN;13:10;False;44:58;Sunday, September 27th, 12:30 PM CEST;LPL Challenger Season 3;https://www.twitch.tv/videos/753503759?t=2h10m8s;
+Defense;W;Mindfreak;Bind;Akatsuki;LEW;JUN;ninim;kyoto;PAIN;13:11;False;50:06;Sunday, September 27th, 12:30 PM CEST;LPL Challenger Season 3;https://www.twitch.tv/videos/753503759?t=2h10m8s;
+Defense;L;EXO Clan;Bind;Akatsuki;ninim;LEW;JUN;kyoto;PAIN;9:13;False;44:38;Sunday, October 11th, 9:35 AM CEST;LPL Challenger Season 3;https://www.twitch.tv/videos/767105497?t=0h20m28s;
+Attack;L;EXO Clan;Haven;Akatsuki;ninim;LEW;JUN;kyoto;PAIN;11:13;False;44:08;Sunday, October 11th, 9:35 AM CEST;LPL Challenger Season 3;https://www.twitch.tv/videos/767105497?t=0h20m28s;
+Defense;W;Paradox Esports;Split;Paradox Esports;PAIN;ninim;JUN;LEW;kyoto;13:3;False;31:02;Monday, October 26th, 9:00 AM CET;LPL Challenger Season 3;url.net;
+Attack;W;Paradox Esports;Bind;Paradox Esports;PAIN;ninim;JUN;LEW;kyoto;13:1;False;28:04;Monday, October 26th, 9:00 AM CET;LPL Challenger Season 3;url.net;

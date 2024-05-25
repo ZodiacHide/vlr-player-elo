@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;88;4;16;6; ;51;9%;0;5;Genuine Gaming;
+L;Cypher; ;88;4;15;3; ;54;21%;1;6;Genuine Gaming;
+L;Cypher; ;120;10;16;7; ;65;12%;0;2;Genuine Gaming;
+L;Breach; ;163;9;16;2; ;85;22%;0;1;Genuine Gaming;
+L;Breach; ;191;12;17;4; ;118;16%;1;2;Genuine Gaming;
+L;Breach; ;155;14;20;9; ;102;45%;1;2;Genuine Gaming;
+L;Breach; ;193;13;16;9; ;116;27%;1;0;Genuine Gaming;
+W;Viper;1.08;206;15;11;3;83%;138;27%;1;1;Genuine Gaming;
+L;Killjoy;0.80;194;12;17;4;60%;124;18%;4;1;Genuine Gaming;
+L;Killjoy;0.89;209;17;17;4;75%;126;31%;2;3;Genuine Gaming;
+W;Killjoy;1.46;248;17;9;5;78%;146;15%;1;1;Genuine Gaming;
+W;Viper;1.51;250;16;7;7;89%;152;46%;2;1;Genuine Gaming;
+L;Killjoy;0.87;233;16;15;1;53%;143;22%;0;1;Genuine Gaming;
+L;Viper;0.36;112;5;16;0;44%;76;32%;2;3;Genuine Gaming;

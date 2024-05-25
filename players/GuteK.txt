@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.63;141;6;13;4;40%;104;10%;0;4;Invicta Gaming;
+L;Killjoy;0.91;205;18;21;7;69%;138;17%;1;2;Invicta Gaming;
+L;Killjoy;1.00;210;14;15;4;65%;145;21%;2;0;Invicta Gaming;
+W;Cypher;0.85;120;10;11;1;63%;73;36%;0;3;Invicta Gaming;
+L;Cypher;0.82;188;16;19;3;52%;121;34%;2;4;Invicta Gaming;
+L;Sova;0.73;168;14;19;2;59%;110;35%;0;4;Invicta Gaming;
+L;Cypher;0.65;148;8;14;5;59%;107;22%;3;2;Invicta Gaming;

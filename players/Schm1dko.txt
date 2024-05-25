@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;101;5;14;2; ; ; ;0; ;Paraplegic Buffalos;
+L;Jett; ;145;8;18;5; ; ; ;2; ;Paraplegic Buffalos;
+L;None;0;0;0;0;0;0;0;0;0;0;Paraplegic Buffalos;
+L;None;0;0;0;0;0;0;0;0;0;0;Paraplegic Buffalos;

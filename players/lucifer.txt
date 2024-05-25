@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.68;124;7;14;4;59%;96;27%;0;1;Xiphos Outplay;
+L;Sage;0.92;189;11;13;6;50%;91;19%;2;0;Xiphos Outplay;
+L;Sova;0.79;192;10;13;4;65%;123;17%;2;2;nA Whiff Masters;
+L;Sage;0.54;135;10;17;1;57%;89;34%;2;3;nA Whiff Masters;

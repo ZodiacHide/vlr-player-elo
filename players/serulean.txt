@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.82;175;10;14;4;67%;123;20%;0;2;Equinox Day;

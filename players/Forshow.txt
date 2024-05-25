@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;172;8;13;3; ;111;24%;0;4;Vertical Seven Esports;
+L;Cypher; ;140;5;12;1; ;93;21%;0;1;Vertical Seven Esports;

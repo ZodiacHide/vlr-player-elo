@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;179;10;13;2; ;112;13%;1;0;team flavor;
+L;Cypher; ;92;4;17;7; ;58;12%;0;1;team flavor;
+L;Sova; ;159;11;13;2; ;91;9%;1;1;Fatality;
+L;Sova; ;166;11;16;6; ;100;15%;0;1;Fatality;
+L;Sova; ;235;16;10;4; ;160;25%;0;0;Fatality;
+L;Sova; ;145;10;19;7; ;94;30%;1;0;Fatality;
+W;None;0;0;0;0;0;0;0;0;0;0;Fatality;

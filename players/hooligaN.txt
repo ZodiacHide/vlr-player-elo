@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;141;4;13;5; ;117;10%;1;2;Bleiz;
+L;Sova; ;187;8;13;8; ;130;30%;0;1;Bleiz;
+L;Sova;0.56;145;6;13;3;60%;107;38%;2;0;MANGO;
+L;Sova;0.85;183;15;22;12;64%;127;20%;2;3;MANGO;
+L;Sova;0.52;136;5;14;2;36%;86;5%;1;1;MANGO;
+L;Sova;0.66;146;9;15;6;78%;112;32%;0;2;MANGO;

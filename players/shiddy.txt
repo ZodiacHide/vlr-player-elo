@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;151;15;17;11; ;112;20%;0;2;Valorando;
+W;Omen; ;208;11;6;5; ;115;20%;3;0;Valorando;
+W;Omen; ;223;16;15;6; ;132;22%;0;2;Valorando;
+L;Omen; ;209;16;15;7; ;129;19%;1;5;Valorando;
+L;Omen; ;190;14;14;6; ;120;17%;1;2;DrAgOnZz;
+L;Omen; ;146;9;15;8; ;101;19%;0;2;Necrotic Esports;
+L;Omen; ;202;12;19;8; ;137;16%;3;1;Necrotic Esports;
+L;Omen; ;226;18;15;3; ;153;25%;4;1;Necrotic Esports;
+W;Omen; ;190;21;21;11; ;155;22%;0;3;Necrotic Esports;
+L;Omen; ;214;16;17;16; ;185;27%;3;0;Necrotic Esports;

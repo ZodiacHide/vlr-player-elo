@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;0.89;177;16;19;6;73%;121;37%;3;3;DingFeng Gaming;
+L;Reyna;1.21;242;22;16;3;67%;163;29%;3;2;DingFeng Gaming;
+W;Sova;1.21;225;24;18;5;79%;143;24%;4;2;DingFeng Gaming;
+W;Reyna;1.76;322;18;6;2;93%;201;23%;6;0;DingFeng Gaming;
+L;Skye;0.94;194;15;15;4;64%;136;26%;1;1;DingFeng Gaming;
+L;Skye;0.66;176;12;15;2;68%;113;22%;0;1;DingFeng Gaming;
+L;Phoenix;1.08;216;21;19;4;64%;153;23%;1;2;DingFeng Gaming;
+L;Reyna;1.23;240;21;20;6;73%;165;26%;1;0;DingFeng Gaming;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;200;8;15;2; ;135;38%;2;2;PolyCyber;
+L;Sova; ;90;3;13;0; ;49;27%;1;1;PolyCyber;

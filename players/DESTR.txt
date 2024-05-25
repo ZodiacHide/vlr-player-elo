@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;107;9;15;7; ;72;28%;1;2;LANCHILLERS;
+L;Breach; ;143;15;19;4; ;99;19%;1;4;LANCHILLERS;
+L;Sova; ;230;18;15;3; ;136;37%;3;0;LANCHILLERS;

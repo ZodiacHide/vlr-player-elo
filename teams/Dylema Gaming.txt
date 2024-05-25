@@ -1,0 +1,11 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;DKS Esports;Bind;Decider;Melser;rochet;Tio;blqcK;Klauss;14:16;True;1:01:25;Wednesday, September 23rd, 2:00 AM CEST;Sneaky Major;url.net;
+Attack;W;Catolica Esports;Ascent;Decider;Melser;Klauss;blqcK;rochet;Tio;13:11;False;50:17;Tuesday, September 29th, 4:00 AM CEST;Sneaky Major;url.net;
+Attack;W;LBS Esports;Bind;Decider;Melser;blqcK;Tio;Klauss;rochet;13:8;False;44:43;Tuesday, October 6th, 4:20 AM CEST;Sneaky Major;https://www.twitch.tv/videos/761918241?t=1h9m16s;
+Defense;L;Estral Esports;Ascent;Decider;Klauss;blqcK;Melser;coob;gr3eps;10:13;False;-;Saturday, November 28th, 10:55 PM CET;First Strike: Latin America;url.net;
+Attack;L;DKS Esports;Ascent;Decider;blqcK;Melser;Tio;gr3eps;Klauss;11:13;False;46:25;Sunday, November 29th, 1:00 AM CET;First Strike: Latin America;https://www.twitch.tv/videos/819021818?t=2h46m52s;
+Defense;L;Rebirth Esports;Bind;Decider;Tio;gr3eps;Melser;Klauss;blqcK;2:13;False;30:15;Sunday, November 29th, 11:00 PM CET;First Strike: Latin America;url.net;
+Attack;W;9z Team;Ascent;Decider;gr3eps;Melser;Tio;Klauss;blqcK;13:8;False;41:23;Monday, November 30th, 1:00 AM CET;First Strike: Latin America;url.net;
+Attack;L;Furious Gaming;Ascent;Decider;Tio;Klauss;gr3eps;blqcK;Melser;3:13;False;29:35;Wednesday, December 2nd, 12:00 AM CET;First Strike: Latin America;url.net;
+Attack;L;Australs;Split;Decider;gr3eps;Tio;Melser;blqcK;Klauss;10:13;False;35:08;Wednesday, December 2nd, 1:00 AM CET;First Strike: Latin America;url.net;
+Defense;W;Feint Gaming;Ascent;Decider;Tio;Melser;gr3eps;Klauss;blqcK;13:5;False;31:02;Wednesday, December 2nd, 2:00 AM CET;First Strike: Latin America;url.net;

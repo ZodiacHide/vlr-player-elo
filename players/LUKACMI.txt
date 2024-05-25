@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;166;12;17;10; ;121;18%;4;3;Broskis;
+L;Reyna; ;202;15;17;4; ;116;41%;4;1;Broskis;

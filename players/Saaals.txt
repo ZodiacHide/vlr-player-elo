@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;47;1;14;1; ;34;29%;1;4;Plore Gaming;
+L;Cypher; ;53;2;13;0; ;43;22%;0;2;Plore Gaming;

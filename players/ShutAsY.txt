@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;137;9;14;2; ;80;10%;3;3;FUSCA AZUL;
+W;Jett; ;197;14;12;1; ;113;28%;3;3;FUSCA AZUL;
+L;Sova; ;169;10;18;5; ;127;23%;0;1;FUSCA AZUL;

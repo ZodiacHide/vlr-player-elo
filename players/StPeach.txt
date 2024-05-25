@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;76;3;13;0; ; ; ;1; ;Team StPeach;
+W;None;0;0;0;0;0;0;0;0;0;0;Team StPeach;
+L;None;0;0;0;0;0;0;0;0;0;0;Team StPeach;

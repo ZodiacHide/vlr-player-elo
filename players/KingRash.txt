@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;202;8;15;2; ;126;29%;0;1;VIVIFY ESPORT;
+L;Sova; ;262;15;15;6; ;190;20%;1;0;VIVIFY ESPORT;

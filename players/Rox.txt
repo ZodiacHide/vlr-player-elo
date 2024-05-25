@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;180;9;16;6; ;129;13%;2;2;Synergy Esports;
+L;Raze; ;180;9;16;6; ;129;13%;2;2;Synergy Esports;

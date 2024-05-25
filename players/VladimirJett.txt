@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;143;12;19;2; ;88;26%;1;3;be Logic;
+W;None;0;0;0;0;0;0;0;0;0;0;be Logic;
+L;Cypher; ;179;13;15;9; ;107;14%;2;3;earnings: 0;
+W;Cypher; ;175;9;6;3; ;103;19%;4;1;SHHHHHHH!;
+W;Cypher; ;206;14;9;5; ;154;39%;0;0;SHHHHHHH!;
+L;Cypher; ;99;7;14;5; ;77;30%;1;4;SHHHHHHH!;
+L;Cypher; ;247;14;14;2; ;144;23%;1;0;SHHHHHHH!;

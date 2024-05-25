@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;107;12;19;7; ; ; ;1; ;RATVI;
+W;Sage; ;117;6;14;11; ; ; ;0; ;RATVI;
+L;Sage; ;83;4;14;3; ; ; ;2; ;RATVI;
+W;Sage; ;225;18;14;5; ; ; ;3; ;RATVI;
+L;Sage; ;194;12;16;5; ; ; ;0; ;RATVI;
+W;Sage; ;188;17;19;10; ; ; ;1; ;RATVI;
+L;Sage; ;115;7;16;6; ; ; ;1; ;RATVI;
+L;Sage; ;125;5;15;5; ; ; ;0; ;RATVI;

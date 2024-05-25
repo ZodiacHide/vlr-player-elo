@@ -1,0 +1,13 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;F4Q;Ascent;Alpha Six Gaming;bp;AcMe;Akame;PADO;Gunny;14:16;True;55:20;Sunday, July 4th, 5:00 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Attack;L;F4Q;Icebox;Alpha Six Gaming;bp;AcMe;Akame;PADO;Gunny;10:13;False;40:38;Sunday, July 4th, 5:00 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Attack;L;World Game Star;Ascent;Alpha Six Gaming;AcMe;Akame;Gunny;PADO;bp;5:13;False;36:58;Friday, July 9th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1081210271?t=0h17m50s;
+Attack;L;World Game Star;Breeze;World Game Star;AcMe;Akame;Gunny;PADO;bp;4:13;False;36:47;Friday, July 9th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1081210271?t=0h17m50s;
+Defense;L;GochuGaru;Bind;GochuGaru;PADO;AcMe;Gunny;bp;Akame;10:13;False;46:58;Friday, July 23rd, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1095377857?t=3h15m1s;
+Attack;W;GochuGaru;Breeze;Alpha Six Gaming;PADO;AcMe;Gunny;bp;Akame;13:11;False;50:14;Friday, July 23rd, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1095377857?t=3h15m1s;
+Defense;W;GochuGaru;Ascent;Alpha Six Gaming;PADO;AcMe;Gunny;bp;Akame;14:12;True;59:12;Friday, July 23rd, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1095377857?t=3h15m1s;
+Attack;L;NUTURN;Ascent;NUTURN;PADO;AcMe;Akame;bp;Gunny;5:13;False;43:02;Sunday, July 25th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1097413856?t=3h17m48s;
+Defense;L;NUTURN;Bind;Alpha Six Gaming;PADO;AcMe;Akame;bp;Gunny;2:13;False;31:07;Sunday, July 25th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1097413856?t=3h17m48s;
+Attack;W;GochuGaru;Bind;GochuGaru;AcMe;bp;PADO;Akame;Gunny;13:3;False;35:10;Sunday, August 1st, 11:45 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1104596916?t=4h21m39s;
+Attack;L;GochuGaru;Breeze;Alpha Six Gaming;AcMe;bp;PADO;Akame;Gunny;7:13;False;43:50;Sunday, August 1st, 11:45 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1104596916?t=4h21m39s;
+Attack;L;GochuGaru;Split;GochuGaru;AcMe;bp;PADO;Akame;Gunny;1:13;False;33:18;Sunday, August 1st, 11:45 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1104596916?t=4h21m39s;

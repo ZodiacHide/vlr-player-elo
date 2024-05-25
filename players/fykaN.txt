@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;195;14;17;5; ;128;20%;1;2;Rainbow7;
+W;Sova; ;317;21;6;3; ;202;28%;1;0;Rainbow7;
+W;Sova; ;222;22;17;5; ;176;22%;2;3;Rainbow7;
+L;Breach; ;166;11;14;4; ;93;16%;0;3;Rainbow7;
+L;Sova; ;247;19;16;8; ;142;24%;1;0;Rainbow7;
+L;Sova; ;138;7;13;6; ;99;21%;0;0;Rainbow7;

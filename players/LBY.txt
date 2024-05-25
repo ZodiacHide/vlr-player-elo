@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;199;13;7;5; ;159;40%;4;1;Overtime Esports;
+W;Omen; ;151;12;12;3; ;110;24%;1;4;Overtime Esports;
+L;Omen; ;194;18;15;5; ;155;32%;0;2;Overtime Esports;
+L;Omen; ;241;17;17;5; ;156;35%;1;2;Overtime Esports;
+L;Brimstone; ;226;9;13;2; ;145;24%;0;0;Overtime Esports;
+L;Omen; ;176;11;15;4; ;102;20%;0;1;Overtime Esports;
+L;Omen; ;167;11;18;7; ;101;16%;1;1;Overtime Esports;
+L;Omen; ;170;10;12;6; ;112;14%;1;2;Overtime Esports;
+L;Omen;1.11;200;15;12;5;78%;97;36%;2;0;ex-Overtime Esports;
+L;Sova;1.03;217;16;18;9;77%;131;16%;1;0;ex-Overtime Esports;

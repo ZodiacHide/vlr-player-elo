@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.59;133;6;14;5;56%;98;9%;0;0;Taipan Esports;
+L;Sage;0.64;144;8;13;3;69%;92;19%;0;1;Taipan Esports;
+L;Jett;0.75;191;11;13;0;50%;112;23%;0;2;Taipan Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Taipan Esports;

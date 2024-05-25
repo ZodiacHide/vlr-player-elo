@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;108;9;17;6; ;70;28%;2;1;Team Solace;
+L;Sova; ;119;7;15;4; ;81;13%;1;2;Team Solace;
+L;Sova; ;135;9;19;5; ;96;13%;1;3;Team Solace;
+L;Omen; ;146;8;18;3; ;95;31%;0;4;Team Solace;

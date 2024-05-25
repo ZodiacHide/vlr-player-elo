@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.45;136;6;16;5;63%;95;25%;1;0;Union Gaming;
+W;Omen;0.94;202;14;13;6;80%;95;15%;1;1;Union Gaming;
+W;Omen;1.35;281;23;14;4;83%;180;36%;6;2;Union Gaming;
+W;Omen;1.11;164;15;12;1;71%;112;17%;1;3;Union Gaming;
+L;Omen;0.64;165;9;19;10;57%;123;28%;1;5;Union Gaming;
+L;Omen;1.37;316;19;14;5;74%;202;27%;4;2;Union Gaming;

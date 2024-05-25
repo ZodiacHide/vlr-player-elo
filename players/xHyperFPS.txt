@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;155;10;15;4; ; ; ;0; ;Wygers;
+L;Killjoy; ;198;9;16;8; ;130;6%;1;2;Last men standing;
+L;Killjoy; ;236;18;18;3; ;153;8%;2;2;Last men standing;
+L;Breach; ;208;10;14;2; ;186;14%;0;2;Wygers;

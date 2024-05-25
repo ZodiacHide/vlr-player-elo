@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.66;110;9;16;6;63%;72;30%;0;0;afterMath Esports;
+W;Omen;1.09;188;16;14;2;77%;97;23%;1;0;afterMath Esports;
+L;Omen;1.31;280;19;14;4;68%;165;28%;0;1;afterMath Esports;
+L;Astra;0.35;96;5;15;2;50%;76;70%;1;2;afterMath Esports;
+L;Phoenix;0.80;160;10;13;0;59%;94;25%;0;2;afterMath Esports;
+L;Reyna;0.68;210;16;21;1;57%;91;32%;2;1;afterMath Esports;
+L;Raze;0.58;210;10;16;3;56%;131;19%;1;1;afterMath Esports;
+L;Sova;0.78;213;15;17;4;71%;138;27%;1;0;afterMath Esports;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;231;18;12;5; ;149;16%;1;0;Warthox Esport;
+L;Sova; ;120;7;13;6; ;85;8%;1;2;Warthox Esport;
+L;Cypher; ;137;8;15;4; ;104;9%;0;1;Warthox Esport;
+W;Cypher; ;112;9;17;1; ;68;36%;0;3;Warthox Esport;
+W;Cypher; ;207;17;14;3; ;119;21%;4;3;Warthox Esport;
+L;Cypher; ;131;8;12;3; ;83;8%;0;0;Warthox Esport;
+L;Omen; ;252;21;16;6; ;156;22%;4;0;Dontcare;

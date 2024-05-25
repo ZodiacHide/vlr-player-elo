@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;97;5;14;0; ;64;36%;0;1;Śląsk Wrocław;
+L;Sova; ;271;18;16;6; ;176;39%;1;1;Śląsk Wrocław;

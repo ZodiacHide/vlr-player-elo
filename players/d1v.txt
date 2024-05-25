@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;140;13;17;10; ;110;36%;2;5;Dire Wolves;
+L;None;0;0;0;0;0;0;0;0;0;0;Dire Wolves;

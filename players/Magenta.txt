@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage;1.04;171;11;9;5;73%;107;29%;1;2;Galakticos Sirens;
+L;Killjoy;0.84;144;12;14;6;83%;92;13%;1;0;Galakticos Sirens;
+L;Killjoy;0.86;162;13;15;2;70%;102;10%;2;2;Galakticos Sirens;
+L;Killjoy;0.66;112;6;13;0;44%;77;18%;0;2;Galakticos Sirens;
+L;Killjoy;0.56;87;5;14;0;41%;64;21%;1;2;Galakticos Sirens;

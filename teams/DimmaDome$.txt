@@ -1,0 +1,13 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Phoenix1;Bind;Decider;SaucetiN;mirari;Galavant;Agility;FIN;4:13;False;29:17;Tuesday, October 6th, 9:15 PM CEST;Allied Esports Strafe Series #2;url.net;
+Defense;W;Genesis;Bind;Decider;mirari;Agility;FIN;SaucetiN;Galavant;13:9;False;40:07;Tuesday, October 6th, 10:25 PM CEST;Allied Esports Strafe Series #2;url.net;
+Defense;L;Mamba Mode Gaming;Ascent;Decider;Galavant;Agility;SaucetiN;mirari;FIN;6:13;False;34:28;Tuesday, October 6th, 11:25 PM CEST;Allied Esports Strafe Series #2;url.net;
+Attack;W;Solstice Esports;Ascent;Decider;Ezire;Agility;mirari;SaucetiN;Drakious;13:4;False;33:20;Sunday, October 18th, 9:00 PM CEST;Mount Phenom Zero: Valorant Weekend;url.net;
+Defense;L;Destined;Ascent;Decider;mirari;Ezire;Agility;SaucetiN;Drakious;8:13;False;40:58;Sunday, October 18th, 10:15 PM CEST;Mount Phenom Zero: Valorant Weekend;url.net;
+Attack;L;Cloud9;Haven;DimmaDome$;SaucetiN;mirari;Drakious;Ezire;Agility;5:13;False;29:48;Tuesday, October 27th, 10:00 PM CET;First Strike: North America;url.net;
+Defense;L;Cloud9;Ascent;DimmaDome$;SaucetiN;mirari;Drakious;Ezire;Agility;8:13;False;38:49;Tuesday, October 27th, 10:00 PM CET;First Strike: North America;url.net;
+Attack;W;Spot Up;Bind;DimmaDome$;SaucetiN;Karizmah;mirari;Ezire;Drakious;13:7;False;36:38;Thursday, November 12th, 2:00 AM CET;First Strike: North America;url.net;
+Defense;L;Spot Up;Ascent;DimmaDome$;SaucetiN;Karizmah;mirari;Ezire;Drakious;3:13;False;30:47;Thursday, November 12th, 2:00 AM CET;First Strike: North America;url.net;
+Defense;L;Spot Up;Split;DimmaDome$;SaucetiN;Karizmah;mirari;Ezire;Drakious;10:13;False;58:08;Thursday, November 12th, 2:00 AM CET;First Strike: North America;url.net;
+Defense;L;Mystify;Haven;DimmaDome$;mirari;Ezire;Agility;SaucetiN;Drakious;9:13;False;39:39;Saturday, November 14th, 2:00 AM CET;First Strike: North America;url.net;
+Defense;L;Mystify;Ascent;DimmaDome$;mirari;Ezire;Agility;SaucetiN;Drakious;9:13;False;37:20;Saturday, November 14th, 2:00 AM CET;First Strike: North America;url.net;

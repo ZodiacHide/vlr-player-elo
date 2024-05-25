@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;KappaPride;
+W;Cypher; ;156;10;14;10; ; ; ;2; ;Spanish Dogs;
+W;Jett; ;186;16;16;6; ; ; ;1; ;Spanish Dogs;
+L;Cypher; ;85;6;18;5; ; ; ;1; ;5Dogs;
+L;Cypher; ;118;6;20;5; ; ; ;1; ;5Dogs;
+W;Cypher; ;112;8;9;5; ; ; ;0; ;5Dogs;

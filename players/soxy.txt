@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;200;13;15;9; ;135;19%;1;1;MRKN;
+W;Sova; ;175;10;11;11; ;131;24%;1;0;MRKN;
+L;Raze;0.78;137;9;16;3;59%;88;22%;3;3;GrandSpirit;
+L;Skye;0.27;104;5;14;1;57%;58;12%;0;4;GrandSpirit;

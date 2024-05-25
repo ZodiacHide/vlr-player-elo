@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.76;167;11;15;3;60%;100;17%;1;2;İstanbul Wildcats;
+L;Sage;0.52;205;10;13;2;71%;96;35%;0;0;İstanbul Wildcats;
+L;Breach;0.69;134;8;15;5;65%;90;9%;2;1;İstanbul Wildcats;
+L;Skye;0.62;102;9;16;2;57%;57;33%;1;1;İstanbul Wildcats;
+L;Sage;0.76;140;10;12;2;65%;86;8%;0;2;İstanbul Wildcats;

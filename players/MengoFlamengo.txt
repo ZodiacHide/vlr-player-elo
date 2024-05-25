@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;158;9;14;2; ;96;50%;0;2;Big Brain;
+L;Omen; ;150;7;13;5; ;95;7%;0;0;Big Brain;

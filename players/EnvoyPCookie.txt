@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.40;132;5;17;1;35%;95;10%;1;2;OBSRV;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;186;9;13;0; ;79;8%;0;0;NBKS CENTURIONS;
+L;Cypher; ;61;2;14;7; ;41;7%;1;3;NBKS CENTURIONS;
+L;Skye;0.43;72;4;15;4;44%;51;10%;0;0;NBKS CENTURIONS;
+L;Sova;0.64;116;7;13;2;53%;65;11%;0;0;NBKS CENTURIONS;

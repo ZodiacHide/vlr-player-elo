@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;170;13;14;9; ;113;20%;0;1;Mik0nsDisciple;
+W;Sova; ;266;23;15;6; ;161;18%;1;0;Mik0nsDisciple;
+W;Sova; ;220;12;5;13; ;140;16%;0;0;Mik0nsDisciple;
+W;Sova; ;184;15;14;4; ;129;17%;2;0;Mik0nsDisciple;
+L;Sova; ;136;10;18;4; ;105;24%;0;3;Mik0nsDisciple;

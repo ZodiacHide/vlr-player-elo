@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.64;158;8;15;2;53%;105;16%;1;2;Weird Esports;

@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.94;204;20;20;6;68%;136;32%;0;3;Unity Esports;
+L;Omen;0.54;102;7;16;4;50%;62;22%;2;0;Unity Esports;
+L;Astra;0.65;126;7;14;2;38%;77;20%;1;2;Unity Esports;
+W;Astra;1.29;203;16;11;9;90%;143;31%;3;0;Unity Esports;
+L;Sova;0.44;128;6;14;2;53%;93;28%;0;0;Unity Esports;
+L;Astra;0.85;155;16;19;8;69%;128;36%;0;3;Unity Esports;
+W;Sova;0.82;123;10;18;8;69%;100;24%;0;3;Unity Esports;
+L;Astra;0.80;167;10;16;8;75%;108;21%;1;1;Unity Esports;

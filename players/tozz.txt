@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix;0.95;160;12;13;4;62%;97;15%;2;4;Kantic Gaming;
+L;Phoenix;0.73;290;12;13;1;69%;169;15%;2;2;Kantic Gaming;
+L;Reyna;0.89;196;13;15;4;63%;118;15%;1;1;Kantic Gaming;
+L;Phoenix;0.59;170;9;19;7;60%;113;9%;3;5;Kantic Gaming;
+W;Breach;1.49;222;12;6;10;86%;125;27%;4;0;Kantic Gaming;
+W;Skye;1.11;197;14;11;5;79%;108;17%;1;1;Kantic Gaming;
+L;Skye;0.88;260;15;15;2;59%;157;11%;3;4;Kantic Gaming;
+L;Breach;0.83;205;15;19;10;82%;139;18%;4;2;Kantic Gaming;
+L;Breach;0.92;160;17;21;6;64%;114;25%;3;4;Kantic Gaming;
+W;Sage;0.66;153;13;18;6;63%;92;12%;2;2;Kantic Gaming;
+L;Breach;1.33;321;26;16;8;75%;198;27%;3;2;Kantic Gaming;
+W;Sage;1.34;252;16;10;6;88%;142;19%;1;2;Kantic Gaming;
+W;Kayo;1.20;274;23;17;9;92%;154;13%;4;1;Kantic Gaming;
+L;Kayo;0.46;109;6;14;3;50%;71;11%;0;0;Kantic Gaming;
+L;Sage;0.78;150;11;17;4;48%;104;13%;1;1;Kantic Gaming;
+L;Sage;0.82;187;18;20;2;62%;108;29%;2;6;Kantic Gaming;
+L;Breach;0.66;131;10;19;6;59%;87;17%;0;3;Kantic Gaming;

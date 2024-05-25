@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;141;9;16;2; ; ; ;0; ;Team Clutch_Fii;
+L;Brimstone; ;194;15;21;4; ; ; ;1; ;Team Clutch_Fii;
+L;Brimstone; ;264;15;16;1; ; ; ;2; ;Team Clutch_Fii;
+L;Brimstone; ;87;4;13;1; ; ; ;0; ;ROX Gaming;

@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;265;22;15;4; ; ; ;6; ;Team Quitooo;
+W;Reyna; ;212;17;13;9; ; ; ;3; ;Team Quitooo;
+W;Reyna; ;162;9;9;4; ; ; ;2; ;Team Quitooo;
+L;Reyna; ;206;12;14;2; ; ; ;2; ;Team Quitooo;
+L;Reyna; ;250;15;16;3; ; ; ;3; ;Team Quitooo;
+L;Omen; ;130;4;13;5; ;162;12%;0;1;GodLAN;
+W;Omen; ;220;27;19;7; ;137;18%;1;0;GodLAN;
+L;Omen; ;141;12;18;7; ;85;6%;1;1;GodLAN;
+L;Cypher;0.64;167;9;16;3;63%;108;18%;3;1;ET ELLER ANDET FEDT;
+L;Cypher;0.89;200;12;14;3;53%;125;28%;2;2;ET ELLER ANDET FEDT;

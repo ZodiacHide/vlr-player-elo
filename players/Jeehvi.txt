@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;154;8;14;1; ;98;17%;0;0;OKGG;
+L;Omen; ;125;6;13;1; ;95;24%;1;2;OKGG;
+L;Omen; ;175;8;15;3; ;131;16%;1;1;OKGG;
+L;Omen; ;181;11;13;0; ;96;50%;0;3;OKGG;
+W;Jett;1.16;277;15;10;1;87%;159;19%;2;0;TOOOLS esports;
+W;Jett;1.35;177;12;5;2;87%;111;11%;2;0;TOOOLS esports;
+L;Raze;0.61;104;5;13;3;53%;56;3%;1;2;TOOOLS esports;
+L;Jett;0.27;83;4;13;0;23%;39;57%;0;2;TOOOLS esports;

@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy;0.93;155;18;20;3;66%;113;23%;0;1;fReya;
+L;Skye;0.92;170;14;16;6;68%;117;26%;0;1;fReya;
+W;Killjoy;1.16;220;25;20;7;78%;144;27%;2;5;fReya;
+L;Killjoy;0.97;244;11;14;3;67%;146;15%;2;1;fReya;
+L;Killjoy;0.26;54;2;13;1;31%;35;21%;0;0;fReya;
+W;Sova;1.73;371;21;9;9;82%;256;32%;4;1;fReya;
+W;Sage;2.12;445;25;7;4;81%;276;17%;4;1;fReya;
+L;Sova;1.05;227;14;14;8;84%;162;17%;3;1;fReya;
+W;Killjoy;1.02;213;16;16;3;67%;164;22%;2;1;fReya;
+L;Sage;0.89;170;13;14;5;75%;111;25%;2;0;fReya;

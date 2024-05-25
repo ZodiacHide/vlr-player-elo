@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage;1.02;166;16;14;7;67%;107;30%;0;2;Galaxy Racer Female;
+L;Killjoy;0.74;160;14;19;2;54%;107;23%;0;1;Galaxy Racer Female;
+W;Sova;1.00;116;6;8;9;88%;91;14%;0;3;Galaxy Racer Female;
+L;Sage;0.42;40;3;17;4;57%;26;25%;0;1;Galaxy Racer Female;
+L;Sage;0.60;75;5;15;6;67%;52;23%;0;0;Galaxy Racer Female;
+L;Breach;0.45;59;3;22;8;50%;46;15%;0;1;Galaxy Racer Female;

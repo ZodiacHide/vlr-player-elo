@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.48;97;5;14;6;56%;68;12%;1;5;Illés Akadémia Spirit;
+L;Brimstone;0.50;172;8;14;4;64%;77;38%;1;2;Illés Akadémia Spirit;
+L;Viper;0.76;177;14;19;9;57%;109;13%;2;2;Zero2Hero Esports Academy;
+L;Viper;0.91;223;15;19;4;59%;146;26%;1;4;Zero2Hero Esports Academy;
+L;Sova;0.62;117;7;15;5;58%;76;24%;1;2;Zero2Hero Esports Academy;

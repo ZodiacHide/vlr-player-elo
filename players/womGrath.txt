@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;148;10;15;7; ;107;21%;0;1;WAY Esports;
+L;Omen; ;170;9;14;5; ;117;22%;1;0;WAY Esports;
+W;Sova; ;232;20;16;2; ;140;27%;1;2;WAY Esports;
+L;Sova; ;155;12;18;9; ;103;18%;2;1;WAY Esports;
+L;Omen; ;182;13;20;7; ;119;23%;1;2;WAY Esports;

@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;Raze; ;299;22;16;5; ;200;14%;3;2;T1;
+L;Raze; ;201;16;18;7; ;121;11%;5;1;T1;
+L;Breach; ;186;15;18;6; ;133;23%;1;5;T1;

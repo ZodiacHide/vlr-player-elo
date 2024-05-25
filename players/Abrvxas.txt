@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.95;234;16;17;2;53%;135;39%;4;2;Slaughter House;
+L;Jett;0.45;159;8;13;0;64%;118;17%;3;2;Slaughter House;
+L;Jett;0.44;147;10;19;2;62%;87;33%;4;6;Slaughter House;

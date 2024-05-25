@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;151;7;13;1; ;90;50%;1;1;Sprayz Gaming;
+W;Brimstone; ;181;16;15;5; ;100;24%;3;1;Sprayz Gaming;
+L;Brimstone; ;117;10;16;4; ;89;36%;3;1;Sprayz Gaming;
+L;Skye; ;71;3;14;3; ;51;36%;0;1;Sprayz Gaming;
+L;Reyna;0.78;164;11;14;1;56%;96;24%;2;2;Sprayz Gaming;
+L;Skye;0.16;80;3;16;3;47%;52;56%;0;3;Sprayz Gaming;
+L;Skye;0.38;95;4;17;7;56%;65;9%;1;4;Monkey Momentum;
+L;Breach;0.80;118;9;16;8;68%;80;24%;1;2;Monkey Momentum;

@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;235;18;16;5; ;163;5%;4;2;Sailor Scouts;
+L;Raze; ;75;2;14;1; ;65;0%;1;2;Sailor Scouts;
+L;Raze; ;158;6;13;0; ;114;5%;2;2;Sailor Scouts;
+L;Raze; ;108;4;14;2; ;67;6%;1;2;Sailor Scouts;
+L;Raze; ;166;11;15;5; ;106;12%;2;2;Sailor Scouts;
+L;Raze; ;113;4;13;0; ;71;7%;0;0;Sailor Scouts;
+L;Sova; ;177;14;15;4; ;111;9%;2;0;Watch This;
+L;Sova; ;183;6;14;8; ;123;20%;2;0;Watch This;
+L;Sova; ;174;8;15;6; ;115;18%;1;0;Watch This;
+L;Sova; ;125;4;16;6; ;91;2%;0;2;Watch This;

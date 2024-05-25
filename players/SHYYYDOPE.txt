@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;167;12;14;3; ;109;18%;1;1;ANBU Elite Gaming;
+W;Phoenix; ;209;18;14;3; ;117;30%;3;2;ANBU Elite Gaming;
+L;Phoenix; ;227;15;15;5; ;136;13%;1;2;ANBU Elite Gaming;
+L;Brimstone; ;220;15;18;2; ;146;25%;1;1;ANBU Elite Gaming;
+L;Brimstone; ;82;4;15;1; ;54;22%;0;1;ANBU Elite Gaming;
+L;Phoenix; ;165;8;15;2; ;101;17%;0;2;ANBU Elite Gaming;
+L;Phoenix; ;169;16;18;3; ;100;15%;3;2;ANBU Elite Gaming;
+L;Brimstone; ;132;12;17;3; ;84;32%;2;0;ANBU Elite Gaming;

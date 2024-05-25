@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;176;8;15;2; ;123;24%;1;3;FTG Esports;
+L;Jett; ;184;12;17;6; ;133;24%;6;5;FTG Esports;
+L;Jett; ;192;7;13;4; ;120;31%;3;2;Rated Gaming;
+L;Jett; ;95;7;17;1; ;68;17%;1;3;Rated Gaming;
+L;Reyna;0.50;180;10;16;2;47%;106;23%;2;5;FTG Esports;
+L;Phoenix;0.79;152;11;14;3;58%;82;29%;1;4;Lazarus;
+L;Sage;0.51;124;8;18;2;52%;72;23%;4;3;Lazarus;
+L;Jett;0.72;183;11;16;0;39%;133;27%;3;1;Lazarus;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;151;13;17;7; ;115;18%;0;3;AtmosFear;
+W;Omen; ;118;10;12;4; ;76;13%;0;1;AtmosFear;
+L;Omen; ;167;9;14;4; ;100;23%;1;1;AtmosFear;
+L;Omen; ;104;7;15;4; ;78;42%;0;4;AtmosFear;
+L;None;0;0;0;0;0;0;0;0;0;0;QQQ;
+W;Raze;0.59;164;16;26;4;53%;109;10%;1;4;QQQ;
+L;Raze;0.99;258;17;18;4;71%;176;19%;2;3;QQQ;

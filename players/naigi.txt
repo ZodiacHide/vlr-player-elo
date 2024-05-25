@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;184;14;14;7; ;115;21%;1;0;Cakebois;
+L;Omen; ;199;18;17;2; ;114;20%;1;0;Cakebois;
+L;Omen; ;153;7;14;5; ;121;29%;1;0;Cakebois;
+W;Omen; ;190;15;13;7; ;118;35%;2;2;Cakebois;
+L;Sova; ;113;7;16;9; ;79;21%;1;3;Cakebois;

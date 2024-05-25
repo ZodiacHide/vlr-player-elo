@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;153;15;16;1; ;93;26%;1;5;OG Esports;
+L;Killjoy; ;143;7;14;5; ;84;10%;0;0;OG Esports;
+L;Killjoy; ;142;8;12;1; ;101;18%;0;1;OG Esports;
+L;Killjoy; ;154;14;15;4; ;97;32%;3;3;OG Esports;
+L;Cypher; ;159;15;16;8; ;123;28%;0;2;OG Esports;
+L;Cypher; ;151;8;16;4; ;90;39%;2;0;OG Esports;
+L;Cypher; ;190;11;15;3; ;140;33%;2;3;OG Esports;

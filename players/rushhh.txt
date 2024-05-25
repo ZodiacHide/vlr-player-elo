@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;1.13;160;12;12;7;70%;119;25%;0;1;Just Breathe;
+L;Sova;0.68;133;11;19;4;57%;85;26%;1;2;Just Breathe;
+W;Sova;1.31;234;19;14;8;96%;170;40%;1;0;VersionX;
+W;Sova;0.97;120;7;10;8;83%;93;20%;1;2;VersionX;
+L;Skye;0.62;101;7;16;7;42%;80;16%;0;2;VersionX;
+L;Sova;0.04;14;0;13;0;8%;15;50%;0;2;VersionX;
+L;Sova;0.76;127;6;12;5;56%;118;33%;0;0;VersionX;
+W;Sova;0.95;196;17;17;3;61%;144;20%;1;2;VersionX;
+W;Sova;0.85;150;13;14;5;74%;99;22%;0;0;VersionX;
+L;Skye;0.67;119;9;18;6;65%;94;22%;0;2;VersionX;
+L;Sova;1.00;190;17;16;2;61%;129;29%;3;2;VersionX;
+L;Sova;0.79;159;11;15;4;70%;116;17%;1;1;VersionX;
+L;Skye;0.84;145;12;16;7;55%;91;14%;1;2;VersionX;

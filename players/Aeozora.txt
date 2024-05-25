@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;167;12;16;7; ;106;23%;3;2;Team SMG;
+W;Breach; ;101;5;8;6; ;63;16%;1;0;Team SMG;
+L;Breach; ;86;7;20;9; ;56;13%;0;4;Team SMG;
+W;Breach; ;91;6;14;9; ;55;3%;1;3;Team SMG;
+L;Breach; ;166;15;18;5; ;97;11%;1;3;Team SMG;
+W;Breach; ;62;5;13;5; ;44;14%;1;2;Team SMG;
+W;Breach; ;199;13;17;12; ;131;12%;1;1;Team SMG;

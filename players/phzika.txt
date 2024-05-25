@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;190;12;14;0; ;119;32%;1;4;Liga Uncharted;
+L;Jett; ;239;12;16;4; ;164;28%;1;3;Liga Uncharted;

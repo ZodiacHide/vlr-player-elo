@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Viper;1.41;249;18;8;5;83%;137;24%;2;2;BBL Queens;
+W;Killjoy;1.02;213;12;12;4;83%;153;12%;1;1;BBL Queens;
+W;Killjoy;1.21;243;18;14;5;73%;170;23%;4;2;BBL Queens;
+L;Viper;1.05;188;12;16;6;55%;136;15%;1;2;BBL Queens;
+L;Killjoy;1.12;284;21;19;6;74%;187;11%;2;2;BBL Queens;
+W;Killjoy;1.20;235;17;13;2;74%;131;15%;5;3;BBL Queens;
+W;Killjoy;1.55;306;26;13;3;83%;203;27%;5;2;BBL Queens;
+L;Killjoy;0.88;242;14;15;2;65%;153;31%;8;3;BBL Queens;
+L;Killjoy;0.92;230;14;17;5;65%;164;19%;3;3;BBL Queens;

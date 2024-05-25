@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.68;188;13;19;4;52%;122;21%;3;2;el bdoon;
+L;Sova;0.86;184;11;16;6;63%;119;25%;0;0;el bdoon;

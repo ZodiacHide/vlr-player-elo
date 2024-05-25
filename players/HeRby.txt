@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Eloquence;
+W;Cypher; ;165;13;18;10; ;108;21%;3;1;Eloquence;
+L;Cypher; ;157;11;17;4; ;97;23%;1;4;Eloquence;
+W;Cypher; ;208;18;15;1; ;118;22%;5;0;Eloquence;
+L;Cypher; ;207;15;16;2; ;129;27%;2;3;Eloquence;
+W;Cypher; ;229;17;16;6; ;155;25%;3;1;Eloquence;
+L;Cypher; ;112;6;18;1; ;76;28%;3;3;Eloquence;
+W;None;0;0;0;0;0;0;0;0;0;0;Eloquence;

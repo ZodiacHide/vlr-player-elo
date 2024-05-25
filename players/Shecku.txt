@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;0.58;159;15;23;5;68%;106;23%;2;1;Kraken;
+W;Sova;1.06;181;14;14;12;74%;109;15%;2;2;Kraken;
+L;Killjoy;0.63;80;5;14;1;57%;61;23%;0;3;Kraken;
+L;Sova;0.57;114;7;17;10;57%;81;33%;0;2;Kraken;

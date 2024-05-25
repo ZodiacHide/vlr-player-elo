@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;236;11;12;3; ;127;15%;2;1;Bestial;
+L;Jett; ;178;13;17;3; ;117;18%;3;4;Bestial;

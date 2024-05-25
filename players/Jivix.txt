@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.87;175;12;15;6;62%;118;30%;1;1;Team Arrow;
+L;Kayo;1.23;231;18;16;15;77%;158;27%;1;0;Team Arrow;
+L;Jett;0.90;235;14;15;5;79%;165;37%;2;2;Team Arrow;
+L;Raze;0.77;196;14;20;6;61%;127;16%;2;5;Salt Esports;
+L;Skye;0.93;232;16;14;2;65%;132;39%;1;2;Salt Esports;

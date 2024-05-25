@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;135;7;14;2; ;86;20%;2;1;EZPZ;
+L;Sova; ;166;13;17;8; ;89;10%;1;1;EZPZ;
+L;Sova; ;194;12;16;5; ;121;8%;2;0;EZPZ;
+W;Viper; ;147;12;17;5; ;108;12%;0;2;EZPZ;
+W;Sova; ;217;15;6;8; ;127;20%;2;1;EZPZ;
+L;Viper; ;196;9;13;2; ;125;12%;2;0;EZPZ;
+L;Sova; ;181;7;13;3; ;122;18%;2;1;EZPZ;

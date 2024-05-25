@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;175;11;17;7; ; ; ;2; ;TEAM MAIA;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.18;80;3;14;0;21%;48;35%;2;3;Shi Shui Wen;
+L;Raze;0.82;221;12;14;2;65%;127;20%;0;2;Shi Shui Wen;
+L;Jett;0.50;163;10;17;1;56%;93;25%;1;2;Shi Shui Wen;

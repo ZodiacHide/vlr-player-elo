@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;244;20;20;6; ;150;17%;4;5;Vendetta;
+L;Reyna; ;245;17;19;4; ;152;12%;3;4;Vendetta;
+W;Jett; ;235;17;12;2; ;128;19%;3;1;Vendetta;
+L;Jett; ;166;15;17;3; ;102;23%;1;5;Vendetta;

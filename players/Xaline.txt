@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.62;156;8;20;10;64%;123;9%;1;0;ChatBanned;
+W;Sage;0.77;129;12;16;6;61%;82;26%;2;2;ChatBanned;
+W;Killjoy;1.43;252;16;10;5;67%;201;18%;1;2;ChatBanned;
+L;Killjoy;0.85;179;13;17;2;70%;127;12%;2;0;ChatBanned;
+L;Killjoy;0.95;176;13;16;4;68%;126;14%;1;0;ChatBanned;

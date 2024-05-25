@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;261;21;11;8; ; ; ;2; ;esoteric;
+L;Sova; ;283;21;14;13; ; ; ;2; ;esoteric;
+L;Sova; ;223;17;19;11; ; ; ;1; ;esoteric;
+L;Sova; ;320;27;13;7; ; ; ;4; ;Team Quitooo;
+W;Sova; ;265;23;18;7; ; ; ;3; ;Team Quitooo;
+W;Sova; ;189;12;8;2; ; ; ;3; ;Team Quitooo;
+L;Sova; ;256;15;13;6; ; ; ;0; ;Team Quitooo;
+L;Sage; ;79;4;16;2; ; ; ;0; ;Team Quitooo;
+L;Sova; ;125;7;14;5; ; ; ;1; ;esoteric;
+L;Jett; ;144;7;13;3; ;90;18%;1;4;TEAM X-FORCE;

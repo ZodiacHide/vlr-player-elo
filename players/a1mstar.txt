@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;147;7;14;4; ;93;16%;1;2;No Witness;
+W;Omen; ;228;23;22;7; ;138;27%;2;2;No Witness;
+L;Brimstone; ;197;9;13;2; ;144;22%;1;0;No Witness;
+L;Jett;0.57;155;7;15;2;50%;103;30%;1;1;No Witness;
+L;Raze;0.84;218;16;17;2;67%;135;24%;3;3;No Witness;

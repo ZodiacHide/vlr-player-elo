@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.59;145;10;16;3;63%;111;30%;0;0;Legion de Reconocimiento;
+L;Sage;0.60;174;10;16;2;56%;78;23%;2;1;Legion de Reconocimiento;

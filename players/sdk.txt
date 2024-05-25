@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;168;14;17;5; ; ; ;2; ;Team Yelo;
+W;Breach; ;108;7;10;1; ; ; ;0; ;Team Yelo;
+L;Breach; ;106;10;19;6; ; ; ;2; ;Team Yelo;

@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.95;206;12;15;6;50%;150;15%;2;3;Liberty Female;
+L;Jett;0.69;208;11;19;10;80%;140;14%;2;2;Liberty Female;
+W;Phoenix;1.10;324;18;12;4;88%;182;18%;4;2;Liberty Female;
+W;Jett;1.47;317;20;14;9;95%;180;13%;6;2;Liberty Female;
+L;Raze;0.92;254;11;17;7;67%;176;10%;4;2;Liberty Female;
+L;Jett;1.06;266;18;19;5;77%;164;10%;6;4;Liberty Female;
+W;Raze;1.18;219;16;11;7;90%;129;13%;1;1;Liberty Female;
+W;Jett;1.19;295;19;13;3;78%;157;22%;4;4;Liberty Female;
+W;Jett;1.10;269;18;14;7;83%;164;15%;4;3;Liberty Female;
+L;Raze;1.45;326;26;16;3;75%;199;10%;4;3;Liberty Female;
+L;Phoenix;1.05;220;19;18;6;77%;141;19%;1;4;Liberty Female;

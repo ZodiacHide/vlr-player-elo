@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;120;7;20;5; ;81;7%;1;2;VETERANOS e-Sports;
+L;Breach; ;95;4;15;3; ;64;12%;0;0;VETERANOS e-Sports;
+L;Breach; ;72;5;18;10; ;50;10%;2;2;VETERANOS e-Sports;
+W;Breach; ;206;17;14;6; ;116;19%;1;1;VETERANOS e-Sports;
+W;Sova; ;185;16;18;13; ;133;16%;1;1;Gamerbots;
+W;Sova; ;228;17;14;7; ;143;11%;3;3;Gamerbots;
+L;Sova; ;69;4;15;5; ;48;6%;1;1;Team Galaga;
+L;Sova; ;143;8;15;4; ;95;17%;1;3;Team Galaga;

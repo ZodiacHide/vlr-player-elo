@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;185;16;18;5; ;113;17%;3;1;Barrados Do Divine;
+L;Omen; ;215;15;19;6; ;130;33%;1;5;Barrados Do Divine;
+L;Omen; ;164;12;16;2; ;157;32%;0;2;Barrados Do Divine;
+L;Jett;0.79;190;12;20;7;59%;126;28%;4;7;RATAO;
+L;Jett;0.99;208;13;16;3;58%;129;26%;1;5;RATAO;

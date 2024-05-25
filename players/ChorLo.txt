@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;210;13;15;8; ;143;24%;3;2;UCAM Esports Club;
+L;Sova; ;224;14;16;6; ;126;16%;1;4;UCAM Esports Club;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;274;22;10;5; ; ; ;1; ;Team sabagod2;
+W;Sage; ;138;7;11;9; ; ; ;1; ;Team sabagod2;
+W;Sage; ;258;13;4;5; ; ; ;1; ;Team sabagod2;
+L;None;0;0;0;0;0;0;0;0;0;0;Team sabagod2;
+W;Sage; ;287;18;7;10; ; ; ;2; ;Team sabagod2;

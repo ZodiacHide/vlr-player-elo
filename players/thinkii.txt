@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;222;18;17;8; ;126;19%;1;0;KPI Gaming;
+L;Cypher;0.75;187;10;14;1;50%;119;16%;1;3;KPI Gaming;
+L;Sage;0.38;114;6;17;5;56%;84;16%;0;2;KPI Gaming;

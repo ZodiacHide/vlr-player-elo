@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;170;9;16;3; ;163;32%;1;0;Up For Sale;
+L;Omen; ;70;4;14;4; ;47;18%;0;1;Up For Sale;
+L;Jett; ;84;3;13;0; ;58;27%;0;2;Up For Sale;
+L;Omen; ;148;12;18;1; ;103;22%;0;1;Up For Sale;
+L;Viper;0.82;198;14;16;4;60%;122;35%;1;2;Windstorm;
+L;Viper;0.35;62;3;15;1;35%;49;54%;0;1;Windstorm;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.60;151;13;20;1;50%;104;27%;2;7;Duck Gaming;
+L;Raze;0.63;139;9;20;8;67%;102;14%;3;5;Duck Gaming;
+L;Jett;1.10;213;16;16;7;77%;141;30%;6;3;Duck Gaming;
+L;Killjoy;0.43;68;3;13;1;41%;52;20%;1;2;BBBongos;
+W;Sage;1.39;327;32;18;8;85%;171;29%;4;2;BBBongos;
+L;Sova;0.42;111;7;19;5;48%;82;25%;1;6;BBBongos;

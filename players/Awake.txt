@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher;0.98;201;16;15;5;86%;136;27%;0;2;Team Punished;
+L;Killjoy;0.75;173;10;16;4;58%;129;25%;1;1;Team Punished;
+L;Cypher;0.75;126;13;18;4;71%;84;33%;0;2;Team Punished;
+L;Cypher;0.88;146;10;14;6;65%;107;19%;1;1;Team Punished;
+W;Killjoy;1.02;216;14;12;3;67%;147;19%;0;1;Team Punished;
+W;Killjoy;0.96;187;17;16;4;79%;121;26%;0;2;Team Punished;
+L;Killjoy;0.81;123;10;13;2;71%;69;13%;1;0;Team Punished;
+L;Cypher;0.80;140;11;16;4;62%;95;20%;0;2;Team Punished;

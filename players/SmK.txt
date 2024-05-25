@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;120;9;17;4; ;119;5%;2;4;BRAVOS GAMING;
+L;Killjoy; ;330;16;12;2; ;256;21%;0;1;BRAVOS GAMING;

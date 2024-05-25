@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.63;98;8;17;7;57%;68;21%;1;0;VPG Headhunters;
+L;Astra;0.50;124;5;13;2;43%;85;21%;0;4;VPG Headhunters;
+L;Astra;0.84;179;15;17;1;61%;126;24%;2;1;VPG Headhunters;

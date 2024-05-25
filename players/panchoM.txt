@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.91;245;13;16;4;47%;159;17%;1;3;ATROPELADOS;
+L;Killjoy;0.70;137;12;17;4;73%;105;28%;1;2;ATROPELADOS;

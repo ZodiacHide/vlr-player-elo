@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Unbind Crouch;
+W;None;0;0;0;0;0;0;0;0;0;0;Unbind Crouch;
+W;Killjoy;0.87;214;16;15;3;67%;116;8%;0;0;Unbind Crouch;

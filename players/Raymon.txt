@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;194;12;17;2; ;131;24%;2;1;Absolute Legends Blue;
+W;Omen; ;371;35;20;5; ;195;46%;1;4;GRANIT GAMING;
+W;Breach; ;225;21;15;6; ;125;24%;0;1;GRANIT GAMING;
+L;Omen; ;173;16;21;3; ;108;34%;4;7;GRANIT GAMING;
+W;Killjoy; ;227;15;12;6; ;116;24%;2;0;Lasagna Beam;
+W;Phoenix; ;223;16;12;1; ;139;27%;1;4;Lasagna Beam;
+L;Cypher;0.86;199;12;16;4;40%;135;37%;3;3;Lasagna Beam;
+L;Killjoy;1.11;253;18;19;5;73%;151;22%;5;0;Lasagna Beam;
+W;Cypher;0.92;196;14;17;4;57%;133;23%;1;4;Lasagna Beam;
+W;Killjoy;1.02;218;17;15;0;71%;142;34%;3;2;Lasagna Beam;
+L;Reyna;1.09;211;18;16;3;65%;134;25%;4;2;idkman;
+L;Astra;0.99;211;18;18;6;65%;143;28%;1;2;idkman;

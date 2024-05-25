@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.54;119;7;16;3;39%;81;22%;0;0;Honvéd Esport;
+L;Sova;0.71;214;8;14;2;50%;146;29%;0;1;Honvéd Esport;
+W;Skye;1.05;141;11;9;5;76%;94;17%;0;1;Honvéd Esport;
+W;Sova;0.98;160;14;14;8;79%;104;12%;0;0;Honvéd Esport;
+L;Viper;0.71;177;15;17;7;70%;102;12%;2;4;Honvéd Esport;
+W;Viper;1.13;149;9;10;16;74%;104;17%;0;0;Honvéd Esport;
+W;None;0;0;0;0;0;0;0;0;0;0;Honvéd Esport;
+L;Killjoy;0.93;182;10;13;4;63%;134;20%;0;3;Honvéd Esport;
+L;Cypher;0.87;129;11;15;3;57%;84;10%;1;0;Honvéd Esport;
+L;Viper;1.00;177;12;14;4;60%;111;11%;2;0;Honvéd Esport;
+L;Viper;0.61;153;10;16;2;63%;108;15%;0;2;Honvéd Esport;
+W;Viper;1.28;236;18;14;14;82%;161;25%;4;0;Honvéd Esport;
+W;Sova;1.06;224;18;12;5;86%;130;11%;3;0;Honvéd Esport;
+L;Sage;1.10;183;15;15;7;64%;135;18%;2;3;Honvéd Esport;

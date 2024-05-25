@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;158;8;15;0; ;91;25%;1;3;Penn State University;
+L;Killjoy; ;145;6;13;4; ;104;19%;2;2;Penn State University;

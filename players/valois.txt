@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;98;5;14;2; ;56;22%;0;2;DETONA Gaming;
+W;Phoenix; ;156;12;15;6; ;106;28%;2;2;DETONA Gaming;
+L;Reyna; ;108;7;20;7; ;70;21%;1;3;DETONA Gaming;
+W;Phoenix; ;122;6;12;4; ;63;29%;1;1;DETONA Gaming;
+L;Reyna; ;127;8;13;2; ;78;21%;1;0;DETONA Gaming;
+L;Killjoy; ;167;11;17;2; ;86;12%;2;2;NOSLEEP;
+L;Sage; ;76;6;20;7; ;56;38%;1;1;NOSLEEP;
+L;Phoenix;0.38;106;5;14;2;44%;76;33%;1;4;BRAVOS GAMING;
+L;Reyna;1.01;249;17;16;1;63%;135;39%;3;4;BRAVOS GAMING;

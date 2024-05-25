@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;157;15;17;10; ;74;19%;1;0;Team Germany;

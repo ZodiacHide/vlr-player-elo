@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.33;121;6;14;2;33%;66;50%;1;6;Waifu Warriors;
+L;Cypher;0.44;114;6;13;1;47%;67;40%;0;1;Waifu Warriors;

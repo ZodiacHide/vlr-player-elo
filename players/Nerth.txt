@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;300;22;10;3; ;161;17%;3;0;Flat White;

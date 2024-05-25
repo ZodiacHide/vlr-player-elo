@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Washed Players;
+W;None;0;0;0;0;0;0;0;0;0;0;Washed Players;
+W;None;0;0;0;0;0;0;0;0;0;0;Washed Players;
+L;None;0;0;0;0;0;0;0;0;0;0;Washed Players;
+L;None;0;0;0;0;0;0;0;0;0;0;Washed Players;

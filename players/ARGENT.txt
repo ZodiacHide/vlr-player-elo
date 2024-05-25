@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;212;17;21;6; ;124;18%;7;1;5NOOBS;
+W;Jett; ;263;18;14;7; ;141;20%;4;2;5NOOBS;
+W;Jett; ;232;16;18;4; ;135;15%;3;3;5NOOBS;
+W;Jett; ;144;11;16;3; ;76;17%;4;6;5NOOBS;
+W;Jett; ;290;21;15;5; ;147;22%;4;4;5NOOBS;
+L;Raze; ;216;10;15;5; ;136;11%;3;2;Beşiktaş Esports;
+L;Jett; ;165;10;15;3; ;169;19%;2;2;Beşiktaş Esports;
+L;Jett; ;267;16;15;1; ;164;20%;3;3;Beşiktaş Esports;
+L;Jett; ;242;19;21;5; ;148;29%;3;6;Beşiktaş Esports;
+L;Jett; ;115;12;23;2; ;72;15%;3;6;Beşiktaş Esports;
+L;Raze; ;124;11;18;4; ;78;28%;0;5;Beşiktaş Esports;
+L;Jett;1.29;360;21;13;4;78%;210;31%;5;3;XFlow Esports;
+L;Raze;0.27;114;7;19;3;53%;64;23%;3;7;XFlow Esports;

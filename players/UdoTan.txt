@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;215;22;18;4; ;128;14%;3;2;Team NoX;
+L;Jett; ;189;10;14;0; ;100;18%;3;3;Team NoX;
+L;Omen;0.72;142;13;16;2;65%;95;52%;0;1;Noble Experience;
+L;Omen;0.64;112;7;14;3;56%;61;17%;2;2;Noble Experience;
+L;Omen;0.81;163;9;15;8;67%;109;21%;1;1;Noble Experience;
+L;Skye;0.14;38;1;13;3;29%;25;17%;1;5;Noble Experience;
+L;Omen;0.61;119;6;14;9;65%;84;21%;0;2;Noble Experience;
+L;Omen;0.76;158;11;15;8;71%;123;21%;0;1;Noble Experience;
+L;Jett;0.53;139;7;13;2;47%;70;9%;1;3;Noble Experience;
+W;Sova;1.43;256;19;10;6;80%;140;14%;1;1;Noble Experience;
+W;Viper;1.66;274;21;9;9;74%;178;19%;1;1;Noble Experience;
+L;Sova;1.02;240;13;15;5;69%;153;28%;1;1;Noble Experience;
+L;Jett;1.11;325;16;13;1;71%;186;26%;2;1;Noble Experience;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.09;240;19;13;4;70%;135;25%;1;2;Rebirth Esports;
+L;Jett;0.94;196;16;17;6;75%;127;33%;2;4;Rebirth Esports;
+W;Jett;1.25;269;23;17;4;64%;147;11%;4;4;Rebirth Esports;
+L;Jett;0.57;152;7;12;1;60%;94;29%;3;2;Rebirth Esports;
+L;Jett;0.71;123;9;17;4;57%;85;22%;2;3;Rebirth Esports;

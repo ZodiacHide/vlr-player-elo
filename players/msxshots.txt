@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;133;9;14;3; ;99;14%;1;3;Sailor Scouts;
+L;Brimstone; ;184;10;13;2; ;107;9%;1;2;Sailor Scouts;
+L;Breach; ;81;4;14;3; ;54;31%;0;2;Sailor Scouts;
+L;Breach; ;121;5;14;4; ;84;7%;0;5;Sailor Scouts;
+L;Killjoy; ;196;13;14;2; ;109;14%;3;1;Sailor Scouts;
+L;Killjoy; ;126;3;13;2; ;89;9%;0;1;Sailor Scouts;
+L;Omen;0.82;140;13;17;3;57%;94;26%;1;1;NMG Indigo;
+L;Omen;1.05;185;13;12;6;67%;115;17%;2;0;NMG Indigo;
+L;Omen;0.47;83;5;14;4;53%;59;15%;0;4;NMG Indigo;
+L;Sova;0.44;100;4;15;6;44%;74;8%;0;1;NMG Indigo;

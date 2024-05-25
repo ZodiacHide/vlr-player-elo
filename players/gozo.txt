@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.71;205;10;14;4;65%;144;24%;2;2;Titan Esports;
+L;Sage;1.01;221;17;17;6;68%;135;32%;2;3;Titan Esports;

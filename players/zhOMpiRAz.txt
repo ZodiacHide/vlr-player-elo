@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;236;16;14;9; ;137;17%;5;2;Akave Esports;
+W;Jett; ;235;17;12;6; ;156;18%;4;2;Akave Esports;
+W;Jett; ;233;14;10;4; ;134;11%;4;3;Akave Esports;
+L;Jett; ;126;11;17;4; ;83;13%;2;1;Akave Esports;
+L;Jett; ;180;13;14;5; ;129;17%;1;1;Akave Esports;
+L;Phoenix; ;121;9;18;4; ;73;24%;3;4;Akave Esports;
+W;Omen; ;165;14;12;4; ;106;14%;1;1;Akave Esports;
+W;Omen; ;139;9;6;2; ;92;30%;0;0;Akave Esports;

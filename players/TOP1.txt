@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;178;13;14;2; ;109;23%;1;1;KnockOut Esports;
+L;Brimstone; ;190;13;11;1; ;169;26%;0;0;KnockOut Esports;
+L;Brimstone; ;115;6;13;0; ;69;28%;1;1;KnockOut Esports;

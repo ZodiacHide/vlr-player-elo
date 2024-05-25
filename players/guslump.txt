@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.61;130;8;14;3;71%;87;24%;0;1;Prinzen von Stuttgart;
+L;Sage;1.04;263;15;13;3;71%;182;16%;2;3;Prinzen von Stuttgart;
+L;Sage;0.85;223;13;15;9;72%;127;33%;1;3;Wave Academy;
+L;Jett;0.64;202;10;15;3;63%;120;21%;1;3;Wave Academy;

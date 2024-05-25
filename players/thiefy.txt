@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;310;23;17;6; ;178;30%;4;2;Nester;
+L;Phoenix; ;189;12;17;3; ;122;22%;1;3;Nester;
+L;Raze; ;233;20;20;3; ;195;14%;5;5;Nester;
+W;Viper; ;229;12;6;2; ;140;16%;2;1;Nester;
+L;Phoenix; ;247;14;16;0; ;138;33%;2;3;Nester;
+L;Viper; ;182;12;17;4; ;123;27%;2;2;Nester;
+L;Raze;0.91;261;17;19;4;62%;161;8%;2;5;Free Agents;
+W;Raze;1.97;478;33;12;4;80%;303;28%;7;3;Free Agents;
+L;Raze;0.75;200;11;16;2;50%;121;18%;0;3;Updraft;

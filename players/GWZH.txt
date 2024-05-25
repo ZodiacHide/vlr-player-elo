@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.69;148;9;16;4;50%;104;18%;0;6;Tuwaiq Esports Club;
+L;Astra;0.64;120;8;15;2;58%;89;33%;1;2;Tuwaiq Esports Club;

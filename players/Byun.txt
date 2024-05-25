@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;108;6;13;10; ;71;35%;0;1;SLO;
+L;Breach; ;199;11;13;6; ;146;37%;0;2;SLO;
+L;Breach; ;159;12;15;4; ;103;29%;4;1;SLO;

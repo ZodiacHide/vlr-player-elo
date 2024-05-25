@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.77;174;10;16;3;53%;117;18%;2;3;MishMash Gaming;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;146;10;17;2; ;82;24%;2;4;RCTIC;
+L;Reyna; ;139;6;15;1; ;92;25%;2;4;RCTIC;
+L;Raze; ;150;7;14;1; ;93;8%;1;5;RCTIC;
+L;Raze; ;123;5;15;3; ;82;6%;3;2;RCTIC;

@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.29;387;18;13;2;87%;216;33%;2;3;Sharper Esport;
+W;Jett;1.79;277;18;5;1;94%;142;13%;4;1;Sharper Esport;
+W;Raze;1.15;264;23;17;4;78%;166;24%;4;3;Sharper Esport;
+W;Jett;0.76;160;14;18;4;75%;91;18%;3;3;Sharper Esport;
+W;Jett;1.12;236;19;13;2;73%;143;34%;8;4;Sharper Esport;
+W;Jett;1.63;314;19;10;5;81%;170;19%;6;1;Sharper Esport;
+W;Jett;0.65;144;9;17;5;60%;93;24%;3;4;Sharper Esport;
+W;Jett;1.52;279;18;8;4;82%;172;28%;4;1;Sharper Esport;
+W;Jett;0.85;227;15;14;2;58%;122;18%;4;2;Sharper Esport;
+L;Jett;1.22;269;23;18;6;79%;164;16%;6;2;Sharper Esport;
+W;Raze;1.67;330;18;7;3;86%;204;21%;4;1;Sharper Esport;
+W;Jett;1.23;280;22;17;6;86%;155;22%;5;1;Sharper Esport;
+W;Raze;0.55;120;7;19;7;63%;79;9%;2;6;Sharper Esport;
+L;Jett;1.01;206;14;16;5;68%;126;29%;4;3;Sharper Esport;
+L;Raze;1.43;340;29;17;3;79%;201;27%;7;2;Sharper Esport;
+L;Jett;0.67;176;15;23;3;54%;113;26%;2;4;Sharper Esport;
+L;Jett;1.05;254;19;18;4;67%;138;23%;6;3;Sharper Esport;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.50;131;7;15;2;56%;87;13%;1;1;Elysium NOIR;
+L;Raze;0.64;127;10;20;4;50%;85;13%;2;5;Elysium NOIR;
+L;Sage;0.80;175;13;18;9;71%;118;18%;1;2;Elysium NOIR;
+L;Phoenix;0.43;112;6;15;3;60%;85;31%;0;5;Elysium NOIR;

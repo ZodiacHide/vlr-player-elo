@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;177;14;16;6; ;120;23%;1;2;Aracne Esports;
+L;Killjoy; ;215;14;17;5; ;183;17%;4;5;Aracne Esports;
+W;Cypher; ;263;16;6;7; ;140;27%;2;1;Aracne Esports;
+W;Killjoy; ;204;14;11;4; ;133;13%;1;2;Aracne Esports;
+L;Killjoy; ;202;17;18;6; ;127;16%;0;2;Aracne Esports;

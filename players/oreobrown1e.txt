@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;143;11;17;9; ;108;12%;0;3;Magic Esport;
+L;Sova; ;231;19;15;7; ;152;27%;0;2;Magic Esport;
+L;Jett; ;225;13;17;1; ;117;26%;5;2;ZABB;

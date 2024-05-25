@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;220;17;12;8; ;144;32%;2;1;Nebula;
+L;Omen; ;163;15;21;4; ;100;16%;4;2;Nebula;
+W;Omen; ;187;14;15;6; ;107;20%;1;1;Nebula;
+L;Omen; ;144;10;17;3; ;97;31%;1;1;Nebula;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;104;4;14;2; ;74;28%;1;3;US Army Esports;
+L;Cypher; ;149;7;15;4; ;116;21%;3;2;US Army Esports;

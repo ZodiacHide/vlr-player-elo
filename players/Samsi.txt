@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;1.70;379;16;10;8;86%;231;17%;6;2;The Goose House Lunar;
+W;Jett;1.01;216;15;17;8;68%;145;16%;7;1;The Goose House Lunar;
+L;Raze;0.94;200;16;20;10;73%;141;16%;6;2;The Goose House Lunar;
+W;Jett;1.05;184;12;10;3;82%;113;21%;1;0;The Goose House Lunar;
+W;Raze;1.51;309;26;15;7;83%;188;14%;3;3;The Goose House Lunar;
+W;Jett;1.22;267;16;12;4;82%;168;21%;3;1;The Goose House Lunar;
+L;Raze;1.47;316;27;15;5;79%;187;12%;4;1;The Goose House Lunar;
+L;Raze;0.74;216;18;27;8;60%;156;8%;3;7;The Goose House Lunar;

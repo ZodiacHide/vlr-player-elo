@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;222;19;18;14; ;147;24%;2;3;Affinity Esports;
+L;Sage; ;154;9;14;8; ;107;38%;1;1;Affinity Esports;
+W;Omen; ;245;16;7;6; ;140;18%;1;1;Affinity Esports;
+L;Breach; ;106;12;17;9; ;135;23%;1;2;Affinity Esports;
+W;Omen;1.20;239;20;12;3;71%;159;26%;1;2;Walküre;
+L;Omen;0.78;178;15;19;5;43%;114;44%;3;4;Walküre;
+L;Omen;1.01;213;20;18;4;88%;129;22%;2;2;Walküre;
+W;Viper;1.55;232;15;7;7;82%;121;43%;3;0;Walküre;
+W;Omen;1.20;242;20;15;11;86%;152;19%;5;2;Walküre;
+L;Viper;0.96;228;12;12;3;67%;137;21%;0;3;Walküre;
+L;Viper;0.54;107;7;13;4;50%;71;19%;0;1;Walküre;
+W;Viper;1.15;237;17;14;10;87%;159;18%;2;2;Walküre;
+W;Omen;0.83;137;10;16;6;63%;94;36%;4;2;Walküre;
+L;Viper;1.14;198;16;15;8;75%;134;20%;3;2;Walküre;
+L;Viper;1.02;252;15;15;8;61%;148;22%;2;3;Walküre;

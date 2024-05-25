@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;75;4;15;1; ;40;6%;0;0;BLUE BEES.ESP;

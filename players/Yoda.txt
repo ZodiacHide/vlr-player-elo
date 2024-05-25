@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;169;11;17;2; ;107;25%;0;2;NVM;
+L;Cypher; ;132;9;19;9; ;103;40%;1;6;NVM;
+L;Cypher; ;113;10;18;3; ;81;35%;3;4;Hope;
+L;Sage; ;261;25;18;9; ;161;33%;2;2;TooManyQuestions;
+W;Sage; ;182;15;17;8; ;124;25%;1;5;TooManyQuestions;
+W;Sage; ;153;12;14;5; ;94;35%;1;2;TooManyQuestions;
+L;Sage; ;137;11;17;4; ;84;18%;2;5;TooManyQuestions;
+W;Sage; ;149;11;12;6; ;105;37%;2;0;TooManyQuestions;
+L;Sage; ;116;6;16;4; ;72;32%;0;1;TooManyQuestions;
+L;Astra;0.66;216;9;14;3;64%;146;23%;0;0;God Given;

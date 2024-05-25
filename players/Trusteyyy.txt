@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;74;3;14;0; ;70;19%;0;2;Plore Gaming;
+L;Sova; ;67;2;13;0; ;50;27%;1;2;Plore Gaming;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;144;7;12;2; ;90;6%;2;1;Terminate Esports;
+L;Jett; ;144;8;17;0; ;100;36%;2;2;Terminate Esports;
+L;Yoru;0.29;84;4;15;2;50%;65;14%;0;2;Zercus Esports;
+L;Jett;0.95;207;14;13;2;63%;118;28%;4;5;Zercus Esports;

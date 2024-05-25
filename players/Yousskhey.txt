@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;119;6;14;1; ;70;29%;1;1;Ackerman Team;
+L;Sova; ;109;5;15;5; ;80;27%;0;3;Ackerman Team;

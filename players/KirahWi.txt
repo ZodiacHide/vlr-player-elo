@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;202;11;14;3; ;136;26%;1;2;Manse PP;
+L;Cypher; ;338;22;15;4; ;186;21%;2;3;Manse PP;
+L;Killjoy; ;154;7;13;1; ;114;13%;0;2;Manse PP;
+L;Yoru; ;255;14;14;2; ;217;12%;1;2;Manse PP;
+L;Breach; ;49;2;14;3; ;34;6%;0;2;Manse PP;
+L;Raze; ;192;10;15;2; ;96;9%;2;0;Manse PP;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;175;11;14;2; ;97;8%;2;4;Zwan Gaming;
+L;None;0;0;0;0;0;0;0;0;0;0;Zwan Gaming;
+L;Jett; ;233;12;17;2; ;140;9%;2;3;Zwan Gaming;
+L;Jett; ;233;12;17;2; ;140;9%;2;3;Zwan Gaming;

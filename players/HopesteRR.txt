@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.93;181;16;18;1;57%;114;32%;4;1;PULSAR OLDSTARS;
+L;Viper;0.73;210;14;14;1;53%;109;19%;2;6;PULSAR OLDSTARS;

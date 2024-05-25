@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;103;5;15;1; ;71;50%;2;1;PolyCyber;
+L;Omen; ;91;3;14;2; ;67;18%;1;1;PolyCyber;

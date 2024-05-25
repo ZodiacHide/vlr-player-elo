@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;263;22;21;4; ;151;10%;8;3;REVOADINHA;
+W;Raze; ;366;19;8;1; ;214;28%;5;3;REVOADINHA;
+L;Raze; ;181;11;15;4; ;104;29%;1;3;REVOADINHA;

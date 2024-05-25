@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;190;18;19;14; ;113;22%;1;0;Dirty boys;
+L;Breach; ;199;12;14;5; ;110;21%;1;0;Dirty boys;
+L;Breach; ;159;9;18;9; ;106;17%;1;0;Dirty boys;
+L;Omen;0.53;125;7;14;4;63%;68;18%;1;2;1280x960;
+L;Sova;0.77;263;16;15;3;72%;170;27%;0;1;1280x960;
+L;Sova;1.17;238;18;17;7;64%;140;20%;3;0;1280x960;
+L;Sova;1.01;193;14;15;6;74%;133;34%;0;0;1280x960;

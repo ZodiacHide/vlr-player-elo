@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;179;13;14;12; ;125;17%;3;2;Noir;
+W;Brimstone; ;221;17;18;10; ;146;13%;4;4;Noir;
+L;Omen; ;216;17;19;6; ;133;21%;4;6;Noir;
+L;Omen; ;172;7;14;2; ;95;8%;2;1;Noir;
+L;Omen; ;134;8;16;5; ;61;16%;1;4;Noir;
+L;Omen; ;90;5;17;1; ;60;20%;2;2;Noir;
+L;Brimstone; ;104;3;15;8; ;75;14%;0;3;Noir;
+L;Omen; ;222;13;12;5; ;143;17%;0;1;Noir;

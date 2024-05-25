@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.14;266;20;14;2;64%;152;25%;5;1;Alpha Esports Pro;
+W;Phoenix;1.08;239;17;16;8;76%;149;23%;3;3;Alpha Esports Pro;
+L;Jett;0.95;214;15;16;3;67%;156;29%;4;3;Alpha Esports Pro;
+W;Jett;0.95;200;15;16;4;64%;134;18%;4;5;Alpha Esports Pro;
+L;Jett;0.94;221;18;19;4;59%;144;27%;4;0;Alpha Esports Pro;
+L;Jett;0.35;114;8;20;2;50%;84;26%;2;7;Alpha Esports Pro;
+W;Jett;1.07;172;13;14;5;76%;124;23%;3;1;Alpha Esports Pro;
+W;Jett;0.90;212;17;14;3;79%;117;21%;2;1;Alpha Esports Pro;
+W;Jett;1.23;277;21;15;1;68%;159;25%;6;1;Alpha Esports Pro;
+L;Jett;0.91;218;21;22;5;64%;151;24%;4;6;Alpha Esports Pro;
+L;Jett;0.69;188;14;18;2;57%;113;43%;3;3;Alpha Esports Pro;
+L;Jett;1.20;252;20;13;4;70%;164;36%;1;1;Alpha Esports Pro;
+L;Reyna;1.39;296;26;16;4;75%;185;36%;5;2;Alpha Esports Pro;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;282;24;14;5; ;168;23%;3;2;SPARX ESPORTS;
+L;Sage; ;157;10;19;10; ;105;23%;0;2;SPARX ESPORTS;
+L;Sova; ;246;19;14;3; ;157;44%;1;0;SPARX ESPORTS;

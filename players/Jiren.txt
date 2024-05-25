@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.22;245;18;14;8;83%;133;13%;5;5;Reckoning Esports;
+L;Jett;0.84;201;17;19;3;78%;128;22%;2;6;Reckoning Esports;
+L;Jett;0.52;127;8;18;3;45%;95;21%;0;5;Reckoning Esports;
+L;Jett;0.85;134;10;14;2;68%;86;23%;2;3;Reckoning Esports;
+L;Jett;1.48;320;25;15;1;67%;179;18%;7;0;Reckoning Esports;
+L;Jett;0.55;148;9;16;1;56%;99;19%;1;0;Reckoning Esports;
+L;Jett;0.50;126;6;14;3;47%;94;22%;0;2;Reckoning Esports;
+L;Raze;0.65;186;11;19;6;68%;108;7%;3;3;Reckoning Esports;

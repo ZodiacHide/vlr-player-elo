@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;159;8;13;2; ; ; ;3; ;Team Terenas;
+L;Reyna; ;196;16;16;5; ;109;9%;0;4;Team Italy;
+L;Reyna; ;214;16;15;4; ;137;18%;1;1;Team Italy;
+L;Sage; ;167;11;18;2; ;93;15%;1;1;Team Italy;
+L;Reyna; ;268;18;15;1; ;174;18%;1;2;Team Italy;

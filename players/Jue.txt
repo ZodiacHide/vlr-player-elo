@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;1.31;276;19;14;8;74%;148;17%;2;2;ShanXi Gaming Girls;
+L;Omen;0.17;99;4;14;0;27%;46;11%;0;5;ShanXi Gaming Girls;
+L;Sage;0.55;166;7;13;1;54%;105;22%;1;4;ShanXi Gaming Girls;
+L;Sage;0.50;123;4;14;7;50%;86;19%;1;1;ShanXi Gaming Girls;

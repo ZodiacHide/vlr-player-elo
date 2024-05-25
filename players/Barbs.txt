@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;84;4;15;4; ;50;31%;2;2;FTG Esports;
+L;Sova; ;177;15;14;6; ;116;17%;0;0;FTG Esports;
+L;Sova;0.63;165;9;14;4;53%;96;36%;0;1;FTG Esports;

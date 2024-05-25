@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;178;10;14;7; ;101;8%;2;1;Zwan Gaming;
+L;Cypher; ;187;10;16;5; ;111;10%;0;3;Zwan Gaming;
+L;Sova; ;136;8;16;2; ;74;36%;1;2;Zwan Gaming;
+L;Sova; ;136;8;16;2; ;74;36%;1;2;Zwan Gaming;

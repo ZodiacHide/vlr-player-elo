@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.69;169;8;15;2;69%;116;20%;1;2;ILG JADE;
+L;Astra;0.11;28;1;15;2;25%;24;20%;0;3;ILG JADE;

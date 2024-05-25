@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;58;3;15;4; ; ; ;1; ;Project D;
+W;Sova; ;234;24;21;10; ;150;26%;0;1;Project D;
+W;Sova; ;242;12;6;8; ;153;18%;1;1;Project D;
+L;Brimstone; ;145;7;14;4; ;92;9%;0;1;Project D;
+L;Sova; ;226;19;17;6; ;158;29%;1;1;Project D;
+L;Sova; ;206;9;15;7; ;138;10%;1;1;Project D;
+L;Sova; ;131;6;16;5; ;91;15%;0;1;Project D;

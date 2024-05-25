@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;231;19;18;7; ;181;18%;4;2;Avocados Team;
+L;Cypher; ;126;6;14;2; ;87;44%;2;5;Avocados Team;
+W;Cypher; ;215;17;12;5; ;137;22%;1;1;QLASH;
+W;Cypher; ;230;16;15;6; ;154;27%;4;0;QLASH;
+L;Killjoy; ;157;9;16;2; ;85;8%;2;4;QLASH;
+L;Cypher; ;218;18;16;5; ;137;18%;4;1;QLASH;
+L;Killjoy; ;177;8;15;5; ;117;32%;1;5;QLASH;
+L;Omen; ;95;6;16;0; ;54;40%;0;3;QLASH;
+L;Cypher; ;154;9;16;4; ;121;26%;1;1;Team Galaga;
+L;Cypher; ;112;6;15;1; ;61;37%;0;2;Team Galaga;
+L;Cypher;0.60;154;8;14;3;53%;98;41%;1;1;Team Galaga;
+L;Killjoy;0.70;180;7;13;1;43%;153;17%;1;1;Team Galaga;

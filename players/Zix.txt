@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;124;4;13;2; ;98;26%;2;4;re'born;
+W;Brimstone; ;197;16;15;7; ;126;21%;1;2;re'born;
+L;Omen; ;119;6;17;10; ;84;15%;1;3;re'born;

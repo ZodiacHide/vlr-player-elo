@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;1.11;197;18;15;4;67%;117;33%;2;1;afterMath Esports;
+W;Sage;1.29;256;24;12;4;82%;149;28%;3;1;afterMath Esports;
+L;Sage;1.02;196;12;15;8;68%;129;24%;0;0;afterMath Esports;
+L;Sage;0.58;181;8;14;3;64%;85;28%;2;0;afterMath Esports;
+L;Sage;0.56;102;7;14;1;41%;78;39%;0;3;afterMath Esports;
+L;Sage;0.90;180;15;19;8;74%;119;19%;4;2;afterMath Esports;
+L;Sage;1.02;235;13;13;1;63%;132;42%;2;3;afterMath Esports;
+L;Sage;0.66;178;12;18;8;62%;97;31%;1;1;afterMath Esports;

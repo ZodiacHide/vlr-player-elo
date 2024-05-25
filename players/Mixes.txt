@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;153;10;15;3; ;87;14%;5;2;PDHM Gaming;
+L;Jett; ;58;4;17;3; ;36;17%;0;3;PDHM Gaming;

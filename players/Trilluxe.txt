@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;199;15;19;1; ; ; ;4; ;Team Dhalucard;
+L;Brimstone; ;177;8;14;0; ; ; ;4; ;Team Dhalucard;
+L;Brimstone; ;68;3;15;2; ; ; ;0; ;Team Dhalucard;
+L;Brimstone; ; ;12;19;5; ; ; ; ; ;Team izak;
+L;Brimstone; ;105;7;21;3; ; ; ;2; ;Team izak;
+W;Brimstone; ;157;12;15;5; ; ; ;1; ;Team izak;
+L;Brimstone; ;118;9;22;4; ; ; ;0; ;Team izak;
+L;Brimstone; ;196;13;15;9; ; ; ;2; ;Team izak;
+L;Brimstone; ;183;10;17;2; ; ; ;2; ;Team izak;
+L;Brimstone; ;183;14;18;2; ; ; ;3; ;Team izak;
+L;Omen; ;245;19;17;6; ;134;9%;1;1;Team DACH;
+L;Omen; ;167;12;18;2; ;97;14%;3;4;Team DACH;
+L;Omen; ;176;12;14;1; ;105;12%;3;3;Team DACH;
+W;Omen; ;171;16;18;5; ;112;16%;3;2;Team DACH;

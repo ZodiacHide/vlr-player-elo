@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;191;10;15;1; ;109;24%;2;1;BAG8;
+W;Breach; ;134;13;19;10; ;78;14%;1;5;Team RosieRiver;
+L;Omen; ;162;8;14;3; ;103;29%;1;1;Team RosieRiver;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;292;25;20;2; ;183;29%;5;3;Phinance G;
+L;Jett; ;295;30;24;8; ;186;25%;7;6;Phinance G;
+L;Jett; ;219;17;19;1; ;134;35%;3;3;Phinance G;
+L;Jett; ;146;14;19;2; ;96;22%;3;5;Phinance G;

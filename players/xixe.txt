@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.46;150;8;15;3;60%;93;19%;0;1;Europe Savios;
+L;Astra;0.53;151;7;15;2;47%;104;17%;0;2;Europe Savios;

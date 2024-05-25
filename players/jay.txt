@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;215;14;19;2; ;135;11%;3;4;TMU SHORTYKINGS;
+L;Jett; ;172;11;19;4; ;110;15%;3;6;TMU SHORTYKINGS;
+L;Breach; ;172;12;16;8; ;100;27%;3;3;Elite Vigorous;
+L;Sova;0.29;68;3;14;1;43%;34;7%;0;0;SHOOT FOR FUN;
+L;Reyna;0.04;95;4;15;1;36%;52;18%;2;7;SHOOT FOR FUN;
+W;Skye;0.99;195;14;17;7;73%;125;26%;5;4;BTR;
+W;Sage;0.75;156;13;17;8;63%;94;13%;0;4;BTR;
+W;Sage;0.86;151;13;17;7;71%;106;23%;2;2;BTR;
+W;Sage;0.92;159;12;13;6;67%;104;12%;0;2;BTR;
+L;Raze;0.55;158;13;21;4;63%;95;12%;2;4;BTR;
+L;Skye;0.41;89;7;20;4;58%;56;22%;1;1;BTR;
+L;Skye;0.75;139;11;17;5;65%;93;21%;1;5;BTR;

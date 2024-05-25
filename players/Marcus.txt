@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;215;17;18;3; ;146;26%;0;3;Catolica Esports;
+L;Cypher; ;259;20;20;6; ;176;23%;0;0;Catolica Esports;
+L;Brimstone; ;95;7;19;4; ;69;23%;1;4;Catolica Esports;
+L;Cypher; ;203;18;17;5; ;121;34%;4;0;Catolica Esports;
+W;Cypher; ;158;13;13;5; ;95;30%;2;1;Catolica Esports;

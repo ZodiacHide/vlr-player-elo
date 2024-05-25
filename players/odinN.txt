@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;102;8;20;3; ;73;9%;1;5;4fan;
+L;Jett; ;183;13;13;2; ;112;13%;2;1;4fan;
+L;Sova; ;78;5;16;6; ;50;12%;1;0;Nasty Ninjas;

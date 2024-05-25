@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;192;16;16;1; ; ; ;6; ;Begrip Gaming;
+L;Brimstone; ;189;13;17;1; ; ; ;0; ;Begrip Gaming;
+L;Brimstone; ;209;16;15;5; ; ; ;2; ;Begrip Gaming;
+L;Cypher; ;160;10;15;8; ;104;10%;2;2;Max Control;
+L;Cypher; ;154;10;14;2; ;109;12%;0;2;Max Control;
+W;Raze;1.69;398;24;11;5;88%;245;13%;6;0;Legendary Donkey Destroyers;
+W;Jett;0.92;208;16;15;4;64%;135;17%;1;4;Legendary Donkey Destroyers;
+L;Raze;1.11;245;18;16;3;81%;167;14%;3;0;Legendary Donkey Destroyers;
+L;Jett;0.65;183;13;18;2;48%;108;10%;3;5;Legendary Donkey Destroyers;

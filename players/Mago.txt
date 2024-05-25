@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team RobertoCein;
+W;None;0;0;0;0;0;0;0;0;0;0;Team RobertoCein;
+L;None;0;0;0;0;0;0;0;0;0;0;Team RobertoCein;
+W;None;0;0;0;0;0;0;0;0;0;0;Timbers Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Timbers Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Timbers Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Timbers Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Timbers Esports;

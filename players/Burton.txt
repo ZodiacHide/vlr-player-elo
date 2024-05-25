@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.68;192;10;14;4;53%;110;9%;2;2;Eros;
+L;Viper;0.49;112;6;14;0;56%;57;13%;1;1;Eros;

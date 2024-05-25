@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;178;19;16;7; ;112;29%;0;3;Kommuna;
+L;Breach; ;214;11;14;2; ;100;21%;1;0;Kommuna;

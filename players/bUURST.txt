@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;107;4;13;4; ;88;26%;0;1;eRa Eternity;
+L;Sova; ;114;7;13;9; ;68;18%;0;1;eRa Eternity;
+L;Sage; ;158;12;17;5; ;114;23%;2;3;eRa Eternity;

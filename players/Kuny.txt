@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.50;157;8;16;2;47%;109;22%;1;4;PSISTORM;
+L;Sova;0.64;198;13;18;0;53%;129;18%;2;1;PSISTORM;

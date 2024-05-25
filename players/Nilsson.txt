@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Viper; ;246;15;8;3; ;148;25%;2;2;N4PAS;
+L;Viper; ;194;15;16;3; ;159;18%;6;3;N4PAS;
+W;Breach; ;195;15;10;5; ;107;36%;4;2;N4PAS;
+L;Viper; ;183;14;14;4; ;118;32%;4;2;N4PAS;
+L;Sage; ;127;9;18;4; ;79;11%;1;5;N4PAS;

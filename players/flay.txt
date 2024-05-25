@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;156;9;15;3; ; ; ;5; ;Virtue Gaming;
+W;Cypher; ;246;13;7;6; ;166; ;2; ;Virtue Gaming;
+L;Sage; ;105;5;15;6; ;79;15%;0;2;Virtue Gaming;

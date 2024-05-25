@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;58;2;17;7; ;45;18%;1;5;LYNX TH;
+L;Sova; ;163;12;20;2; ;104;25%;1;2;LYNX TH;

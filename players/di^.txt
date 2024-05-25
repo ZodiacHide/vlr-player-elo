@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;103;5;15;4; ;66;35%;1;2;Hamboigas;
+L;Omen; ;57;1;12;3; ;47;25%;0;3;Hamboigas;
+L;Breach; ;239;17;18;7; ;156;25%;3;2;Hamboigas;
+W;Omen; ;184;10;12;5; ;128;22%;0;2;Hamboigas;
+W;Omen; ;353;20;2;4; ;180;48%;2;0;Hamboigas;

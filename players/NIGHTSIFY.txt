@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;274;21;18;3; ;173;21%;7;6;Puggers Unite;
+L;Jett; ;192;14;16;4; ;115;14%;4;5;Puggers Unite;

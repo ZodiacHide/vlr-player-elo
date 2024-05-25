@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.68;147;10;15;1;42%;101;31%;1;4;Stealth;
+L;Phoenix;0.35;106;6;15;0;40%;58;11%;0;5;Stealth;

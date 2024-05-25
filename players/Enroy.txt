@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;248;12;6;8; ;157;24%;1;2;Jeremiah;
+W;Breach; ;261;19;15;9; ;158;23%;3;1;Jeremiah;
+W;Breach; ;235;17;13;13; ;117;17%;1;0;Jeremiah;
+L;Breach; ;153;10;18;6; ;109;21%;1;2;Jeremiah;
+L;Sage; ;224;18;19;4; ;123;19%;6;1;Jeremiah;
+L;Breach;0.79;115;10;16;5;64%;73;22%;1;0;EZ KATKA;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.71;135;11;15;3;65%;78;20%;0;3;Young&Old;
+L;Omen;0.54;135;8;17;1;39%;80;50%;1;3;Young&Old;

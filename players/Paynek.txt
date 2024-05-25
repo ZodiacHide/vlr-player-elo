@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;243;20;20;4; ;165;31%;2;3;Phinance G;
+L;Phoenix; ;242;19;18;2; ;135;35%;1;2;Phinance G;
+W;Phoenix; ;183;11;18;13; ;124;11%;1;2;Phinance G;
+L;Breach; ;175;14;17;13; ;96;16%;2;3;Phinance G;
+L;Jett; ;211;15;20;7; ;133;12%;2;3;Phinance G;

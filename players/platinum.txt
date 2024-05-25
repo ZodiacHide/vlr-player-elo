@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;188;11;10;2; ;95;35%;2;1;TopHard Esports;
+W;Sova; ;145;11;10;6; ;104;22%;1;2;TopHard Esports;
+L;Omen; ;133;8;17;4; ;86;11%;1;4;IGNIS Esports;
+L;Sova; ;245;16;13;3; ;160;37%;1;1;IGNIS Esports;
+W;Sova; ;222;19;15;11; ;198;23%;1;5;IGNIS Esports;
+W;Omen; ;221;19;17;3; ;142;28%;1;2;IGNIS Esports;
+L;Sova; ;135;6;14;5; ;100;14%;0;3;IGNIS Esports;
+L;Omen; ;200;14;14;2; ;182;20%;1;2;IGNIS Esports;
+L;Sova; ;120;6;13;3; ;71;13%;0;1;IGNIS Esports;

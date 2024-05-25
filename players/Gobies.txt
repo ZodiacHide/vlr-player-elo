@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;263;19;8;1; ;146;60%;1;0;200 Policemen;
+L;Reyna; ;307;22;16;2; ;188;33%;3;2;200 Policemen;
+W;Reyna; ;324;26;10;2; ;211;50%;2;1;200 Policemen;

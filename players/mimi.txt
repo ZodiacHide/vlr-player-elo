@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;1.82;208;12;2;10;93%;135;44%;2;0;THE ORIGINALS;
+W;Cypher;1.23;190;10;5;6;93%;121;40%;1;0;THE ORIGINALS;
+W;Killjoy;1.27;234;13;9;4;88%;170;12%;3;0;THE ORIGINALS;
+W;Astra;1.27;159;10;5;4;82%;103;29%;0;0;THE ORIGINALS;
+W;Cypher;1.52;288;20;8;1;88%;176;18%;0;0;THE ORIGINALS;
+W;Astra;0.95;154;10;12;8;70%;111;29%;0;1;THE ORIGINALS;

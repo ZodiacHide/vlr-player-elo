@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.60;144;6;13;3;40%;92;23%;1;1;Collateral eSports;
+L;Sova;0.78;174;12;16;6;68%;115;33%;2;2;Collateral eSports;

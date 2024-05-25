@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.65;161;9;15;3;50%;111;34%;1;1;La Familia;
+L;Jett;0.54;185;10;16;0;50%;110;24%;0;1;La Familia;
+L;Jett;0.66;145;9;14;2;58%;86;12%;0;6;La Familia;

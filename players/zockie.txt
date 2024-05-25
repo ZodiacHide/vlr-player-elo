@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;229;11;14;4; ;143;35%;2;4;Supremacy Gaming;
+L;Omen; ;203;17;14;2; ;128;30%;1;3;Supremacy Gaming;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;136;8;14;6; ;87;16%;1;1;Twin Esports;
+W;Jett; ;272;19;13;3; ;178;25%;6;3;Twin Esports;
+L;Raze; ;127;7;15;4; ;82;11%;0;2;Twin Esports;

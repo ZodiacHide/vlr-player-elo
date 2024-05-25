@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;173;14;15;3; ;101;17%;1;1;Zanga7;
+L;Cypher; ;153;10;14;3; ;107;18%;0;4;Zanga7;
+L;Raze;0.91;186;15;16;4;67%;131;11%;3;3;Memelanders;
+W;Raze;1.66;279;16;4;4;100%;156;14%;2;2;Memelanders;
+L;Phoenix;0.55;161;9;16;3;53%;107;13%;2;1;Memelanders;
+W;Raze;1.05;280;15;13;7;67%;173;13%;3;2;Memelanders;
+L;Raze;0.66;164;10;16;3;63%;99;10%;2;3;Memelanders;
+L;Reyna;0.83;198;12;15;5;53%;116;18%;3;2;Memelanders;

@@ -1,0 +1,8 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Uruguay 3;Bind;Uruguay 3;Player A1;Player A2;Player A3;Player A4;Player A5;6:13;False;-;Saturday, May 16th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;W;Uruguay 3;Haven;Uruguay 3;Player A1;Player A2;Player A3;Player A4;Player A5;13:5;False;-;Saturday, May 16th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;Uruguay 3;Split;Uruguay 3;Player A1;Player A2;Player A3;Player A4;Player A5;0:0;False;-;Saturday, May 16th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;W;SuperStars;Bind;SuperStars;Player A1;Player A2;Player A3;Player A4;Player A5;13:6;False;-;Saturday, June 20th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;SuperStars;Ascent;SuperStars;Player A1;Player A2;Player A3;Player A4;Player A5;12:13;False;-;Saturday, June 20th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;SuperStars;Haven;SuperStars;Player A1;Player A2;Player A3;Player A4;Player A5;5:9;False;-;Saturday, June 20th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;clowns;Bind;Decider;ShaDowBurn;baydir;Forsak3n;Player A4;Player A5;7:13;False;-;Monday, June 29th, 4:59 PM CEST;Rise of Titans;https://www.twitch.tv/videos/664963657?t=0h45m53s;

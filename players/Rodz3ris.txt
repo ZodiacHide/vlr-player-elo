@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;243;25;22;5; ;152;42%;1;3;h$666;
+L;Cypher; ;94;4;13;0; ;70;33%;0;1;Bleiz;
+L;Killjoy; ;172;9;13;2; ;122;21%;1;0;Bleiz;

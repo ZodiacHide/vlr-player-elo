@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;193;15;17;3; ;114;17%;3;3;XP Team;
+L;Killjoy; ;198;14;21;3; ;130;18%;2;3;XP Team;
+L;Astra;0.60;148;8;14;1;44%;76;17%;2;2;Las Palmas Unity;
+L;Brimstone;0.35;124;6;14;5;54%;73;29%;0;3;Las Palmas Unity;

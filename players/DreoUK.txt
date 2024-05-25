@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;219;16;11;6; ;132;22%;0;0;No Teeth;
+L;Cypher; ;123;7;15;4; ;94;35%;0;3;No Teeth;
+L;Cypher; ;91;6;15;5; ;67;14%;0;6;No Teeth;
+L;Cypher;0.52;162;9;14;0;60%;94;32%;0;0;VECA;
+L;Yoru;0.58;194;13;16;0;47%;110;41%;2;1;VECA;

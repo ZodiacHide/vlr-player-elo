@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye; ;118;5;13;2; ;78;44%;1;2;Fluid Gaming;
+L;Jett; ;143;9;16;2; ;122;41%;0;3;Fluid Gaming;
+L;Phoenix; ;138;8;18;7; ;98;28%;1;2;Fluid Gaming;
+L;Skye; ;105;5;14;4; ;68;10%;0;1;Fluid Gaming;

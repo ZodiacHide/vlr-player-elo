@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;160;8;14;3; ;98;15%;2;1;YAZDA;
+L;Skye; ;153;7;19;4; ;109;13%;1;2;YAZDA;
+L;Viper; ;166;8;14;3; ;104;16%;2;0;YAZDA;
+W;Skye; ;198;15;13;4; ;131;20%;0;1;YAZDA;
+W;Viper; ;201;14;14;4; ;136;23%;1;1;YAZDA;
+L;Skye; ;207;16;20;5; ;117;11%;0;2;YAZDA;
+L;Skye; ;148;9;18;7; ;105;20%;1;1;YAZDA;
+L;Omen;1.08;245;20;17;6;75%;178;21%;2;3;YAZDA;
+W;Astra;1.23;237;19;12;4;76%;145;13%;4;2;YAZDA;
+W;Astra;0.87;188;13;13;4;74%;123;21%;3;4;YAZDA;
+W;Viper;1.07;226;27;23;9;76%;134;17%;1;2;YAZDA;
+L;Astra;0.79;180;13;15;1;68%;112;29%;1;2;YAZDA;
+L;Astra;0.47;168;11;18;0;47%;90;13%;0;1;YAZDA;
+L;Omen;0.99;185;14;15;5;74%;100;25%;2;1;Anonymo Esports;
+W;Sova;1.01;177;17;21;5;67%;133;25%;0;1;Anonymo Esports;
+L;Omen;1.17;212;16;13;9;71%;143;27%;1;1;Anonymo Esports;

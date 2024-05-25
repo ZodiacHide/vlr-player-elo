@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;214;15;20;10; ;137;12%;3;1;Digital Athletics;
+L;Cypher; ;98;5;15;5; ;63;9%;1;3;Digital Athletics;
+L;Killjoy; ;151;12;19;8; ;98;13%;2;2;Digital Athletics;
+L;Cypher; ;108;10;23;5; ;72;20%;0;1;Digital Athletics;
+W;Omen; ;141;12;13;4; ;99;21%;1;1;Digital Athletics;
+L;Omen; ;125;10;18;4; ;87;14%;0;3;Digital Athletics;
+L;Killjoy; ;123;10;19;9; ;86;8%;1;2;Digital Athletics;

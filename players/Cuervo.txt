@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.24;156;6;13;0;31%;77;19%;0;5;Injected Sheesh;

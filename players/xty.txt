@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.58;115;7;13;2;53%;68;33%;0;3;wicket berg;
+W;None;0;0;0;0;0;0;0;0;0;0;wicket berg;
+L;None;0;0;0;0;0;0;0;0;0;0;wicket berg;

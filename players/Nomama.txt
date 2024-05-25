@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;251;17;15;4; ;135;22%;2;2;Ka4 e-Sports Club;
+L;Raze;0.86;202;15;20;8;73%;144;19%;4;3;Lightning;
+W;Raze;0.84;175;10;11;5;78%;111;14%;3;2;Lightning;
+W;Reyna;0.75;192;15;22;5;62%;120;17%;6;3;Lightning;
+L;Jett;0.83;175;16;22;6;57%;118;21%;4;6;Lightning;
+L;Raze;1.15;255;19;17;6;68%;161;13%;2;3;Lightning;
+L;Raze;0.88;231;13;18;6;68%;144;14%;5;2;Lightning;
+L;Phoenix;0.65;184;14;24;9;50%;128;13%;2;3;Lightning;
+W;Omen;0.98;159;13;12;5;70%;92;23%;0;1;Lightning;
+L;Omen;0.73;118;9;16;3;59%;82;48%;1;4;Lightning;
+L;Jett;0.65;179;16;23;3;58%;108;27%;3;2;Lightning;

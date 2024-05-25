@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;188;16;19;10; ;116;14%;2;4;Techno Monks;
+L;Killjoy; ;133;10;16;3; ;98;22%;0;3;Techno Monks;
+L;Killjoy; ;231;14;13;1; ; ; ;4; ;Illuzion Black;
+L;Killjoy;0.80;217;12;15;2;68%;146;27%;1;6;Illuzion Black;
+L;Killjoy;1.11;249;24;19;6;61%;151;24%;1;1;Illuzion Black;
+L;Astra;1.23;245;20;15;5;74%;133;19%;2;1;Illuzion Black;
+W;Killjoy;1.05;199;14;11;3;84%;128;11%;4;0;Slimy Boogermen;
+L;Killjoy;1.02;233;18;15;2;68%;125;24%;2;3;Slimy Boogermen;
+L;Killjoy;0.45;167;7;14;0;50%;106;21%;1;3;Slimy Boogermen;
+W;Killjoy;1.10;167;12;8;2;79%;98;20%;2;0;Slimy Boogermen;
+W;Killjoy;1.16;209;13;9;4;89%;131;16%;1;1;Slimy Boogermen;
+L;Killjoy;0.67;107;5;12;3;59%;85;15%;0;2;Slimy Boogermen;
+L;Viper;0.63;171;10;19;9;71%;113;29%;1;5;Slimy Boogermen;

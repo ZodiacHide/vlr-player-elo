@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.97;187;12;13;3;50%;105;17%;2;0;Schat'z;
+L;Omen;0.82;189;13;15;3;70%;129;34%;1;1;Schat'z;

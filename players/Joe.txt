@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.58;136;10;16;1;47%;80;23%;1;0;Project CORE;
+L;Sage;0.19;50;1;14;3;33%;42;17%;0;4;Project CORE;

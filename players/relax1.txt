@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;127;10;18;1; ;83;16%;1;5;Anti Eco Eco Club;
+W;Jett; ;252;25;22;6; ;153;31%;6;4;Anti Eco Eco Club;
+W;Jett; ;153;10;16;6; ;90;14%;4;4;Anti Eco Eco Club;
+W;Skye; ;200;17;16;11; ;126;17%;1;2;Anti Eco Eco Club;
+W;Phoenix;1.29;303;20;13;3;78%;175;32%;6;1;Anti Eco Eco Club;
+W;Breach;1.02;103;10;11;18;95%;62;12%;1;0;Anti Eco Eco Club;
+L;Phoenix;0.72;195;15;20;3;57%;127;21%;4;4;Anti Eco Eco Club;
+W;Sage;0.85;123;8;16;16;65%;91;20%;0;1;Anti Eco Eco Club;
+L;Breach;0.93;191;15;18;6;76%;118;31%;1;1;Anti Eco Eco Club;
+L;Phoenix;1.05;234;19;14;5;65%;139;29%;3;3;Anti Eco Eco Club;
+W;Sage;1.30;306;22;13;9;89%;176;23%;2;0;Anti Eco Eco Club;
+W;Omen;1.05;190;17;18;7;69%;97;24%;5;1;Anti Eco Eco Club;
+W;Phoenix;0.91;220;12;13;7;68%;137;20%;6;4;Anti Eco Eco Club;
+W;Phoenix;1.66;337;21;8;1;81%;223;22%;3;3;Anti Eco Eco Club;
+L;Phoenix;0.89;205;24;27;5;68%;126;15%;6;6;Anti Eco Eco Club;
+L;Jett;0.83;194;12;16;1;65%;119;25%;0;3;Anti Eco Eco Club;

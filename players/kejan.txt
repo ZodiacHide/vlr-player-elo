@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;TRAUMA;
+W;None;0;0;0;0;0;0;0;0;0;0;TRAUMA;
+L;None;0;0;0;0;0;0;0;0;0;0;TRAUMA;
+L;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+L;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+L;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+W;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+W;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+L;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+W;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+W;None;0;0;0;0;0;0;0;0;0;0;Purple Cobras;
+L;Sage; ;123;8;13;5; ; ; ;0; ;Purple Cobras;

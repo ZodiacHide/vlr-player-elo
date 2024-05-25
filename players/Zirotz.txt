@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;127;6;13;6; ;89;10%;0;2;Atheris Esports;
+L;Raze; ;130;7;17;7; ;104;18%;2;0;Atheris Esports;
+L;Raze; ;179;11;16;1; ;104;9%;1;1;Atheris Esports;

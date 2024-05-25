@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;136;9;16;4; ;81;28%;0;1;Designated;
+L;Omen; ;103;6;14;0; ;64;7%;0;1;Designated;
+L;Jett; ;134;9;17;2; ;89;42%;2;2;Designated;
+L;Jett; ;276;24;21;2; ;147;36%;7;3;Designated;

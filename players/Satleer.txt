@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;220;14;12;3; ;133;15%;1;2;Atheris Esports;
+L;Cypher; ;160;11;17;5; ;99;13%;2;1;Atheris Esports;
+L;Cypher; ;101;4;17;7; ;81;7%;1;4;Atheris Esports;

@@ -1,0 +1,10 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Renatus Black;Split;Renatus Black;PKHI;nethan;Delend;siraphop;PoomOneLove;11:13;False;51:47;Monday, June 14th, 2:00 PM CEST;MSI Beat up Tournament;url.net;
+Attack;L;Renatus Black;Ascent;Renatus Black;PKHI;nethan;Delend;siraphop;PoomOneLove;9:13;False;45:41;Monday, June 14th, 2:00 PM CEST;MSI Beat up Tournament;url.net;
+Attack;W;Renatus Black;Haven;47 Gaming;nethan;PoomOneLove;Delend;PKHI;siraphop;13:10;False;49:38;Friday, July 9th, 12:00 PM CEST;Champions Tour Thailand Stage 3: Challengers 1;https://www.twitch.tv/videos/1081292185?t=0h33m15s;
+Attack;L;Renatus Black;Breeze;Renatus Black;nethan;PoomOneLove;Delend;PKHI;siraphop;8:13;False;37:35;Friday, July 9th, 12:00 PM CEST;Champions Tour Thailand Stage 3: Challengers 1;https://www.twitch.tv/videos/1081292185?t=0h33m15s;
+Defense;L;Renatus Black;Bind;47 Gaming;nethan;PoomOneLove;Delend;PKHI;siraphop;7:13;False;43:39;Friday, July 9th, 12:00 PM CEST;Champions Tour Thailand Stage 3: Challengers 1;https://www.twitch.tv/videos/1081292185?t=0h33m15s;
+Defense;L;Sharper Esport;Haven;Decider;PoomOneLove;siraphop;PKHI;Delend;nethan;12:14;True;58:48;Saturday, July 10th, 8:00 AM CEST;Champions Tour Thailand Stage 3: Challengers 1;https://www.twitch.tv/videos/1082207983?t=1h26m5s;
+Attack;L;Foxy Araikordai;Icebox;Foxy Araikordai;PoomOneLove;Delend;nethan;PKHI;siraphop;4:13;False;42:13;Friday, July 23rd, 2:00 PM CEST;Champions Tour Thailand Stage 3: Challengers 2;https://www.twitch.tv/videos/1095467898?t=2h46m49s;
+Attack;L;Foxy Araikordai;Bind;Foxy Araikordai;PoomOneLove;Delend;nethan;PKHI;siraphop;4:13;False;31:39;Friday, July 23rd, 2:00 PM CEST;Champions Tour Thailand Stage 3: Challengers 2;https://www.twitch.tv/videos/1095467898?t=2h46m49s;
+Attack;L;Z11;Ascent;Decider;Delend;PoomOneLove;siraphop;PKHI;nethan;10:13;False;51:49;Saturday, July 24th, 8:00 AM CEST;Champions Tour Thailand Stage 3: Challengers 2;url.net;

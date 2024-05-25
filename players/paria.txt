@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage;1.05;175;13;9;2;88%;102;29%;1;0;Vacuumers;
+L;Sage;1.02;173;16;17;9;77%;132;27%;0;1;Vacuumers;
+L;Sage;0.59;124;7;15;4;56%;71;54%;0;3;Vacuumers;
+W;Sage;1.26;229;17;13;8;74%;114;19%;2;0;Vacuumers;
+L;Sage;0.46;132;8;19;7;57%;57;21%;0;2;Vacuumers;
+L;Brimstone;0.96;218;17;17;3;70%;136;34%;1;0;Vacuumers;

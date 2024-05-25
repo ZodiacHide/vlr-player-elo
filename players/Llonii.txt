@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;1.50;293;29;20;8;81%;178;25%;5;1;RVNS Esports;
+L;Sova;1.01;189;15;16;8;61%;121;36%;0;1;RVNS Esports;
+L;Sova;0.98;213;17;16;8;87%;130;15%;3;2;RVNS Esports;

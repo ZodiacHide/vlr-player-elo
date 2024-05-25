@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;87;3;15;3; ;64;6%;0;2;Borderline;
+L;Cypher; ;212;13;16;3; ;110;11%;3;0;Borderline;
+L;Killjoy; ;189;10;17;5; ;172;10%;3;1;Borderline;
+L;Killjoy; ;215;15;16;3; ;139;5%;2;4;Borderline;

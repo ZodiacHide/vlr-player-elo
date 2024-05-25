@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;204;10;14;4; ;112;33%;0;0;Team Front;
+L;Sova; ;152;7;14;1; ;100;14%;0;0;Team Front;
+L;Sova; ;232;18;12;10; ;151;22%;0;1;Boberts-Bugs-B-Gone;
+W;Sova; ;198;17;17;9; ;109;10%;1;1;Boberts-Bugs-B-Gone;
+L;Sova; ;187;13;14;6; ;106;7%;0;4;Boberts-Bugs-B-Gone;
+L;Sova; ;253;21;17;10; ;151;22%;1;0;Boberts-Bugs-B-Gone;

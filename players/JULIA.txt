@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.81;238;13;17;5;72%;122;14%;2;3;Serenity Purple;
+L;Sage;0.67;191;9;15;4;81%;106;25%;2;0;Serenity Purple;
+L;Sage;0.72;171;9;15;3;50%;128;31%;1;2;Serenity Purple;
+L;Cypher;0.64;159;7;15;5;72%;107;26%;2;1;Serenity Purple;

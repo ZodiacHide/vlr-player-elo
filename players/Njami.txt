@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;82;2;14;2; ;52;7%;0;0;lvlUP;
+L;Killjoy; ;140;8;16;2; ;86;18%;0;2;lvlUP;
+L;Sova; ;112;8;15;4; ;68;29%;0;3;lvlUP;
+L;Sova; ;98;6;16;6; ;67;8%;0;3;lvlUP;
+L;Killjoy; ;220;11;14;2; ;141;6%;1;1;lvlUP;
+L;Killjoy; ;161;7;14;0; ;99;9%;1;1;lvlUP;

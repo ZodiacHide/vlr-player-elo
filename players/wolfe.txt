@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Funkboings;
+W;Sova; ;213;13;9;11; ;153;25%;3;0;Funkboings;
+W;Sova; ;158;9;7;5; ;108;16%;1;1;Funkboings;
+W;Sova; ;121;6;9;9; ;80;18%;0;1;Funkboings;
+W;Omen; ;204;19;18;2; ;131;13%;0;1;Funkboings;
+L;Sova; ;140;9;17;10; ;120;26%;0;4;Funkboings;
+L;Sova; ;204;17;20;5; ;117;21%;1;2;Funkboings;

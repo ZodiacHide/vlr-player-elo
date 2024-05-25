@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;128;6;14;1; ;70;29%;1;3;project_kr;
+L;Omen; ;208;24;21;6; ;140;22%;3;0;project_kr;
+W;Omen; ;244;15;10;6; ;173;31%;2;0;Fast Rush;
+W;Brimstone; ;200;14;12;6; ;136;26%;2;2;Fast Rush;
+L;Omen; ;246;19;16;1; ;152;28%;2;3;Fast Rush;
+L;Omen; ;222;14;14;2; ;146;34%;0;2;Fast Rush;
+L;Sova; ;153;13;16;9; ;101;25%;0;1;v0rteX 5;
+L;Sova; ;144;10;14;5; ;81;21%;1;2;v0rteX 5;
+L;Skye;0.70;147;12;19;3;74%;93;26%;3;2;Klaus;
+L;Skye;0.59;186;10;15;2;56%;106;15%;3;1;Klaus;
+L;Raze;1.06;253;17;14;2;58%;152;15%;4;2;Klaus;
+L;Skye;0.54;150;10;19;5;62%;98;13%;3;4;Klaus;
+L;Phoenix;0.61;135;9;17;2;48%;97;29%;3;4;Klaus;
+L;Phoenix;0.95;214;14;15;1;72%;151;34%;2;2;Klaus;
+W;Sage;1.16;202;15;10;4;74%;126;33%;2;2;Klaus;
+L;Raze;0.97;249;15;16;5;61%;156;25%;3;3;Klaus;
+L;Phoenix;0.64;151;11;17;4;45%;95;24%;2;5;Klaus;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.51;161;7;15;3;65%;110;13%;0;4;ABB ASKI E-Spor WHITE;
+L;Viper;0.83;205;11;13;5;44%;131;38%;2;3;ABB ASKI E-Spor WHITE;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;109;3;14;8; ;67;8%;1;2;Ethereal;
+L;Omen; ;155;8;15;5; ;64;19%;0;0;Ethereal;
+L;Sova;1.12;230;14;13;1;50%;141;58%;2;2;Ethereal;
+L;Sova;0.89;169;12;17;7;75%;114;27%;2;0;Ethereal;

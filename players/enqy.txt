@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach;0.19;111;5;14;2;57%;64;5%;2;4;Team Bachara;
+L;Breach;0.44;118;4;13;2;62%;79;26%;0;0;Team Bachara;

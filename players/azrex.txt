@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.60;164;11;21;8;58%;118;34%;4;6;Team Reckaroo;
+L;Reyna;0.43;165;11;24;3;42%;109;18%;1;6;Team Reckaroo;

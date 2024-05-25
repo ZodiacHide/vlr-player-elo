@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;226;15;16;2; ;129;37%;6;4;Hysteria;
+L;Jett; ;188;14;17;2; ;128;25%;0;3;Hysteria;
+W;Jett; ;360;26;15;3; ;199;21%;5;5;Hysteria;
+L;Jett; ;266;21;20;5; ;151;40%;5;2;Hysteria;
+L;Sova;1.18;238;17;14;7;55%;158;28%;3;3;Hysteria;
+L;Sova;0.79;180;8;12;4;67%;95;23%;0;2;Hysteria;
+L;Raze;0.85;265;15;16;3;59%;174;17%;3;4;Hysteria;
+W;Jett;1.44;222;15;7;4;81%;127;15%;3;2;Spot Up;
+L;Jett;0.04;12;0;14;2;21%;13;25%;0;5;Spot Up;
+W;Jett;1.37;316;21;16;8;77%;204;27%;4;6;Spot Up;

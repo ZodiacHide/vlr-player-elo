@@ -1,0 +1,10 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Team Ancients Female;Ascent;+22;ciao;Jenna;Chels;Alexe1337;Apidaez;13:4;False;34:13;Sunday, September 26th, 3:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Defense;W;Team Ancients Female;Haven;+22;ciao;Jenna;Chels;Alexe1337;Apidaez;13:6;False;36:03;Sunday, September 26th, 3:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Defense;L;CC Angels;Icebox;+22;Chels;Jenna;Alexe1337;ciao;Apidaez;3:13;False;33:31;Sunday, September 26th, 9:00 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Attack;W;CC Angels;Bind;+22;Chels;Jenna;Alexe1337;ciao;Apidaez;13:5;False;36:47;Sunday, September 26th, 9:00 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Defense;L;CC Angels;Split;+22;Chels;Jenna;Alexe1337;ciao;Apidaez;10:13;False;52:27;Sunday, September 26th, 9:00 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Defense;W;Castaways;Ascent;+22;Alexe1337;Chels;Apidaez;ciao;Jenna;13:3;False;29:40;Sunday, September 26th, 11:50 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Attack;W;Castaways;Bind;+22;Alexe1337;Chels;Apidaez;ciao;Jenna;13:5;False;36:45;Sunday, September 26th, 11:50 PM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Attack;L;TSM X;Ascent;+22;ciao;Chels;Alexe1337;Apidaez;Jenna;1:13;False;26:02;Monday, September 27th, 2:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;
+Attack;L;TSM X;Bind;+22;ciao;Chels;Alexe1337;Apidaez;Jenna;1:13;False;25:34;Monday, September 27th, 2:00 AM CEST;Champions Tour Game Changers Series III: North America;url.net;

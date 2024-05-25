@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;275;23;15;5; ;180;15%;3;3;raeB's Anime Club;
+W;Reyna; ;371;24;13;7; ;227;9%;1;1;raeB's Anime Club;
+W;Cypher; ;195;18;17;6; ;127;31%;1;5;raeB's Anime Club;
+L;Reyna; ;293;19;16;4; ;214;22%;1;1;raeB's Anime Club;
+L;Cypher; ;240;15;14;2; ;172;26%;2;1;raeB's Anime Club;
+L;Cypher; ;251;20;14;7; ;165;27%;1;1;raeB's Anime Club;

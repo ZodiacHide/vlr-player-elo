@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.63;145;10;15;0;59%;74;33%;1;0;Tropa Suprema;
+L;Killjoy;0.36;123;5;17;2;31%;91;20%;2;2;Tropa Suprema;
+L;Viper;0.71;163;14;20;5;75%;106;32%;2;3;FTW Red;
+L;Killjoy;0.31;145;9;17;0;35%;91;35%;0;1;FTW Red;

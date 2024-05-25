@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;165;17;25;7; ;114;25%;2;3;Zootopia;
+L;Cypher; ;169;8;16;3; ;92;15%;2;0;Zootopia;
+L;Viper;0.79;191;15;19;5;70%;130;22%;1;3;Z11;
+L;Killjoy;0.89;188;11;16;3;50%;128;16%;1;0;Z11;
+W;Killjoy;1.30;342;30;16;2;74%;194;24%;4;2;Z11;
+L;Viper;0.86;148;11;14;2;65%;97;22%;0;1;Z11;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;221;20;16;9; ;134;33%;1;2;Team Portugal;
+W;Sova; ;275;14;7;11; ;141;21%;2;1;Team Portugal;
+W;Sova; ;151;10;6;6; ;105;33%;1;0;Team Portugal;
+W;Sova; ;195;10;6;12; ;142;35%;0;0;Team Portugal;
+W;Sova; ;150;7;9;10; ;101;17%;1;1;Team Portugal;
+W;Sova; ;105;6;6;4; ;68;24%;1;0;Team Portugal;
+W;Sova; ;297;19;9;8; ;193;36%;0;1;Team Portugal;

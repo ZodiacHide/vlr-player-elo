@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;1.02;239;26;23;11;63%;166;31%;3;4;fReya;
+L;Viper;0.74;204;15;18;2;50%;146;27%;2;5;fReya;
+W;Brimstone;1.41;295;34;20;8;72%;195;31%;5;3;fReya;
+L;Omen;0.55;153;6;13;2;47%;95;23%;2;3;fReya;
+L;Omen;0.55;179;10;16;2;63%;103;30%;3;3;fReya;
+W;Sage;1.27;262;14;7;9;100%;178;32%;1;0;Rix.GG Lightning;
+W;Skye;1.86;352;22;8;2;88%;224;49%;3;0;Rix.GG Lightning;
+W;Skye;1.42;297;26;16;6;87%;194;25%;1;1;Rix.GG Lightning;
+W;Skye;1.23;203;17;11;4;85%;133;39%;1;2;Rix.GG Lightning;
+L;Sage;0.67;185;11;17;4;79%;142;24%;2;4;Rix.GG Lightning;
+W;Skye;1.13;200;16;15;9;76%;149;21%;2;1;Rix.GG Lightning;
+W;Skye;0.83;184;17;15;7;78%;118;27%;4;5;Rix.GG Lightning;

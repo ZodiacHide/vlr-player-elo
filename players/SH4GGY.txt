@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.77;123;8;13;2;56%;70;14%;0;1;Mist Walkers;
+W;Killjoy;1.10;185;11;7;2;82%;131;20%;1;1;Mist Walkers;
+L;Killjoy;1.08;266;18;17;4;65%;167;21%;0;3;Mist Walkers;

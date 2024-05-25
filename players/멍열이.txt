@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;121;6;15;2; ;90;9%;1;4;화나면 물어요;
+L;Sova; ;166;8;16;5; ;100;20%;1;1;Fiat Lux;
+L;Sova; ;174;8;15;7; ;137;28%;0;3;Fiat Lux;

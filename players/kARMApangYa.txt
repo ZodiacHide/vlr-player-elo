@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Viper; ;310;16;4;1; ; ; ;3; ;Team Valkia;
+W;Viper; ;244;20;13;3; ; ; ;2; ;Team Valkia;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Valkia;
+L;Viper; ;225;10;13;0; ; ; ;2; ;Team Valkia;
+W;Brimstone; ;171;14;17;8; ; ; ;2; ;team cotch;
+L;Brimstone; ;174;12;15;5; ; ; ;2; ;team cotch;
+L;Viper; ;168;11;14;2; ; ; ;1; ;team cotch;

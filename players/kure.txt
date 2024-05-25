@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;177;11;18;10; ; ; ;2; ;unnamed;
+W;Raze; ;368;21;5;2; ; ; ;2; ;unnamed;
+W;Raze; ;252;18;12;4; ; ; ;1; ;unnamed;
+L;Raze; ;190;9;16;3; ; ; ;1; ;unnamed;
+L;Raze; ;176;10;16;4; ; ; ;0; ;unnamed;
+L;Raze; ;196;16;18;3; ; ; ;2; ;unnamed;
+W;Phoenix; ;308;20;11;3; ; ; ;3; ;unnamed;
+W;Phoenix; ;202;13;13;5; ; ; ;5; ;unnamed;
+L;Phoenix; ;210;13;15;2; ; ; ;1; ;unnamed;
+L;Phoenix; ;141;8;17;3; ; ; ;3; ;unnamed;
+L;Omen;0.65;145;10;16;0;50%;92;30%;0;2;Food Eat;
+L;Omen;0.39;82;4;17;2;50%;56;9%;1;3;Food Eat;
+L;Omen;0.50;114;7;14;3;53%;71;14%;0;3;Food Eat;
+L;Omen;0.61;113;6;16;4;50%;80;25%;0;2;Food Eat;
+L;Astra;0.44;89;7;17;4;62%;58;11%;1;3;ELNiS Esports;
+L;Viper;0.67;142;7;14;4;59%;91;23%;2;3;ELNiS Esports;

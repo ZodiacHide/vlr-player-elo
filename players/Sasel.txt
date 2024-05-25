@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;171;12;17;7; ;100;28%;2;1;ATRAVS;
+L;Breach; ;136;6;12;1; ;110;53%;0;1;ATRAVS;
+L;Skye;0.38;103;7;17;2;33%;68;23%;1;2;ATRAVS;
+L;Phoenix;0.86;201;11;16;5;61%;141;45%;0;1;ATRAVS;
+L;Breach;0.46;119;7;17;2;50%;81;31%;1;1;Fadee Gaming;
+L;Breach;0.35;103;5;16;5;50%;74;25%;2;1;Fadee Gaming;

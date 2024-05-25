@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage;0.78;140;9;12;8;70%;80;11%;2;1;Keyd Stars Athenas;
+L;Sage;0.83;143;11;16;7;83%;105;9%;0;3;Keyd Stars Athenas;
+W;Killjoy;0.91;95;5;5;2;86%;58;10%;0;2;Keyd Stars Athenas;
+W;Killjoy;0.85;111;7;12;3;76%;73;11%;1;1;Keyd Stars Athenas;
+L;Breach;0.63;138;7;16;9;67%;79;20%;2;2;Keyd Stars Athenas;
+L;Sage;0.84;150;11;15;12;73%;98;7%;0;3;Keyd Stars Athenas;
+W;Sage;1.08;170;12;12;7;76%;102;17%;1;1;Keyd Stars Athenas;
+L;Killjoy;1.22;236;23;17;8;75%;142;12%;3;4;Keyd Stars Athenas;
+L;Killjoy;0.75;141;8;16;6;68%;113;11%;1;1;Keyd Stars Athenas;

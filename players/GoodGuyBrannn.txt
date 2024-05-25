@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;177;12;13;3; ;102;16%;3;4;Overtime Esports;
+W;Raze; ;346;24;15;5; ;192;16%;2;0;Overtime Esports;
+L;Raze; ;211;14;22;8; ;157;16%;2;3;Overtime Esports;
+L;Raze; ;248;14;20;9; ;171;20%;4;2;Overtime Esports;
+L;Phoenix; ;78;3;13;2; ;51;8%;0;2;Overtime Esports;
+L;Jett; ;176;11;14;2; ;99;19%;4;8;Overtime Esports;
+L;Jett; ;258;19;17;4; ;154;23%;3;3;Overtime Esports;
+L;Jett; ;178;10;17;3; ;117;20%;2;2;Overtime Esports;

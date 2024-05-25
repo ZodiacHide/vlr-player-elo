@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;218;20;23;5; ;141;20%;5;1;Affinity Esports;
+L;Jett; ;107;6;15;2; ;143;26%;0;3;Affinity Esports;
+W;Raze; ;249;13;13;6; ;137;24%;3;5;Affinity Esports;
+L;Killjoy; ;288;29;19;2; ;220;22%;3;0;Affinity Esports;
+W;Raze;1.51;370;26;15;4;81%;224;11%;6;3;Walküre;
+L;Raze;1.19;298;22;18;10;70%;193;21%;5;4;Walküre;
+L;Raze;1.00;270;23;21;9;65%;171;16%;3;7;Walküre;
+W;Raze;1.70;348;23;10;6;88%;166;13%;4;0;Walküre;
+W;Raze;1.28;271;21;16;7;77%;160;16%;3;3;Walküre;
+L;Raze;0.50;164;7;15;4;53%;100;13%;0;2;Walküre;
+L;Raze;0.54;165;9;15;1;44%;103;18%;3;7;Walküre;
+W;Jett;1.21;284;23;18;3;78%;151;28%;3;4;Walküre;
+W;Raze;1.01;200;17;15;3;75%;137;22%;1;4;Walküre;
+L;Raze;0.75;150;13;17;3;67%;90;13%;1;4;Walküre;
+L;Raze;0.58;136;7;17;5;50%;106;13%;1;2;Walküre;

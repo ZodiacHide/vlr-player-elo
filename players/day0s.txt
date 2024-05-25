@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;179;14;19;5; ; ; ;2; ;LULw;
+W;Reyna; ;212;16;10;1; ; ; ;1; ;LULw;
+W;Phoenix; ;271;18;11;6; ; ; ;2; ;LULw;
+L;Reyna; ;258;19;18;2; ; ; ;5; ;LULw;
+L;Phoenix; ;136;7;15;4; ; ; ;0; ;LULw;

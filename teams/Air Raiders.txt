@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Elemental Esports;Ascent;Decider;Phlux;Nation;indie;narb;dylusion;13:10;False;46:58;Saturday, November 14th, 7:00 AM CET;First Strike: Oceania;url.net;
+Defense;L;Waterbottle;Ascent;Decider;narb;dylusion;Phlux;indie;Nation;7:13;False;39:17;Saturday, November 14th, 9:10 AM CET;First Strike: Oceania;url.net;
+Defense;L;Nebula;Haven;Decider;Phlux;Nation;dylusion;indie;narb;6:13;False;36:39;Sunday, November 15th, 7:00 AM CET;First Strike: Oceania;url.net;
+Defense;L;R!OT Gaming;Bind;Decider;Nation;Phlux;narb;dylusion;indie;7:13;False;37:11;Sunday, November 15th, 8:30 AM CET;First Strike: Oceania;url.net;

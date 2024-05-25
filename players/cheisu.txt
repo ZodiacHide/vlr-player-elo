@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;233;18;15;5; ;142;29%;4;0;LANCHILLERS;
+L;Omen; ;162;15;19;2; ;103;20%;2;4;LANCHILLERS;
+L;Omen; ;198;15;18;5; ;127;16%;2;5;LANCHILLERS;

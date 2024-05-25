@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;222;10;13;2; ;159;13%;1;1;Kaster Onez;
+L;Breach; ;172;8;14;4; ;105;16%;2;2;Kaster Onez;

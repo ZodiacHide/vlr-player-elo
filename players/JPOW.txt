@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;197;13;14;0; ;114;27%;1;6;Epherium;
+L;Jett; ;197;12;17;4; ;120;16%;4;4;Epherium;
+L;Jett;0.52;147;6;14;3;50%;73;12%;1;4;Interstate 95;
+L;Jett;0.85;282;14;15;2;63%;173;26%;2;3;Interstate 95;
+L;Jett;1.05;255;25;20;2;50%;149;27%;2;8;Interstate 95;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;148;7;14;0; ;69;17%;0;2;Aqua;
+L;Brimstone; ;231;14;13;4; ;154;29%;0;0;Aqua;
+L;Viper; ;206;14;18;1; ;132;20%;2;4;Aqua;
+L;Cypher; ;101;5;16;2; ;56;24%;0;5;Aqua;
+L;Sova;0.87;218;11;15;7;63%;152;16%;2;2;Stealth;
+L;Sova;0.83;212;11;14;4;73%;133;26%;2;2;Stealth;

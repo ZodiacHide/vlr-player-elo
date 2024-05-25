@@ -1,0 +1,17 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Rugratz;Ascent;Rugratz;In0X;DsK;KP;Jerk;sSef;9:13;False;-;Monday, June 8th, 10:00 PM CEST;Lof x DTS Invitational Series;https://www.twitch.tv/videos/645140775?t=0h21m29s;
+Attack;L;Rugratz;Split;Rugratz;In0X;DsK;KP;Jerk;sSef;5:13;False;-;Monday, June 8th, 10:00 PM CEST;Lof x DTS Invitational Series;https://www.twitch.tv/videos/645140775?t=0h21m29s;
+Defense;W;303 Esports Orange;Bind;Oxygen Supremacy;In0X;Jerk;DsK;m00n;KP;13:6;False;-;Saturday, July 4th, 12:00 AM CEST;Trovo Challenge North America;url.net;
+Attack;W;303 Esports Orange;Haven;Oxygen Supremacy;In0X;Jerk;DsK;m00n;KP;13:10;False;-;Saturday, July 4th, 12:00 AM CEST;Trovo Challenge North America;url.net;
+Defense;W;Demon Time;Ascent;Oxygen Supremacy;In0X;Jerk;m00n;KP;DsK;13:10;False;-;Sunday, July 5th, 12:00 AM CEST;Trovo Challenge North America;url.net;
+Attack;W;Demon Time;Haven;Oxygen Supremacy;In0X;Jerk;m00n;KP;DsK;13:4;False;-;Sunday, July 5th, 12:00 AM CEST;Trovo Challenge North America;url.net;
+Attack;L;Way 2 French;Ascent;Way 2 French;m00n;DsK;Jerk;In0X;KP;12:13;True;-;Monday, July 6th, 12:00 AM CEST;Trovo Challenge North America;url.net;
+Defense;L;Way 2 French;Haven;Way 2 French;m00n;DsK;Jerk;In0X;KP;3:13;False;-;Monday, July 6th, 12:00 AM CEST;Trovo Challenge North America;url.net;
+Attack;L;Gen.G;Haven;Decider;FIN;In0X;Jerk;KP;DsK;4:13;False;-;Saturday, July 11th, 3:05 AM CEST;Pulse Invitational;url.net;
+Defense;L;Triumph;Haven;Decider;In0X;DsK;KP;Jerk;FIN;9:13;False;-;Saturday, July 11th, 4:10 AM CEST;Pulse Invitational;url.net;
+Attack;L;Cloud9;Haven;Decider;In0X;DsK;KP;Jerk;FIN;7:13;False;-;Saturday, July 11th, 5:15 AM CEST;Pulse Invitational;url.net;
+Attack;L;Gen.G;Split;Oxygen Supremacy;Jerk;DsK;KP;In0X;FIN;5:13;False;-;Saturday, July 18th, 9:00 PM CEST;EsportsDoug x eUnited Charity Clash;https://www.twitch.tv/videos/683611513?t=0h8m12s;
+Attack;L;Gen.G;Haven;Oxygen Supremacy;Jerk;DsK;KP;In0X;FIN;7:13;False;-;Saturday, July 18th, 9:00 PM CEST;EsportsDoug x eUnited Charity Clash;https://www.twitch.tv/videos/683611513?t=0h8m12s;
+Attack;L;TSM;Haven;Decider;Jerk;FIN;KP;Galavant;DsK;8:13;False;-;Saturday, August 1st, 10:00 PM CEST;30Bomb Summer Cup;https://www.twitch.tv/videos/697490731?t=0h25m57s;
+Attack;L;Team Crushed;Haven;Decider;Galavant;Jerk;KP;DsK;FIN;5:13;False;-;Saturday, August 1st, 11:15 PM CEST;30Bomb Summer Cup;url.net;
+Defense;L;Complexity;Ascent;Decider;Jerk;FIN;DsK;Galavant;KP;8:13;False;-;Sunday, August 2nd, 12:25 AM CEST;30Bomb Summer Cup;url.net;

@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;228;14;14;3; ;139;15%;0;1;FFT;
+W;Raze; ;217;14;13;4; ;106;11%;2;2;FFT;
+W;Raze; ;240;14;8;4; ;144;20%;3;0;FFT;
+W;Raze; ;229;20;16;2; ;133;18%;0;1;FFT;
+W;Raze; ;208;11;15;8; ;130;18%;4;4;FFT;
+L;Raze; ;118;8;13;3; ;79;12%;0;1;FFT;
+L;Sage; ;124;10;17;3; ;85;12%;1;3;FFT;
+L;Jett; ;140;8;16;2; ;81;8%;2;1;5up;
+L;Raze; ;190;15;21;8; ;129;19%;4;5;5up;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Skye;1.25;255;14;9;7;93%;166;11%;2;0;Galakticos Sirens;
+L;Viper;1.00;235;19;17;6;71%;157;21%;2;3;Galakticos Sirens;
+L;Astra;0.76;175;13;19;11;70%;109;8%;2;4;Galakticos Sirens;
+L;Skye;0.47;138;6;16;4;44%;92;19%;3;3;Galakticos Sirens;
+L;Astra;0.43;141;7;17;3;53%;100;14%;1;3;Galakticos Sirens;

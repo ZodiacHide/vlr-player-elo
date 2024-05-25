@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;149;6;13;2; ; ; ;0; ;GVNG;
+W;Cypher; ;261;18;11;4; ; ; ;2; ;GVNG;
+W;Cypher; ;243;17;10;2; ; ; ;3; ;GVNG;
+W;Cypher; ;215;12;12;4; ; ; ;4; ;GVNG;
+W;Cypher; ;231;16;12;5; ; ; ;3; ;GVNG;
+L;Cypher; ;172;9;15;0; ; ; ;0; ;GVNG;
+W;Cypher; ;232;18;14;5; ; ; ;6; ;GVNG;
+L;Cypher; ; ; ; ; ; ; ; ; ; ;GVNG;
+L;Cypher; ;139;5;12;1; ;93;13%;0;0;FURY;
+W;Cypher; ;234;18;15;6; ;182;38%;5;3;FURY;
+W;Cypher; ;77;5;21;7; ;49;29%;2;7;FURY;
+L;Cypher; ;256;15;15;5; ;208;22%;1;0;FURY;

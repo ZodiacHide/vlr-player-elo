@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;111;5;13;4; ;135;8%;0;1;Save's eSports;
+L;Raze; ;234;16;18;5; ;159;19%;4;3;Save's eSports;

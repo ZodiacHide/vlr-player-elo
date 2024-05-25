@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;101;4;16;3; ;70;29%;2;3;Penguins of the night;
+L;None;0;0;0;0;0;0;0;0;0;0;Penguins of the night;
+W;None;0;0;0;0;0;0;0;0;0;0;Penguins of the night;
+L;None;0;0;0;0;0;0;0;0;0;0;Penguins of the night;

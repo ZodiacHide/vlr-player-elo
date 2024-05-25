@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;1.16;280;22;18;4;63%;191;26%;2;1;E9Sports;
+W;Phoenix;1.47;240;17;7;1;88%;168;45%;1;1;E9Sports;
+L;Raze;0.77;172;10;17;8;67%;122;29%;2;5;E9Sports;
+L;Phoenix;0.53;118;7;16;0;39%;81;31%;3;5;E9Sports;
+L;Jett;0.58;140;8;14;1;38%;91;23%;0;3;La7zag Esports;
+L;Jett;0.55;146;7;14;1;56%;85;24%;3;2;La7zag Esports;

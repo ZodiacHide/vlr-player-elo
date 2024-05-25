@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;231;17;11;1; ; ; ;5; ;Echo 8;
+W;Cypher; ;361;24;12;8; ; ; ;4; ;Echo 8;
+L;Jett; ;317;25;18;1; ; ; ;7; ;Echo 8;
+L;Phoenix; ;236;18;17;3; ; ; ;4; ;Echo 8;
+L;Raze; ; ; ; ; ; ; ; ; ; ;A.S.M.R.;

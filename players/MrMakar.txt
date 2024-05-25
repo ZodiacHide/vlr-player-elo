@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;205;14;19;7; ;184;12%;3;4;FiftyOne;
+W;Killjoy; ;267;19;9;1; ;174;36%;6;2;FiftyOne;
+L;Killjoy; ;229;13;18;4; ;139;17%;4;3;FiftyOne;
+L;Cypher; ;258;23;21;8; ;155;16%;5;3;FiftyOne;
+L;Killjoy; ;217;13;14;0; ;126;13%;4;2;FiftyOne;

@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Nordic;
+W;Sage; ;217;13;9;5; ; ; ;1; ;Team Lothar;
+L;Sage; ;210;17;17;2; ; ; ;2; ;Team Lothar;
+W;Sage; ;233;16;7;4; ; ; ;1; ;Team Lothar;
+L;Sage; ;206;16;13;8; ; ; ;1; ;Team Lothar;
+L;Cypher; ;73;2;13;2; ; ; ;1; ;Team arch;
+L;Cypher; ;191;11;15;5; ; ; ;3; ;Team arch;
+L;Cypher; ;107;7;16;4; ; ; ;1; ;Team arch;
+L;Cypher; ;138;7;14;2; ; ; ;0; ;Team arch;
+L;Cypher; ;190;10;13;2; ; ; ;1; ;Team arch;
+L;Cypher; ;109;7;17;2; ; ; ;2; ;Team arch;
+W;Reyna; ;222;18;11;3; ;155;20%;1;1;Team Nordics;
+L;Reyna; ;311;25;14;3; ;186;20%;4;0;Team Nordics;
+L;Reyna; ;247;14;14;1; ;140;21%;2;0;Team Nordics;
+L;Reyna; ;286;24;17;3; ;200;25%;0;1;Team Nordics;

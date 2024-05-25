@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.99;257;15;14;1;61%;137;26%;3;1;La Familia;
+L;Omen;0.73;225;12;15;3;75%;104;47%;2;3;La Familia;
+L;Omen;0.55;179;11;17;3;53%;109;20%;1;4;La Familia;

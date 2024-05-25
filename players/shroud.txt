@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;Kayo;1.25;189;11;10;12;95%;121;26%;4;0;What's going on;
+W;Sage;1.24;202;12;8;3;88%;132;27%;0;0;What's going on;
+L;Omen;0.78;155;9;15;4;56%;89;13%;2;1;What's going on;
+L;Viper; ; ;13;15;5; ; ; ; ; ;What's going on;

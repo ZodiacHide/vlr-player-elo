@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.35;91;4;14;2;47%;74;14%;0;0;Frat3rnity;
+L;Killjoy;0.34;119;4;12;1;38%;83;8%;0;1;Frat3rnity;
+L;Sage;0.42;113;4;14;4;57%;86;9%;1;1;Frat3rnity;
+L;Sage;0.63;125;7;16;6;50%;89;18%;1;1;Frat3rnity;

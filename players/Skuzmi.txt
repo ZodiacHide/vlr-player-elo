@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.74;161;14;17;2;63%;103;31%;1;3;Alterfox Esports;
+L;Omen;0.97;262;21;20;2;62%;155;49%;0;2;Alterfox Esports;

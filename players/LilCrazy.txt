@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.46;178;7;15;4;53%;132;24%;2;2;All Gamers;
+L;Jett;1.03;262;13;14;3;73%;150;33%;5;3;All Gamers;
+L;Jett;0.96;222;18;19;2;65%;148;20%;5;4;All Gamers;
+L;Jett;0.99;223;19;19;4;73%;129;25%;4;4;All Gamers;
+W;Jett;1.13;245;22;18;2;71%;146;35%;2;4;All Gamers;
+W;Jett;1.28;254;19;10;0;70%;140;22%;3;3;All Gamers;

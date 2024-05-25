@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.30;123;6;16;4;50%;58;26%;1;1;Cruzeiro Esports;
+L;Sova;0.86;192;11;16;4;61%;127;21%;1;3;Cruzeiro Esports;
+L;Sova;0.86;277;14;18;3;56%;172;10%;1;1;Cruzeiro Esports;
+L;Sova;0.81;141;12;18;10;69%;98;20%;2;2;Cruzeiro Esports;

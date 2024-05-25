@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;InsignedEU;
+L;Killjoy;0.41;109;5;16;3;42%;71;16%;0;2;InsignedEU;
+L;Sova;0.67;127;8;13;1;53%;80;25%;1;2;Rexpect eSports;
+L;Sova;0.88;145;11;14;6;52%;125;24%;1;1;Rexpect eSports;

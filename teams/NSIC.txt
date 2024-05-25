@@ -1,0 +1,14 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;On The Way;Bind;Decider;Dcop;KOLER;fiziq;Inspire;oderus;6:13;False;32:30;Saturday, January 23rd, 9:15 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/885119849?t=2h21m15s;
+Defense;W;Dem Boys Cold;Ascent;NSIC;Dcop;KOLER;oderus;fiziq;Inspire;13:7;False;35:56;Saturday, January 23rd, 10:55 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/885119849?t=4h4m23s;
+Attack;L;Dem Boys Cold;Bind;NSIC;Dcop;KOLER;oderus;fiziq;Inspire;11:13;False;45:03;Saturday, January 23rd, 10:55 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/885119849?t=4h4m23s;
+Attack;W;Dem Boys Cold;Haven;NSIC;Dcop;KOLER;oderus;fiziq;Inspire;13:11;False;46:10;Saturday, January 23rd, 10:55 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/885119849?t=4h4m23s;
+Attack;W;On The Way;Ascent;NSIC;Inspire;KOLER;Dcop;fiziq;oderus;13:6;False;33:42;Sunday, January 24th, 7:15 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/886510255?t=0h28m35s;
+Defense;L;On The Way;Bind;NSIC;Inspire;KOLER;Dcop;fiziq;oderus;7:13;False;35:36;Sunday, January 24th, 7:15 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/886510255?t=0h28m35s;
+Defense;L;On The Way;Icebox;NSIC;Inspire;KOLER;Dcop;fiziq;oderus;12:14;True;43:51;Sunday, January 24th, 7:15 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/886510255?t=0h28m35s;
+Attack;L;Knights;Ascent;NSIC;fiziq;oderus;Inspire;Dcop;KOLER;11:13;False;46:09;Thursday, January 28th, 3:30 AM CET;Champions Tour North America Stage 1: Challengers 1;url.net;
+Defense;L;Knights;Haven;NSIC;fiziq;oderus;Inspire;Dcop;KOLER;7:13;False;39:21;Thursday, January 28th, 3:30 AM CET;Champions Tour North America Stage 1: Challengers 1;url.net;
+Defense;L;100 Thieves;Haven;NSIC;Inspire;fiziq;oderus;mada;shinobi;8:13;False;43:59;Saturday, February 13th, 12:00 AM CET;Champions Tour North America Stage 1: Challengers 2;url.net;
+Attack;L;100 Thieves;Ascent;NSIC;Inspire;fiziq;oderus;mada;shinobi;4:13;False;31:20;Saturday, February 13th, 12:00 AM CET;Champions Tour North America Stage 1: Challengers 2;url.net;
+Attack;L;Version1;Haven;NSIC;oderus;fiziq;skuba;bearkun;shinobi;10:13;False;40:14;Saturday, February 27th, 12:00 AM CET;Champions Tour North America Stage 1: Challengers 3;url.net;
+Defense;L;Version1;Split;NSIC;oderus;fiziq;skuba;bearkun;shinobi;11:13;False;47:26;Saturday, February 27th, 12:00 AM CET;Champions Tour North America Stage 1: Challengers 3;url.net;

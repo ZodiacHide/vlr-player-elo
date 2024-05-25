@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;137;9;19;9; ; ; ;2; ;Team Ryux;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Ryux;
+L;Cypher; ;163;9;16;2; ;111;34%;0;1;Fekyx Esports;
+L;Killjoy; ;142;7;15;4; ;85;11%;0;2;Prominence;
+L;Cypher; ;113;6;14;0; ;69;35%;1;0;Prominence;

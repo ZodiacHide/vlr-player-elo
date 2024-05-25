@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;171;10;16;2; ;108;24%;1;2;No Witness;
+W;Killjoy; ;174;15;20;6; ;133;15%;5;6;No Witness;
+L;Killjoy; ;144;7;15;3; ;89;16%;1;4;No Witness;
+L;Killjoy;0.60;181;10;14;0;50%;108;36%;4;6;No Witness;
+L;Cypher;0.79;203;14;17;6;67%;136;16%;5;6;No Witness;

@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;ROX Gaming;Bind;Decider;Tonbo;rion;Medusa;zepher;Arius;13:1;False;-;Saturday, June 20th, 8:00 AM CEST;RAGE Invitational;url.net;
+Defense;W;Sengoku Gaming;Haven;Decider;zepher;Medusa;Arius;Tonbo;rion;13:6;False;-;Saturday, June 20th, 1:35 PM CEST;RAGE Invitational;https://www.twitch.tv/videos/656130448?t=5h39m7s;
+Attack;L;LAG Gaming;Split;Decider;Medusa;zepher;Tonbo;rion;Arius;8:13;False;-;Sunday, June 21st, 8:15 AM CEST;RAGE Invitational;https://www.twitch.tv/videos/657087230?t=0h25m31s;
+Defense;W;Nora-Rengo;Ascent;Decider;zepher;rion;Arius;Tonbo;Medusa;13:6;False;-;Sunday, June 21st, 10:55 AM CEST;RAGE Invitational;url.net;

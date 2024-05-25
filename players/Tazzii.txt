@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;139;13;16;5; ;99;35%;1;1;Magic Five;
+W;Omen; ;245;20;16;1; ;155;30%;4;0;Magic Five;
+L;Phoenix; ;134;11;17;6; ;96;38%;2;3;Magic Five;

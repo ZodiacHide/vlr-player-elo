@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;150;10;20;5; ;121; ;2; ;no org;
+L;Phoenix; ;201;17;21;8; ;148; ;3; ;no org;
+L;Raze; ;203;9;15;4; ;141;13%;1;2;no org;
+L;Cypher; ;110;7;15;2; ;66;14%;4;1;no org;

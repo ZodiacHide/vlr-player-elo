@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;154;7;14;2; ; ; ;1; ;Team Zerator;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Zerator;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Zerator;
+W;Raze; ;267;17;12;7; ; ; ;0; ;Team kennymcc;
+W;Breach; ;184;14;18;9; ; ; ;5; ;Team kennymcc;
+L;Raze; ;150;5;12;1; ; ; ;0; ;Team kennymcc;
+W;None;0;0;0;0;0;0;0;0;0;0;Team kennymcc;
+L;Raze; ;163;9;15;1; ; ; ;2; ;Team kennymcc;
+W;Sage; ;90;7;13;4; ; ; ;0; ;Mandatory;
+W;Raze; ;247;13;6;1; ;123;19%;3;1;Team Japan;
+W;Phoenix; ;240;20;14;7; ;137;39%;5;2;Team Japan;
+L;Raze; ;159;6;13;3; ;99;10%;2;2;AlmondLatte;
+L;Raze;0.72;183;8;15;3;53%;138;13%;0;1;GEKO GEKO GAMING;

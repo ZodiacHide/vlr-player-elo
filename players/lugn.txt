@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;208;20;25;18; ;172;10%;4;3;ME CONTRATA;
+W;Sova; ;232;18;12;2; ;154;27%;3;1;ME CONTRATA;
+L;Sova; ;229;23;20;7; ;148;31%;5;6;ME CONTRATA;
+L;Jett; ;270;21;16;6; ;173;29%;5;5;ME CONTRATA;
+W;Jett; ;412;24;11;2; ;214;27%;6;1;ME CONTRATA;
+W;Jett; ;226;16;15;2; ;125;12%;7;3;ME CONTRATA;
+L;Jett; ;122;5;13;3; ;75;13%;1;6;ME CONTRATA;
+L;Jett; ;271;18;18;2; ;166;26%;4;5;ME CONTRATA;
+L;Jett; ;164;7;13;3; ;100;35%;1;6;ME CONTRATA;
+L;Jett; ;274;13;14;3; ;128;29%;2;2;ME CONTRATA;
+L;Jett; ;234;19;18;1; ;138;43%;6;5;4 lixo + Nikinho;
+L;Jett; ;225;21;24;7; ;158;17%;6;1;4 lixo + Nikinho;
+L;Jett;0.60;136;10;18;3;57%;88;27%;4;5;666;
+L;Jett;0.52;149;11;20;2;55%;94;19%;4;5;666;

@@ -1,0 +1,16 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Feint Gaming;Ascent;Feint Gaming;tinchoff;HANLING;Damiaton;juanu;Matthäus;7:13;False;37:49;Wednesday, February 3rd, 11:00 PM CET;Champions Tour LATAM Stage 1: Challengers 2;url.net;
+Attack;L;Feint Gaming;Split;Feint Gaming;tinchoff;HANLING;Damiaton;juanu;Matthäus;11:13;False;48:28;Wednesday, February 3rd, 11:00 PM CET;Champions Tour LATAM Stage 1: Challengers 2;url.net;
+Defense;L;Optix;Split;Decider;tinchoff;coob;HANLING;juanu;Matthäus;10:13;False;44:54;Wednesday, March 24th, 9:40 PM CET;Aorus League - LAS #2;https://www.twitch.tv/videos/961483043?t=9640s;
+Defense;L;9z Team;Ascent;Decider;coob;Matthäus;tinchoff;juanu;HANLING;5:13;False;35:24;Tuesday, April 6th, 10:30 PM CEST;Champions Tour LATAM Stage 2: Challengers 1;https://www.twitch.tv/videos/977742075?t=1h53m14s;
+Defense;W;DKS Esports;Bind;Malvinas Gaming;coob;Matthäus;HANLING;tinchoff;juanu;16:14;True;1:00:59;Wednesday, April 7th, 2:15 AM CEST;Champions Tour LATAM Stage 2: Challengers 1;url.net;
+Attack;W;DKS Esports;Ascent;Malvinas Gaming;coob;Matthäus;HANLING;tinchoff;juanu;13:6;False;35:03;Wednesday, April 7th, 2:15 AM CEST;Champions Tour LATAM Stage 2: Challengers 1;url.net;
+Defense;L;9z Team;Bind;Malvinas Gaming;juanu;coob;tinchoff;HANLING;Matthäus;11:13;False;47:09;Thursday, April 8th, 12:00 AM CEST;Champions Tour LATAM Stage 2: Challengers 1;url.net;
+Attack;L;9z Team;Ascent;Malvinas Gaming;juanu;coob;tinchoff;HANLING;Matthäus;6:13;False;36:31;Thursday, April 8th, 12:00 AM CEST;Champions Tour LATAM Stage 2: Challengers 1;url.net;
+Defense;L;ATROPELADOS;Bind;Decider;HANLING;coob;juanu;Matthäus;tinchoff;8:13;False;47:06;Wednesday, April 21st, 12:00 AM CEST;Champions Tour LATAM Stage 2: Challengers 2;url.net;
+Defense;W;Furious Gaming;Bind;Decider;HANLING;coob;juanu;tinchoff;Matthäus;13:7;False;38:27;Friday, May 14th, 3:15 AM CEST;Aorus League - LAS #3;https://www.twitch.tv/videos/1021607231?t=3h26m33s;
+Attack;L;Australs;Ascent;Decider;juanu;tinchoff;coob;HANLING;Matthäus;1:13;False;31:00;Saturday, May 15th, 2:00 AM CEST;Aorus League - LAS #3;https://www.twitch.tv/videos/1022769981?t=2h12m50s;
+Defense;L;Furious Gaming;Ascent;Furious Gaming;HANLING;FaNg;tinchoff;Matthäus;coob;4:13;False;34:11;Sunday, May 16th, 2:00 AM CEST;Aorus League - LAS #3;https://www.twitch.tv/videos/1024025986?t=2h23m34s;
+Attack;L;Furious Gaming;Bind;Furious Gaming;HANLING;tinchoff;Matthäus;coob;6:13;False;39:19;Sunday, May 16th, 2:00 AM CEST;Aorus League - LAS #3;https://www.twitch.tv/videos/1024025986?t=2h23m34s;
+Defense;L;Meta Gaming;Haven;Malvinas Gaming;Ar4n;l4cerr;coob;tinchoff;HANLING;10:13;False;46:15;Thursday, July 15th, 9:00 PM CEST;Champions Tour LATAM Stage 3: Challengers 2;url.net;
+Attack;L;Meta Gaming;Ascent;Malvinas Gaming;Ar4n;l4cerr;coob;tinchoff;HANLING;10:13;False;47:09;Thursday, July 15th, 9:00 PM CEST;Champions Tour LATAM Stage 3: Challengers 2;url.net;

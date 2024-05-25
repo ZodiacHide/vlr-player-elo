@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;295;25;15;6; ; ; ;2; ;AERIS;
+W;Raze; ;215;18;15;8; ; ; ;7; ;AERIS;
+L;Raze; ;245;17;14;5; ; ; ;0; ;AERIS;
+L;Sage; ;197;17;15;5; ; ; ;1; ;AERIS;

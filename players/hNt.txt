@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;247;19;15;9; ; ; ;4; ;BlackBird Ignis;
+L;Breach; ;101;7;18;7; ; ; ;2; ;BlackBird Ignis;
+L;Sova; ;134;10;19;8; ; ; ;2; ;BlackBird Ignis;
+W;Breach; ;439;24;6;9; ;249;18%;4;0;Team Japan;
+W;Jett; ;236;19;18;5; ;115;14%;5;3;Team Japan;

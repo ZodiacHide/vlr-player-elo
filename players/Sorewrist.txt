@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.85;189;14;18;4;74%;123;18%;0;1;RYU Gaming;
+L;Skye;0.74;151;11;14;1;70%;94;30%;0;0;RYU Gaming;
+L;Skye;0.91;228;12;12;0;47%;141;20%;2;1;RYU Gaming;
+L;Sage;0.94;171;14;15;5;64%;124;21%;2;1;RYU Gaming;
+W;Sage;1.04;76;4;4;4;80%;38;5%;0;0;RYU Gaming;
+L;Sova;0.98;196;13;13;10;85%;125;14%;1;1;RYU Gaming;
+L;Sova;0.88;174;11;14;4;68%;125;18%;0;2;RYU Gaming;

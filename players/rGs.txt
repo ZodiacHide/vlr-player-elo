@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;223;14;17;8; ;136;13%;1;0;Ahlman Esports;
+W;Sova; ;158;11;15;12; ;101;11%;1;1;Ahlman Esports;
+L;Sage; ;170;14;15;4; ;90;13%;0;2;Ahlman Esports;
+W;Raze; ;398;20;5;7; ;248;11%;5;0;Ahlman Esports;
+W;Sova; ;237;13;7;4; ;142;26%;0;0;Ahlman Esports;
+L;Raze; ;95;4;13;1; ;62;14%;2;2;KETÄ;
+L;Sova; ;194;9;14;5; ;120;19%;1;3;KETÄ;

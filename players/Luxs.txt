@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.42;91;4;13;3;57%;59;12%;0;1;OtherSide Rouge;
+L;Sage;1.06;284;14;14;3;87%;176;30%;1;1;OtherSide Rouge;

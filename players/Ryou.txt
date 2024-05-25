@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;140;9;15;2; ;94;25%;2;2;Up For Sale;
+L;Jett; ;149;10;15;2; ;87;14%;1;1;Up For Sale;
+L;Omen; ;154;6;13;1; ;89;20%;1;1;Up For Sale;
+L;Jett; ;172;13;17;1; ;114;19%;5;3;Up For Sale;

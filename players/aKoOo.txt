@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.81;193;18;17;2;75%;102;9%;2;5;Levitate;
+L;Phoenix;0.83;196;14;14;2;61%;107;13%;1;2;Levitate;
+L;Phoenix;0.65;160;10;16;1;53%;104;15%;1;0;Levitate;
+L;Raze;0.61;163;9;17;5;48%;110;14%;2;4;Levitate;
+L;Phoenix;0.71;148;8;16;4;58%;101;13%;2;4;Levitate;

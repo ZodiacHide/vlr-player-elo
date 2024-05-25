@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.88;147;12;16;5;57%;91;30%;2;3;McTeam;
+L;Phoenix;0.79;206;13;17;8;55%;129;13%;2;2;McTeam;
+L;Sage;0.92;195;16;17;4;79%;112;18%;3;0;McTeam;
+W;Sage;0.94;206;12;15;12;79%;152;33%;2;0;McTeam;
+L;Sage;0.68;128;14;25;7;56%;94;33%;3;3;McTeam;
+L;Phoenix;0.75;158;12;18;4;65%;97;13%;1;2;McTeam;
+L;Sage;0.54;114;5;12;2;57%;76;16%;0;1;McTeam;
+L;Yoru;0.88;206;13;16;6;75%;170;27%;0;3;McTeam;
+W;Phoenix;1.05;251;25;23;5;79%;148;15%;3;3;McTeam;
+L;Yoru;1.10;226;16;13;1;63%;145;26%;1;1;McTeam;

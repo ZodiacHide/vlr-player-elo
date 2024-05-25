@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;199;16;16;11; ;126;17%;1;1;Urubuzada e-Sports;
+L;Sova; ;177;8;15;8; ;122;23%;1;1;Urubuzada e-Sports;

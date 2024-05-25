@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;170;8;15;1; ;108;14%;3;3;Bulldozer Gaming;
+L;Killjoy; ;160;6;14;4; ;109;15%;1;4;Bulldozer Gaming;
+L;Killjoy; ;189;11;15;5; ;121;20%;2;4;Bulldozer Gaming;
+L;Breach; ;118;5;15;8; ;80;22%;1;3;Bulldozer Gaming;

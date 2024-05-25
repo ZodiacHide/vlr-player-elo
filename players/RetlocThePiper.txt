@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;245;30;28;14; ;186;22%;3;5;Shidiots;
+L;Sage; ;175;15;17;8; ;155;22%;0;3;Shidiots;
+L;Sage; ;114;7;16;5; ;95;24%;2;3;Shidiots;
+W;Brimstone; ;231;19;15;5; ;144;16%;3;3;Shidiots;
+L;Phoenix; ;130;9;23;10; ;96;16%;2;9;Shidiots;

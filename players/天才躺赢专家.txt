@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;166;14;17;13; ;103;7%;0;1;Tales of Eastern;
+L;Breach; ;234;16;12;9; ;194;24%;1;0;Tales of Eastern;
+L;Breach; ;302;19;17;10; ;188;22%;1;0;Tales of Eastern;
+L;Breach; ;140;9;18;10; ;92;32%;0;0;Tales of Eastern;
+L;Raze; ;151;11;17;4; ;107;9%;0;4;Tales of Eastern;

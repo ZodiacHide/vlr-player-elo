@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.70;152;12;18;8;70%;95;26%;0;0;Nebula;
+W;Phoenix;0.58;147;10;18;3;73%;91;22%;5;2;Nebula;
+W;Sage;0.70;155;15;24;11;69%;87;20%;2;3;Nebula;
+W;Brimstone;1.42;287;25;11;0;74%;149;33%;3;1;Nebula;
+W;Phoenix;1.55;277;20;10;4;100%;179;19%;2;2;Nebula;

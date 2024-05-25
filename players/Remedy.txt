@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;209;11;14;8; ;145;19%;0;0;TradeLikePros Gold;
+L;Sova; ;114;5;16;2; ;78;22%;0;3;TradeLikePros Gold;
+L;Raze; ;173;11;14;4; ;126;27%;3;4;TradeLikePros Gold;

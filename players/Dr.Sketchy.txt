@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;226;15;8;4; ;154;30%;3;1;95x Esports;
+L;Jett; ;181;14;21;8; ;121;22%;2;4;95x Esports;
+L;Jett; ;170;12;18;2; ;98;20%;4;4;95x Esports;
+L;Breach; ;189;10;14;6; ;124;27%;0;2;95x Esports;
+L;Cypher; ;126;9;15;3; ;128;21%;1;4;Exsto Gaming;
+L;Cypher; ;190;12;15;4; ;113;16%;0;0;Exsto Gaming;

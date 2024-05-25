@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;204;14;18;12; ;122;22%;2;1;ME CONTRATA;
+W;Sova; ;236;13;12;10; ;155;42%;1;0;ME CONTRATA;
+W;Sova; ;164;8;13;14; ;105;5%;1;1;ME CONTRATA;
+L;Sova; ;202;10;13;3; ;127;16%;1;1;ME CONTRATA;
+L;Sova; ;158;11;16;1; ;93;14%;0;0;ME CONTRATA;
+L;Sova; ;260;13;12;4; ;170;22%;1;1;ME CONTRATA;
+L;Sova; ;117;6;15;3; ;69;12%;1;2;ME CONTRATA;
+L;Breach; ;111;7;19;9; ;74;22%;1;2;4 lixo + Nikinho;
+L;Omen; ;153;17;23;3; ;102;28%;3;3;4 lixo + Nikinho;

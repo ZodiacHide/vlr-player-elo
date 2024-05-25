@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;173;9;16;0; ;102;9%;2;2;XenoFrost;
+L;Reyna; ;108;5;13;2; ;76;12%;1;1;XenoFrost;
+L;Brimstone; ;132;7;15;4; ;85;43%;0;1;Tengkorak;
+L;Omen; ;204;16;20;6; ;136;28%;0;2;Tengkorak;
+L;Omen; ;113;11;27;7; ;74;30%;1;4;Tengkorak;
+L;Omen;0.89;178;22;25;7;66%;108;30%;1;2;UndeRank;
+L;Omen;0.43;168;11;18;4;58%;88;24%;2;3;UndeRank;
+W;Sage;1.67;352;16;7;5;93%;241;27%;4;1;UndeRank;
+W;Sage;0.84;189;19;18;2;67%;99;25%;3;2;UndeRank;
+L;Sage;0.61;151;10;18;3;57%;117;24%;0;4;UndeRank;
+L;Omen;0.76;151;10;14;3;67%;81;31%;1;1;UndeRank;
+L;Reyna;0.34;98;5;13;2;36%;49;13%;1;1;UndeRank;

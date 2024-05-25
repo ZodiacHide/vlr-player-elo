@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;215;13;6;3; ; ; ;1; ;SunSister Rapid;
+L;Breach; ;58;2;13;2; ; ; ;0; ;SunSister Rapid;
+W;Killjoy; ;138;11;13;2; ;79; ;2; ;REJECT;
+L;Sova;0.75;133;8;17;7;67%;87;15%;0;2;Free Agents;
+W;Skye;0.49;65;5;14;6;75%;35;21%;1;1;Free Agents;
+L;Yoru;0.70;98;6;14;4;56%;63;21%;1;4;Updraft;

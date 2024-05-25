@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.16;52;2;15;1;25%;41;7%;0;5;Chilling in Space;
+L;Jett;0.72;159;9;15;3;47%;95;16%;2;5;Chilling in Space;

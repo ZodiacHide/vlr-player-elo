@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;MOTV;
+L;None;0;0;0;0;0;0;0;0;0;0;MOTV;
+L;Breach; ;118;7;14;0; ;74; ;1; ;MOTV;

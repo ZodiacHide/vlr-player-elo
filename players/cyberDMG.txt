@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;197;20;14;5; ; ; ;1; ;Begrip Gaming;
+L;Sage; ;155;11;13;6; ; ; ;1; ;Begrip Gaming;
+L;Sage; ;190;12;18;10; ; ; ;2; ;Begrip Gaming;
+L;None;0;0;0;0;0;0;0;0;0;0;Begrip Gaming;
+L;Sage; ;126;7;14;1; ; ; ;2; ;Begrip Gaming;
+L;Sage; ;215;12;17;4; ; ; ;1; ;Begrip Gaming;

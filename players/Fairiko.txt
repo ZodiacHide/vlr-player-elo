@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;206;15;17;6; ;125;21%;3;2;Gonzo Gaming;
+W;Cypher; ;307;23;11;4; ;196;20%;3;1;Gonzo Gaming;
+W;Cypher; ;208;16;17;9; ;124;16%;2;1;Gonzo Gaming;
+L;Jett; ;243;18;15;2; ;143;22%;5;4;Gonzo Gaming;
+W;Raze; ;274;14;9;6; ;171;11%;5;1;Most Prolific;
+W;Jett; ;315;24;17;7; ;175;17%;4;2;Most Prolific;
+L;Raze; ;188;11;15;4; ;129;17%;1;4;Most Prolific;
+L;Jett; ;184;16;18;5; ;128;26%;3;2;Most Prolific;
+L;Raze; ;271;15;14;3; ;176;19%;5;3;Most Prolific;
+L;Jett; ;137;6;14;1; ;94;17%;2;3;Most Prolific;

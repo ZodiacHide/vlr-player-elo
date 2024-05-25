@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna;2.13;531;43;14;8;83%;312;25%;5;1;Insomnia;
+W;Reyna;1.98;407;31;11;7;71%;251;25%;4;3;Insomnia;
+W;Reyna;1.06;287;23;18;7;83%;175;20%;3;1;Insomnia;
+L;Reyna;1.18;248;22;17;4;54%;157;16%;3;4;Insomnia;
+L;Reyna;1.61;383;28;16;3;71%;267;26%;4;5;Insomnia;
+W;Reyna;0.49;115;9;18;2;64%;73;41%;2;4;Insomnia;
+W;Reyna;0.96;190;15;15;4;59%;103;16%;3;5;Insomnia;
+L;Reyna;1.51;374;24;16;3;74%;216;20%;3;3;Insomnia;
+L;Reyna;0.24;136;6;15;0;36%;78;46%;2;2;Insomnia;
+W;Reyna;1.62;359;31;17;2;83%;221;23%;7;2;Insomnia;
+W;Reyna;1.17;260;25;18;1;58%;134;12%;0;5;Insomnia;
+L;Reyna;0.97;204;20;18;3;65%;124;19%;1;4;Insomnia;
+L;Reyna;0.84;247;16;18;2;68%;150;26%;2;1;Insomnia;
+L;Reyna;1.09;284;17;15;4;68%;183;21%;3;3;Insomnia;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;128;6;17;5; ;75;24%;0;1;Retake;
+L;Breach; ;106;6;18;4; ;77;10%;1;2;Retake;

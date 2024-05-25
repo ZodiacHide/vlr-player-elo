@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;237;15;9;15; ;128;13%;1;0;Yendez;
+L;Sova; ;140;10;15;3; ;89;17%;1;0;Yendez;
+L;Sage; ;157;9;13;10; ;104;21%;0;2;Yendez;
+W;Sova; ;208;12;14;7; ;137;26%;2;2;Yendez;
+W;Sage; ;169;13;18;10; ;110;22%;1;2;Yendez;
+W;Sova; ;160;13;16;11; ;107;21%;1;2;Yendez;
+L;Sova; ;208;18;16;6; ;121;27%;3;1;Yendez;
+W;Sage; ;188;17;16;6; ;114;22%;2;2;Yendez;
+L;Sova; ;95;3;21;11; ;82;12%;0;2;Yendez;
+W;Sage; ;187;12;12;13; ;112;36%;1;0;Yendez;
+L;Sova; ;96;4;14;4; ;60;18%;0;4;Yendez;

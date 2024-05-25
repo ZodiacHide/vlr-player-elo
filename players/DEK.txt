@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;361;23;11;4; ; ; ;6; ;Urubuzada e-Sports;
+L;Reyna; ;135;8;15;2; ; ; ;3; ;Urubuzada e-Sports;
+W;Omen; ;171;14;18;2; ;114; ;1; ;Furacão BLACK;
+L;Omen; ;229;17;22;7; ;145;18%;3;3;Furacão BLACK;
+L;Reyna; ;223;12;16;5; ;154;29%;3;2;Furacão BLACK;
+L;Breach; ;131;9;15;1; ;72;18%;1;2;Furacão BLACK;
+W;Omen; ;208;18;14;8; ;137;19%;4;2;Furacão BLACK;
+L;Omen; ;179;16;19;5; ;101;13%;3;3;Furacão BLACK;
+L;Jett; ;132;9;15;1; ;74;9%;1;5;CONCENTRA SOVA;
+L;Jett; ;290;24;14;0; ;162;24%;3;3;CONCENTRA SOVA;
+L;Brimstone; ;191;9;12;1; ; ; ;1; ;Mark Five;
+L;Jett; ;157;9;16;9; ; ; ;1; ;Mark Five;

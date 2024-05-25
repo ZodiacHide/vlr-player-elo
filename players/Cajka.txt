@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;270;21;18;6; ;165;22%;1;1;Team Gravity;
+L;Cypher; ;149;11;15;2; ;101;23%;1;1;Team Gravity;
+L;Cypher;0.60;208;10;15;3;73%;120;18%;2;3;Team Gravity;
+L;Cypher;0.83;198;18;19;5;67%;119;31%;4;1;Team Gravity;
+L;Reyna;0.49;153;6;15;3;47%;88;11%;2;3;FARMERS;
+L;Phoenix;0.49;198;10;14;0;43%;119;21%;1;4;FARMERS;

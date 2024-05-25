@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;0.68;133;10;17;5;43%;93;14%;0;1;POISON CLAN;
+L;Sage;0.24;81;3;14;3;29%;52;19%;1;2;POISON CLAN;
+L;Killjoy;0.83;178;11;14;3;74%;137;17%;0;3;POISON CLAN;

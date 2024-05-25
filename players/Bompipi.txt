@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;217;15;18;6; ;160;17%;2;3;BananaBoys;
+L;Raze; ;134;7;15;3; ;90;11%;0;2;BananaBoys;
+L;Raze; ;268;14;17;6; ;186;14%;5;1;BananaBoys;

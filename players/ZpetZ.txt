@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper; ;147;5;14;1; ;103;17%;2;2;EthanK Fan Club;
+L;Phoenix; ;268;14;15;3; ;145;19%;0;2;EthanK Fan Club;
+L;Sage;0.34;86;5;15;0;31%;65;42%;0;1;Taipan Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Taipan Esports;

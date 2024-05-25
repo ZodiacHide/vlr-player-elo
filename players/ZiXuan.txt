@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;1.08;210;13;15;8;72%;133;27%;3;3;FunPlus Phoenix ZHUQUE;
+L;Omen;1.09;192;16;15;8;74%;119;12%;2;4;FunPlus Phoenix ZHUQUE;
+L;Astra;0.52;125;8;15;5;47%;77;37%;0;2;FunPlus Phoenix ZHUQUE;
+W;Viper;1.29;262;19;13;7;75%;147;24%;5;2;FunPlus Phoenix ZHUQUE;
+L;Cypher;0.77;159;10;15;1;50%;86;26%;0;1;FunPlus Phoenix ZHUQUE;
+W;Omen;1.40;268;15;8;6;93%;161;31%;1;1;FunPlus Phoenix ZHUQUE;
+W;Omen;0.98;184;13;16;15;65%;113;13%;1;1;FunPlus Phoenix ZHUQUE;
+W;Astra;1.06;183;15;16;9;79%;128;14%;1;2;FunPlus Phoenix ZHUQUE;
+L;Viper;1.01;189;17;16;5;71%;118;24%;0;1;FunPlus Phoenix ZHUQUE;
+L;Astra;1.17;167;13;12;9;75%;108;7%;1;1;FunPlus Phoenix ZHUQUE;

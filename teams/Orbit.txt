@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;T1 Academy;Split;Decider;Flippsy;LordPnut;Tanner;Neebz;Jordanm7;9:13;False;-;Saturday, July 11th, 3:05 AM CEST;Pulse Invitational;url.net;
+Attack;L;together we are terrific;Ascent;Decider;Flippsy;LordPnut;Tanner;Neebz;Jordanm7;4:13;False;-;Saturday, July 11th, 4:10 AM CEST;Pulse Invitational;url.net;
+Attack;L;Sentinels;Bind;Decider;Flippsy;LordPnut;Tanner;Neebz;Jordanm7;2:13;False;-;Saturday, July 11th, 5:10 AM CEST;Pulse Invitational;url.net;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;1.44;387;28;17;4;76%;183;18%;3;4;Victory Formula;
+L;Omen;0.60;170;9;16;4;59%;113;17%;4;3;Victory Formula;
+L;Omen;0.70;174;8;14;5;73%;114;39%;1;5;Victory Formula;

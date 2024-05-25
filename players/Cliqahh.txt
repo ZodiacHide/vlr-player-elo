@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.03;267;19;18;4;64%;162;16%;5;2;TinyTurtles;
+L;Jett;0.81;250;17;19;5;71%;152;31%;3;2;TinyTurtles;
+W;Jett;1.41;284;16;9;3;73%;172;27%;3;2;TinyTurtles;
+W;Jett;1.32;296;21;14;5;76%;178;18%;6;4;aaaa;
+L;Jett;0.81;220;19;19;1;71%;131;35%;8;5;aaaa;
+L;Jett;0.66;153;12;19;5;61%;91;16%;2;6;aaaa;

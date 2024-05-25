@@ -1,0 +1,3 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;FNATIC;Ascent;Axolotl;sapph;Byron;dere;darknesspho;nikoz;3:13;False;28:53;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;
+Defense;L;FNATIC;Haven;Axolotl;sapph;Byron;dere;darknesspho;nikoz;2:13;False;26:55;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;

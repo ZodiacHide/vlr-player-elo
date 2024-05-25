@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;238;26;24;7; ;143;17%;4;5;Team Name;
+W;Omen; ;165;10;8;4; ;124;12%;0;1;Team Name;
+W;Omen; ;243;19;11;4; ;130;23%;2;0;Team Name;
+L;Omen; ;214;14;14;2; ;180;23%;3;4;Team Name;
+W;Omen; ;200;14;13;8; ;152;15%;5;1;Team Name;
+W;Omen; ;191;17;14;6; ;134;19%;1;0;Team Name;
+L;Omen; ;105;9;14;7; ;57;16%;2;0;Team Name;
+L;Omen; ;186;17;18;4; ;202;15%;1;0;Team Name;

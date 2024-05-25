@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.79;192;15;19;4;61%;128;30%;3;1;Ovation eSports;
+L;Sage;0.48;135;7;13;1;40%;90;32%;0;5;Ovation eSports;
+L;Sova;0.96;178;14;19;10;75%;120;22%;1;1;Ovation eSports;
+L;Reyna;0.78;193;16;19;2;63%;120;39%;4;6;Ovation eSports;
+L;Raze;0.58;146;9;18;4;45%;96;8%;2;2;Ovation eSports;
+L;Raze;0.64;161;9;17;3;65%;110;14%;3;2;Ovation eSports;
+W;Sage;1.10;224;17;14;10;83%;158;23%;0;2;Ovation eSports;
+L;Reyna;0.60;178;14;21;3;63%;117;41%;1;8;Ovation eSports;
+W;Skye;0.85;142;11;14;5;78%;102;22%;0;4;Ovation eSports;

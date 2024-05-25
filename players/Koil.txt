@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;182;14;15;4; ;92; ;0; ;Phoenix1 Reborn;
+W;Omen; ;255;24;18;7; ;174; ;1; ;Phoenix1 Reborn;
+L;Omen; ;160;9;14;1; ; ; ;1; ;Phoenix1 Reborn;

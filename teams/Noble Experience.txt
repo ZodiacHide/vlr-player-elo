@@ -1,0 +1,12 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;DAMWON Gaming;Bind;Noble Experience;REV1;Alex;Lawrence;Anna;UdoTan;10:13;False;40:36;Saturday, July 3rd, 10:30 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Defense;L;DAMWON Gaming;Ascent;Noble Experience;REV1;Alex;Lawrence;Anna;UdoTan;5:13;False;29:01;Saturday, July 3rd, 10:30 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Defense;L;TNL Esports;Ascent;TNL Esports;UdoTan;Lawrence;Anna;REV1;Alex;5:13;False;34:38;Thursday, July 8th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1080161824?t=0h54m57s;
+Defense;L;TNL Esports;Breeze;Noble Experience;UdoTan;Lawrence;Anna;REV1;Alex;1:13;False;24:14;Thursday, July 8th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1080161824?t=0h54m57s;
+Defense;L;F4Q;Ascent;F4Q;Alex;Lawrence;Anna;UdoTan;REV1;4:13;False;38:18;Sunday, July 18th, 10:25 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Attack;L;F4Q;Haven;Noble Experience;Alex;Lawrence;Anna;UdoTan;REV1;8:13;False;38:44;Sunday, July 18th, 10:25 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Attack;L;RYU Gaming;Icebox;RYU Gaming;Alex;UdoTan;OutLaw;REV1;Anna;2:13;False;36:45;Thursday, July 29th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=0h42m10s;
+Attack;W;RYU Gaming;Haven;Noble Experience;UdoTan;OutLaw;REV1;Anna;Lawrence;13:7;False;41:08;Thursday, July 29th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=0h42m10s;
+Attack;W;RYU Gaming;Breeze;RYU Gaming;UdoTan;OutLaw;REV1;Anna;Lawrence;13:6;False;35:43;Thursday, July 29th, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=0h42m10s;
+Attack;L;DAMWON Gaming;Bind;DAMWON Gaming;UdoTan;Lawrence;Anna;Alex;OutLaw;3:13;False;31:14;Saturday, July 31st, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1103600508?t=0h42m3s;
+Defense;L;DAMWON Gaming;Breeze;Noble Experience;UdoTan;Lawrence;Anna;Alex;OutLaw;1:13;False;22:43;Saturday, July 31st, 8:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1103600508?t=0h42m3s;

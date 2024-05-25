@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;196;13;16;5; ;110;26%;2;2;Saviors;
+L;Breach; ;98;6;16;11; ;65;14%;0;2;Saviors;

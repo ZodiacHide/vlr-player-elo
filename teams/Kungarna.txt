@@ -1,0 +1,9 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Iconic;Bind;Decider;Chobo;jcrueL;cevv;Kyro;Khai;13:2;False;24:56;Saturday, December 26th, 7:00 PM CET;Nerd Street Gamers December Monthly;url.net;
+Defense;W;Prism Esports;Split;Prism Esports;cevv;Khai;Chobo;Kyro;jcrueL;13:7;False;40:33;Saturday, December 26th, 8:00 PM CET;Nerd Street Gamers December Monthly;url.net;
+Attack;W;Prism Esports;Haven;Prism Esports;cevv;Khai;Chobo;Kyro;jcrueL;13:7;False;42:12;Saturday, December 26th, 8:00 PM CET;Nerd Street Gamers December Monthly;url.net;
+Attack;L;Serenity;Haven;Serenity;Khai;jcrueL;Kyro;cevv;Chobo;11:13;False;42:58;Sunday, December 27th, 2:15 AM CET;Nerd Street Gamers December Monthly;url.net;
+Defense;W;Serenity;Ascent;Serenity;Khai;jcrueL;Kyro;cevv;Chobo;17:15;True;1:06:04;Sunday, December 27th, 2:15 AM CET;Nerd Street Gamers December Monthly;url.net;
+Defense;W;Serenity;Split;Serenity;Khai;jcrueL;Kyro;cevv;Chobo;13:6;False;37:13;Sunday, December 27th, 2:15 AM CET;Nerd Street Gamers December Monthly;url.net;
+Defense;L;Spacestation Gaming;Ascent;Spacestation Gaming;jcrueL;Khai;cevv;Chobo;Kyro;3:13;False;27:29;Sunday, December 27th, 7:00 PM CET;Nerd Street Gamers December Monthly;url.net;
+Defense;L;Spacestation Gaming;Bind;Kungarna;jcrueL;Khai;cevv;Chobo;Kyro;9:13;False;37:52;Sunday, December 27th, 7:00 PM CET;Nerd Street Gamers December Monthly;url.net;

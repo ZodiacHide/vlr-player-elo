@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.73;162;11;15;3;53%;112;9%;1;3;Vacuumers;
+W;Viper;0.94;196;18;16;3;63%;128;27%;2;1;Vacuumers;
+L;Astra;0.90;277;16;16;7;78%;182;25%;1;1;Vacuumers;
+L;Astra;0.37;92;5;15;1;38%;57;24%;0;3;Vacuumers;
+W;Viper;0.89;194;17;21;6;62%;141;25%;2;1;Vacuumers;
+L;Astra;0.65;109;8;16;1;50%;77;23%;1;1;Vacuumers;
+L;Omen;0.63;183;11;15;3;53%;125;26%;0;1;Vacuumers;
+L;Viper;0.65;132;8;15;3;84%;88;16%;0;0;Vacuumers;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;193;12;15;7; ;128;30%;3;3;The Stream Team;
+L;Jett; ;167;7;13;2; ;107;32%;1;5;The Stream Team;
+L;Sova;0.51;144;8;13;2;47%;96;35%;0;3;Nomads;

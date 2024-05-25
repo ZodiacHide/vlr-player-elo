@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.09;217;20;15;0;58%;127;21%;3;2;E9Sports;
+W;Jett;1.16;229;12;10;5;81%;136;4%;6;1;E9Sports;
+L;Jett;1.18;346;27;16;0;67%;214;21%;4;1;E9Sports;
+L;Jett;0.83;144;9;14;1;61%;94;21%;1;1;E9Sports;
+L;Astra;0.78;132;12;16;4;61%;110;33%;2;3;E9Sports;
+W;Astra;1.51;172;10;3;5;100%;135;41%;0;0;E9Sports;
+W;Astra;1.15;128;11;7;6;84%;86;28%;0;1;E9Sports;
+W;Breach;1.00;202;15;18;8;65%;137;23%;3;2;E9Sports;
+L;Jett;0.54;161;10;17;2;67%;88;29%;3;6;E9Sports;
+L;Jett;1.11;314;21;18;4;90%;183;15%;5;1;E9Sports;
+L;Brimstone;0.92;252;20;18;7;78%;132;28%;2;2;E9Sports;

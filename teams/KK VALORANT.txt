@@ -1,0 +1,7 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;InetGamer;Split;InetGamer;Rias;Nagget;Pjotr;HemixFlatroo;spajKK;0:0;False;-;Sunday, May 24th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;InetGamer;Haven;InetGamer;Rias;Nagget;Pjotr;HemixFlatroo;spajKK;6:13;False;-;Sunday, May 24th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;InetGamer;Bind;InetGamer;Rias;Nagget;Pjotr;HemixFlatroo;spajKK;9:13;False;-;Sunday, May 24th, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;Absolute Legends Blue;Ascent;KK VALORANT;Rias;HemixFlatroo;Pjotr;Twisten;spajKK;12:13;True;-;Sunday, June 21st, 8:30 PM CEST;Absolute Masters;https://www.twitch.tv/videos/657448487?t=0h29m54s;
+Attack;W;Absolute Legends Blue;Haven;KK VALORANT;Rias;HemixFlatroo;Pjotr;Twisten;spajKK;13:3;False;-;Sunday, June 21st, 8:30 PM CEST;Absolute Masters;https://www.twitch.tv/videos/657448487?t=1h56m45s;
+Defense;L;Absolute Legends Blue;Bind;KK VALORANT;Rias;HemixFlatroo;Pjotr;Twisten;spajKK;4:13;False;-;Sunday, June 21st, 8:30 PM CEST;Absolute Masters;url.net;

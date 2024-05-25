@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;167;8;13;5; ;97;25%;0;1;NC State Esports;
+L;Killjoy; ;125;5;13;0; ;90;17%;0;0;NC State Esports;
+L;Killjoy; ;156;8;13;2; ;95;7%;0;1;NC State Esports;
+L;Sova; ;96;5;15;1; ;49;8%;0;0;NC State Esports;

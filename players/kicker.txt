@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;238;19;17;3; ; ; ;5; ;DREAMCHASERS;
+W;Brimstone; ;258;20;12;1; ; ; ;4; ;DREAMCHASERS;
+W;Cypher; ;273;20;13;7; ; ; ;3; ;DREAMCHASERS;
+W;Cypher; ;238;15;10;3; ; ; ;0; ;DREAMCHASERS;
+W;Cypher; ;142;8;10;6; ; ; ;0; ;DREAMCHASERS;
+W;Brimstone; ;105;8;14;3; ; ; ;3; ;DREAMCHASERS;
+L;None;0;0;0;0;0;0;0;0;0;0;DREAMCHASERS;
+W;None;0;0;0;0;0;0;0;0;0;0;DREAMCHASERS;
+L;Cypher; ;146;13;21;1; ; ; ;2; ;DREAMCHASERS;
+W;None;0;0;0;0;0;0;0;0;0;0;DREAMCHASERS;
+W;None;0;0;0;0;0;0;0;0;0;0;DREAMCHASERS;
+L;Cypher; ;117;7;20;8; ; ; ;1; ;DREAMCHASERS;
+L;Cypher; ;103;9;20;5; ; ; ;1; ;DREAMCHASERS;

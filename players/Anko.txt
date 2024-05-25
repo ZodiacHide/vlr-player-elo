@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.46;113;6;14;5;60%;63;4%;0;1;Oasis Gaming GC;
+W;Reyna;1.41;325;21;12;3;79%;218;20%;3;0;Oasis Gaming GC;
+L;Reyna;0.18;122;5;19;6;56%;84;13%;0;6;Oasis Gaming GC;
+W;Yoru;1.23;249;17;11;3;67%;145;21%;3;2;Oasis Gaming GC;
+L;Yoru;0.70;199;12;16;4;61%;118;13%;2;4;Oasis Gaming GC;
+L;Reyna;1.09;256;21;19;2;63%;160;13%;6;2;Oasis Gaming GC;
+W;Reyna;1.44;326;30;17;4;73%;174;23%;5;1;Oasis Gaming GC;
+L;Reyna;0.56;128;7;15;3;47%;81;15%;2;4;Oasis Gaming GC;

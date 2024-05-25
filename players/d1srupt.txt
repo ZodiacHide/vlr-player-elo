@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;175;13;14;5; ;128;24%;2;1;Org Not Found;
+L;Omen; ;154;13;15;6; ;99;11%;0;2;Org Not Found;
+L;Jett; ;289;29;15;3; ;168;32%;3;2;Org Not Found;
+W;Brimstone; ;173;13;10;3; ;119;14%;2;1;Org Not Found;
+W;Omen; ;160;13;13;5; ;109;17%;2;2;Org Not Found;
+W;Omen; ;217;19;11;7; ;135;17%;1;1;Org Not Found;
+W;Brimstone; ;275;23;11;4; ;201;26%;1;0;DR Esports;
+W;Omen; ;137;10;10;7; ;135;23%;1;2;DR Esports;
+W;Omen; ;249;20;11;7; ;149;22%;1;2;DR Esports;
+L;Omen; ;193;9;15;3; ;122;31%;2;0;DR Esports;
+L;Omen; ;256;18;14;4; ;211;22%;2;1;DR Esports;
+L;Omen;0.91;172;19;24;13;77%;118;18%;0;1;DR Esports;
+W;Viper;0.97;229;14;16;11;80%;135;21%;4;2;DR Esports;
+L;Viper;0.92;209;10;12;2;53%;153;42%;2;1;DR Esports;
+W;Jett;1.05;253;21;17;2;74%;143;22%;7;2;DR Esports;
+L;Jett;0.79;206;11;15;4;67%;127;18%;5;2;DR Esports;

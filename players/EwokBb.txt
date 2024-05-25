@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;122;6;14;2; ;76;21%;0;1;Aqualix;
+L;Jett; ;232;21;16;4; ;145;24%;1;3;Aqualix;

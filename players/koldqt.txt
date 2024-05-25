@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;288;19;13;1; ;172;20%;1;1;IQ White;
+L;Reyna; ;210;15;15;5; ;139;27%;2;3;IQ White;
+L;Jett; ;183;9;13;5; ;113;25%;0;3;IQ White;
+L;Reyna; ;283;18;14;1; ;164;20%;2;1;IQ White;

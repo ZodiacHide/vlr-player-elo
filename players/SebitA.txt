@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;1.29;231;17;10;4;100%;138;22%;5;1;Rebirth Esports;
+L;Reyna;1.20;245;19;16;5;63%;167;16%;5;5;Rebirth Esports;
+W;Reyna;0.92;211;18;20;3;68%;118;21%;5;3;Rebirth Esports;
+L;Reyna;0.72;223;12;13;0;47%;131;27%;2;2;Rebirth Esports;
+L;Reyna;1.05;244;18;17;3;67%;159;16%;5;2;Rebirth Esports;

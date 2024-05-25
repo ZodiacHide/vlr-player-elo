@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;231;18;15;3; ;138;21%;2;1;All Gamers;
+W;Sova; ;269;17;12;10; ;176;16%;3;1;All Gamers;
+L;Jett; ;206;18;19;4; ;135;26%;5;5;All Gamers;
+L;Breach;1.12;221;17;17;16;83%;139;36%;0;2;Totoro Gaming;
+W;Raze;1.33;186;10;4;3;85%;133;26%;1;2;Totoro Gaming;
+L;Breach;1.10;184;16;14;11;73%;97;22%;0;1;Totoro Gaming;
+W;Raze;0.85;184;12;14;4;74%;140;30%;1;3;Totoro Gaming;
+L;Raze;0.88;170;9;16;4;56%;122;21%;1;1;FunPlus Phoenix ZHUQUE;
+L;Raze;0.77;218;16;20;3;57%;134;19%;3;3;FunPlus Phoenix ZHUQUE;
+L;Raze;0.53;164;10;16;1;59%;83;9%;1;3;FunPlus Phoenix ZHUQUE;
+W;Killjoy;1.36;274;20;11;4;80%;170;19%;0;0;FunPlus Phoenix ZHUQUE;
+L;Astra;0.62;135;6;16;9;44%;93;18%;2;2;FunPlus Phoenix ZHUQUE;
+W;Raze;1.96;422;23;8;3;100%;239;28%;7;2;FunPlus Phoenix ZHUQUE;
+W;Reyna;1.01;197;14;18;12;78%;129;16%;6;3;FunPlus Phoenix ZHUQUE;
+W;Raze;1.12;272;22;17;3;63%;161;29%;3;1;FunPlus Phoenix ZHUQUE;
+L;Kayo;1.15;275;23;17;5;75%;160;14%;5;1;FunPlus Phoenix ZHUQUE;
+L;Phoenix;1.34;282;24;16;3;79%;169;18%;6;2;FunPlus Phoenix ZHUQUE;

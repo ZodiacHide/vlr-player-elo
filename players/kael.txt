@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;261;17;17;1; ;148;43%;3;4;Hooligans;
+L;Jett; ;171;11;16;2; ;108;32%;3;3;Hooligans;
+L;Jett;1.24;297;25;20;7;79%;170;10%;3;1;ZEN ONI;
+W;Jett;1.42;307;20;11;4;78%;184;19%;2;2;ZEN ONI;
+W;Jett;1.03;232;19;19;3;58%;146;14%;5;3;ZEN ONI;
+L;Jett;0.59;149;10;16;2;37%;92;19%;1;2;ZEN ONI;
+L;Jett;0.47;157;7;15;3;53%;98;26%;0;3;ZEN ONI;

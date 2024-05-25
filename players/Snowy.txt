@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;194;8;14;4; ;124;13%;3;4;PHARAONS;
+L;Raze; ;160;11;19;7; ;115;13%;2;6;PHARAONS;
+L;Raze; ;273;20;19;8; ;159;10%;3;4;PHARAONS;
+L;Raze; ;331;25;18;5; ;219;12%;5;0;PHARAONS;
+L;Raze; ;190;10;15;5; ;111;11%;2;2;noFEAR;
+L;Raze; ;179;7;13;6; ;122;18%;0;2;noFEAR;

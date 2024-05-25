@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.79;211;14;14;0;50%;133;22%;1;4;Vacuumers;
+W;Cypher; ;201;16;13;3; ;125;32%;3;0;Vacuumers;
+L;Cypher; ;99;7;16;2; ;55;18%;1;2;Vacuumers;
+W;Cypher;1.19;219;16;8;2;82%;136;52%;3;1;Vacuumers;
+L;Cypher;0.95;199;18;16;4;65%;144;22%;2;2;Vacuumers;
+L;Killjoy;0.75;227;11;15;3;50%;140;19%;1;0;Vacuumers;
+W;Killjoy;1.11;150;8;8;5;89%;107;19%;2;0;Vacuumers;
+L;Cypher;0.76;189;15;16;2;62%;111;25%;2;2;Vacuumers;
+L;Skye;1.13;242;19;17;6;74%;148;39%;2;2;Vacuumers;
+L;Killjoy;0.83;149;10;14;2;74%;95;15%;0;2;Vacuumers;
+W;Killjoy;1.45;314;26;15;4;83%;197;31%;1;0;Vacuumers;
+L;Skye;0.80;185;12;16;4;72%;126;28%;3;1;Vacuumers;
+L;Killjoy;0.70;158;9;13;0;38%;93;18%;0;1;Vacuumers;
+W;Killjoy;1.63;320;31;14;1;77%;199;28%;1;0;Vacuumers;
+L;Killjoy;1.23;247;16;14;4;80%;152;24%;1;2;Vacuumers;
+L;Jett;0.27;130;8;18;3;76%;70;33%;3;5;Vacuumers;
+L;Jett;0.69;156;10;16;1;47%;102;32%;2;3;Vacuumers;

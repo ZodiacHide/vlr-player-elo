@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.29;311;24;18;11;77%;199;23%;3;4;Team Cohesion;
+W;Sova;1.35;268;23;15;8;83%;166;23%;3;1;Team Cohesion;
+L;Sova;0.92;194;9;12;6;75%;130;21%;0;0;Team Cohesion;
+L;Sova;0.62;144;9;17;9;71%;107;13%;0;0;Team Cohesion;
+L;Sova;0.89;189;11;15;7;72%;132;32%;2;1;Team Cohesion;
+L;Sova;0.91;196;13;16;5;50%;130;26%;1;2;Team Cohesion;

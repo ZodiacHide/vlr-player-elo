@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.35;90;5;17;2;47%;68;15%;0;1;Xiphos Outplay;
+L;Killjoy;0.56;145;7;14;3;50%;94;6%;0;0;Xiphos Outplay;
+L;Cypher;0.64;136;9;13;0;53%;92;15%;1;4;nA Whiff Masters;
+L;Cypher;0.71;112;9;14;3;62%;59;9%;0;2;nA Whiff Masters;

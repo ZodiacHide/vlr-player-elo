@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;124;5;18;9; ;85;13%;0;1;Attack All Around;
+L;Omen; ;176;12;17;6; ;113;23%;0;1;Attack All Around;
+W;Omen; ;192;15;11;2; ;130;20%;1;2;Attack All Around;
+L;Omen; ;110;6;13;2; ;66;9%;2;2;Attack All Around;
+W;Omen; ;198;15;18;9; ;133;22%;0;4;Attack All Around;
+W;Reyna; ;223;20;14;9; ;111;14%;2;2;Attack All Around;
+L;Jett; ;181;12;17;2; ;125;22%;1;2;Attack All Around;
+W;Reyna; ;177;14;11;7; ;95;12%;2;4;Attack All Around;
+L;Reyna; ;129;8;19;7; ;93;10%;3;7;Attack All Around;
+L;Reyna; ;190;16;20;9; ;135;14%;1;1;Attack All Around;

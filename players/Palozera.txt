@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;242;15;13;2; ; ; ;3; ;Vincit Gaming;
+L;Phoenix; ;152;8;16;2; ; ; ;4; ;Vincit Gaming;
+L;Raze; ;204;14;17;4; ; ; ;2; ;Vincit Gaming;
+W;Raze; ;186;16;15;2; ; ; ;3; ;Vincit Gaming;
+W;Phoenix; ;280;22;15;9; ; ; ;6; ;Vincit Gaming;
+L;Sova; ;158;11;17;10; ;121;36%;1;3;LINGUISALESS;
+L;Sova; ;201;17;16;7; ;97;26%;3;2;LINGUISALESS;
+L;Sova;0.96;217;17;17;8;78%;139;24%;1;1;666;
+L;Sova;0.77;161;13;15;1;55%;86;9%;2;2;666;

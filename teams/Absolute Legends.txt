@@ -1,0 +1,18 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Valorando;Bind;Valorando;Zik;Carcass;SpeezyX9;Boaster;SEIDER;8:13;False;-;Sunday, May 24th, 12:00 PM CEST;Epulze Valorant Prodigies;url.net;
+Defense;W;Valorando;Haven;Valorando;Zik;Carcass;SpeezyX9;Boaster;SEIDER;13:10;False;-;Sunday, May 24th, 12:00 PM CEST;Epulze Valorant Prodigies;url.net;
+Attack;W;Valorando;Split;Valorando;Zik;Carcass;SpeezyX9;Boaster;SEIDER;13:12;True;-;Sunday, May 24th, 12:00 PM CEST;Epulze Valorant Prodigies;url.net;
+Defense;L;fish123;Split;fish123;Carcass;SEIDER;Zik;Boaster;SpeezyX9;8:13;False;-;Sunday, May 24th, 3:00 PM CEST;Epulze Valorant Prodigies;url.net;
+Attack;L;fish123;Haven;fish123;Carcass;SEIDER;Zik;Boaster;SpeezyX9;7:13;False;-;Sunday, May 24th, 3:00 PM CEST;Epulze Valorant Prodigies;url.net;
+Attack;L;Fordon Boars;Split;Absolute Legends;Zik;Carcass;SpeezyX9;Janppa;SEIDER;7:13;False;-;Sunday, May 24th, 6:00 PM CEST;Epulze Valorant Prodigies;url.net;
+Defense;L;Fordon Boars;Bind;Absolute Legends;Zik;Carcass;SpeezyX9;Janppa;SEIDER;10:13;False;-;Sunday, May 24th, 6:00 PM CEST;Epulze Valorant Prodigies;url.net;
+Defense;W;SimpleMinecraftPlayers;Bind;Absolute Legends;SEIDER;Carcass;Zik;SpeezyX9;Boaster;13:5;False;-;Thursday, June 4th, 8:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/641046635?t=3h4m40s;
+Attack;L;SimpleMinecraftPlayers;Split;Absolute Legends;SEIDER;Carcass;Zik;SpeezyX9;Boaster;7:13;False;-;Thursday, June 4th, 8:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/641046635?t=3h4m40s;
+Defense;W;SimpleMinecraftPlayers;Haven;Absolute Legends;SEIDER;Carcass;Zik;SpeezyX9;Boaster;13:5;False;-;Thursday, June 4th, 8:00 PM CEST;Absolute Masters;url.net;
+Defense;L;THOSE GUYS;Haven;Decider;neiixZz;Zik;SEIDER;vicious;Carcass;10:13;False;-;Tuesday, June 23rd, 5:00 PM CEST;Wave Esports Invitational;url.net;
+Attack;W;Team zonixx;Bind;Decider;Zik;SEIDER;Carcass;neiixZz;vicious;13:4;False;-;Tuesday, June 23rd, 6:05 PM CEST;Wave Esports Invitational;url.net;
+Attack;L;2G4L;Bind;Decider;vicious;Zik;Carcass;SEIDER;neiixZz;9:13;False;-;Tuesday, June 23rd, 7:00 PM CEST;Wave Esports Invitational;url.net;
+Defense;L;AVENUE Esports;Haven;AVENUE Esports;SEIDER;Carcass;xek;vicious;SpeezyX9;11:13;False;-;Thursday, July 2nd, 8:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/668004118?t=0h27m55s;
+Defense;W;AVENUE Esports;Bind;AVENUE Esports;SEIDER;Carcass;xek;vicious;SpeezyX9;13:9;False;-;Thursday, July 2nd, 8:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/668004118?t=0h27m55s;
+Defense;L;AVENUE Esports;Split;AVENUE Esports;SEIDER;Carcass;xek;vicious;SpeezyX9;5:13;False;-;Thursday, July 2nd, 8:00 PM CEST;Absolute Masters;https://www.twitch.tv/videos/668004118?t=0h27m55s;
+Defense;L;nolpenki;Haven;Decider;Zik;SEIDER;neiixZz;Carcass;vicious;5:13;False;-;Sunday, July 5th, None;Vitality European Open;url.net;

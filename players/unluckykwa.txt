@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Team pannshi;
+L;None;0;0;0;0;0;0;0;0;0;0;Team pannshi;
+W;None;0;0;0;0;0;0;0;0;0;0;Team pannshi;
+W;Breach; ;128;10;19;6; ; ; ;2; ;Team pannshi;
+L;None;0;0;0;0;0;0;0;0;0;0;Team pannshi;
+W;None;0;0;0;0;0;0;0;0;0;0;Team pannshi;
+W;None;0;0;0;0;0;0;0;0;0;0;Team pannshi;
+W;None;0;0;0;0;0;0;0;0;0;0;Team pannshi;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;226;18;19;3; ;169;20%;3;4;random5;
+L;Omen; ;104;4;15;1; ;74;19%;0;3;random5;
+L;Omen; ;157;9;16;1; ;107;36%;1;4;Designated;
+L;Killjoy; ;120;5;14;4; ;80;8%;0;0;Designated;

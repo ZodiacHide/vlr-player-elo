@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.34;87;4;16;5;44%;63;32%;0;4;Serenity Purple;
+L;Cypher;0.79;178;10;13;5;75%;104;19%;2;1;Serenity Purple;
+W;Viper;1.46;188;16;8;6;89%;133;26%;1;1;Nerd Emoji;
+L;Viper;1.00;186;12;14;7;71%;115;26%;2;2;Nerd Emoji;
+L;Killjoy;1.22;282;28;18;6;81%;165;14%;2;2;Nerd Emoji;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;226;12;15;4; ;161;27%;0;5;feelmyhack;
+L;Phoenix; ;258;20;18;6; ;207;34%;7;3;feelmyhack;

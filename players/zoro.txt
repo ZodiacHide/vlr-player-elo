@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;155;12;13;8; ;96;17%;1;1;Shiba;
+W;Omen; ;192;14;12;5; ;119;6%;0;0;Shiba;
+L;Omen; ;200;10;14;8; ;130;20%;1;0;Shiba;
+L;Omen; ;278;21;12;0; ;140;17%;3;1;Shiba;
+W;Phoenix; ;155;11;14;5; ;108;22%;2;2;Onslaught Gaming;
+L;Phoenix; ;146;11;17;1; ;83;14%;0;2;Onslaught Gaming;
+L;Skye;0.37;73;4;16;6;56%;50;17%;0;0;FontanerosMaura;
+L;Killjoy;0.39;134;7;14;0;43%;79;8%;0;0;FontanerosMaura;

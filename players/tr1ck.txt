@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.18;234;16;13;0;61%;139;29%;3;1;Salt Esports;
+L;Jett;1.28;251;23;15;1;71%;161;26%;4;4;Salt Esports;
+W;Jett;0.98;221;22;20;5;64%;133;24%;4;5;Salt Esports;
+L;Jett;1.06;227;20;17;2;58%;142;21%;2;1;Salt Esports;
+W;Reyna;0.82;148;14;17;2;65%;95;22%;2;4;Salt Esports;
+W;Jett;0.85;137;11;12;1;65%;103;27%;2;3;Salt Esports;
+W;Jett;1.07;191;13;11;2;74%;128;32%;1;0;Salt Esports;
+L;Jett;0.88;233;15;15;1;59%;134;20%;0;3;Salt Esports;
+W;Sage;1.24;206;14;12;4;78%;134;17%;1;1;Salt Esports;
+L;Jett;0.72;204;11;15;2;69%;122;19%;3;3;Salt Esports;
+L;Sage;0.27;75;3;13;1;29%;51;33%;0;1;Salt Esports;
+W;Sage;1.02;128;14;14;3;71%;77;32%;3;1;Salt Esports;
+W;Jett;1.08;227;14;13;4;79%;141;21%;3;3;Salt Esports;
+L;Reyna;0.89;207;14;14;2;58%;120;39%;2;1;Salt Esports;
+L;Phoenix;0.56;130;8;13;2;61%;82;23%;0;4;Salt Esports;
+L;Jett;1.46;316;27;15;3;70%;194;24%;6;1;Salt Esports;
+L;Jett;0.62;187;11;15;2;65%;116;25%;3;0;Salt Esports;

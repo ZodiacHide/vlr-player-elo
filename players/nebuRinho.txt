@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;1.09;196;20;20;10;73%;133;22%;1;1;RVNS Esports;
+L;Viper;0.88;220;17;17;5;70%;135;43%;1;1;RVNS Esports;
+L;Sage;0.69;144;12;18;2;57%;110;18%;0;1;RVNS Esports;

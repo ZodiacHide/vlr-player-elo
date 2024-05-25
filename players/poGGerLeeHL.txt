@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;202;6;13;3; ;134;29%;2;2;Wulf Esports;
+L;Omen; ;148;6;13;3; ;92;17%;0;0;Wulf Esports;

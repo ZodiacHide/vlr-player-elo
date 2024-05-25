@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;40;1;16;3; ;29;9%;1;3;LE GAMING;
+L;Breach; ;157;6;13;6; ;79;22%;2;1;LE GAMING;
+L;Skye;0.60;185;10;15;1;69%;102;16%;2;2;Taunt;
+L;Breach; ;97;3;12;2; ;81;16%;0;3;Taunt;

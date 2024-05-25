@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.55;177;10;16;4;67%;112;29%;3;3;HEAD HUNTERS;
+W;Jett;1.23;254;16;10;3;71%;136;22%;4;1;HEAD HUNTERS;
+L;Jett;0.94;261;15;15;2;71%;165;24%;3;2;HEAD HUNTERS;

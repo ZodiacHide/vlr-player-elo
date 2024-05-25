@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;229;18;10;12; ;142;19%;1;0;Awake Esports;
+L;Breach; ;199;12;16;5; ;113;14%;0;3;Awake Esports;
+L;Breach; ;174;7;13;3; ;120;29%;1;1;Awake Esports;
+L;Breach; ;143;8;14;4; ;91;16%;0;2;Awake Esports;
+W;Breach; ;145;13;24;10; ;84;24%;2;4;Awake Esports;
+L;Cypher; ;141;10;14;4; ;79;24%;1;0;Circe;
+L;Killjoy; ;131;8;16;0; ;142;22%;1;1;Circe;

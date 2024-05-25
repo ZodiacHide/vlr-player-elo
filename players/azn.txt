@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;131;11;18;5; ;73;16%;2;2;Lightning;
+L;Jett; ;148;15;21;0; ;76;26%;3;4;Lightning;
+L;Killjoy; ;134;11;18;3; ;82;7%;1;1;Lightning;
+W;Killjoy;1.80;350;21;7;3;81%;201;23%;3;0;Clutch Jeans;
+W;Killjoy;1.00;148;10;9;7;74%;66;10%;4;1;Clutch Jeans;
+L;Killjoy;1.15;302;18;14;4;88%;164;26%;2;1;Clutch Jeans;
+L;Killjoy;0.63;126;11;17;3;64%;88;13%;2;5;Clutch Jeans;
+L;Killjoy;1.02;203;16;15;4;59%;139;19%;2;4;Clutch Jeans;
+L;Kayo;0.72;172;9;14;1;53%;88;17%;0;3;Clutch Jeans;
+L;Sage;0.64;157;12;18;4;48%;100;16%;2;6;Clutch Jeans;
+L;Killjoy;0.96;262;18;15;0;50%;150;28%;3;6;Clutch Jeans;

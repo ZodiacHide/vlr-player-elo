@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;210;27;24;12; ;133;28%;3;4;Amateur Team;
+L;Omen; ;247;20;20;4; ;154;32%;0;5;Amateur Team;
+W;Omen; ;247;18;14;5; ;157;24%;2;2;Amateur Team;
+L;Omen; ;183;11;16;1; ;118;24%;0;1;Amateur Team;
+L;Omen; ;147;7;15;2; ;86;36%;0;2;Amateur Team;
+L;Omen;0.65;194;25;31;4;69%;129;33%;4;7;Amateur Team;
+W;Cypher;1.65;295;15;7;7;93%;180;16%;3;1;Team VS;
+L;Killjoy;0.96;219;13;15;2;47%;128;18%;0;2;Team VS;
+L;Cypher;1.08;263;22;16;4;67%;141;23%;1;4;Team VS;
+L;Raze;0.07;101;4;15;2;40%;63;40%;2;6;Victory Formula;
+W;Sage;0.95;160;11;13;6;70%;123;23%;1;2;Anti Eco Eco Club;
+W;Sage;1.21;195;13;12;8;85%;120;21%;3;2;Anti Eco Eco Club;
+W;Sage;0.86;170;10;14;4;58%;122;24%;2;0;Anti Eco Eco Club;
+L;Sova;0.72;107;7;13;5;55%;77;22%;0;2;Anti Eco Eco Club;
+L;Sova;1.05;215;17;16;5;65%;140;33%;2;1;Anti Eco Eco Club;

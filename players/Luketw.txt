@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;264;20;14;7; ;167;25%;0;1;CBT Gaming;
+W;Brimstone; ;219;18;15;6; ;133;21%;2;0;CBT Gaming;
+W;Brimstone; ;262;20;8;5; ;161;27%;1;2;CBT Gaming;
+W;Omen; ;261;22;12;7; ;173;28%;1;1;CBT Gaming;
+W;Omen; ;231;20;19;6; ;138;28%;4;1;CBT Gaming;
+L;Omen; ;210;21;19;2; ;136;17%;1;3;CBT Gaming;
+L;Omen; ;270;19;16;5; ;164;15%;1;1;CBT Gaming;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;171;10;15;1; ;95;17%;1;1;Royal;
+L;None;0;0;0;0;0;0;0;0;0;0;Royal;
+L;Jett;0.67;187;11;17;4;58%;108;24%;5;7;Waverunners;
+L;Jett;0.54;133;9;18;1;40%;85;21%;3;7;Waverunners;
+L;Raze;1.25;302;23;19;5;75%;210;29%;5;7;Waverunners;
+L;Jett;0.68;161;12;20;2;55%;98;18%;1;2;Waverunners;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage;0.40;95;8;19;6;52%;57;17%;1;5;Team Singularity Female;
+L;Skye;1.14;202;21;19;12;71%;128;23%;0;4;Team Singularity Female;
+W;Skye;1.35;275;21;12;5;80%;165;21%;3;0;Team Singularity Female;
+W;Sage;1.77;308;20;5;1;88%;192;21%;3;1;Team Singularity Female;
+L;Sage;0.68;171;7;13;3;62%;129;67%;1;2;Team Singularity Female;
+L;Sage;0.15;66;1;13;3;23%;56;12%;0;3;Team Singularity Female;

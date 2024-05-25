@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;231;15;16;1; ;146;20%;2;2;Anatolia Esports;
+L;Breach; ;119;7;13;4; ;76;19%;1;2;Anatolia Esports;

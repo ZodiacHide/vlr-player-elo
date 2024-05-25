@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;289;19;10;8; ;157;24%;3;0;One Shot Esports;
+W;Sova; ;197;14;14;4; ;137;24%;1;2;One Shot Esports;
+L;Sova; ;83;4;16;3; ;55;9%;1;5;One Shot Esports;
+L;Sova; ;139;7;16;4; ;97;16%;0;1;One Shot Esports;
+W;Sova; ;218;16;12;10; ;132;18%;0;2;One Shot Esports;
+L;Sova; ;214;26;27;9; ;144;19%;3;6;One Shot Esports;
+L;Sova; ;178;13;15;4; ;115;21%;3;3;One Shot Esports;
+W;Sova;1.41;282;24;15;6;67%;165;31%;3;0;Fox Gaming;
+W;Sova;1.37;221;18;11;4;76%;120;29%;3;3;Fox Gaming;
+W;Sova;1.15;199;15;12;7;73%;139;30%;1;2;Fox Gaming;
+W;Sova;1.09;262;19;15;7;71%;166;32%;1;1;Fox Gaming;
+L;Sova;0.93;202;16;21;14;86%;144;33%;2;2;Fox Gaming;
+W;Sova;0.88;98;5;11;11;68%;71;19%;0;2;Fox Gaming;
+W;Sova;1.17;175;10;9;6;80%;105;22%;3;3;Fox Gaming;
+W;Sova;1.50;307;37;22;6;74%;192;30%;5;4;Fox Gaming;

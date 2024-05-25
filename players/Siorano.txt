@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;270;19;15;10; ;171;18%;2;0;Outlaws;
+L;Breach; ;199;13;19;14; ;137;18%;3;2;Outlaws;
+L;Breach; ;214;13;17;10; ;125;21%;1;3;Outlaws;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;170;8;17;0; ;108;34%;2;2;that cool team;
+L;Cypher; ;176;12;15;5; ;128;26%;0;5;that cool team;
+L;Cypher; ;166;9;14;3; ;113;24%;0;3;ex-Team Bliss;
+W;Cypher; ;163;12;11;5; ;147;24%;2;0;ex-Team Bliss;
+L;Cypher; ;271;19;15;1; ;168;15%;2;0;ex-Team Bliss;
+W;Cypher; ;223;14;8;2; ;118;30%;3;2;ex-Team Bliss;
+L;Cypher; ;163;12;14;1; ;111;21%;3;2;ex-Team Bliss;

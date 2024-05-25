@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper; ;158;8;14;3; ; ; ;2; ;CREST GAMING Zst;
+L;Jett; ;146;10;16;1; ;94;19%;5;4;CREST GAMING Zst;
+L;Jett; ;248;16;15;0; ;158;19%;3;6;CREST GAMING Zst;
+L;Reyna; ;212;12;14;3; ;138;41%;2;4;CREST GAMING Zst;
+L;Jett; ;166;12;21;2; ;99;21%;7;8;CREST GAMING Zst;
+L;Omen;0.81;201;12;16;5;56%;115;24%;0;2;FIRST Gaming;
+L;Viper;0.30;101;5;16;1;44%;64;9%;0;3;FIRST Gaming;

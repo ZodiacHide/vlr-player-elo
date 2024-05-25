@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.61;190;11;15;0;50%;119;24%;2;2;Akuma Esports Black;
+L;Cypher;0.22;74;2;13;3;43%;45;43%;0;2;Akuma Esports Black;

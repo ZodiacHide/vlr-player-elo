@@ -1,0 +1,3 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Team VS;Ascent;Decider;Senbei;kosaki;Miao;Tobo;Cold;2:13;False;23:41;Friday, May 21st, 2:00 PM CEST;Gladiators Taiwan Invitational;url.net;
+Defense;L;ZEN ONI;Haven;Decider;Cold;Tobo;Senbei;kosaki;Miao;5:13;False;30:13;Friday, May 21st, 4:00 PM CEST;Gladiators Taiwan Invitational;url.net;

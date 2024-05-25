@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;232;20;16;1; ;180;21%;4;3;LBS Esports;
+L;Jett; ;169;13;20;2; ;130;28%;2;4;LBS Esports;
+L;Jett; ;226;17;15;1; ;132;39%;4;2;LBS Esports;
+L;Viper;0.58;170;7;13;4;47%;130;48%;1;0;Rebirth Esports;
+L;Cypher;0.94;222;16;17;5;67%;155;29%;3;0;Rebirth Esports;

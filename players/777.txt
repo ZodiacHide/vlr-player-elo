@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;296;24;18;8; ;167; ;4; ;No Mercy;
+W;Raze; ;244;13;9;5; ;156; ;1; ;No Mercy;
+W;Raze; ;208;12;11;9; ;124; ;3; ;No Mercy;
+W;Raze; ;313;22;14;7; ;179; ;8; ;No Mercy;
+W;Raze; ;238;14;16;8; ;153;20%;4;5;No Mercy;
+L;Raze; ;272;17;15;5; ;166;11%;2;4;No Mercy;
+L;Raze; ;159;7;16;2; ;111;20%;3;4;No Mercy;
+L;Raze; ;228;20;17;5; ;132;19%;5;2;No Mercy;

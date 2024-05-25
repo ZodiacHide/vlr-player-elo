@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;156;10;7;3; ;107;0%;1;1;FAV gaming;
+W;Sage; ;165;11;10;8; ;91;20%;1;0;FAV gaming;
+L;Jett; ;124;11;18;1; ;69;5%;1;0;FAV gaming;

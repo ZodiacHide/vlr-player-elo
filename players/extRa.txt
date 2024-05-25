@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;110;9;18;4; ;58;4%;0;1;Daytrade Gaming;
+L;Breach; ;172;10;16;4; ;122;9%;0;2;Daytrade Gaming;
+L;Breach; ;173;10;15;9; ;110;15%;0;2;Daytrade Gaming;
+L;Breach; ;150;9;14;6; ;115;16%;0;0;Daytrade Gaming;
+W;Breach; ;104;7;8;8; ;55;11%;1;1;Daytrade Gaming;
+W;Breach; ;136;12;17;7; ;77;11%;1;1;Daytrade Gaming;
+L;Breach; ;109;7;13;5; ;71;16%;0;0;Daytrade Gaming;
+L;Brimstone; ;158;10;14;2; ;104;19%;0;0;Daytrade Gaming;
+L;Breach; ;219;15;16;5; ;130;14%;0;1;Daytrade Gaming;
+L;Breach; ;153;17;24;11; ;97;17%;1;2;Daytrade Gaming;
+L;Breach; ;188;17;24;8; ;115;14%;1;2;Daytrade Gaming;
+L;Breach; ;89;4;17;2; ;65;3%;1;1;Daytrade Gaming;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;240;19;14;7; ;152;19%;1;4;aspyxia;
+L;Sage; ;122;6;14;3; ;81;26%;1;1;aspyxia;
+L;Raze; ;298;27;17;5; ;174;18%;1;2;aspyxia;
+W;Killjoy; ;203;15;16;7; ;125;13%;2;1;aspyxia;
+W;Killjoy; ;152;8;10;5; ;92;7%;1;1;aspyxia;
+L;Killjoy; ;188;10;16;4; ;125;12%;2;1;aspyxia;
+L;Killjoy; ;195;13;19;6; ;125;15%;4;1;aspyxia;

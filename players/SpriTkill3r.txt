@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.72;158;9;14;4;53%;113;24%;2;1;Gunslingers;
+L;Killjoy;0.66;193;17;22;7;77%;116;21%;1;3;Gunslingers;
+W;Killjoy;1.00;202;13;11;5;89%;104;10%;1;0;Gunslingers;

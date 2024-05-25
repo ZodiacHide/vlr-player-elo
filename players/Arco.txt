@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;222;14;17;8; ;140;10%;2;6;Wolves of Hell;
+L;Raze; ;258;15;17;7; ;170;15%;2;0;Wolves of Hell;

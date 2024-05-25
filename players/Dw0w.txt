@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix;1.38;340;27;17;7;75%;213;22%;5;3;Ghost CommandoS;
+W;Raze;1.51;255;16;7;6;82%;141;6%;2;0;Ghost CommandoS;
+L;Jett;1.01;271;24;22;2;54%;162;33%;8;7;Ghost CommandoS;
+L;Raze;1.12;322;19;15;6;88%;201;22%;3;0;Ghost CommandoS;

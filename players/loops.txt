@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;103;8;18;3; ;75;23%;3;3;Thatoc Esports;
+L;Cypher; ;228;14;16;4; ;135;26%;5;1;Thatoc Esports;
+L;Killjoy;0.57;177;10;17;5;67%;131;20%;2;2;XFlow Esports;
+L;Viper;0.66;163;10;15;4;74%;108;38%;0;2;XFlow Esports;

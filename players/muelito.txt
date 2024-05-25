@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;1.34;248;20;15;9;83%;152;22%;3;0;Reven Esports;
+L;Brimstone;1.03;173;17;13;5;67%;107;24%;0;0;Reven Esports;
+L;Omen;0.66;172;9;13;1;67%;106;38%;2;1;Reven Esports;
+L;Omen;0.75;169;18;23;8;77%;105;11%;2;0;Reven Esports;
+L;Omen;0.87;223;16;17;2;55%;125;21%;1;0;Reven Esports;
+L;Skye;0.70;185;18;21;3;67%;101;15%;2;2;Reven Esports;
+W;Breach;1.08;191;16;12;8;82%;88;22%;1;0;Reven Esports;
+L;Skye;0.83;192;11;14;1;56%;108;13%;1;1;Reven Esports;
+W;Skye;1.29;259;21;15;8;83%;160;17%;3;2;Reven Esports;
+L;Breach;1.06;198;15;15;6;76%;116;17%;1;2;Reven Esports;
+L;Breach;0.75;90;9;17;10;67%;53;15%;0;4;Reven Esports;
+L;Skye;0.65;114;8;17;7;73%;69;8%;0;2;Reven Esports;
+L;Skye;0.95;170;12;13;7;68%;109;14%;1;2;Reven Esports;
+L;Sage;0.80;142;11;18;11;73%;92;27%;2;2;Reven Esports;

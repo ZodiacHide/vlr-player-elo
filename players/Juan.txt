@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;345;18;4;0; ;217;43%;2;2;Team LZ;
+L;Raze; ;184;9;14;4; ;139;21%;0;2;Team LZ;
+W;Raze; ;578;32;4;7; ;343;30%;3;2;Team LZ;
+L;Raze; ;212;17;15;0; ;149;29%;3;4;Team LZ;
+L;Sage;1.05;262;18;17;3;65%;164;35%;2;1;Looking For Org;
+W;Raze;0.80;184;15;20;6;71%;120;21%;3;8;Looking For Org;
+L;Skye;0.77;154;10;14;1;59%;99;22%;1;2;Looking For Org;
+W;Skye;1.05;192;12;12;4;88%;119;24%;2;2;Looking For Org;
+L;Skye;0.73;128;12;21;5;61%;94;47%;1;6;Looking For Org;

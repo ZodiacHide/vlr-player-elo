@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;125;8;10;4; ;70;21%;1;0;Elysium;
+L;Cypher; ;182;21;25;5; ;117;23%;4;2;Elysium;
+L;Cypher; ;164;8;14;7; ;94;24%;2;2;Elysium;
+L;Sova;0.79;247;12;13;0;57%;146;18%;1;2;Voltage;
+L;Raze;0.52;114;6;15;2;47%;86;8%;0;2;Voltage;

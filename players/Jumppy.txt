@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.73;156;9;14;6;72%;106;21%;1;1;ex-Overtime Esports;
+L;Killjoy;0.86;174;12;17;5;68%;119;31%;1;2;ex-Overtime Esports;

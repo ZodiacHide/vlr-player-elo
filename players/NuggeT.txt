@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;154;9;17;1; ;99;17%;2;6;Dawn of Stars;
+L;Brimstone; ;165;13;23;8; ;114;29%;2;5;Dawn of Stars;
+L;Killjoy;0.79;206;9;15;5;69%;135;10%;3;1;STELLAR;
+L;Cypher;0.52;117;7;16;2;45%;94;16%;0;3;STELLAR;

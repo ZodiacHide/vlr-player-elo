@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone;0.38;160;6;13;0;46%;99;6%;0;4;Noxus Pro;

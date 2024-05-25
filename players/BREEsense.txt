@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;144;11;20;10; ;106;32%;2;1;Aspire;
+W;Omen; ;166;12;16;7; ;113;12%;2;3;Aspire;
+W;Breach; ;176;11;16;21; ;114;33%;1;0;Aspire;
+L;Omen; ;184;21;20;4; ;117;31%;3;3;Aspire;

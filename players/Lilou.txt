@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;198;13;14;3; ;124;28%;2;7;Hajty;
+W;Killjoy; ;249;20;17;9; ;167;14%;4;0;Hajty;
+W;Cypher; ;209;18;21;7; ;123;32%;1;4;Hajty;
+L;Cypher; ;175;13;17;3; ;102;31%;2;5;Hajty;
+L;Killjoy; ;209;20;22;8; ;142;20%;4;6;Hajty;
+W;Cypher; ;126;13;23;7; ;81;24%;3;3;Hajty;
+W;Cypher; ;194;12;7;2; ;98;43%;0;0;Hajty;
+W;Sage; ;158;15;13;2; ;96;37%;0;1;Hajty;
+L;Cypher; ;103;7;15;3; ;74;11%;0;1;Hajty;
+L;Sage; ;143;10;18;8; ;89;23%;0;1;Hajty;
+L;Cypher;1.05;132;11;13;6;71%;91;33%;2;1;BANDYCI;
+L;Cypher;0.91;211;18;19;5;77%;137;22%;3;2;BANDYCI;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.72;192;13;19;4;57%;132;55%;3;6;King's Gambit;
+L;Raze;0.29;139;5;15;3;33%;103;19%;0;1;King's Gambit;

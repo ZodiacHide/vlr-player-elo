@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;196;16;17;8; ;132;24%;2;2;Straight Outta The Zoo;
+L;Sova; ;211;14;22;11; ;142;20%;0;2;Straight Outta The Zoo;
+W;Killjoy; ;186;16;17;1; ;128;28%;1;0;Straight Outta The Zoo;
+L;Sova; ;260;19;16;5; ;168;23%;3;2;Straight Outta The Zoo;
+W;Sova; ;216;19;18;15; ;161;18%;2;1;Straight Outta The Zoo;
+W;Omen; ;224;14;14;9; ;157;24%;1;1;Straight Outta The Zoo;
+W;Sova; ;153;12;17;4; ;94;16%;2;1;Straight Outta The Zoo;
+L;Omen; ;181;9;14;1; ;123;15%;0;2;Straight Outta The Zoo;
+L;Sova; ;117;5;13;1; ;68;40%;1;2;Straight Outta The Zoo;
+L;Sage;0.99;153;12;14;9;62%;92;41%;1;2;Nebula;
+L;Sova;0.82;143;12;15;10;83%;84;18%;0;0;Nebula;

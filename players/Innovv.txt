@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.06;57;1;14;2;36%;46;25%;0;2;EZBake Clan;

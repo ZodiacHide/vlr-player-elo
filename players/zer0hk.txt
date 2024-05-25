@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;212;14;11;8; ;131;23%;0;3;Hazmat.gg;
+L;Sage; ;110;8;19;5; ;60;15%;2;5;Hazmat.gg;
+W;Sage; ;179;16;18;9; ;112;25%;1;2;Hazmat.gg;

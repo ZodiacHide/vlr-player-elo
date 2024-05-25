@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;1.25;186;12;6;7;100%;124;18%;0;0;FUT Female;
+W;Omen;1.48;244;14;9;13;94%;161;19%;3;0;FUT Female;
+W;Viper;1.38;285;23;13;8;83%;205;25%;1;0;FUT Female;
+W;Viper;1.54;298;20;9;4;84%;189;21%;5;1;FUT Female;
+L;Omen;0.84;204;14;15;7;63%;134;19%;3;2;FUT Female;
+L;Astra;0.89;164;13;16;7;61%;123;34%;1;2;FUT Female;

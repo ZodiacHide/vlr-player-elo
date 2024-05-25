@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;206;9;15;4; ;145;12%;1;3;Intel New Indians;
+L;Reyna; ;154;11;17;1; ;85;12%;3;4;Intel New Indians;
+L;Jett; ;272;20;16;1; ;153;23%;2;4;NOSLEEP;
+L;Jett; ;265;19;21;10; ;167;19%;6;4;NOSLEEP;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;145;6;13;0; ; ; ;2; ;Team Miss Rage;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Miss Rage;

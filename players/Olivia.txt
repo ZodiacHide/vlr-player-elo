@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.14;275;21;18;7;67%;173;26%;4;7;Renatus Black;
+W;Jett;1.04;247;18;17;5;68%;142;28%;7;6;Renatus Black;
+L;Jett;0.55;170;13;21;3;55%;90;61%;5;5;Renatus Black;
+L;Jett;0.72;176;11;17;2;53%;114;30%;5;6;Renatus Black;
+L;Jett;0.87;197;16;18;2;48%;127;17%;5;7;Renatus Black;
+W;Jett;1.27;262;20;12;3;71%;141;16%;5;5;Renatus Black;
+W;Brimstone;1.19;228;16;12;6;75%;110;30%;5;2;Renatus Black;
+L;Jett;0.74;209;11;16;4;76%;122;19%;2;4;Renatus Black;
+W;Reyna;0.83;213;22;24;6;63%;133;13%;5;8;Foxy Araikordai;
+W;Jett;0.91;214;10;11;3;86%;137;20%;4;2;Foxy Araikordai;
+L;Jett;0.37;136;7;14;0;27%;93;20%;1;6;Foxy Araikordai;
+L;Jett;1.00;221;18;17;1;73%;139;24%;6;2;Foxy Araikordai;
+W;Reyna;1.31;316;26;16;5;83%;206;35%;3;4;Foxy Araikordai;

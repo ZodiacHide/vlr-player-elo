@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;64;3;14;0; ;47;25%;0;2;Fluid Gaming;
+L;Killjoy; ;241;17;16;2; ;199;14%;1;4;Fluid Gaming;
+L;Killjoy; ;182;15;14;2; ;99;10%;1;1;Fluid Gaming;
+L;Killjoy; ;146;8;12;5; ;86;21%;0;1;Fluid Gaming;
+L;Killjoy;0.52;119;7;17;4;40%;98;20%;2;2;TLP Monkies;
+W;Killjoy;0.74;142;10;15;4;73%;88;13%;2;2;TLP Monkies;
+L;Killjoy;0.69;178;10;15;5;70%;118;15%;2;1;TLP Monkies;
+L;Sage;0.78;148;11;19;5;54%;103;36%;3;2;TLP Monkies;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;90;4;16;6; ;68;9%;0;3;Nanashi no Gonbee;

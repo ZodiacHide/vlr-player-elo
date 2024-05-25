@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;97;6;19;8; ;72;7%;2;0;Infamous Gaming;
+L;Omen; ;97;6;19;8; ;72;7%;2;0;Infamous Gaming;

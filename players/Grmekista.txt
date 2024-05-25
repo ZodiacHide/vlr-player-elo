@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;175;12;17;16; ;102;8%;2;1;Team Spectralis;
+L;Brimstone; ;151;14;19;16; ;85;12%;2;1;Team Spectralis;
+W;Brimstone; ;204;19;16;7; ;122;22%;1;2;Team Spectralis;
+L;Brimstone; ;156;10;17;5; ;94;11%;1;1;Team Spectralis;
+L;Jett; ;288;22;15;2; ;174;23%;6;0;Team Spectralis;
+L;Jett; ;180;11;16;1; ;94;21%;3;5;Team Spectralis;
+L;Jett; ;182;9;15;7; ;112;13%;2;1;Team Spectralis;
+L;Jett;0.62;136;8;17;7;41%;108;9%;2;5;breskvice;
+L;Jett;0.55;160;13;19;0;50%;88;16%;3;4;breskvice;

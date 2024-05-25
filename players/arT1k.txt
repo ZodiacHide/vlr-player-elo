@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;234;14;8;3; ;151;30%;0;1;N4PAS;
+L;Sova; ;198;13;16;9; ;109;25%;0;2;N4PAS;
+W;Sova; ;153;11;8;8; ;88;15%;0;1;N4PAS;
+L;Sova; ;146;12;15;1; ;92;32%;1;0;N4PAS;
+L;Sova; ;145;11;13;6; ;87;29%;1;0;N4PAS;

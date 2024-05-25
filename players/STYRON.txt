@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.54;134;6;14;2;31%;87;16%;2;2;Team 600;
+L;Killjoy;0.93;267;21;17;2;67%;151;21%;2;1;Team 600;
+W;Killjoy;1.03;181;16;14;4;65%;105;10%;0;4;Team 600;
+L;Killjoy;0.69;172;9;14;1;50%;114;36%;0;3;Team 600;

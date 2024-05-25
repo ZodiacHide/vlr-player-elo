@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;220;21;19;5; ;122;22%;1;4;Wheels;
+L;Breach; ;65;2;17;5; ;56;9%;0;5;Wheels;
+W;Cypher; ;181;14;13;5; ;164;20%;2;0;Wheels;
+L;Cypher; ;145;14;16;9; ;73;20%;2;1;Wheels;
+L;Cypher; ;120;7;16;6; ;85;19%;1;1;Wheels;
+L;Skye; ;83;6;15;2; ;53;9%;0;3;Wheels;
+L;Cypher; ;175;13;16;8; ;100;7%;1;2;Wheels;

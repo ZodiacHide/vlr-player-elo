@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;100;7;14;2; ;63;14%;0;1;Sac State Hornets;
+L;Raze; ;139;6;13;2; ;86;23%;0;1;Sac State Hornets;
+L;Sage; ;125;8;15;5; ;64;15%;2;1;Sac State Hornets;
+L;Sage; ;135;8;13;4; ;90;21%;1;2;Sac State Hornets;

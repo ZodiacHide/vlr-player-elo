@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.11;65;2;13;0;31%;47;11%;1;3;Sanctity;
+L;Astra;0.32;80;4;15;3;33%;52;9%;0;2;Sanctity;

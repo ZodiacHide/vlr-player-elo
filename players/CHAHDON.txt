@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.19;59;1;15;2;19%;51;4%;0;5;La7zag Esports;
+L;Sage;0.39;86;4;14;5;50%;49;31%;0;3;La7zag Esports;

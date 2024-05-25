@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;168;8;15;5; ;119;23%;1;2;Infantry;
+L;Cypher; ;153;14;16;3; ;97;48%;1;2;Infantry;
+L;Cypher; ;283;23;19;4; ;192;25%;3;0;Infantry;

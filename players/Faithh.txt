@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;164;14;12;11; ;95;20%;1;1;MeT;
+L;Sage; ;153;11;19;8; ;78;9%;0;0;MeT;
+W;Omen; ;184;16;15;6; ;116;27%;2;2;MeT;
+L;Omen; ;135;8;16;7; ;74;16%;2;0;MeT;
+W;Omen; ;306;23;10;6; ;240;21%;3;0;MeT;
+L;Breach; ;119;7;15;10; ;70;12%;0;1;MeT;
+W;Omen; ;136;10;14;7; ;78;16%;2;3;MeT;
+W;Omen; ;161;13;16;7; ;85;21%;1;4;MeT;
+L;Omen; ;141;9;15;8; ;107;11%;0;2;MeT;
+L;Breach; ;89;4;16;5; ;61;38%;0;3;MeT;

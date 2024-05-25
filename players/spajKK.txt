@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;KK VALORANT;
+L;Raze; ;169;10;13;6; ; ; ;1; ;KK VALORANT;
+L;Raze; ;274;21;15;2; ; ; ;3; ;KK VALORANT;
+L;None;0;0;0;0;0;0;0;0;0;0;KK VALORANT;
+W;None;0;0;0;0;0;0;0;0;0;0;KK VALORANT;
+L;Raze; ;152;8;17;3; ; ; ;4; ;KK VALORANT;

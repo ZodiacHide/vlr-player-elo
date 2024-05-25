@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;126;10;18;1; ;66;10%;3;6;IC9;
+L;Jett; ;139;9;15;1; ;88;35%;4;4;IC9;
+W;Jett;1.16;253;19;15;7;74%;161;31%;6;3;Rhyno Esports;
+L;Jett;0.54;131;7;17;3;44%;84;14%;1;5;Rhyno Esports;
+W;Reyna;0.81;151;11;16;8;68%;103;23%;0;4;Rhyno Esports;
+W;Jett;1.06;241;18;14;3;75%;136;25%;4;3;Rhyno Esports;
+L;Jett;0.53;118;6;14;2;47%;80;17%;0;5;Rhyno Esports;
+L;Jett;0.72;159;11;18;5;55%;103;24%;2;5;Rhyno Esports;
+L;Cypher; ;188;15;13;0; ;117;26%;3;1;Wygers;
+L;Killjoy;0.68;152;11;14;1;61%;96;13%;1;2;Souldazz;
+L;Cypher;0.91;192;11;15;5;58%;133;17%;2;2;Souldazz;
+L;Killjoy; ;155;10;18;5; ;119;18%;2;4;Wygers;

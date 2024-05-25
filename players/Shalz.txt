@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;1.08;190;15;13;7;78%;130;30%;0;1;Fenerbahçe Esports;
+L;Sova;0.71;136;10;17;6;64%;90;16%;0;2;Fenerbahçe Esports;
+L;Sova;0.73;157;9;14;0;59%;109;24%;1;2;Fenerbahçe Esports;
+W;Sova;1.09;227;17;14;6;70%;147;24%;2;1;Fenerbahçe Esports;
+L;Sova;0.86;184;9;15;7;82%;132;32%;1;0;Fenerbahçe Esports;
+L;Breach;0.98;207;16;18;6;78%;138;27%;4;1;Fenerbahçe Esports;
+L;Sova;0.69;161;14;22;7;62%;120;39%;1;3;Fenerbahçe Esports;
+L;Sova;0.67;118;7;13;4;47%;88;14%;0;1;Fenerbahçe Esports;

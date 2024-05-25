@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Absolute Legends Blue;
+L;None;0;0;0;0;0;0;0;0;0;0;Absolute Legends Blue;
+W;None;0;0;0;0;0;0;0;0;0;0;Absolute Legends Blue;
+L;None;0;0;0;0;0;0;0;0;0;0;Absolute Legends Blue;
+W;Sage; ;178;11;9;12; ; ; ;1; ;Absolute Legends Blue;
+L;Sage; ;112;5;15;6; ; ; ;0; ;Absolute Legends Blue;
+W;Sage; ;243;19;8;9; ; ; ;1; ;Absolute Legends Blue;
+L;Sage; ;128;9;16;5; ; ; ;0; ;Absolute Legends Blue;
+L;Sage; ;171;14;13;4; ;101;20%;1;2;Absolute Legends Blue;
+L;Breach; ;110;9;16;12; ;84;19%;2;1;M4LIK;

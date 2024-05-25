@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;201;12;14;4; ;121;20%;2;2;Royal;
+L;None;0;0;0;0;0;0;0;0;0;0;Royal;
+L;Omen;0.84;177;12;15;3;63%;121;22%;0;1;Waverunners;
+L;Astra;0.99;268;19;17;2;65%;152;15%;2;0;Waverunners;
+L;Omen;1.20;259;23;17;4;71%;141;25%;5;0;Waverunners;
+L;Astra;0.92;236;17;17;5;68%;154;26%;2;0;Waverunners;
+W;Killjoy;0.94;152;14;14;2;52%;109;18%;0;2;Zealous;
+L;Cypher;0.97;218;18;15;5;67%;125;20%;1;1;Zealous;
+L;Killjoy;0.37;139;7;16;3;59%;108;16%;0;1;Zealous;
+W;Killjoy;1.30;277;25;14;4;74%;172;25%;3;2;Zealous;
+L;Killjoy;0.76;201;12;18;2;50%;136;17%;3;1;Zealous;
+W;Killjoy;1.38;250;17;11;6;75%;187;25%;2;2;Zealous;
+L;Sage;1.28;202;21;18;16;77%;132;38%;2;0;Zealous;
+L;Killjoy;0.50;127;4;13;6;67%;93;22%;0;2;Zealous;

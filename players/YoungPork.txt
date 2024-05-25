@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Chimaera;
+W;Omen; ;118;9;7;4; ;68;33%;0;1;Chimaera;
+L;Omen; ;231;19;15;3; ;141;21%;2;0;Chimaera;
+L;None;0;0;0;0;0;0;0;0;0;0;Chimaera;
+W;Omen; ;217;21;17;2; ;189;27%;3;0;Oasis Gaming;
+W;None;0;0;0;0;0;0;0;0;0;0;Oasis Gaming;
+L;None;0;0;0;0;0;0;0;0;0;0;Oasis Gaming;
+L;Viper; ;229;22;16;4; ;178;26%;1;1;Oasis Gaming;
+L;Viper;1.07;230;18;20;8;61%;145;22%;3;2;Oasis Gaming;

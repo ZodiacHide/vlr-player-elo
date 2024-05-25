@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.54;138;8;17;3;42%;83;17%;0;2;Rebellious Gaming;
+L;Omen;0.60;175;10;14;0;53%;103;28%;1;0;Rebellious Gaming;

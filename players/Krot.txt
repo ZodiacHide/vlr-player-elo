@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;192;14;11;5; ;115;20%;1;0;InFernal;
+L;Breach; ;99;6;17;5; ;55;13%;1;3;InFernal;
+L;Breach; ;172;11;16;5; ;86;30%;0;1;InFernal;

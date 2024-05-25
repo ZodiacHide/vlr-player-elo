@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;193;10;14;2; ; ; ;1; ;Dawn of Stars;
+L;Sova; ;209;17;16;6; ; ; ;2; ;Dawn of Stars;
+W;Sova; ;279;19;8;5; ; ; ;1; ;Dawn of Stars;
+L;Jett; ;209;14;16;1; ;124;30%;6;4;Dawn of Stars;
+L;Jett; ;267;19;16;1; ;153;21%;6;3;Dawn of Stars;
+W;Jett; ;379;18;5;1; ;246;30%;7;0;Dawn of Stars;
+W;Jett; ;363;28;16;3; ;199;24%;10;3;Dawn of Stars;
+L;Jett; ;308;25;19;5; ;207;32%;8;7;Dawn of Stars;
+L;Jett; ;177;13;17;1; ;115;31%;5;5;Dawn of Stars;
+W;Sova; ;201;13;11;7; ;133;14%;0;2;Dawn of Stars;
+W;Sova; ;294;21;15;9; ;171;26%;7;1;Dawn of Stars;
+W;Raze;1.34;340;27;19;5;83%;182;24%;10;6;WLGaming Esports;
+L;Jett;0.92;229;20;26;9;63%;156;25%;8;9;WLGaming Esports;
+L;Raze;0.43;119;6;16;1;47%;77;45%;2;4;WLGaming Esports;

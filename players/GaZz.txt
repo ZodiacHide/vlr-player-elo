@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;198;8;13;4; ;125;15%;1;1;ECM FCG eSports;
+L;Sova; ;158;9;17;2; ;110;18%;1;2;ECM FCG eSports;
+L;Sova;1.10;240;19;17;7;75%;168;26%;2;5;ECM FCG eSports;
+L;Skye;0.47;81;3;15;7;50%;65;13%;1;4;ECM FCG eSports;

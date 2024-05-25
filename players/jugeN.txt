@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;221;13;17;2; ;109;44%;3;5;BLOKES;
+L;Reyna; ;216;17;20;5; ;133;38%;8;3;LAGOS;
+W;Raze; ;193;14;18;5; ;120;18%;2;4;LAGOS;
+W;Raze;1.17;260;18;15;4;80%;170;32%;6;7;WICKED;
+L;Raze;0.79;235;13;16;3;65%;130;27%;2;4;WICKED;
+L;Raze;0.68;228;11;15;1;53%;139;36%;4;5;WICKED;
+L;Reyna;0.60;158;13;17;3;65%;95;32%;4;7;WICKED;
+L;Reyna;0.47;183;8;15;3;73%;104;28%;3;5;WICKED;

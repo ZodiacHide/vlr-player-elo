@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Skye;1.25;221;16;10;7;89%;145;32%;0;0;RARE Esports;
+W;Sage;0.90;148;11;11;5;80%;88;36%;1;3;RARE Esports;
+W;Brimstone;0.99;155;11;12;6;79%;98;16%;1;2;RARE Esports;
+W;Skye;0.86;201;12;9;2;86%;112;15%;1;1;RARE Esports;
+L;Brimstone;0.34;68;4;18;6;43%;41;13%;0;4;RARE Esports;
+W;Skye;0.89;121;6;10;11;83%;77;21%;0;0;RARE Esports;
+W;Omen;0.94;195;17;15;7;71%;106;21%;3;2;RARE Esports;
+W;Sage;1.27;275;20;14;7;76%;161;28%;2;0;RARE Esports;
+L;Brimstone;0.73;143;14;19;4;54%;95;18%;1;3;RARE Esports;
+L;Skye;0.60;118;9;16;1;35%;76;39%;0;2;RARE Esports;
+L;Skye;0.55;125;10;22;6;63%;79;19%;2;3;RARE Esports;
+L;Skye;0.47;128;7;15;3;40%;78;18%;0;2;RARE Esports;

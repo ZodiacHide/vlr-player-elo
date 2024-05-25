@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;160;6;14;7; ;99;8%;1;0;The Boys;
+L;Omen; ;136;11;16;5; ;98;25%;2;1;The Boys;
+L;Jett; ;143;14;15;3; ;77;12%;4;1;The Boys;
+L;Jett; ;198;18;19;3; ;121;35%;1;4;The Boys;

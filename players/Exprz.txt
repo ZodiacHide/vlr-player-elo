@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;146;13;16;8; ;88;18%;2;3;TopHard Esports;
+L;Sova; ;166;11;14;5; ;122;15%;2;5;TopHard Esports;

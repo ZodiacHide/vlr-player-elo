@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Rugratz;
+L;None;0;0;0;0;0;0;0;0;0;0;Rugratz;
+L;None;0;0;0;0;0;0;0;0;0;0;Rugratz;
+L;Sage; ;184;17;14;5; ; ; ;2; ;Space Cowboys;
+W;None;0;0;0;0;0;0;0;0;0;0;Space Cowboys;
+W;None;0;0;0;0;0;0;0;0;0;0;Space Cowboys;
+L;None;0;0;0;0;0;0;0;0;0;0;Space Cowboys;
+L;Jett; ;188;14;17;1; ;113; ;2; ;Phoenix1 Reborn;
+W;Jett; ;155;14;20;5; ;104; ;3; ;Phoenix1 Reborn;
+L;Jett; ;299;17;15;1; ; ; ;3; ;Phoenix1 Reborn;

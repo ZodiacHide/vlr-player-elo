@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;143;10;19;13; ; ; ;1; ;Interpol;
+L;Sage; ;181;13;18;4; ; ; ;2; ;Interpol;

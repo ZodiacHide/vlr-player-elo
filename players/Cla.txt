@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.82;207;14;15;3;80%;131;15%;3;1;TENSTAR Nova;
+L;Reyna;0.96;237;17;19;5;67%;153;19%;6;4;TENSTAR Nova;
+W;Cypher;1.24;203;11;6;4;87%;134;19%;0;1;TENSTAR Nova;
+W;Raze;1.87;357;17;6;8;100%;226;13%;3;1;TENSTAR Nova;
+W;Raze;1.55;331;18;10;10;94%;218;11%;4;0;TENSTAR Nova;
+W;Raze;1.38;250;16;11;10;75%;175;15%;2;1;TENSTAR Nova;
+W;Raze;1.93;450;31;12;8;90%;292;21%;4;2;TENSTAR Nova;
+W;Raze;1.90;379;26;9;6;94%;238;17%;4;0;TENSTAR Nova;

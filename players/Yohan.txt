@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.95;209;17;18;5;61%;122;18%;0;3;RYU Gaming;
+L;Omen;0.70;107;7;15;3;75%;71;12%;1;0;RYU Gaming;
+L;Astra;0.24;100;5;14;0;33%;45;27%;0;1;RYU Gaming;
+L;Omen;0.86;148;12;16;5;55%;107;31%;0;0;RYU Gaming;
+W;Viper;1.09;211;11;10;6;80%;134;22%;2;1;RYU Gaming;
+L;Omen;0.66;121;6;18;10;70%;97;10%;2;3;RYU Gaming;
+L;Viper;0.92;221;12;15;6;58%;150;23%;1;1;RYU Gaming;

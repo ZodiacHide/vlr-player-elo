@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone;0.62;130;6;12;3;60%;85;30%;1;0;Bizarre Gaming;
+L;Omen;0.76;168;10;14;1;41%;112;23%;2;1;Bizarre Gaming;

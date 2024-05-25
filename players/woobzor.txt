@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;169;11;18;2; ; ; ;1; ;Team gamelifeow;
+L;Jett; ;87;5;15;2; ; ; ;1; ;Team gamelifeow;
+L;Phoenix; ;231;18;17;6; ; ; ;2; ;Team gamelifeow;

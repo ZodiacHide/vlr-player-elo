@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;1.05;243;20;17;6;79%;149;39%;8;6;Damianos Esport;
+L;Killjoy;0.95;256;19;20;5;77%;177;25%;4;1;Damianos Esport;

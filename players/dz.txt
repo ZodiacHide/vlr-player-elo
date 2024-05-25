@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;206;14;15;8; ;119;44%;0;5;My Queen;
+W;Sova; ;172;15;15;4; ;117;42%;1;0;My Queen;
+W;Sova; ;263;18;16;10; ;162;18%;2;1;My Queen;

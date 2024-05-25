@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.65;165;12;18;1;48%;84;18%;1;6;Bandit ESC;
+W;Sova;1.08;187;16;16;6;67%;115;32%;0;1;Pigeons Esports;
+L;Sova;1.29;268;16;13;7;74%;177;30%;0;1;Pigeons Esports;
+W;Sova;1.25;246;26;18;12;81%;162;22%;4;1;Pigeons Esports;
+L;Jett;0.99;197;14;17;2;57%;131;36%;5;3;Pigeons Esports;
+L;Sova;0.76;142;9;17;12;74%;112;27%;2;3;Pigeons Esports;

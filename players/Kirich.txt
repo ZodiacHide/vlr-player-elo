@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;242;19;16;6; ;156;30%;5;2;No Fear;
+L;Sage;0.57;95;4;14;4;47%;67;32%;0;2;zTitans;

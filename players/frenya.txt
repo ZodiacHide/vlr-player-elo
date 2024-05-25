@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;194;15;16;5; ;118;15%;2;0;HA`KARANTINE;
+L;Cypher; ;187;14;16;3; ;106;17%;1;0;HA`KARANTINE;
+W;Cypher; ;163;17;17;7; ;145;20%;2;1;jaba;
+L;Killjoy; ;200;21;20;2; ;122;15%;1;2;jaba;
+L;Cypher; ;193;11;13;2; ;109;38%;1;1;jaba;
+W;Killjoy;0.84;138;10;14;2;61%;97;11%;0;4;Moscow Five jr;
+W;Skye;0.92;178;12;17;11;82%;117;11%;3;2;Moscow Five jr;
+L;Killjoy;1.14;231;19;15;4;61%;155;18%;1;2;Moscow Five jr;
+L;Sova;0.74;185;10;16;4;56%;133;29%;1;1;Moscow Five jr;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;188;14;18;5; ;110;12%;3;4;DevilDucks;
+L;Breach; ;154;11;13;5; ;88;27%;4;3;DevilDucks;

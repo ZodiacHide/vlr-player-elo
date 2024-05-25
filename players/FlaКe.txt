@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;240;13;12;6; ;144;22%;2;3;Buscando Org;
+W;Jett; ;299;20;9;2; ;170;9%;5;1;Buscando Org;
+L;Jett; ;222;13;12;0; ;118;18%;1;0;Buscando Org;
+L;Omen; ;168;11;15;0; ;92;16%;2;1;Buscando Org;

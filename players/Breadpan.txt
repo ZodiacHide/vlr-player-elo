@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;201;11;15;7; ;132;19%;3;2;NXP.Aether;
+L;Cypher; ;157;15;14;3; ;89;16%;0;1;NXP.Aether;
+L;Killjoy;1.04;210;21;19;6;77%;141;31%;4;3;Vendetta;
+W;Cypher;0.78;109;8;12;5;75%;73;29%;0;1;Vendetta;
+L;Omen;1.20;295;23;16;2;77%;175;25%;2;2;Vendetta;
+L;Cypher;0.56;154;10;16;2;53%;84;31%;1;5;Vendetta;

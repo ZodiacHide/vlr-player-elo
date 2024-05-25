@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;AERIS;Haven;MUTANTS;SimonD4rk;yuudai;hvoya;Vlady;Redgar;6:13;False;40:16;Saturday, August 22nd, 1:10 PM CEST;24cyber ORCs Cup Weekly;https://youtu.be/WUhmy0qT82E;
+Defense;W;AERIS;Bind;MUTANTS;SimonD4rk;yuudai;hvoya;Vlady;Redgar;13:10;False;45:01;Saturday, August 22nd, 1:10 PM CEST;24cyber ORCs Cup Weekly;https://youtu.be/WUhmy0qT82E?t=293;
+Attack;L;AERIS;Ascent;MUTANTS;SimonD4rk;yuudai;hvoya;Vlady;Redgar;7:13;False;38:12;Saturday, August 22nd, 1:10 PM CEST;24cyber ORCs Cup Weekly;https://youtu.be/WUhmy0qT82E?t=3075;

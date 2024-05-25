@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;290;20;17;7; ;143;31%;2;2;Prima Esport;
+W;Sova; ;253;23;11;8; ;161;35%;1;0;Prima Esport;
+L;Sova; ;241;13;13;4; ;119;14%;3;0;Prima Esport;

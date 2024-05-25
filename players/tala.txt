@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;220;15;14;11; ;131;33%;2;1;Typhoon;
+L;Cypher; ;192;13;17;4; ;135;22%;2;2;Typhoon;
+W;Jett; ;307;14;7;3; ;198;19%;5;0;Typhoon;
+L;Omen; ;119;7;15;2; ;89;47%;0;1;Typhoon;
+L;Omen; ;170;12;17;8; ;112;24%;3;3;Typhoon;
+L;Omen; ;152;10;12;6; ;80;39%;1;0;Typhoon;
+W;Cypher; ;239;14;7;6; ;160;19%;3;0;Typhoon;
+W;Cypher; ;172;15;14;3; ;107;18%;1;1;Typhoon;
+L;Cypher; ;86;5;13;1; ;60;18%;0;1;Typhoon;
+L;Cypher; ;67;4;17;4; ;42;19%;1;2;Typhoon;
+W;Cypher; ;172;16;13;2; ;115;34%;4;0;Typhoon;
+L;Cypher; ;125;10;17;2; ;78;28%;0;5;Typhoon;
+L;Cypher; ;87;7;17;1; ;65;33%;1;2;Typhoon;
+L;None;0;0;0;0;0;0;0;0;0;0;Velox;
+W;None;0;0;0;0;0;0;0;0;0;0;Velox;
+W;Sage;0.88;150;12;14;5;68%;89;23%;1;2;Velox;

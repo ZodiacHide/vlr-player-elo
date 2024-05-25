@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;117;7;16;5; ;90;27%;0;3;NVM;
+L;Sova; ;174;13;12;5; ;128;29%;0;0;NVM;
+L;Sova; ;202;16;15;3; ;134;50%;2;1;fostercare;
+W;Sova; ;160;8;8;5; ;90;18%;0;1;fostercare;
+L;Sova; ;251;19;18;6; ;186;37%;1;2;fostercare;
+W;Sova; ;213;19;21;7; ;148;26%;2;4;fostercare;
+L;Sage; ;213;18;19;4; ;127;22%;2;2;fostercare;
+L;Sage; ;230;14;14;8; ;145;32%;2;1;Project X;
+L;Sova; ;183;11;15;4; ;117;32%;2;2;Project X;
+L;Phoenix;0.74;202;10;16;8;71%;108;17%;2;2;zTitans;

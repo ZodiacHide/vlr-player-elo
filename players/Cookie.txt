@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;118;7;16;2; ;69;22%;2;3;Team Sinful;
+L;Breach; ;52;2;15;3; ;28;17%;0;2;Team Sinful;

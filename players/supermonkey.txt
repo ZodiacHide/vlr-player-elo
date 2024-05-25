@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.57;209;10;15;1;64%;105;23%;2;2;Obey Alliance;
+L;Raze;0.58;155;5;14;4;57%;105;12%;2;0;Obey Alliance;
+L;Jett;1.06;201;16;16;2;65%;123;36%;3;6;Obey Alliance;

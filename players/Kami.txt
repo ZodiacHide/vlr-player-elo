@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.34;119;4;14;3;43%;75;3%;2;2;Waifu Warriors;

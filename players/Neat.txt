@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;201;11;14;4; ;123;16%;1;1;ANEW Esports;
+W;Sova; ;196;15;13;5; ;122;10%;1;2;ANEW Esports;
+L;Sova; ;180;14;14;9; ;117;30%;1;1;ANEW Esports;
+L;Sage;0.63;184;8;14;3;47%;144;20%;1;1;Down Two Earth;
+L;Viper;0.39;80;4;14;3;41%;56;13%;0;4;Down Two Earth;
+L;Phoenix;0.43;105;4;14;3;40%;83;23%;2;1;Down Two Earth;
+L;Viper;0.86;210;16;17;2;74%;136;29%;1;0;Down Two Earth;
+L;Sage;0.95;234;11;14;3;67%;150;31%;0;0;Down Two Earth;

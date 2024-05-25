@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.94;240;17;17;3;62%;144;19%;3;6;el bdoon;
+L;Jett;0.61;163;10;16;1;37%;90;27%;3;5;el bdoon;
+W;Skye;1.26;219;18;13;4;62%;145;26%;1;0;Piercer Esports;
+W;Cypher;1.52;286;23;11;0;86%;200;37%;1;1;Piercer Esports;
+W;Skye;1.12;194;13;12;2;68%;140;41%;1;3;Piercer Esports;
+L;Skye;0.83;172;16;20;11;69%;105;17%;2;4;Piercer Esports;
+W;Sage;0.78;131;13;19;15;65%;97;34%;1;5;Piercer Esports;
+L;Skye;0.51;127;13;25;7;50%;93;22%;1;3;Piercer Esports;
+L;Skye;0.13;60;2;13;1;46%;40;7%;0;7;Piercer Esports;
+W;Cypher;1.56;291;21;10;1;72%;171;24%;1;1;Piercer Esports;
+L;Sage;0.43;109;5;18;7;56%;73;17%;0;5;Piercer Esports;
+L;Skye;0.75;116;9;16;10;68%;87;36%;2;4;Piercer Esports;

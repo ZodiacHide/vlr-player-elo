@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;244;13;12;2; ;193;16%;0;0;ULVL;
+W;Sova; ;233;20;16;6; ;147;21%;2;0;ULVL;
+L;Killjoy;0.63;132;6;15;4;56%;90;17%;1;1;ULVL;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;143;6;13;5; ;72;21%;1;5;EFuture;
+W;Breach; ;319;18;11;9; ;203;26%;5;1;EFuture;
+L;Breach; ;110;5;15;5; ;77;18%;0;3;EFuture;

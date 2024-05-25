@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;135;7;14;1; ;82;29%;1;0;eRa Eternity;
+L;Omen; ;175;10;16;5; ;113;19%;1;0;eRa Eternity;
+L;Omen; ;174;14;18;3; ;133;22%;1;1;eRa Eternity;

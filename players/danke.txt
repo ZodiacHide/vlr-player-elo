@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;181;12;15;7; ; ; ;1; ;On'Verge;
+L;Jett; ;201;13;15;2; ;110;30%;5;5;Offenders;
+L;Raze; ;275;19;20;8; ;166;20%;7;4;Offenders;

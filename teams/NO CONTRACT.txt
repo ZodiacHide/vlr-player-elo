@@ -1,0 +1,9 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;pokas ideia;Ascent;Decider;LEAN;gustt1nha;AimGreen;13:9;False;37:28;Tuesday, October 27th, 12:00 AM CET;Esportsmaker Spike Series;url.net;
+Attack;W;tiobarão;Bind;tiobarão;tHeLiFeSnAkE;gustt1nha;LEAN;AimGreen;sutecas;13:4;False;32:43;Wednesday, October 28th, 1:30 AM CET;Esportsmaker Spike Series;https://www.twitch.tv/videos/783854669?t=2h20m48s;
+Defense;W;tiobarão;Ascent;tiobarão;tHeLiFeSnAkE;gustt1nha;LEAN;AimGreen;sutecas;13:11;False;45:16;Wednesday, October 28th, 1:30 AM CET;Esportsmaker Spike Series;https://www.twitch.tv/videos/783854669?t=2h20m48s;
+Defense;L;Mix;Split;NO CONTRACT;AimGreen;gustt1nha;tHeLiFeSnAkE;LEAN;sutecas;10:13;False;45:37;Thursday, October 29th, 10:00 PM CET;Esportsmaker Spike Series;https://www.twitch.tv/videos/785787802?t=0h34m16s;
+Attack;W;Mix;Ascent;NO CONTRACT;AimGreen;gustt1nha;tHeLiFeSnAkE;LEAN;sutecas;13:10;False;47:16;Thursday, October 29th, 10:00 PM CET;Esportsmaker Spike Series;https://www.twitch.tv/videos/785787802?t=0h34m16s;
+Attack;L;Mix;Bind;NO CONTRACT;AimGreen;gustt1nha;tHeLiFeSnAkE;LEAN;sutecas;10:13;False;48:31;Thursday, October 29th, 10:00 PM CET;Esportsmaker Spike Series;https://www.twitch.tv/videos/785787802?t=0h34m16s;
+Defense;L;Falkol eSports;Ascent;Falkol eSports;tHeLiFeSnAkE;gustt1nha;sutecas;LEAN;AimGreen;4:13;False;33:16;Friday, October 30th, 10:15 PM CET;Esportsmaker Spike Series;https://www.twitch.tv/videos/786832201?t=0h38m40s;
+Attack;L;Falkol eSports;Bind;Falkol eSports;tHeLiFeSnAkE;gustt1nha;sutecas;LEAN;AimGreen;2:13;False;25:01;Friday, October 30th, 10:15 PM CET;Esportsmaker Spike Series;https://www.twitch.tv/videos/786832201?t=0h38m40s;

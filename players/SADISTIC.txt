@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy;1.46;245;15;10;6;94%;174;22%;4;1;Thailand Attitude;
+W;Cypher;1.03;146;10;8;5;88%;77;16%;1;1;Thailand Attitude;
+W;Killjoy;1.18;193;15;9;4;75%;118;15%;1;2;Thailand Attitude;
+L;Cypher;0.30;83;4;13;1;36%;49;17%;0;0;Thailand Attitude;
+L;Cypher;0.47;98;6;13;0;25%;60;25%;1;6;Thailand Attitude;
+L;Killjoy;0.28;79;3;14;4;40%;55;0%;0;2;Thailand Attitude;

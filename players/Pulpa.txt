@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Estral Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Estral Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Estral Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Estral Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Estral Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Estral Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Estral Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Kaizen Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Kaizen Esports;
+L;Raze; ;114;7;21;6; ;77;5%;2;8;Kaizen Esports;

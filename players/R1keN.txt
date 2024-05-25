@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;214;15;20;4; ; ; ;2; ;ProximiniTY Gaming;
+L;Sova; ;200;10;13;5; ; ; ;3; ;ProximiniTY Gaming;
+W;Raze; ;302;20;17;8; ;177;19%;7;0;Brave;
+L;Phoenix; ;141;9;17;4; ;98;30%;3;6;Brave;
+W;Raze; ;133;7;14;5; ;94;6%;1;2;Brave;
+W;Raze; ;285;20;17;6; ;165;18%;5;2;Brave;
+W;Raze; ;167;13;14;6; ;113;25%;1;2;Brave;
+L;Raze; ;71;3;16;2; ;59;12%;1;5;Brave;
+L;Raze; ;194;11;17;5; ;134;15%;2;4;Brave;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;245;23;22;7; ;188;14%;3;3;Vipes Anime Crew;
+L;Reyna; ;255;12;13;2; ;154;28%;3;3;Vipes Anime Crew;

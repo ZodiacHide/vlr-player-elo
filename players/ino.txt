@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix;0.51;157;9;18;1;47%;99;28%;3;2;Spectral Esports Purple;
+L;Reyna;0.24;104;4;15;2;47%;65;21%;1;6;Spectral Esports Purple;
+L;Raze;0.21;97;4;13;0;38%;44;44%;2;6;Spectral Esports Purple;

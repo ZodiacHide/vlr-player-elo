@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;142;9;15;8; ;95;31%;2;1;silhouette;
+L;Breach; ;66;3;14;3; ;45;7%;0;5;silhouette;
+L;Breach; ;117;8;16;8; ;72;22%;0;3;silhouette;
+L;Killjoy;0.74;131;10;16;3;46%;110;16%;2;2;Moon Raccoons Black;
+L;Killjoy;0.60;112;8;18;5;57%;84;10%;0;1;Moon Raccoons Black;
+L;Killjoy;0.61;148;11;20;6;70%;102;25%;1;2;Moon Raccoons Black;
+L;Killjoy;0.90;164;9;11;0;75%;87;38%;0;0;Moon Raccoons Black;

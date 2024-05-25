@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;2.02;455;22;7;8;86%;280;25%;5;5;Guild GC;
+W;Jett;1.65;244;14;4;4;93%;146;14%;4;0;Guild GC;
+W;Jett;1.88;382;21;7;1;93%;234;30%;6;1;Guild GC;
+W;Jett;1.59;299;18;8;5;88%;200;30%;4;2;Guild GC;
+L;Jett;1.00;269;23;19;5;87%;173;17%;5;1;Guild GC;
+L;Jett;0.75;226;15;18;4;70%;148;24%;5;2;Guild GC;

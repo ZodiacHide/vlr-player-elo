@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;0.86;182;18;20;3;63%;118;29%;4;1;Angry Titans;
+L;Omen;0.85;217;13;17;8;80%;159;34%;0;2;Angry Titans;
+L;Omen;0.70;190;12;14;1;63%;98;33%;1;4;Angry Titans;
+L;Astra;0.95;272;20;19;8;77%;162;18%;0;2;Angry Titans;
+L;Astra;0.75;146;15;21;4;75%;92;30%;1;2;Angry Titans;

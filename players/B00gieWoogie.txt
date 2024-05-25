@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;185;10;13;0; ;84;8%;0;1;atreus;
+L;Omen; ;119;4;13;4; ;78;38%;1;1;atreus;
+L;None;0;0;0;0;0;0;0;0;0;0;La Menace Fantôme;
+L;Killjoy;0.55;103;8;17;1;37%;62;36%;0;4;La Menace Fantôme;

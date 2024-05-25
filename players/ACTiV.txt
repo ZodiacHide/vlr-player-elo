@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;108;7;17;2; ;70;20%;0;3;AYB Esports;
+L;Cypher; ;109;9;18;5; ;72;28%;1;2;AYB Esports;

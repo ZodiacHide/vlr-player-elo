@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;209;14;15;1; ;131;33%;3;2;Zwan Gaming;
+L;Brimstone; ;150;8;15;3; ;111;42%;0;3;Zwan Gaming;

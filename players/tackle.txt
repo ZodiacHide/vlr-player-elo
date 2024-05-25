@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;269;29;18;2; ;166;35%;5;4;Only One Word;
+W;Raze; ;269;18;13;3; ;135;29%;2;3;Only One Word;
+L;Raze; ;270;20;18;1; ;167;21%;5;1;Only One Word;
+W;Killjoy;1.14;245;15;11;3;72%;144;31%;2;2;All Born to Clutch;
+W;Killjoy;1.35;232;16;8;3;76%;140;10%;1;0;All Born to Clutch;
+L;Omen;0.89;212;12;14;4;50%;131;46%;1;1;All Born to Clutch;
+L;Killjoy;0.91;187;17;18;2;69%;105;24%;2;2;All Born to Clutch;
+L;Killjoy;0.90;185;18;18;9;71%;109;33%;2;1;All Born to Clutch;
+L;Raze;0.42;159;6;14;3;53%;104;15%;2;3;All Born to Clutch;

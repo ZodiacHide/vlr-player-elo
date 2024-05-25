@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;261;19;10;2; ;139;23%;5;1;TYLOO;
+W;Jett; ;148;10;10;0; ;100;39%;2;1;TYLOO;
+L;Jett; ;177;11;14;2; ;111;21%;4;1;TYLOO;
+W;Jett; ;234;19;11;1; ;135;29%;4;0;TYLOO;
+L;Jett; ;202;12;17;6; ;132;28%;3;1;TYLOO;
+L;Phoenix; ;67;3;16;1; ;43;11%;0;3;TYLOO;
+L;Jett; ;201;10;13;2; ;115;20%;4;4;team flavor;
+L;Raze; ;309;22;17;1; ;201;17%;5;2;team flavor;
+L;Breach; ;214;24;22;10; ;145;34%;1;2;Team NoX;
+L;Breach; ;154;6;14;8; ;85;30%;1;0;Team NoX;

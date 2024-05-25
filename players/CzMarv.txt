@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;266;20;19;2; ; ; ;5; ;Vikingekrig Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Vikingekrig Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Vikingekrig Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Vikingekrig Esports;
+L;Phoenix; ;246;15;8;5; ; ; ;1; ;Vikingekrig Esports;
+L;Phoenix; ;158;7;15;4; ; ; ;3; ;Vikingekrig Esports;
+L;None;0;0;0;0;0;0;0;0;0;0;Vikingekrig Esports;
+L;Breach; ;244;21;20;2; ; ; ;3; ;Vikingekrig Esports;

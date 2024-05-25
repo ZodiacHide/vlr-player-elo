@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;1.05;191;15;14;6;55%;119;29%;2;2;TENSTAR Nova;
+L;Sova;0.84;169;12;15;5;76%;126;37%;0;0;TENSTAR Nova;
+W;Skye;1.29;195;12;6;2;80%;152;25%;1;1;TENSTAR Nova;
+W;Sage;1.31;181;10;4;5;100%;127;14%;1;1;TENSTAR Nova;
+W;Sova;1.29;215;13;9;4;81%;158;35%;1;0;TENSTAR Nova;
+W;Astra;0.92;162;11;13;5;70%;115;20%;2;3;TENSTAR Nova;
+W;Astra;1.17;199;15;14;11;80%;138;23%;3;1;TENSTAR Nova;
+W;Sage;0.97;210;13;13;7;83%;129;29%;1;1;TENSTAR Nova;

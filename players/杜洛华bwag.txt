@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;163;10;15;2; ;117;26%;1;3;LGD Gaming;
+L;Phoenix; ;147;12;16;1; ;89;20%;5;3;LGD Gaming;
+W;Phoenix; ;275;22;15;4; ;183;16%;1;0;LGD Gaming;

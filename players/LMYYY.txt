@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;167;15;16;5; ; ; ;0; ;Shawty Gamin';
+L;Omen; ;204;15;20;4; ; ; ;1; ;Shawty Gamin';
+L;Omen; ;203;11;17;5; ; ; ;2; ;Shawty Gamin';

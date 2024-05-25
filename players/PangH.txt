@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.69;230;12;15;1;47%;135;60%;2;4;Invincible Gaming;
+L;Jett;0.98;277;16;17;2;72%;178;45%;2;3;Invincible Gaming;
+L;Jett;1.15;280;21;17;0;64%;176;30%;5;7;Invincible Gaming;
+L;Jett;0.61;136;9;15;1;55%;68;47%;3;6;Invincible Gaming;

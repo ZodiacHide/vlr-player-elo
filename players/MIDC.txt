@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;265;18;15;1; ;159;25%;6;0;Sneaker Daily Meloner;
+L;Jett; ;237;18;15;3; ;162;21%;1;0;Sneaker Daily Meloner;
+W;Skye;0.58;110;8;19;6;67%;69;19%;1;4;MEOGANG;
+L;Breach;0.65;145;6;13;3;40%;90;15%;2;0;Sneaker Daily Meloner;
+W;Skye;1.37;326;18;10;4;86%;192;33%;6;2;MEOGANG;
+W;Jett;0.92;200;14;15;4;67%;118;15%;5;6;Sneaker Daily Meloner;
+L;Skye;0.81;154;11;17;5;67%;102;32%;2;3;MEOGANG;
+L;Jett;0.47;134;8;16;0;29%;63;25%;2;6;Sneaker Daily Meloner;

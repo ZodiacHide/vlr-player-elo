@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;210;11;13;5; ;134;14%;4;2;Team Asteria;
+L;Brimstone; ;182;11;15;4; ;99;21%;0;2;Team Asteria;

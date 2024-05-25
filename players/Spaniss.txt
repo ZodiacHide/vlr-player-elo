@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;178;20;21;8; ;117;40%;2;5;doneVAL;
+L;Breach; ;212;16;12;5; ;176;28%;3;2;doneVAL;
+W;Brimstone; ;215;17;9;5; ;135;26%;1;2;TOOOLS esports;

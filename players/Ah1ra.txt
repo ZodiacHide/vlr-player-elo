@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;202;18;19;8; ;118;17%;3;1;Elevation;
+L;Sova; ;218;14;15;4; ;148;31%;1;3;Elevation;
+L;Skye;0.84;172;10;14;1;53%;94;15%;1;3;Pirate Nation;
+L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;

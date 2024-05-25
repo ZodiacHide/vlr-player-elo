@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.72;133;9;16;4;67%;98;16%;0;0;Ahjin;
+W;Sova;1.25;208;15;12;11;71%;122;16%;1;1;Ahjin;
+L;Sova;0.93;180;14;16;12;64%;119;16%;1;0;Ahjin;

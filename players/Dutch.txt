@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;1.24;256;19;14;5;86%;162;27%;1;0;Team Duelist;
+W;Omen;1.17;191;10;6;4;86%;109;18%;0;0;Team Duelist;
+W;Omen;1.42;217;12;5;3;93%;142;32%;0;0;Team Duelist;
+W;Omen;1.11;164;11;10;5;67%;124;23%;2;0;Team Duelist;
+L;Omen;0.69;163;9;15;4;71%;102;44%;1;1;Team Duelist;
+W;Omen;1.38;291;20;15;5;76%;204;36%;3;0;Team Duelist;
+L;Omen; ; ;14;19;11; ; ; ; ; ;Geekay Esports;
+W;Sage; ; ;20;13;6; ; ; ; ; ;Geekay Esports;
+L;Omen; ; ;10;17;4; ; ; ; ; ;Geekay Esports;
+L;Omen;0.90;220;13;13;4;72%;149;17%;0;1;Geekay Esports;
+W;Omen;1.04;175;13;14;5;71%;110;31%;2;0;Geekay Esports;
+L;Omen;0.80;144;12;16;2;59%;97;24%;1;1;Geekay Esports;

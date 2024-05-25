@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.31;132;5;13;1;38%;75;35%;0;3;Injected Sheesh;

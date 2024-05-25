@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.02;220;25;27;10;65%;135;13%;7;4;BLAHAJ;
+L;Jett;1.24;265;22;17;7;71%;181;20%;6;1;BLAHAJ;
+L;Phoenix;1.50;320;26;14;4;73%;181;32%;2;3;BLAHAJ;
+L;Jett;0.84;147;12;17;4;61%;98;21%;3;6;BLAHAJ;
+L;Phoenix;0.79;195;14;18;3;64%;136;21%;2;0;BLAHAJ;
+L;Jett;1.11;271;24;18;1;63%;161;25%;6;2;BLAHAJ;
+L;Phoenix;0.86;184;10;14;7;63%;121;33%;2;2;BLAHAJ;
+L;Phoenix;0.65;155;9;18;3;62%;108;28%;2;5;Cosmic Divide;
+W;Raze;0.57;180;14;21;5;71%;101;9%;2;1;Cosmic Divide;
+L;Raze;0.43;120;7;18;5;37%;86;17%;2;5;Cosmic Divide;
+L;Phoenix;0.38;103;7;17;2;61%;68;33%;0;2;Cosmic Divide;

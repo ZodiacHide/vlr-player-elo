@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;106;7;18;6; ;86;33%;0;3;Exceeli Esports;
+L;Breach; ;234;15;15;5; ;158;41%;1;2;Exceeli Esports;
+L;Breach; ;131;10;18;8; ;90;24%;1;3;Exceeli Esports;
+W;Breach; ;195;15;15;11; ;141;30%;3;1;Exceeli Esports;
+W;Breach; ;228;22;19;4; ;151;38%;5;4;Exceeli Esports;
+L;Breach; ;255;17;19;10; ;162;33%;4;2;Exceeli Esports;
+L;Reyna; ;311;23;15;6; ;215;30%;5;0;Exceeli Esports;

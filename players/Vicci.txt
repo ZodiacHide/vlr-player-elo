@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;141;7;14;3; ;81;24%;1;1;FTG Esports;
+L;Breach; ;202;16;13;4; ;123;16%;3;0;FTG Esports;
+L;Sage;0.37;80;4;15;5;47%;44;9%;0;3;FTG Esports;

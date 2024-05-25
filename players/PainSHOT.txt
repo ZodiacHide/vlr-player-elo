@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;162;11;13;1; ;96;17%;1;0;Atheris Esports;
+L;Brimstone; ;129;10;14;3; ;81;22%;0;3;Atheris Esports;
+L;Brimstone; ;109;8;15;0; ;66;22%;1;1;Atheris Esports;
+L;Brimstone; ;97;7;13;4; ;54;13%;0;3;Wolves of Hell;
+L;Brimstone; ;235;15;16;7; ;134;16%;4;1;Wolves of Hell;

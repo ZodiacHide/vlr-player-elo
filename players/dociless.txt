@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.94;181;23;27;12;78%;137;17%;2;1;Zero Zone W;
+L;Killjoy;0.79;129;11;16;2;60%;77;11%;0;1;Zero Zone W;

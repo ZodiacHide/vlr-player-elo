@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.07;240;20;18;6;79%;153;23%;5;4;Dewa United Esports V3;
+L;Jett;0.47;125;8;17;1;55%;92;21%;2;10;Dewa United Esports V3;
+L;Skye;0.85;207;14;17;5;61%;135;36%;2;1;Dewa United Esports V3;

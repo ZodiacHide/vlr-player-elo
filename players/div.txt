@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.69;247;12;15;3;67%;137;21%;4;4;Anavrin Esports;
+L;Jett;0.61;188;8;16;4;38%;120;12%;3;3;Anavrin Esports;

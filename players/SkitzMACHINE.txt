@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;131;11;17;8; ; ; ;2; ;COFFEE;
+W;Sage; ;267;14;8;11; ; ; ;3; ;COFFEE;
+L;Omen; ;122;10;22;7; ;75;25%;3;5;Mindfreak;
+L;Omen; ;220;22;23;5; ;123;27%;7;6;Mindfreak;
+L;Omen; ;121;10;18;4; ;88;39%;1;7;Mindfreak;
+L;Omen; ;243;19;15;7; ;162;23%;5;6;Mindfreak;
+L;Omen; ;113;7;18;3; ;71;17%;2;3;Mindfreak;
+L;Omen; ;133;11;21;7; ;91;15%;2;4;Mindfreak;
+W;Omen; ;195;15;17;11; ;127;18%;3;6;Mindfreak;
+W;Omen; ;313;29;18;6; ;199;19%;5;4;Mindfreak;
+W;Omen; ;335;23;10;4; ;208;23%;2;2;Mindfreak;
+W;Omen; ;199;16;18;9; ;147;19%;1;4;Mindfreak;
+W;Omen; ;145;9;20;7; ;74;7%;2;4;Mindfreak;
+L;Omen; ;89;5;16;3; ;57;4%;1;2;Mindfreak;
+L;Omen; ;164;11;16;2; ;89;29%;2;3;Mindfreak;

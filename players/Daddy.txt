@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;161;10;15;5; ;95;18%;3;1;Raptor Esport;
+L;Brimstone; ;162;6;13;9; ;97;11%;0;1;Raptor Esport;

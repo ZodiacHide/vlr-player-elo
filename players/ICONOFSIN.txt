@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Viper;0.86;128;9;13;5;55%;96;37%;1;1;RedFire.Wasd Arena;
+L;Killjoy;0.68;133;11;17;2;58%;88;14%;0;4;RedFire.Wasd Arena;
+L;Cypher;0.47;154;9;17;3;53%;104;25%;3;4;RedFire.Wasd Arena;

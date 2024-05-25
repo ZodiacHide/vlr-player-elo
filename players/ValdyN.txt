@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;371;23;12;4; ;186;18%;6;0;ONIC G;
+L;Jett; ;163;14;18;3; ;109;34%;1;7;ONIC G;
+W;Jett; ;342;26;15;4; ;221;21%;6;2;ONIC G;
+L;Jett; ;179;11;15;1; ;114;23%;0;1;ONIC G;
+L;Jett; ;222;21;19;2; ;120;19%;3;5;ONIC G;
+L;Cypher; ;156;10;15;3; ;104;20%;1;1;ONIC G;
+L;Cypher; ;209;17;15;6; ;135;24%;0;1;ONIC G;
+W;Cypher; ;139;10;15;7; ;75;12%;0;2;ONIC G;
+L;Cypher; ;152;12;17;1; ;95;18%;1;1;ONIC G;

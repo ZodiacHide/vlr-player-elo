@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;1.00;200;18;17;6;67%;119;14%;1;2;Motion Team;
+L;Skye;0.76;165;14;18;7;75%;101;16%;0;3;Motion Team;
+W;Sova;1.00;171;9;11;12;84%;90;21%;3;1;Motion Team;
+W;Sova;1.46;316;18;10;11;94%;192;21%;3;0;Motion Team;
+L;Skye;0.58;154;11;21;7;54%;96;27%;0;3;Motion Team;
+L;Sova;0.76;204;14;19;5;50%;120;18%;1;3;Motion Team;
+W;Skye;0.75;150;10;14;4;65%;99;22%;3;3;Motion Team;
+L;Skye;0.60;154;11;21;5;54%;101;15%;1;4;Motion Team;
+W;Sova;1.07;265;18;12;2;74%;131;14%;3;2;Motion Team;
+L;Skye;0.66;119;11;17;4;59%;60;19%;1;4;Motion Team;
+W;Skye;0.77;197;15;18;4;70%;118;17%;3;1;Motion Team;
+L;Skye;0.61;130;8;17;6;64%;88;13%;1;3;Motion Team;
+W;Skye;0.60;114;6;16;5;55%;88;13%;2;1;Motion Team;
+L;Skye;0.42;142;11;19;1;48%;64;31%;1;3;Motion Team;
+L;Skye;0.83;196;13;15;3;53%;103;22%;0;1;Motion Team;

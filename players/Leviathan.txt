@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Leviathan;
+L;Reyna; ;98;7;18;4; ; ; ;0; ;Team Leviathan;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Leviathan;
+L;Raze; ;76;8;17;0; ;51;3%;0;2;Team Spain;
+W;Raze; ;150;8;11;1; ;99;20%;4;1;Team Spain;
+W;Raze; ;100;7;18;2; ;68;18%;1;2;Team Spain;
+W;Raze; ;85;6;10;2; ;52;8%;0;0;Team Spain;
+L;Raze; ;129;6;16;4; ;87;9%;0;0;Team Spain;
+W;Reyna;1.36;220;13;6;2;80%;134;28%;2;3;Giants G4E;
+W;Astra;1.60;225;12;2;4;100%;143;31%;2;1;Giants G4E;
+L;Reyna;0.35;84;3;15;2;41%;69;5%;0;3;Giants G4E;
+L;Reyna;0.51;135;8;16;3;61%;92;11%;2;6;Giants G4E;

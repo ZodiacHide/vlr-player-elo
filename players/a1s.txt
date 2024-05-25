@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.72;140;7;13;5;53%;84;32%;2;0;Kingsmen;
+L;Astra;0.48;106;6;13;0;40%;47;23%;0;1;Kingsmen;

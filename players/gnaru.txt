@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;113;6;13;0; ;56;42%;2;3;Bestial;
+L;Raze; ;243;16;15;1; ;145;26%;1;3;Bestial;
+W;Sage; ;301;20;10;5; ;177;29%;4;1;Bestial;
+L;Sova; ;232;17;18;14; ;154;33%;3;1;Bestial;
+W;Raze;1.25;290;25;17;6;85%;173;21%;6;4;Bestial;
+W;Sova;1.76;281;16;3;5;93%;165;28%;0;0;Bestial;

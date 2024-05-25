@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;168;13;20;4; ;104;14%;4;6;KPI Gaming;
+L;Jett;0.80;194;9;13;2;56%;125;26%;2;3;KPI Gaming;
+L;Skye;0.98;189;11;13;4;67%;134;37%;1;1;KPI Gaming;
+W;Raze;1.80;455;27;12;9;94%;297;22%;8;0;Wizards Club;

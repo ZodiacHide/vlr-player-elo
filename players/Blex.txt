@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;217;15;16;2; ;132;15%;2;5;Prima Esport;
+W;Sage; ;241;19;15;9; ;149;26%;4;4;Prima Esport;
+L;Sage; ;231;11;15;6; ;164;20%;0;2;Prima Esport;

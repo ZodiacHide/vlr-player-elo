@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.12;204;16;14;6;83%;121;24%;3;3;Ghost CommandoS;
+W;Reyna;1.45;299;19;9;5;100%;151;20%;6;0;Ghost CommandoS;
+L;Sova;1.00;230;20;19;9;62%;155;27%;1;2;Ghost CommandoS;
+L;Sage;0.77;183;11;14;3;47%;120;21%;2;3;Ghost CommandoS;

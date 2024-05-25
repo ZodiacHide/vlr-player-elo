@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;168;9;13;1; ;108;26%;1;2;Sprayz Gaming;
+L;Astra;0.70;161;11;18;3;68%;85;21%;1;0;Full Flashed;
+L;Astra;0.47;112;5;15;3;47%;83;29%;0;2;Full Flashed;

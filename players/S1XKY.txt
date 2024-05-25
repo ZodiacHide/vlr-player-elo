@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;259;17;12;6; ;138;21%;2;2;NongWaen;
+W;Jett; ;306;25;13;3; ;131;18%;3;3;NongWaen;
+L;Jett; ;242;12;15;1; ;150;42%;0;3;NongWaen;
+L;Jett; ;190;8;13;3; ;192;19%;1;5;NongWaen;
+L;Jett; ;230;13;14;3; ;142;13%;0;2;NongWaen;
+L;Jett; ;169;11;20;6; ;98;11%;4;3;NongWaen;
+L;Jett; ;94;4;15;2; ;67;14%;0;4;NongWaen;
+L;Jett; ;94;4;15;2; ;67;14%;0;4;NongWaen;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;150;5;14;3; ;96;33%;1;0;Sneaker Daily Meloner;
+L;Sova; ;257;14;14;2; ;172;27%;2;0;Sneaker Daily Meloner;
+L;Sova; ;340;22;12;5; ;240;20%;3;0;Sneaker Daily Meloner;
+L;Sova; ;233;16;16;4; ;130;15%;6;4;Sneaker Daily Meloner;
+L;Sova;0.84;255;11;14;2;67%;155;18%;2;4;Sneaker Daily Meloner;
+W;Sova;1.45;317;22;13;10;86%;184;35%;2;1;Sneaker Daily Meloner;
+L;Sova;0.44;102;5;14;1;53%;66;39%;0;1;Sneaker Daily Meloner;

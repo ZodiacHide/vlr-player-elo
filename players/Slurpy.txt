@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;1.03;232;14;15;8;79%;130;26%;2;3;Can't Be Touched;
+L;Astra;0.91;201;13;13;3;72%;133;18%;1;4;Can't Be Touched;

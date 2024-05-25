@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;171;17;20;3; ;109;19%;5;4;Feint Gaming;
+L;Jett; ;166;10;14;0; ;83;12%;3;2;Feint Gaming;
+L;Jett; ;188;9;15;2; ;95;14%;3;1;Feint Gaming;
+L;Jett; ;255;17;13;0; ;171;27%;1;1;Feint Gaming;
+L;Phoenix; ;176;11;16;7; ;120;18%;0;4;Feint Gaming;
+L;Jett; ;142;10;16;1; ;83;16%;0;3;Feint Gaming;
+L;Jett; ;166;10;14;0; ;96;25%;1;1;Feint Gaming;
+W;Jett; ;213;18;11;2; ;183;17%;3;1;Feint Gaming;
+W;Jett; ;210;20;16;1; ;112;23%;3;0;Feint Gaming;
+L;Jett; ;162;16;18;2; ;97;6%;2;3;Feint Gaming;
+L;Jett; ;183;14;15;1; ;105;23%;2;3;Feint Gaming;

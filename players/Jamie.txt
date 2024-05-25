@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;213;15;16;4; ;125;24%;2;1;Sophie's children;
+L;Viper; ;227;19;16;5; ;142;15%;2;1;Sophie's children;
+L;Omen; ;190;13;18;5; ;116;21%;2;0;PowerHouse;
+L;Omen; ;76;4;15;0; ;41;22%;1;0;PowerHouse;
+L;Sova;1.06;251;16;17;7;75%;164;17%;2;0;Duck Gaming;
+L;Breach;0.67;146;7;13;3;53%;78;15%;1;0;Duck Gaming;
+L;Omen;0.50;148;9;17;2;50%;89;13%;1;3;Duck Gaming;
+L;Omen;0.89;213;17;19;9;57%;131;24%;0;1;Duck Gaming;
+L;Viper;0.85;177;14;21;7;69%;125;25%;5;3;Duck Gaming;
+L;Omen;0.69;179;12;19;6;58%;123;15%;2;2;Duck Gaming;
+L;Viper;1.09;228;20;16;6;79%;128;22%;3;2;Duck Gaming;
+L;Omen;0.63;159;13;18;4;73%;105;26%;0;2;Duck Gaming;
+W;Omen;0.83;176;14;18;7;74%;100;14%;2;2;Duck Gaming;
+L;Viper;0.44;146;6;14;4;57%;111;19%;0;2;Duck Gaming;
+L;Viper;0.80;172;11;14;2;58%;111;27%;1;2;Duck Gaming;

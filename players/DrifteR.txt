@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;0.96;250;23;19;2;65%;158;26%;2;5;Lariox Esports;
+W;Raze;1.35;294;26;20;7;81%;205;20%;3;0;Lariox Esports;
+L;Jett;0.82;180;12;17;0;47%;104;43%;1;2;Lariox Esports;

@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Paula Nobre;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Paula Nobre;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Paula Nobre;
+W;Reyna; ;179;15;18;6; ; ; ;1; ;Team Paula Nobre;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Paula Nobre;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Paula Nobre;
+L;Raze; ;456;26;13;0; ; ; ;2; ;Agua Fusion Latao;
+L;None;0;0;0;0;0;0;0;0;0;0;Agua Fusion Latao;
+L;Viper;1.30;362;16;14;5;73%;233;25%;1;2;Sad Girls;
+W;Viper;0.76;143;12;17;1;58%;97;22%;0;2;Sad Girls;
+W;Sova;1.09;210;15;13;13;74%;137;13%;1;1;Sad Girls;
+L;Viper;0.98;197;15;18;8;65%;137;22%;2;2;Sad Girls;
+L;Sage;0.64;109;8;14;3;53%;72;13%;1;4;Sad Girls;

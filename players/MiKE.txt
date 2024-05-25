@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;1.06;247;19;18;5;70%;139;20%;3;1;BRACE LaM;
+L;Skye;0.53;148;9;15;2;59%;93;53%;2;0;BBBongos;
+W;Viper;1.02;211;19;19;10;69%;134;21%;3;4;BBBongos;
+L;Skye;0.39;105;7;18;0;38%;73;36%;0;1;BBBongos;

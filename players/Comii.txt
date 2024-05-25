@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.70;200;8;14;2;60%;148;6%;2;0;Rexpect eSports;
+L;Skye;0.77;188;13;16;4;67%;120;25%;1;4;Rexpect eSports;

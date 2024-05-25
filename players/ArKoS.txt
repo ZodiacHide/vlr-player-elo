@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;142;6;15;5; ;98;21%;2;5;bTitans;
+L;Reyna; ;125;5;13;1; ;92;22%;2;2;bTitans;
+L;Jett; ;212;10;12;6; ;122;15%;4;2;TBA;
+L;Raze; ;140;5;14;3; ;110;13%;1;3;TBA;

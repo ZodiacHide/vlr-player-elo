@@ -1,0 +1,18 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;China Nguyen;Haven;Prism Esports;sym;ScrewFace;EccentriK;Hope;Nanners;8:13;False;36:57;Sunday, September 27th, 1:00 AM CEST;Nerd Street Gamers September Monthly;url.net;
+Defense;L;China Nguyen;Bind;Prism Esports;sym;ScrewFace;EccentriK;Hope;Nanners;5:13;False;31:45;Sunday, September 27th, 1:00 AM CEST;Nerd Street Gamers September Monthly;url.net;
+Attack;W;Penguin Sledding;Ascent;Decider;hazB;Singularity;Fizzy;Drakious;jelii;13:7;False;35:36;Saturday, December 26th, 7:00 PM CET;Nerd Street Gamers December Monthly;url.net;
+Attack;L;Kungarna;Split;Prism Esports;jelii;Singularity;hazB;Fizzy;Drakious;7:13;False;40:33;Saturday, December 26th, 8:00 PM CET;Nerd Street Gamers December Monthly;url.net;
+Defense;L;Kungarna;Haven;Prism Esports;jelii;Singularity;hazB;Fizzy;Drakious;7:13;False;42:12;Saturday, December 26th, 8:00 PM CET;Nerd Street Gamers December Monthly;url.net;
+Defense;L;Penguin Sledding;Bind;Penguin Sledding;Singularity;jelii;hazB;Fizzy;Drakious;5:13;False;35:09;Saturday, December 26th, 10:00 PM CET;Nerd Street Gamers December Monthly;https://www.twitch.tv/videos/850571073?t=3h2m30s;
+Attack;L;Penguin Sledding;Ascent;Penguin Sledding;Singularity;jelii;hazB;Fizzy;Drakious;3:13;False;26:47;Saturday, December 26th, 10:00 PM CET;Nerd Street Gamers December Monthly;https://www.twitch.tv/videos/850571073?t=3h2m30s;
+Attack;L;Mamba Mode Gaming;Haven;Prism Esports;jelii;Singularity;Fizzy;Drakious;Okeanos;3:13;False;24:30;Saturday, January 2nd, 9:00 PM CET;Serenity Invitational;url.net;
+Attack;L;Mamba Mode Gaming;Split;Prism Esports;jelii;Singularity;Fizzy;Drakious;Okeanos;3:13;False;26:40;Saturday, January 2nd, 9:00 PM CET;Serenity Invitational;url.net;
+Defense;W;Lycus Empire;Ascent;Lycus Empire;ScrewFace;MoonBlue;jelii;Fizzy;Drakious;14:12;True;50:21;Saturday, January 16th, 1:00 AM CET;Super League Arena;url.net;
+Attack;W;Lycus Empire;Bind;Lycus Empire;ScrewFace;MoonBlue;jelii;Fizzy;Drakious;13:3;False;28:58;Saturday, January 16th, 1:00 AM CET;Super League Arena;url.net;
+Defense;L;DREAMLAND;Split;DREAMLAND;ScrewFace;MoonBlue;Drakious;Fizzy;jelii;9:13;False;43:48;Thursday, January 21st, 8:00 PM CET;Super League Arena;https://www.twitch.tv/videos/882496352?t=0h19m38s;
+Attack;W;DREAMLAND;Bind;DREAMLAND;ScrewFace;MoonBlue;Drakious;Fizzy;jelii;13:5;False;32:23;Thursday, January 21st, 8:00 PM CET;Super League Arena;https://www.twitch.tv/videos/882496352?t=0h19m38s;
+Defense;L;DREAMLAND;Ascent;DREAMLAND;ScrewFace;MoonBlue;Drakious;Fizzy;jelii;8:13;False;38:51;Thursday, January 21st, 8:00 PM CET;Super League Arena;https://www.twitch.tv/videos/882496352?t=0h19m38s;
+Attack;W;Spot Up;Bind;Spot Up;Drakious;ScrewFace;jelii;MoonBlue;Fizzy;13:8;False;38:00;Friday, January 22nd, 12:00 AM CET;Super League Arena;url.net;
+Defense;L;Spot Up;Ascent;Spot Up;Drakious;ScrewFace;jelii;MoonBlue;Fizzy;8:13;False;34:40;Friday, January 22nd, 12:00 AM CET;Super League Arena;url.net;
+Attack;L;Spot Up;Split;Spot Up;Drakious;ScrewFace;jelii;MoonBlue;Fizzy;4:13;False;30:03;Friday, January 22nd, 12:00 AM CET;Super League Arena;url.net;

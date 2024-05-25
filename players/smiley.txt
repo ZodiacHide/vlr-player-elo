@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.23;115;6;16;3;47%;77;42%;0;1;Titan Esports;
+L;Omen;0.56;174;14;22;2;59%;95;24%;2;1;Titan Esports;
+L;Sage;0.77;146;12;17;1;59%;87;40%;0;1;Titan Esports;

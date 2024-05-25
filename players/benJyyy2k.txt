@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;130;7;15;2; ;57;9%;1;2;Team SMOKER;
+L;Sova; ;173;9;13;2; ;103;18%;1;1;Team SMOKER;

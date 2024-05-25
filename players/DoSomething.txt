@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;200;10;15;5; ;144;6%;1;4;Mantou;
+L;Reyna; ;156;8;16;2; ;106;16%;1;0;Mantou;

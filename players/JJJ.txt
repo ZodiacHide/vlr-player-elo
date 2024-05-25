@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;237;16;14;4; ;134;16%;1;4;Daytrade Gaming;
+L;Jett; ;164;14;15;0; ;75;28%;0;5;Daytrade Gaming;
+L;Jett; ;275;18;14;4; ;142;17%;2;5;Daytrade Gaming;
+L;Jett; ;169;13;16;0; ;93;5%;4;2;Daytrade Gaming;
+W;Jett; ;298;18;12;6; ;176;17%;4;4;Daytrade Gaming;
+W;Jett; ;245;21;17;5; ;135;11%;3;1;Daytrade Gaming;
+L;Jett; ;163;8;18;2; ;115;14%;4;3;Daytrade Gaming;
+L;Viper; ;100;4;14;4; ;65;11%;0;2;Daytrade Gaming;
+L;Jett; ;268;18;16;2; ;187;18%;6;3;Daytrade Gaming;
+L;Jett; ;164;21;22;2; ;105;14%;5;5;Daytrade Gaming;
+L;Jett; ;168;15;22;5; ;131;25%;1;4;Daytrade Gaming;
+L;Jett; ;231;14;16;1; ;138;8%;3;2;Daytrade Gaming;

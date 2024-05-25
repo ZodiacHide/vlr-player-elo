@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.73;164;12;15;4;65%;108;26%;0;3;Cairo City G'zzz;
+L;Killjoy;0.88;234;14;14;1;50%;149;13%;1;0;Cairo City G'zzz;

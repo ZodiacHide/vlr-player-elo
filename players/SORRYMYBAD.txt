@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;211;11;14;5; ;146;18%;2;3;Royal Never Give Up;
+L;Sova; ;255;19;13;3; ;145;35%;3;2;Royal Never Give Up;
+W;Omen; ;287;18;14;9; ;155;27%;3;2;Royal Never Give Up;
+W;Omen; ;448;26;13;1; ;245;44%;8;1;Royal Never Give Up;

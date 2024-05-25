@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;134;7;15;1; ;66;24%;1;0;99Crooks;
+L;Brimstone; ;105;4;14;3; ;68;35%;1;5;99Crooks;

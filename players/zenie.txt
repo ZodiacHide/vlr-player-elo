@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;304;21;15;0; ;173;25%;6;4;eXiLe Academy;
+L;Jett; ;281;17;16;3; ;170;26%;4;3;eXiLe Academy;
+L;Jett; ;194;16;22;6; ;122;23%;4;0;eXiLe Academy;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.86;245;16;17;3;56%;143;25%;2;4;Asteria Gaming;
+L;Jett;0.37;114;4;14;3;50%;75;36%;0;4;Asteria Gaming;
+L;Jett;0.78;225;17;20;3;52%;140;15%;5;4;Asteria Gaming;
+L;None;0;0;0;0;0;0;0;0;0;0;Asteria Gaming;

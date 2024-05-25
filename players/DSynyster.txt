@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;42;1;16;2; ;33;6%;0;3;TheDuckArmy;
+W;Omen; ;165;9;11;5; ;85;16%;1;1;TheDuckArmy;
+L;Omen; ;124;11;20;2; ;66;23%;2;3;TheDuckArmy;

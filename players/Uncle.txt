@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;85;5;14;0; ;58;29%;0;3;Forsaken;
+L;Reyna; ;164;10;14;1; ;116;35%;1;1;Forsaken;
+W;Sage; ;107;8;14;9; ;125;15%;0;1;swieca mix;
+L;Sage; ;174;12;12;3; ;114;23%;0;0;swieca mix;
+L;Sage; ;96;7;18;16; ;58;17%;0;0;swieca mix;
+L;Breach; ;111;9;14;8; ;70;11%;1;2;świeca;
+L;Reyna; ;237;19;18;4; ;156;18%;4;3;świeca;
+L;Breach; ;199;12;15;7; ;106;27%;2;2;świeca;
+L;Raze; ;241;20;17;5; ;153;20%;4;0;świeca;
+W;Raze;1.37;288;23;14;9;91%;175;17%;1;4;świeca;
+W;Raze;1.04;180;11;8;3;76%;110;24%;1;1;świeca;
+L;Raze;0.93;177;13;16;6;73%;126;25%;0;1;świeca;
+L;Raze;0.33;88;4;13;0;33%;60;14%;0;1;świeca;
+L;Sage;0.90;182;11;16;7;78%;117;31%;2;3;świeca;
+W;Brimstone;0.98;116;8;10;5;63%;78;13%;2;0;świeca;
+L;Reyna;1.20;242;23;18;4;71%;156;32%;2;2;świeca;

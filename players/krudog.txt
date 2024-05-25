@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;200;17;15;6; ;122;50%;1;5;DevilDucks;
+L;Raze; ;195;12;14;3; ;119;20%;2;1;DevilDucks;

@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;309;21;14;1; ;183;28%;5;2;Rover;
+W;Reyna; ;313;21;3;5; ;192;21%;2;1;Rover;
+W;Reyna; ;251;21;11;2; ;137;33%;4;4;Rover;
+L;Breach; ;136;9;16;7; ;84;25%;2;0;Rover;
+L;Phoenix; ;201;16;17;3; ;161;18%;2;3;Rover;
+L;Jett; ;151;11;18;1; ;86;28%;1;4;Lunatic-Hai;
+L;Phoenix; ;276;16;17;8; ;163;22%;2;3;Lunatic-Hai;
+L;Reyna; ;139;10;14;4; ;78;15%;0;2;Lunatic-Hai;
+L;Sage; ;163;15;18;11; ;110;16%;2;2;Lunatic-Hai;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.87;169;10;14;7;68%;107;23%;2;4;Full Flashed;
+L;Viper;1.05;212;13;13;3;65%;120;12%;2;1;Full Flashed;

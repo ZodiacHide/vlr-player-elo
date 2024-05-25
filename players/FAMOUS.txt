@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;193;14;19;2; ;115;33%;4;7;Big Backwoods;
+L;Jett; ;93;5;19;3; ;65;23%;2;8;Big Backwoods;

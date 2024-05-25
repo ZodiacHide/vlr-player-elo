@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;205;16;15;10; ;131;23%;0;2;b Tang;
+L;Sova; ;302;22;17;11; ;190;25%;4;1;b Tang;
+L;Sova; ;155;7;14;4; ;167;20%;0;3;Mantou;
+L;Sage; ;214;12;14;6; ;130;18%;1;0;Mantou;

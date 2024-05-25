@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.19;261;26;22;14;67%;144;20%;3;1;Fulcrum Esports Catalyst;
+L;Sova;0.87;208;15;18;7;77%;122;25%;2;1;Fulcrum Esports Catalyst;
+L;Sova;0.91;184;11;16;16;81%;115;16%;1;2;Fulcrum Esports Catalyst;
+L;Sova;0.90;184;12;15;6;62%;120;25%;2;2;Fulcrum Esports Catalyst;
+L;Omen;0.87;153;10;15;3;63%;104;6%;0;2;Fulcrum Esports Catalyst;

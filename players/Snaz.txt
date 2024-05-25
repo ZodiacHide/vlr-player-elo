@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;295;22;15;14; ;178;16%;2;2;Bunkergg;
+L;Breach; ;117;7;17;6; ;76;15%;1;6;Bunkergg;
+L;Breach; ;117;5;14;0; ;63;27%;0;2;Nomads;
+L;Breach; ;52;2;15;2; ;31;29%;0;6;Nomads;
+L;Breach; ;79;5;17;2; ;51;10%;0;1;5up;
+L;Breach; ;167;16;18;6; ;106;15%;1;3;5up;
+L;Skye;0.57;142;8;17;5;53%;104;16%;0;3;Team Focus;
+L;Sage;0.63;120;7;15;4;61%;89;29%;0;4;Team Focus;

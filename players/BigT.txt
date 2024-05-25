@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;DREAMCHASERS;
+W;Sage; ;176;12;12;10; ; ; ;0; ;DREAMCHASERS;
+W;Sage; ;88;6;15;8; ; ; ;0; ;DREAMCHASERS;

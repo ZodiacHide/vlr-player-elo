@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Moscow 5 Academy;Haven;Decider;sid;LazyM1A;Elevate;Evan;Peter;4:13;False;-;Saturday, May 9th, 10:00 PM CEST;Valhalla Invitational;url.net;
+Attack;L;Jacked Gamers;Haven;Decider;sid;LazyM1A;Elevate;Evan;Peter;5:13;False;-;Saturday, May 9th, 11:00 PM CEST;Valhalla Invitational;url.net;
+Defense;W;Dignitas;Bind;Decider;sid;LazyM1A;Elevate;Evan;Peter;12:6;False;-;Sunday, May 10th, 12:00 AM CEST;Valhalla Invitational;url.net;

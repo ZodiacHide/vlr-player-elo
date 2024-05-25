@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.64;144;7;15;8;58%;105;12%;2;2;Chariot;
+L;Raze;0.53;143;8;16;1;44%;87;23%;0;6;Chariot;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;70;6;19;0; ;45;39%;0;3;Lethal Grinders;
+L;Brimstone; ;158;8;17;6; ;110;26%;0;3;Lethal Grinders;
+W;Jett; ;161;12;13;2; ;86;11%;1;1;Lethal Grinders;
+W;Killjoy; ;172;12;11;5; ;116;6%;1;1;Lethal Grinders;
+L;Jett; ;195;12;16;1; ;126;40%;5;1;Lethal Grinders;
+L;Breach; ;141;9;17;5; ;90;14%;1;2;Lethal Grinders;

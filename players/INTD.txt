@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;174;8;14;2; ;117;14%;3;7;BearClaw Gaming;
+L;Jett; ;232;15;17;3; ;135;9%;3;3;BearClaw Gaming;
+L;Kayo;0.76;187;13;20;10;78%;118;27%;5;3;RYU Gaming;
+L;Reyna;0.49;154;11;18;4;65%;106;18%;2;7;RYU Gaming;
+L;Kayo;0.31;96;4;14;2;40%;79;37%;0;2;RYU Gaming;
+L;Raze;0.89;246;17;20;6;77%;153;9%;5;3;RYU Gaming;
+W;Reyna;1.76;327;19;6;3;100%;213;27%;2;0;RYU Gaming;
+L;Reyna;0.85;173;11;16;4;60%;120;18%;3;3;RYU Gaming;
+L;Skye;0.59;173;10;17;4;58%;111;22%;3;5;RYU Gaming;

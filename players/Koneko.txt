@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Kayo;1.31;216;15;13;12;85%;152;18%;3;3;Bonk Babes;
+W;Skye;1.02;179;13;14;7;60%;129;17%;1;6;Bonk Babes;
+L;Kayo;0.32;116;4;14;2;36%;76;15%;1;1;Bonk Babes;
+L;Jett;0.56;179;8;19;7;47%;118;9%;2;9;Bonk Babes;

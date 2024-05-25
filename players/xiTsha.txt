@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.21;238;17;13;5;75%;160;18%;4;5;AVEZ Esport;
+L;Jett;0.80;160;12;17;5;75%;110;24%;2;6;AVEZ Esport;
+W;Jett;0.96;220;17;13;2;85%;138;23%;3;3;AVEZ Esport;
+L;Phoenix;0.72;148;9;13;2;68%;80;13%;1;2;AVEZ Esport;
+W;Phoenix;1.34;264;22;13;6;78%;145;31%;4;1;AVEZ Esport;
+L;Jett;0.96;230;19;18;2;65%;162;28%;5;4;AVEZ Esport;
+W;Jett;0.95;209;18;16;2;64%;108;9%;4;4;AVEZ Esport;
+L;Phoenix;0.98;209;19;21;3;69%;140;31%;3;3;AVEZ Esport;
+L;Omen;0.95;191;21;22;8;60%;120;26%;4;5;ownage;
+L;Skye;0.54;128;11;21;5;50%;84;12%;2;7;ownage;
+W;Viper;0.97;149;12;16;9;71%;114;23%;2;3;ownage;
+W;Astra;1.73;291;20;10;12;89%;194;22%;0;0;ownage;
+W;Astra;1.24;250;19;13;7;73%;163;14%;2;1;ownage;
+L;Astra;0.91;224;15;16;5;65%;155;31%;1;2;ownage;

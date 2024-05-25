@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;136;6;15;2; ;87;15%;1;4;NC State Esports;
+L;Jett; ;107;4;12;0; ;71;9%;0;3;NC State Esports;
+L;Raze; ;166;10;14;1; ;107;14%;2;2;NC State Esports;
+L;Jett; ;149;7;16;2; ;87;37%;5;2;NC State Esports;

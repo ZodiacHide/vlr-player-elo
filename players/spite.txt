@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach;0.45;119;7;16;1;47%;90;38%;0;3;TLP Peach;
+L;Sova;0.53;108;6;18;4;62%;86;17%;0;0;TLP Peach;

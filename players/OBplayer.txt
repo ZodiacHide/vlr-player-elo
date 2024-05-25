@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;180;14;13;2; ;115;27%;2;0;TYLOO;
+W;Cypher; ;62;4;6;0; ;49;44%;1;1;TYLOO;
+L;Killjoy; ;144;9;16;6; ;96;10%;2;1;TYLOO;
+W;Cypher; ;87;7;16;1; ;59;41%;0;2;TYLOO;
+L;Killjoy; ;274;17;16;3; ;172;33%;3;0;TYLOO;
+L;Reyna; ;269;15;15;2; ;140;43%;2;2;TYLOO;

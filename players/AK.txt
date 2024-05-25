@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Skye;0.89;205;18;20;8;75%;137;22%;0;3;Spectral Esports Blue;
+L;Skye;0.58;141;11;16;1;39%;74;26%;0;2;Spectral Esports Blue;
+L;Skye;0.55;112;6;14;4;65%;51;36%;0;3;Spectral Esports Blue;
+L;Skye;0.71;184;13;18;2;60%;127;33%;0;1;Spectral Esports Blue;

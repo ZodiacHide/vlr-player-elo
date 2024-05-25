@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;222;17;18;5; ;137;13%;4;2;FroztFire;
+L;Omen; ;96;4;14;2; ;76;19%;0;1;Decent Esports;
+W;Omen; ;285;26;19;3; ;163;27%;4;1;Decent Esports;
+L;Sage; ;184;11;17;9; ;118;21%;1;5;Decent Esports;

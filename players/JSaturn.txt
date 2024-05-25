@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;210;13;19;12; ;143;10%;6;5;Ryze Gaming;
+W;Brimstone; ;198;14;16;7; ;115;18%;3;3;Ryze Gaming;
+L;Reyna; ;202;11;13;3; ;139;23%;1;4;Ryze Gaming;
+L;Breach; ;182;12;19;8; ;114;14%;1;1;Ryze Gaming;
+W;Raze; ;256;16;11;5; ;133;18%;3;2;Ryze Gaming;
+L;Raze; ;182;13;19;6; ;135;15%;3;6;Ryze Gaming;

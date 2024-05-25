@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.80;227;10;12;4;64%;131;35%;0;0;East Hill;
+L;Sova;0.43;172;8;14;2;50%;103;18%;0;0;East Hill;
+L;Skye;0.44;97;7;15;3;80%;57;21%;0;1;East Hill;

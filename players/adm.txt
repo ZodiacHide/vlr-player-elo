@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;262;17;10;6; ;225;22%;3;1;Lightailty;
+L;Reyna; ;210;16;19;6; ;126;18%;8;3;Lightailty;
+L;Raze; ;234;12;13;6; ;158;11%;4;4;Lightailty;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;185;13;9;2; ;113; ;1; ;VAC Kimchi;
+W;Breach; ;189;17;16;7; ;107; ;2; ;VAC Kimchi;
+L;Sage; ;187;13;14;0; ;130; ;2; ;VAC Kimchi;
+L;Sage; ;205;15;17;6; ;129; ;2; ;VAC Kimchi;

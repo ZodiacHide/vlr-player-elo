@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix;0.82;216;19;21;3;69%;136;33%;4;3;Interstate 95;
+L;Jett;0.97;190;14;15;4;71%;103;24%;2;4;Night Raid;
+W;None;0;0;0;0;0;0;0;0;0;0;Night Raid;

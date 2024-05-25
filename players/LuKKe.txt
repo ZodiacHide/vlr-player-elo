@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.60;151;6;13;4;62%;88;22%;2;1;FDP Esports;
+L;Sage;0.86;231;15;15;3;71%;118;41%;2;1;FDP Esports;

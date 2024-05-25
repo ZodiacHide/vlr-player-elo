@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;105;9;16;9; ; ; ;0; ;Varazze;
+L;Breach; ;184;13;16;1; ; ; ;1; ;Varazze;
+L;Omen; ;144;13;21;10; ;97;23%;2;5;Dirty boys;
+L;Omen; ;111;7;16;1; ;68;15%;2;2;Dirty boys;
+L;Omen; ;169;12;16;0; ;77;30%;3;3;Dirty boys;

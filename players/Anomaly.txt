@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;56;1;14;2; ; ; ;1; ;9XL;
+L;Phoenix; ;113;5;15;1; ; ; ;0; ;9XL;
+W;Phoenix; ;168;15;20;1; ; ; ;2; ;9XL;
+L;Phoenix; ;199;11;17;3; ; ; ;2; ;9XL;
+W;Phoenix; ;225;17;18;5; ;132;34%;6;3;Team Nordics;
+L;Phoenix; ;80;6;17;1; ;59;30%;1;7;Team Nordics;
+L;Phoenix; ;44;1;14;2; ;24;11%;1;4;Team Nordics;
+L;Phoenix; ;113;10;21;2; ;65;19%;2;7;Team Nordics;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;1.04;202;14;14;4;62%;142;22%;1;2;Team Assassin;
+L;Cypher;0.52;115;8;14;0;44%;74;16%;1;4;Team Reapers;
+L;Skye;0.42;142;7;15;1;50%;87;19%;0;3;Horse Victory;
+L;Skye;1.23;269;19;14;4;74%;139;18%;3;1;Horse Victory;

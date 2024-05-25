@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;0.89;144;10;14;4;65%;95;26%;2;2;Young&Old;
+L;Skye;0.47;159;9;17;0;39%;87;26%;1;1;Young&Old;

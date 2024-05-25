@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.46;102;4;14;2;44%;66;4%;1;3;FOXN TEAM;
+L;Raze;1.15;256;22;19;5;75%;156;22%;4;1;FOXN TEAM;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye; ;171;14;20;3; ;89;31%;0;1;BRAVOS GAMING;
+L;Omen; ;182;10;13;0; ;105;28%;0;1;BRAVOS GAMING;
+L;Sova;0.58;178;9;14;3;56%;106;12%;1;1;BRAVOS GAMING;
+L;Sova;0.90;181;12;12;4;58%;116;18%;0;1;BRAVOS GAMING;

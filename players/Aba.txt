@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;167;8;15;9; ;128;11%;3;3;Akademus Esport;
+L;Jett; ;195;13;13;1; ;117;26%;2;0;Akademus Esport;
+L;Cypher; ;182;15;15;4; ;107;29%;1;2;Akademus Esport;
+L;Killjoy; ;148;13;21;1; ;94;9%;0;2;Agentes Livres;
+L;Cypher; ;183;15;14;9; ;112;15%;0;1;Agentes Livres;
+L;Sova; ;155;9;13;2; ;95;33%;3;1;Hydrated;
+L;Sova; ;158;8;17;5; ;101;20%;0;0;Hydrated;

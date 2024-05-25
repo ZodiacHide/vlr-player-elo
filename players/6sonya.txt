@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.27;199;13;10;11;84%;147;18%;1;1;Rix.GG Lightning;
+W;Sova;0.83;140;11;16;13;67%;92;14%;0;1;Rix.GG Lightning;
+W;Sova;1.46;202;11;4;4;93%;124;30%;2;1;Rix.GG Lightning;
+W;Sova;1.79;306;20;7;6;94%;185;19%;1;0;Rix.GG Lightning;
+W;Breach;0.98;194;16;17;15;78%;124;12%;2;2;Rix.GG Lightning;
+W;Sova;1.41;228;17;8;6;90%;132;17%;1;2;Rix.GG Lightning;
+L;Sova;0.76;184;11;16;9;63%;137;23%;0;0;Rix.GG Lightning;
+W;Sova;1.02;209;16;15;7;76%;145;23%;0;1;Rix.GG Lightning;
+W;Breach;0.84;163;12;16;8;61%;120;26%;1;1;Rix.GG Lightning;

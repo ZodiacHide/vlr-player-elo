@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;165;14;19;3; ;156;27%;0;2;Acolarse;
+L;Reyna; ;216;21;20;9; ;146;20%;2;4;QLASH;
+L;Reyna; ;234;12;15;4; ;134;21%;1;1;QLASH;

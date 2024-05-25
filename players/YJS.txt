@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;148;13;16;5; ;88;24%;1;1;Able Esports;
+L;Omen; ;185;14;19;9; ;107;30%;2;0;Able Esports;
+L;Omen; ;158;10;17;4; ;92;46%;1;3;Able Esports;
+L;Astra;0.66;184;9;14;3;56%;116;36%;0;2;ValorsGG;
+W;Jett;0.87;215;18;20;2;63%;126;27%;3;3;ValorsGG;
+L;Raze;0.69;168;11;16;1;50%;86;19%;3;5;ValorsGG;
+L;Jett;0.95;223;17;20;6;70%;145;32%;2;2;ValorsGG;
+L;Reyna;0.78;225;12;15;4;53%;139;28%;0;5;Able Esports;
+L;Raze;0.80;212;12;16;3;71%;114;25%;0;2;Able Esports;
+L;Jett;0.55;99;7;17;2;57%;78;23%;3;3;Able Esports;
+L;Reyna;0.72;163;10;15;1;47%;89;23%;1;2;Able Esports;
+L;Raze;0.57;173;8;14;4;53%;110;20%;3;3;Able Esports;
+L;Viper;1.01;193;14;15;9;74%;133;29%;0;0;Able Esports;
+L;Sage;0.92;156;12;13;0;58%;96;30%;1;3;Able Esports;

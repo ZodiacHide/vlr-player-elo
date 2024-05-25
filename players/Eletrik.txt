@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.90;220;14;16;1;61%;132;20%;0;3;HEAD HUNTERS;
+W;Cypher;1.14;247;15;12;4;88%;158;24%;4;1;HEAD HUNTERS;
+L;Sova;0.38;115;5;17;7;53%;85;15%;1;3;HEAD HUNTERS;

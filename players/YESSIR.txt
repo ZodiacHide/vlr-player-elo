@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;240;19;17;5; ;143;25%;2;1;Nerd Banana;
+W;None;0;0;0;0;0;0;0;0;0;0;Nerd Banana;

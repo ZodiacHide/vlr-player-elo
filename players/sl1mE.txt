@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;164;7;13;3; ;102;42%;1;2;99Crooks;
+L;Skye; ;144;6;15;4; ;87;20%;1;1;99Crooks;

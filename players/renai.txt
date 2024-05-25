@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.39;149;6;14;2;43%;92;20%;0;1;Interstate 95;
+L;Sova;0.88;184;9;13;7;81%;129;41%;0;0;Interstate 95;
+L;Sova;0.72;133;11;19;10;73%;88;13%;1;1;Interstate 95;
+L;Sova;0.40;93;3;14;1;43%;81;18%;0;0;Reborn;
+L;Skye;0.52;103;6;14;5;69%;61;22%;1;2;Reborn;

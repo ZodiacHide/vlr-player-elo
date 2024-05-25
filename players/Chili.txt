@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;OldTownRoad;
+W;None;0;0;0;0;0;0;0;0;0;0;OldTownRoad;
+W;None;0;0;0;0;0;0;0;0;0;0;OldTownRoad;
+L;None;0;0;0;0;0;0;0;0;0;0;OldTownRoad;
+L;None;0;0;0;0;0;0;0;0;0;0;OldTownRoad;
+W;None;0;0;0;0;0;0;0;0;0;0;OldTownRoad;
+W;None;0;0;0;0;0;0;0;0;0;0;OldTownRoad;
+L;None;0;0;0;0;0;0;0;0;0;0;Demise;
+L;None;0;0;0;0;0;0;0;0;0;0;Demise;
+W;Reyna; ;233;14;7;7; ; ; ;2; ;Demise;
+W;Breach; ;171;10;10;8; ; ; ;1; ;Demise;
+L;Sage; ;165;11;16;3; ; ; ;1; ;Demise;
+L;Breach; ;130;10;15;8; ; ; ;0; ;Demise;
+L;Phoenix; ;189;12;16;3; ; ; ;0; ;Demise;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;178;19;16;1; ;106;21%;0;3;Janus Esports;
+W;Reyna; ;259;32;24;3; ;169;29%;9;3;Janus Esports;
+L;Reyna; ;205;10;15;6; ;129;24%;1;2;Janus Esports;
+L;Reyna; ;177;8;14;3; ;99;17%;2;2;Janus Esports;
+L;Reyna; ;167;10;15;2; ;110;46%;1;2;Janus Esports;

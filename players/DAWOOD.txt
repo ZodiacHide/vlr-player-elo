@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone;1.22;268;18;14;4;60%;134;15%;3;3;RedFire.Wasd Arena;
+L;Astra;0.86;148;13;17;9;58%;99;22%;0;0;RedFire.Wasd Arena;
+L;Astra;0.67;180;11;16;2;58%;107;26%;0;1;RedFire.Wasd Arena;

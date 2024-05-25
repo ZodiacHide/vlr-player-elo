@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;1.14;234;21;14;5;71%;143;14%;1;2;Levitate;
+L;Astra;0.31;69;4;16;0;50%;41;17%;1;2;Levitate;
+L;Astra;0.71;152;10;15;2;63%;79;17%;2;3;Levitate;
+L;Astra;0.88;139;11;15;8;71%;110;38%;1;1;Levitate;
+L;Astra;0.65;187;11;17;4;68%;136;27%;1;1;Levitate;

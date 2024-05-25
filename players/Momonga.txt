@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;136;12;17;4; ;84;10%;3;2;Infamous Gaming;
+L;Killjoy; ;136;12;17;4; ;84;10%;3;2;Infamous Gaming;

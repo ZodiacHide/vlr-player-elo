@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;1.84;410;21;9;8;93%;223;11%;4;3;Gaming Team SELECTOR;
+W;Raze;1.23;236;16;13;3;78%;125;13%;6;2;Gaming Team SELECTOR;
+L;Jett;0.80;183;11;14;1;47%;108;23%;3;1;Gaming Team SELECTOR;
+L;Raze;1.02;233;13;14;6;65%;125;14%;1;2;Gaming Team SELECTOR;
+L;Raze;0.50;119;8;21;7;58%;85;16%;1;7;Gaming Team SELECTOR;
+W;Raze;1.30;262;26;18;5;68%;147;11%;4;4;Gaming Team SELECTOR;
+L;Jett;0.83;147;13;16;4;54%;99;15%;2;4;Gaming Team SELECTOR;
+L;Jett;0.73;196;10;20;7;71%;128;21%;2;4;Gaming Team SELECTOR;
+W;Raze;1.27;221;16;9;0;85%;122;10%;1;1;Gaming Team SELECTOR;
+L;Jett;1.12;245;20;16;2;70%;154;30%;6;5;Gaming Team SELECTOR;
+L;Raze;0.47;145;6;13;2;29%;95;8%;1;0;Gaming Team SELECTOR;
+L;Raze;1.19;230;19;17;4;58%;158;18%;4;1;Gaming Team SELECTOR;
+W;Jett;1.24;271;14;10;2;80%;169;39%;3;1;Gaming Team SELECTOR;

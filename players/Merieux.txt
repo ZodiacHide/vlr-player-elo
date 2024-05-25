@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;231;20;17;7; ;134;12%;3;2;Sengoku Gaming;
+L;Cypher; ;242;17;13;4; ;187;27%;1;3;Sengoku Gaming;
+L;Cypher; ;213;14;17;0; ;156;35%;3;4;Sengoku Gaming;
+W;Cypher; ;210;16;17;4; ;165;11%;3;2;Sengoku Gaming;
+L;Cypher; ;229;14;15;4; ;135;27%;3;1;Sengoku Gaming;
+W;Cypher; ;256;16;17;8; ;222;21%;4;4;Sengoku Gaming;
+W;Cypher; ;215;15;14;8; ;119;28%;4;4;Sengoku Gaming;
+L;Cypher; ;135;8;15;4; ;95;29%;1;3;Sengoku Gaming;
+L;Cypher; ;223;12;16;5; ;161;33%;2;4;Sengoku Gaming;
+W;Killjoy; ;270;18;9;4; ;180;19%;3;3;Sengoku Gaming;
+L;Killjoy;0.70;214;16;20;2;61%;149;15%;2;2;Sengoku Gaming;
+L;Killjoy;0.94;215;10;14;5;61%;145;15%;3;2;Sengoku Gaming;

@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna;1.33;190;11;7;8;88%;116;9%;1;1;Lexious Gaming;
+W;Sage;1.48;254;22;10;3;81%;160;35%;1;0;Lexious Gaming;
+L;Sova;1.05;233;17;16;7;82%;161;31%;0;0;Lexious Gaming;
+W;Sage;1.36;209;13;7;4;81%;128;32%;1;0;Lexious Gaming;
+L;Sage;0.83;201;12;14;4;75%;121;17%;1;1;Lexious Gaming;
+W;Sova;0.89;180;12;16;10;70%;120;13%;0;1;Lexious Gaming;
+L;Killjoy;0.80;175;10;13;1;56%;116;18%;0;1;Lexious Gaming;
+L;Reyna;0.61;144;8;15;1;50%;106;20%;2;1;Lexious Gaming;
+L;Reyna;0.80;160;15;19;2;54%;95;20%;2;3;Lexious Gaming;

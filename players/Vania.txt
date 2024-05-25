@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone;2.34;413;25;3;4;100%;231;22%;1;0;Galakticos Sirens;
+L;Sage;1.18;214;19;16;7;71%;132;21%;1;3;Galakticos Sirens;
+L;Sage;1.38;291;24;15;8;87%;189;25%;3;2;Galakticos Sirens;
+L;Astra;1.03;280;16;14;2;63%;160;16%;1;0;Galakticos Sirens;
+L;Sage;0.80;178;10;14;1;53%;109;26%;1;2;Galakticos Sirens;

@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;131;7;3;10; ;89;26%;0;0;Cairo City G'zzz;
+W;Breach; ;209;14;10;11; ;142;31%;0;1;Cairo City G'zzz;
+L;Sova; ;261;20;13;7; ;208;20%;1;0;Cairo City G'zzz;
+W;Breach; ;90;6;17;10; ;56;10%;0;3;Cairo City G'zzz;
+L;Sova; ;216;15;15;13; ;144;21%;2;1;Cairo City G'zzz;
+W;Sova; ;193;15;7;6; ;111;15%;0;0;Cairo City G'zzz;
+W;Breach; ;185;11;12;14; ;114;23%;1;2;Cairo City G'zzz;
+L;Sova; ;250;19;16;6; ;197;13%;1;0;Cairo City G'zzz;
+W;Breach; ;90;5;12;14; ;58;33%;0;2;Cairo City G'zzz;
+W;Sova; ;101;9;15;9; ;108;21%;1;2;Cairo City G'zzz;
+W;Sova; ;250;21;18;6; ;149;28%;3;1;Cairo City G'zzz;
+L;Breach; ;128;10;17;10; ;74;31%;0;0;Cairo City G'zzz;
+L;Sova; ;139;11;16;8; ;89;20%;0;2;Cairo City G'zzz;

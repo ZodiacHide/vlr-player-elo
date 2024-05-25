@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;1.00;294;18;13;1;88%;183;36%;1;0;MAXD Esports;
+L;Killjoy;0.96;175;14;16;3;70%;127;30%;1;1;MAXD Esports;
+W;Killjoy;1.17;266;23;16;3;58%;150;31%;2;2;MAXD Esports;
+L;Killjoy;0.99;251;21;18;5;71%;160;29%;1;4;MAXD Esports;
+L;Killjoy;0.84;254;11;13;1;50%;156;21%;2;0;MAXD Esports;
+L;Viper;1.37;315;23;16;6;67%;211;33%;1;1;MAXD Esports;
+L;Killjoy;1.20;291;19;15;0;67%;202;31%;0;0;MAXD Esports;
+L;Killjoy;0.68;144;10;16;0;43%;101;32%;3;6;MAXD Esports;

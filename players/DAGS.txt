@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;297;20;18;4; ;171;25%;2;3;DFT Revitalize;
+L;Raze; ;293;23;17;6; ;183;20%;5;2;DFT Revitalize;

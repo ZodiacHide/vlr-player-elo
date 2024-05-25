@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;1.17;271;16;14;4;71%;172;27%;3;2;Weird Esports;

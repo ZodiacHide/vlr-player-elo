@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;130;12;17;3; ;80;25%;1;2;Team ardiis;
+W;Cypher; ;214;23;24;7; ;139;26%;3;3;Team ardiis;
+W;Cypher; ;117;10;12;6; ;85;21%;0;0;Team ardiis;
+W;Cypher; ;120;8;12;2; ;73;10%;1;1;Team ardiis;
+W;Cypher; ;188;13;10;8; ;126;44%;0;0;Team ardiis;
+L;Killjoy; ;175;12;17;2; ;120;13%;1;1;chess on crack;
+L;Killjoy; ;101;5;19;2; ;74;22%;1;7;chess on crack;

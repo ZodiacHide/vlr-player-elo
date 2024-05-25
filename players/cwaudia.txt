@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.10;184;9;10;6;88%;125;12%;2;0;Wanderlust;
+L;Sage;0.80;148;12;19;8;65%;94;21%;4;2;Wanderlust;
+L;Killjoy;0.52;98;5;19;6;52%;87;7%;0;2;Wanderlust;
+L;Killjoy;0.84;174;10;14;2;53%;128;12%;1;2;Wanderlust;
+W;Sova;1.28;248;20;11;4;81%;169;13%;0;1;Wanderlust;
+W;Killjoy;0.97;180;16;17;5;69%;120;11%;1;2;Wanderlust;
+L;Killjoy;0.52;138;6;17;3;33%;99;14%;1;0;Wanderlust;
+L;Sage;0.79;171;10;14;4;71%;98;10%;0;0;Wanderlust;
+L;Sova;0.48;134;7;15;3;53%;86;3%;0;2;Wanderlust;
+L;Sova;0.93;210;11;13;4;71%;150;17%;1;0;Wanderlust;

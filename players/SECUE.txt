@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;216;15;17;1; ;111;10%;2;2;Furore Draco;
+L;Cypher; ;126;7;16;3; ;82;11%;1;1;Furore Draco;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach;0.98;212;13;14;3;63%;126;36%;1;0;Storm7;
+L;Skye; ; ;4;13;2; ; ; ; ; ;Storm7;

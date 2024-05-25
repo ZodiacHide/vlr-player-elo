@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Regal E-Sports;
+L;Killjoy;0.56;150;8;14;2;65%;82;12%;1;2;Regal E-Sports;

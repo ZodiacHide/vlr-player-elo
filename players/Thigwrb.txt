@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;282;24;13;4; ;159;18%;3;2;raeB's Anime Club;
+W;Jett; ;314;24;12;2; ;187;29%;6;3;raeB's Anime Club;
+W;Reyna; ;273;21;15;6; ;160;28%;3;0;raeB's Anime Club;
+L;Jett; ;175;13;17;2; ;110;27%;2;4;raeB's Anime Club;
+L;Phoenix; ;159;9;17;6; ;123;26%;2;0;raeB's Anime Club;
+L;Jett; ;207;16;18;5; ;120;20%;2;0;raeB's Anime Club;
+L;Skye;0.94;203;21;23;9;75%;126;20%;2;1;Bay Area Vandals;
+W;Sage;0.88;161;9;15;10;75%;103;20%;1;2;Bay Area Vandals;
+L;Sage;0.58;130;10;19;7;61%;85;15%;1;1;Bay Area Vandals;
+W;Skye;1.36;273;18;11;4;94%;153;35%;6;0;Bay Area Vandals;
+W;Skye;1.01;191;15;12;3;65%;117;22%;2;2;Bay Area Vandals;

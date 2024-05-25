@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;134;8;22;5; ;95;24%;2;1;Swagoi;
+L;Phoenix; ;145;7;14;2; ;101;17%;0;2;Swagoi;

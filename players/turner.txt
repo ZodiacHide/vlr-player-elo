@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy;1.42;315;20;9;3;88%;206;17%;1;0;Fire Flux Fierce;
+W;Cypher;1.34;238;17;9;3;83%;158;18%;1;0;Fire Flux Fierce;
+W;Killjoy;2.15;315;19;4;2;100%;198;17%;2;0;Fire Flux Fierce;
+W;Sage;1.16;157;11;7;4;78%;101;14%;1;1;Fire Flux Fierce;
+L;Killjoy;0.65;167;8;14;2;56%;112;18%;0;1;Fire Flux Fierce;
+L;Sova;0.45;63;3;13;4;41%;54;21%;0;6;Fire Flux Fierce;

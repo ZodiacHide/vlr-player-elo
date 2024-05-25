@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;1.20;230;28;22;6;81%;149;34%;2;1;The Goose House Lunar;
+W;Cypher;1.25;268;19;13;5;73%;161;34%;3;1;The Goose House Lunar;
+L;Sage;0.73;110;14;23;5;59%;85;37%;2;4;The Goose House Lunar;
+W;Cypher;0.83;167;8;10;3;71%;119;22%;1;0;The Goose House Lunar;
+W;Killjoy;1.48;256;19;11;7;86%;187;22%;1;1;The Goose House Lunar;
+L;Cypher;0.68;146;14;20;1;65%;98;45%;3;4;The Goose House Lunar;
+W;Killjoy;0.89;105;6;9;3;82%;73;13%;1;1;The Goose House Lunar;
+W;Breach;0.92;148;13;16;12;74%;109;33%;1;2;The Goose House Lunar;
+W;Cypher;1.13;200;13;10;1;65%;133;33%;3;2;The Goose House Lunar;
+L;Breach;0.93;141;14;15;6;67%;94;48%;1;0;The Goose House Lunar;
+L;Cypher;0.86;157;19;24;1;57%;103;30%;4;3;The Goose House Lunar;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;159;10;18;7; ;98;10%;0;1;Sophie's children;
+L;Skye; ;97;8;14;13; ;59;8%;0;2;Sophie's children;
+L;Sova; ;118;6;14;10; ;83;10%;0;3;PowerHouse;
+L;Sova; ;158;7;15;3; ;103;10%;1;2;PowerHouse;

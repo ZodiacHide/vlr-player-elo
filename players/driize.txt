@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;106;6;15;1; ;68;31%;0;1;NO ORG;
+L;Breach; ;137;9;18;14; ;85;11%;1;1;NO ORG;
+W;Skye;0.75;125;10;15;4;65%;77;24%;0;2;Onlyfans;
+L;Sage;0.37;104;5;16;5;56%;56;23%;0;1;Onlyfans;
+W;Skye;0.78;186;14;17;4;73%;110;15%;0;0;Onlyfans;
+L;Skye;0.80;232;15;16;4;74%;149;11%;1;0;Onlyfans;
+W;Killjoy;0.79;160;16;24;4;66%;112;15%;1;2;Onlyfans;

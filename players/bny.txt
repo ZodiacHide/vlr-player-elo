@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.21;270;23;19;6;75%;170;39%;4;6;OS GURI;
+L;Jett;0.39;133;8;18;3;63%;72;26%;2;4;OS GURI;
+L;Jett;0.79;186;12;15;1;61%;117;23%;3;5;OS GURI;

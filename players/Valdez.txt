@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;227;12;15;3; ;123;21%;2;4;Emerald Gaming;
+W;Sova; ;257;20;15;10; ;132;27%;4;4;Emerald Gaming;
+L;Sova; ;217;16;15;6; ;142;26%;4;4;Emerald Gaming;
+L;Viper; ;133;9;19;1; ;84;32%;1;2;Brotherhood of the Five;
+W;Sova;0.72;206;15;22;11;79%;142;38%;3;1;Aspire;
+L;Sova;0.69;222;9;15;3;64%;141;45%;1;4;Aspire;

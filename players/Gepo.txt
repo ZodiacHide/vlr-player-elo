@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;247;14;4;2; ;161;15%;2;0;Team ScreaM;
+L;Raze; ;197;17;17;6; ;135;27%;0;3;Team ScreaM;
+L;Raze; ;114;7;18;4; ;80;17%;2;4;Team ScreaM;

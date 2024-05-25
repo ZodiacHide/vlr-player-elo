@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Mendo;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Mendo;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Mendo;
+L;Breach; ;180;9;15;3; ; ; ;0; ;Team Mendo;
+L;Phoenix; ;200;17;17;4; ; ; ;2; ;Team Mendo;

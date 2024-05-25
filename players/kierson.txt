@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.43;101;4;13;1;57%;73;25%;1;3;Team NoM;
+L;Cypher;0.34;90;3;13;1;31%;70;40%;1;0;Team NoM;

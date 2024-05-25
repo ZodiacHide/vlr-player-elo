@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;1.25;264;15;11;9;93%;177;23%;0;1;Evolved Gamers;
+L;Omen;0.69;156;8;14;1;50%;105;29%;1;2;Evolved Gamers;
+L;None;0;0;0;0;0;0;0;0;0;0;Evolved Gamers;

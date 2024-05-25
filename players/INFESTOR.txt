@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher;0.80;122;9;14;5;71%;75;28%;0;3;Team Duelist;
+W;Cypher;1.63;229;12;5;5;93%;171;23%;2;1;Team Duelist;
+W;Cypher;1.18;216;10;9;6;79%;155;31%;0;0;Team Duelist;
+W;Cypher;1.21;222;15;11;5;72%;130;24%;3;1;Team Duelist;
+L;Cypher;0.31;88;5;15;3;53%;63;26%;0;1;Team Duelist;
+W;Cypher;0.95;154;11;15;7;71%;110;22%;1;2;Team Duelist;
+L;Cypher; ; ;15;16;5; ; ; ; ; ;Geekay Esports;
+W;Viper; ; ;18;16;6; ; ; ; ; ;Geekay Esports;
+L;Viper; ; ;8;16;6; ; ; ; ; ;Geekay Esports;
+L;Cypher;0.55;181;10;16;1;50%;144;30%;2;3;Geekay Esports;
+W;Cypher;0.88;204;16;15;1;67%;129;28%;4;3;Geekay Esports;
+L;Viper;0.60;162;12;19;5;59%;116;31%;1;3;Geekay Esports;

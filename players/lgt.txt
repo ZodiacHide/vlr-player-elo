@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;265;16;12;6; ; ; ;2; ;FULLCS;
+L;Sage; ;135;8;20;14; ; ; ;0; ;FULLCS;
+W;Sage; ;109;7;11;6; ; ; ;0; ;FULLCS;
+L;Sage; ;106;6;18;11; ; ; ;0; ;FULLCS;

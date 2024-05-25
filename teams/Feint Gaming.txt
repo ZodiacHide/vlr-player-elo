@@ -1,0 +1,12 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Furious Gaming;Haven;Decider;cest;Vlokz;nachitt;blackzero;mdl;13:15;True;54:19;Sunday, November 29th, 12:00 AM CET;First Strike: Latin America;url.net;
+Defense;L;Rebirth Esports;Haven;Decider;Vlokz;mdl;blackzero;nachitt;cest;4:13;False;34:23;Sunday, November 29th, 1:00 AM CET;First Strike: Latin America;url.net;
+Attack;L;Australs;Split;Decider;Vlokz;blackzero;nachitt;cest;mdl;3:13;False;27:11;Monday, November 30th, 12:00 AM CET;First Strike: Latin America;url.net;
+Attack;L;DKS Esports;Haven;Decider;nachitt;mdl;cest;blackzero;Vlokz;5:13;False;32:29;Monday, November 30th, 1:00 AM CET;First Strike: Latin America;https://www.twitch.tv/videos/820180520?t=3h6m28s;
+Attack;L;Estral Esports;Bind;Decider;mdl;nachitt;Vlokz;blackzero;cest;6:13;False;39:15;Wednesday, December 2nd, 1:00 AM CET;First Strike: Latin America;https://www.twitch.tv/videos/822522999?t=0h41m21s;
+Attack;L;Dylema Gaming;Ascent;Decider;mdl;blackzero;Vlokz;cest;nachitt;5:13;False;31:02;Wednesday, December 2nd, 2:00 AM CET;First Strike: Latin America;url.net;
+Attack;L;9z Team;Haven;Decider;cest;blackzero;nachitt;Vlokz;mdl;4:13;False;27:40;Wednesday, December 2nd, 3:00 AM CET;First Strike: Latin America;url.net;
+Attack;W;Malvinas Gaming;Ascent;Feint Gaming;cest;Vlokz;nachitt;blackzero;mdl;13:7;False;37:49;Wednesday, February 3rd, 11:00 PM CET;Champions Tour LATAM Stage 1: Challengers 2;url.net;
+Defense;W;Malvinas Gaming;Split;Feint Gaming;cest;Vlokz;nachitt;blackzero;mdl;13:11;False;48:28;Wednesday, February 3rd, 11:00 PM CET;Champions Tour LATAM Stage 1: Challengers 2;url.net;
+Defense;L;Stampede Gaming;Haven;Stampede Gaming;Vlokz;cest;blackzero;mdl;nachitt;12:14;True;46:53;Thursday, February 4th, 11:30 PM CET;Champions Tour LATAM Stage 1: Challengers 2;https://www.twitch.tv/videos/900778453?t=5h6m6s;
+Attack;L;Stampede Gaming;Ascent;Stampede Gaming;Vlokz;cest;blackzero;mdl;nachitt;7:13;False;37:37;Thursday, February 4th, 11:30 PM CET;Champions Tour LATAM Stage 1: Challengers 2;https://www.twitch.tv/videos/900778453?t=5h6m6s;

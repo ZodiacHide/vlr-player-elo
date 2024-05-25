@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix;0.49;145;6;13;1;38%;81;27%;2;1;Lobster Car;
+L;Phoenix;0.37;98;5;15;2;50%;69;14%;0;1;Lobster Car;

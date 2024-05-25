@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;348;21;10;5; ;190;19%;5;1;KINGSLAYERS;
+W;Cypher; ;202;10;7;8; ;127;18%;3;1;KINGSLAYERS;
+L;Killjoy; ;167;10;19;4; ;91;13%;1;3;KINGSLAYERS;
+L;None;0;0;0;0;0;0;0;0;0;0;KINGSLAYERS;
+L;Sage; ;208;17;20;3; ;126;17%;2;1;KINGSLAYERS;
+L;Sova;0.93;191;19;22;12;73%;120;10%;2;0;KINGSLAYERS;
+W;Sova;1.19;183;14;13;11;82%;118;12%;0;1;KINGSLAYERS;
+L;Sova;1.04;173;12;17;11;65%;116;4%;3;2;KINGSLAYERS;

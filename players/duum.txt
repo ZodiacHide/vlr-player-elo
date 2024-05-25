@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;174;15;15;3; ; ; ;4; ;FAKEZIN;
+W;Cypher; ;227;16;16;7; ; ; ;4; ;FAKEZIN;
+L;Cypher; ;124;7;19;8; ; ; ;2; ;FAKEZIN;
+W;Cypher; ;221;16;11;2; ; ; ;3; ;FAKEZIN;
+W;Cypher; ;266;21;12;4; ; ; ;3; ;FAKEZIN;
+L;Cypher; ;136;12;21;6; ;99;23%;1;5;FAKEZIN;
+L;Cypher; ;169;17;20;3; ;111;14%;1;4;FAKEZIN;
+W;None;0;0;0;0;0;0;0;0;0;0;FAKEZIN;

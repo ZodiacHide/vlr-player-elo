@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.59;379;25;12;7;95%;231;44%;6;2;TIAN DOGS GAMING;
+L;Raze;0.89;219;14;18;2;55%;132;44%;6;3;TIAN DOGS GAMING;

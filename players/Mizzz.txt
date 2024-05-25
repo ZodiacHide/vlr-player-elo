@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;211;12;17;1; ; ; ;2; ;Unknown;
+L;Omen; ;185;12;16;1; ; ; ;1; ;Unknown;
+L;Sova; ;80;3;12;2; ;56;13%;0;4;GodLAN;
+W;Killjoy; ;241;29;22;4; ;174;20%;2;5;GodLAN;
+L;Killjoy; ;225;18;18;3; ;130;23%;6;3;GodLAN;
+L;Omen; ;156;9;14;2; ;73;17%;2;1;Hogwarts;
+L;Omen; ;90;4;14;1; ;62;29%;1;3;Hogwarts;
+L;Killjoy;0.85;230;17;17;3;59%;165;28%;2;3;AXIBYTE ESPORTS;
+L;Skye;0.48;127;7;16;4;63%;87;13%;2;4;AXIBYTE ESPORTS;
+L;Killjoy;0.75;146;16;23;3;61%;96;23%;0;5;AXIBYTE ESPORTS;
+W;Viper;1.29;283;24;19;7;79%;163;20%;2;1;AXIBYTE ESPORTS;
+L;Viper;0.76;169;14;20;8;65%;118;24%;1;3;AXIBYTE ESPORTS;

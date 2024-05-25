@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Envy;Bind;Carnos Arks;gUtshOt;hydrotwist;Griffyx;Goomer;Jony;2:13;False;22:27;Thursday, July 1st, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 1;https://www.twitch.tv/videos/1073744816;
+Defense;L;Envy;Icebox;Carnos Arks;gUtshOt;hydrotwist;Griffyx;Goomer;Jony;1:13;False;17:00;Thursday, July 1st, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 1;https://www.twitch.tv/videos/1073744816;
+Attack;L;Complexity;Ascent;Carnos Arks;Griffyx;hydrotwist;Jony;Goomer;gUtshOt;3:13;False;26:04;Thursday, July 22nd, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 2;url.net;
+Attack;L;Complexity;Icebox;Carnos Arks;Griffyx;hydrotwist;Jony;Goomer;gUtshOt;4:13;False;37:21;Thursday, July 22nd, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 2;url.net;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.63;129;10;17;2;55%;104;32%;3;4;Nebula;
+W;Jett;0.73;217;15;15;2;55%;148;28%;5;4;Nebula;
+W;Jett;0.81;184;13;20;9;91%;122;16%;5;1;Nebula;

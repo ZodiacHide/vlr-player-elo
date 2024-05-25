@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;267;20;16;10; ; ; ;2; ;KappaPride;
+L;None;0;0;0;0;0;0;0;0;0;0;KappaPride;
+L;Omen; ;72;5;17;0; ;47;12%;0;3;ahq e-Sports Club;
+L;Cypher; ;140;10;18;3; ;85;20%;3;1;ahq e-Sports Club;
+W;Brimstone; ;181;15;13;3; ;101;11%;3;4;ahq e-Sports Club;
+L;Omen; ;120;7;16;3; ;84;14%;1;2;ahq e-Sports Club;
+W;Omen; ;110;8;16;3; ;68;28%;2;4;ahq e-Sports Club;
+W;Brimstone; ;175;15;24;10; ;104;9%;3;4;ahq e-Sports Club;
+L;Omen; ;137;10;16;6; ;101;23%;1;2;ahq e-Sports Club;
+L;Omen; ;113;8;16;6; ;87;12%;1;4;ahq e-Sports Club;

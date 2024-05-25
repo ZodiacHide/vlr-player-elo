@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.22;223;15;11;7;84%;153;24%;2;0;Honvéd Esport;
+L;Sova;0.68;157;9;15;2;50%;93;9%;1;0;Honvéd Esport;
+L;Skye;0.60;90;7;19;3;61%;55;14%;0;3;Honvéd Esport;
+L;Sova;1.17;242;16;14;4;65%;164;27%;1;1;Honvéd Esport;
+L;None;0;0;0;0;0;0;0;0;0;0;Honvéd Esport;
+W;None;0;0;0;0;0;0;0;0;0;0;Honvéd Esport;
+W;None;0;0;0;0;0;0;0;0;0;0;Honvéd Esport;
+L;None;0;0;0;0;0;0;0;0;0;0;Honvéd Esport;

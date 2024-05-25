@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;187;13;15;4; ;114;17%;1;3;Funcrew;
+W;Jett; ;131;13;15;2; ;81;10%;1;2;Funcrew;
+L;Jett; ;172;12;16;3; ;101;9%;2;3;Funcrew;
+W;Jett; ;214;22;19;4; ;133;19%;3;5;Funcrew;
+W;Jett; ;205;16;10;0; ;115;24%;6;1;Funcrew;
+W;Jett; ;173;13;11;4; ;108;20%;3;3;Funcrew;
+L;Jett; ;197;11;18;4; ;135;26%;1;4;Funcrew;
+W;Jett; ;271;22;16;7; ;145;13%;8;0;Funcrew;
+L;Reyna; ;201;18;22;5; ;133;30%;2;5;Funcrew;
+L;Jett; ;210;12;16;2; ;112;19%;2;5;Funcrew;
+W;Jett; ;172;8;14;9; ;115;11%;2;5;Funcrew;
+L;Reyna; ;226;12;15;2; ;144;25%;0;2;Funcrew;

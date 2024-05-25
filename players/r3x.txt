@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;149;12;19;3; ;79;17%;1;2;top500 and dog;
+L;Brimstone; ;168;17;25;3; ;102;20%;2;6;top500 and dog;
+L;Breach; ;196;11;16;5; ;108;11%;1;3;top500 and dog;
+L;Breach; ;247;14;14;3; ;157;20%;0;2;top500 and dog;

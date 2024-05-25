@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;1.01;250;16;19;6;57%;175;44%;3;4;Dynasty ZRAW;

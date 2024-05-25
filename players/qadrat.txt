@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;183;9;18;6; ; ; ;2; ;Team gamelifeow;
+L;Brimstone; ;180;9;13;1; ; ; ;2; ;Team gamelifeow;
+L;Brimstone; ;223;18;18;4; ; ; ;3; ;Team gamelifeow;

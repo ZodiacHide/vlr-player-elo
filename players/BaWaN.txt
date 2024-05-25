@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.95;218;15;15;2;58%;136;29%;3;2;Free Sign;
+L;Sova;0.83;270;13;15;5;67%;165;39%;2;0;Free Sign;
+W;Sova;0.85;201;14;19;8;71%;136;20%;1;0;Les Zinzins De Lespace;
+L;Sova;0.96;175;11;14;4;72%;115;48%;1;1;Les Zinzins De Lespace;
+L;Sova;1.16;278;17;14;5;63%;196;25%;1;1;Les Zinzins De Lespace;

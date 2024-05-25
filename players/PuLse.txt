@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.55;183;8;14;3;47%;111;19%;1;2;1Tap Tavern;

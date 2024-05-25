@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;253;14;16;4; ;149;24%;3;4;Constant rise;
+L;Jett; ;264;21;19;5; ;161;18%;6;5;Team Gravity;
+W;Jett; ;257;27;24;5; ;176;23%;9;6;Team Gravity;
+L;Jett; ;236;19;20;8; ;156;22%;4;3;Team Gravity;
+L;Jett;0.76;236;14;17;1;61%;148;18%;2;5;Fadee Gaming;
+L;Raze;1.22;265;16;11;2;75%;184;21%;1;3;Fadee Gaming;

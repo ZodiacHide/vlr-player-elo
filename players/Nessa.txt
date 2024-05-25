@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;123;10;13;1; ;84;12%;0;1;raeB's Anime Club;
+W;Killjoy; ;113;6;10;4; ;89;12%;1;0;raeB's Anime Club;
+W;Sage; ;164;15;15;8; ;97;36%;0;0;raeB's Anime Club;

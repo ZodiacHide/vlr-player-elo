@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Chivas Esports;
+L;Omen; ;110;7;16;3; ;79;10%;0;5;Chivas Esports;
+L;Omen; ;189;10;15;2; ;120;9%;2;2;Chivas Esports;
+L;Killjoy; ;132;7;15;2; ;90;9%;2;1;Chivas Esports;
+L;Raze; ;127;3;13;1; ;89;7%;0;1;Chivas Esports;
+L;Sage; ;29;1;13;2; ;15;17%;0;1;Chivas Esports;

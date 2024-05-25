@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;184;10;14;6; ;102;18%;2;1;EZPZ;
+L;Cypher; ;139;10;19;5; ;91;26%;5;3;EZPZ;
+L;Phoenix; ;217;11;13;4; ;140;16%;2;2;EZPZ;
+W;Reyna; ;268;18;19;10; ;172;13%;4;6;EZPZ;
+W;Phoenix; ;264;14;10;10; ;167;18%;3;1;EZPZ;
+L;Reyna; ;139;6;15;3; ;79;6%;1;3;EZPZ;
+L;Reyna; ;169;6;13;5; ;112;16%;1;2;EZPZ;

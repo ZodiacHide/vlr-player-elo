@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;1.43;333;26;14;6;78%;208;20%;5;3;GhostFamily E-Sports;
+W;Raze;0.93;205;17;18;2;73%;128;18%;2;2;GhostFamily E-Sports;
+L;Raze;0.79;187;11;18;5;75%;127;13%;1;1;GhostFamily E-Sports;
+L;Raze;0.99;220;13;16;8;75%;160;17%;2;1;GhostFamily E-Sports;
+L;Raze;1.16;309;25;21;4;75%;189;31%;4;3;GhostFamily E-Sports;
+L;Raze;0.99;205;17;19;4;67%;128;27%;3;1;GhostFamily E-Sports;

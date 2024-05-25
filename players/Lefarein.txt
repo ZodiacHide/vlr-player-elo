@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;124;6;14;1; ;69;8%;0;3;TEAM X-FORCE;

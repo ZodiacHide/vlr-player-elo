@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;216;16;15;1; ;122;13%;1;0;SUPER SQUAD;
+L;Viper;0.51;186;8;14;1;64%;118;26%;2;1;Obey Alliance;
+L;Viper;0.54;123;6;13;1;57%;78;21%;1;2;Obey Alliance;
+L;Killjoy;0.60;113;9;17;1;57%;83;14%;1;2;Obey Alliance;

@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;192;16;20;5; ;116;18%;4;8;ex-Reckless Lads;
+L;None;0;0;0;0;0;0;0;0;0;0;ex-Reckless Lads;
+L;Jett; ;216;14;17;3; ;120;17%;5;7;ex-Reckless Lads;
+L;Sage; ;164;7;17;4; ;127;29%;2;5;ex-Reckless Lads;
+L;Jett; ;210;16;18;4; ;139;22%;0;4;ex-Reckless Lads;
+L;Jett; ;207;13;16;0; ;145;15%;1;2;ex-Reckless Lads;
+L;Jett; ;253;18;19;5; ;144;14%;4;3;ex-Reckless Lads;
+W;Jett; ;257;16;11;8; ;184;14%;2;2;WOLFPACK;
+L;Reyna; ;156;7;18;4; ;80;14%;4;5;WOLFPACK;
+L;Jett; ;182;10;14;2; ;128;26%;2;2;WOLFPACK;
+L;None;0;0;0;0;0;0;0;0;0;0;Mencari Tempat Berlabuh;
+L;Killjoy;0.77;128;10;17;6;59%;96;18%;0;2;Mencari Tempat Berlabuh;
+L;Cypher;0.44;107;4;14;3;36%;67;17%;2;0;NXLG Academy;
+L;Killjoy;0.82;158;11;14;5;64%;104;10%;1;1;NXLG Academy;
+L;Killjoy;0.82;170;13;16;4;62%;103;14%;1;2;NXLG Academy;
+L;Sage;0.52;121;11;24;6;57%;78;10%;1;3;NXLG Academy;
+L;Sage;0.52;113;9;20;2;58%;79;13%;1;1;NXLG Academy;

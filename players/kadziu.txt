@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;111;7;15;0; ;72;14%;0;4;Hajty;
+W;Raze; ;203;20;18;2; ;114;20%;0;3;Hajty;
+W;Jett; ;205;19;18;2; ;115;29%;6;1;Hajty;
+L;Jett; ;157;12;14;3; ;99;17%;0;2;Hajty;
+L;Raze; ;185;19;22;6; ;120;16%;3;4;Hajty;

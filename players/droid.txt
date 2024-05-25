@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.85;194;13;13;2;71%;112;41%;2;2;Space Bound;
+L;Raze;0.40;135;7;15;0;40%;95;13%;1;4;dotExE;
+L;Raze;0.37;119;5;15;2;33%;71;12%;2;4;dotExE;

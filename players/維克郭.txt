@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;238;18;16;6; ;185;8%;2;2;Ka4 e-Sports Club;

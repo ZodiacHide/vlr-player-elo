@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;122;5;13;1; ;84;28%;0;2;Pirate Nation;
+L;Jett; ;189;9;14;1; ;113;11%;2;4;Pirate Nation;
+L;Sage; ;156;10;17;4; ;87;17%;2;4;Pirate Nation;
+L;Killjoy; ;148;6;14;2; ;99;8%;1;4;Pirate Nation;
+L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;
+L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;

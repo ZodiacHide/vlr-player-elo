@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;104;10;20;4; ;60;25%;1;2;Magic Esport;
+L;Omen; ;125;10;18;3; ;84;28%;2;3;Magic Esport;

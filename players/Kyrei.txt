@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;242;14;13;3; ; ; ;3; ;AKIHABARA ENCOUNT;
+L;Breach; ;259;21;16;7; ;192;20%;1;0;AKIHABARA ENCOUNT;
+L;Breach; ;175;12;21;13; ;113;18%;0;1;AKIHABARA ENCOUNT;

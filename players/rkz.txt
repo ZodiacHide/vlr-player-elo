@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;163;8;14;1; ;89;44%;1;0;Bestial;
+L;Breach; ;198;15;15;5; ;166;48%;2;0;Bestial;
+W;Breach; ;136;8;12;8; ;90;19%;1;2;Bestial;
+L;Breach; ;214;18;17;4; ;134;39%;1;5;Bestial;
+W;Phoenix;1.45;301;16;7;3;80%;156;23%;3;0;Bestial;

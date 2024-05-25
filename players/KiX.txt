@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;178;14;15;3; ;136;27%;0;1;Crew Esports;
+L;Omen; ;160;10;15;0; ;98;36%;2;2;Crew Esports;
+L;Omen; ;162;8;17;5; ;123;13%;1;2;Crew Esports;
+L;Breach; ;186;18;19;9; ;111;11%;2;1;Crew Esports;

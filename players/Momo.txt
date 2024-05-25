@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;125;5;14;4; ;98;30%;1;1;Demon Time;
+W;Reyna; ;245;15;10;4; ;161;34%;1;4;Demon Time;
+W;Reyna; ;270;21;13;4; ;135;35%;3;2;Demon Time;
+L;Breach; ;231;16;15;9; ;135;30%;0;0;Demon Time;
+L;Phoenix; ;243;17;15;3; ;155;33%;4;3;Demon Time;
+L;Breach; ;162;13;19;9; ;104;23%;2;2;Demon Time;
+W;Breach; ;272;20;13;12; ;166;35%;1;2;Demon Time;
+W;Breach; ;388;20;4;7; ;230;38%;2;1;Demon Time;
+W;Reyna; ;230;17;12;1; ;141;38%;5;2;Demon Time;
+L;Breach; ;93;8;16;6; ;61;27%;0;0;Demon Time;
+W;Breach; ;176;11;9;7; ;85;38%;0;0;Demon Time;
+W;Reyna; ;304;22;13;6; ;181;42%;4;0;Demon Time;
+L;Breach; ;190;14;17;7; ;120;30%;2;0;Demon Time;
+L;Breach; ;195;13;17;4; ;99;48%;2;2;Demon Time;
+L;Breach; ;129;9;17;3; ;89;26%;2;3;Demon Time;

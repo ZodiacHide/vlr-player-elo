@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;195;13;15;0; ;117;18%;2;2;Las Venturas;
+W;Jett; ;196;15;19;6; ;116;23%;2;6;Las Venturas;
+L;Jett; ;117;5;16;2; ;86;16%;2;3;Las Venturas;
+W;Phoenix; ;247;17;13;3; ;158;17%;4;2;Las Venturas;
+W;Breach; ;152;8;6;6; ;77;15%;0;0;Las Venturas;
+L;Jett; ;17;19;20;3; ;12;25%;0;0;Las Venturas;
+L;Phoenix; ;117;6;15;1; ;75;39%;1;4;Las Venturas;
+W;Jett; ;278;16;10;4; ;174;28%;2;1;Las Venturas;
+W;Phoenix; ;251;20;14;4; ;141;25%;3;2;Las Venturas;
+L;Breach; ;136;10;16;5; ;74;15%;1;0;Las Venturas;
+L;Jett; ;192;12;16;3; ;129;38%;4;5;Las Venturas;
+W;Jett; ;293;27;13;2; ;165;29%;2;1;ex-Timing Monster Gaming;
+W;Jett; ;231;17;13;2; ;132;30%;5;4;ex-Timing Monster Gaming;
+L;Jett; ;152;10;15;0; ;145;17%;1;4;ex-Timing Monster Gaming;
+L;Jett; ;123;13;19;4; ;76;22%;4;7;ex-Timing Monster Gaming;
+L;Jett; ;139;8;17;2; ;103;26%;3;5;ex-Timing Monster Gaming;

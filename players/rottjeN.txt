@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;86;3;14;1; ;49;12%;1;2;Kakaopulver;
+L;Omen; ;107;10;18;5; ;69;18%;0;2;Team Questionmark;
+L;Omen; ;157;13;16;3; ;100;31%;1;1;Team Questionmark;

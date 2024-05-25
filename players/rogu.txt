@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;138;10;12;11; ; ; ;2; ;Team wtcN;
+W;Sage; ;162;10;8;10; ; ; ;1; ;Team wtcN;
+W;Sage; ;134;7;8;10; ; ; ;0; ;Team wtcN;
+W;Sage; ;178;13;14;13; ; ; ;3; ;Team wtcN;
+W;Sage; ;232;19;16;9; ; ; ;1; ;Team wtcN;
+W;Sage; ;109;9;17;12; ; ; ;1; ;Team wtcN;
+L;Sage; ;57;4;13;6; ; ; ;0; ;Team wtcN;
+L;Sage; ;77;4;15;7; ; ; ;0; ;Team wtcN;
+W;Sage; ;155;8;9;11; ; ; ;1; ;BBL Esports;
+L;Sage; ;86;7;16;8; ;67;23%;1;3;Team Turkey;
+W;Omen; ;179;14;14;7; ;119;30%;1;0;Team Turkey;
+W;Cypher; ;217;17;9;3; ;136;19%;0;1;Team Turkey;
+W;Omen; ;115;9;11;2; ;124;21%;1;2;Team Turkey;
+W;Omen; ;255;18;10;2; ;176;22%;3;1;Team Turkey;
+L;Omen; ;175;15;16;4; ;103;17%;2;3;Team Turkey;

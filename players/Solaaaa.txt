@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Solaaaa;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Solaaaa;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Solaaaa;
+L;Cypher; ;104;10;20;3; ; ; ;1; ;Team Solaaaa;
+L;Jett; ;157;12;16;3; ;89;8%;3;5;Team DACH;
+L;Jett; ;182;16;16;4; ;109;12%;3;3;Team DACH;
+L;Jett; ;192;12;12;2; ;118;16%;3;0;Team DACH;
+W;Jett; ;194;17;15;4; ;118;9%;4;1;Team DACH;

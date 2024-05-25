@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Absolute Legends Blue;
+L;None;0;0;0;0;0;0;0;0;0;0;Absolute Legends Blue;
+W;Brimstone; ;279;19;9;2; ; ; ;3; ;Absolute Legends Blue;
+L;Brimstone; ;146;7;14;1; ; ; ;1; ;Absolute Legends Blue;
+W;Omen; ;115;7;13;3; ; ; ;1; ;Absolute Legends Blue;
+L;Omen; ;136;9;16;5; ; ; ;2; ;Absolute Legends Blue;

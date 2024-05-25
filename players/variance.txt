@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;166;14;14;4; ; ; ;3; ;esoteric;
+L;Reyna; ;172;13;16;5; ; ; ;1; ;esoteric;
+L;Raze; ;195;13;22;7; ; ; ;3; ;esoteric;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;148;7;15;3; ;88;46%;0;1;Shoguns;
+L;None;0;0;0;0;0;0;0;0;0;0;Shoguns;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.85;273;12;13;2;64%;174;37%;2;1;Zero MarksMen Black;

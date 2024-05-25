@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;76;4;15;3; ;49;25%;0;2;RED Canids;
+L;Raze; ;220;18;21;5; ;137;16%;4;6;RED Canids;

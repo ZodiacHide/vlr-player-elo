@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;107;7;21;3; ; ; ;1; ;Team Dhalucard;
+L;Reyna; ;38;1;14;3; ; ; ;0; ;Team Dhalucard;
+L;Omen; ;93;4;14;1; ; ; ;0; ;Team Dhalucard;

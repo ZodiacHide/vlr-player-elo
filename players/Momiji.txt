@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;317;21;14;6; ;195;27%;5;1;Pyronic;
+W;Reyna; ;254;21;18;10; ;158;24%;4;1;Pyronic;
+L;Phoenix; ;182;9;14;2; ;107;20%;2;1;Pyronic;
+L;Reyna; ;134;9;15;0; ;79;26%;0;3;Pyronic;
+W;Omen; ;94;9;15;4; ;93;13%;1;2;On The Way;
+W;Omen; ;125;9;17;3; ;106;14%;0;1;On The Way;
+L;Omen; ;160;11;19;15; ;110;24%;1;0;On The Way;
+L;Omen; ;131;11;14;6; ;87;16%;1;2;On The Way;
+L;Killjoy; ;224;14;15;3; ;147;16%;0;1;SPIN Academy;

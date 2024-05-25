@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.56;165;8;15;1;60%;93;13%;1;5;1Tap Tavern;

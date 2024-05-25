@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.42;206;15;7;3;82%;133;18%;1;0;Thailand Attitude;
+W;Jett;2.00;440;26;7;5;100%;255;9%;5;0;Thailand Attitude;
+W;Jett;1.30;268;20;12;10;85%;165;7%;2;2;Thailand Attitude;
+L;Jett;0.55;193;7;13;5;64%;121;14%;2;2;Thailand Attitude;
+L;Jett;0.83;198;10;13;2;63%;136;37%;2;2;Thailand Attitude;
+L;Jett;0.77;260;13;15;1;67%;152;12%;3;3;Thailand Attitude;
+L;Jett;1.06;249;22;18;5;75%;134;23%;4;5;47 Gaming;
+L;Jett;0.80;186;14;17;2;59%;109;29%;3;5;47 Gaming;
+W;Jett;1.02;252;19;19;5;74%;155;19%;3;4;47 Gaming;
+L;Jett;0.81;203;15;17;3;67%;135;18%;1;3;47 Gaming;
+L;Jett;0.71;198;12;17;4;70%;142;24%;4;2;47 Gaming;
+L;Jett;0.97;211;18;23;3;73%;139;13%;6;3;47 Gaming;
+L;Jett;0.67;159;9;15;4;71%;108;11%;0;3;47 Gaming;
+L;Jett;0.21;86;5;17;2;53%;67;33%;0;4;47 Gaming;
+L;Jett;0.78;162;12;20;5;65%;93;12%;4;5;47 Gaming;

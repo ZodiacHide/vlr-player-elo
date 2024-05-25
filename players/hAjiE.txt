@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.37;117;4;14;3;62%;85;12%;0;0;YMG;
+L;Phoenix;1.01;276;15;14;2;73%;161;38%;3;2;YMG;
+L;Astra;0.41;96;4;14;5;80%;63;30%;0;1;YMG;
+L;Reyna;0.44;179;11;21;4;60%;103;16%;5;2;YMG;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.41;148;6;14;1;38%;78;29%;0;1;Pho Real;
+W;Viper;0.78;133;11;15;5;67%;69;32%;1;1;Pho Real;
+L;Astra;0.35;73;4;14;3;33%;50;25%;0;3;Pho Real;
+L;Viper;0.66;152;13;21;7;65%;100;22%;2;2;Pho Real;
+L;Viper;0.39;97;5;14;5;63%;61;13%;0;0;Pho Real;
+L;Astra;0.76;235;11;12;2;57%;144;17%;0;0;Pho Real;

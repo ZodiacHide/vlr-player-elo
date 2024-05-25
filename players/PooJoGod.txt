@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.81;147;15;19;6;68%;106;15%;0;3;Exorcist.ESC;
+W;Raze;1.08;288;20;18;7;81%;157;12%;3;2;Exorcist.ESC;
+W;Raze;1.42;300;26;16;7;88%;203;17%;3;1;Exorcist.ESC;
+L;Raze;1.07;251;20;17;8;80%;181;16%;2;1;Exorcist.ESC;
+L;Raze;0.65;198;10;17;2;56%;121;16%;2;1;Exorcist.ESC;
+L;Raze;0.80;185;13;16;4;62%;105;8%;1;1;Exorcist.ESC;
+W;Sage;1.40;292;22;13;7;86%;182;18%;1;0;Exorcist.ESC;
+L;Sage;1.22;310;25;17;8;78%;191;14%;2;4;Exorcist.ESC;

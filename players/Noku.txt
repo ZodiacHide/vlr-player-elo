@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.92;231;13;15;3;63%;127;36%;5;2;ILG JADE;
+L;Reyna;1.09;296;15;16;4;69%;189;46%;4;1;ILG JADE;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;113;5;13;0; ;62;25%;0;5;The Box by Infinity Area;

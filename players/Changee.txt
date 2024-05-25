@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;208;16;19;8; ;121;29%;1;8;tAfz;
+W;Sova; ;292;23;14;10; ;187; ;0; ;tAfz;
+L;Sage; ;288;25;13;6; ;182; ;0; ;tAfz;

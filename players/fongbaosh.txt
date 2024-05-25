@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;0.76;174;11;17;7;68%;121;16%;3;1;Banditz;
+L;Astra;1.36;297;24;16;3;71%;188;33%;6;3;Banditz;
+L;Astra;0.95;194;16;17;3;55%;130;24%;0;1;Banditz;

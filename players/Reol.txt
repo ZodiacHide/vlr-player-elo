@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;221;14;16;4; ;137;18%;2;5;Chivas Esports;
+L;Reyna; ;151;7;16;4; ;87;15%;2;2;Chivas Esports;
+L;Jett; ;241;14;16;5; ;129;11%;3;3;Chivas Esports;
+L;Jett; ;213;13;14;2; ;146;14%;3;1;Chivas Esports;
+L;Jett; ;96;3;12;1; ;53;12%;3;5;Chivas Esports;
+L;Reyna; ;195;7;13;2; ;103;17%;0;3;Chivas Esports;

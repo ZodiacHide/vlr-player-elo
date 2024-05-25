@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;230;19;18;4; ;133;12%;4;4;All Victory Esports;
+L;Jett; ;126;7;15;5; ;69;22%;3;2;All Victory Esports;
+L;Jett; ;142;12;19;3; ;87;16%;0;5;All Victory Esports;

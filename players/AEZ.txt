@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.66;176;8;14;3;63%;113;48%;0;1;TempesT;
+W;Astra;1.44;265;20;13;6;79%;148;30%;2;0;TempesT;
+L;Viper;0.87;224;13;15;5;61%;151;43%;1;1;TempesT;
+W;Astra;1.16;212;16;11;4;83%;134;32%;3;0;TempesT;
+W;Astra;1.44;215;12;6;6;100%;154;42%;0;0;TempesT;
+L;Astra;0.96;233;15;16;5;76%;152;23%;0;1;TempesT;
+L;Astra;0.79;191;15;17;3;62%;120;37%;1;5;TempesT;
+L;Omen;0.78;137;12;18;9;70%;94;11%;0;1;SUS SquaD;
+W;Astra;1.21;155;9;7;7;93%;105;15%;1;2;SUS SquaD;
+W;Omen;1.16;152;10;8;11;76%;84;13%;0;1;SUS SquaD;

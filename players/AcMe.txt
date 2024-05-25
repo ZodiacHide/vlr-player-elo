@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;113;8;18;8; ;86;21%;1;6;Physical;
+L;Brimstone; ;178;16;15;1; ;118;33%;0;0;Physical;
+L;Raze;0.94;208;21;23;5;60%;132;17%;3;3;Alpha Six Gaming;
+L;Jett;0.68;174;14;20;3;61%;97;21%;2;7;Alpha Six Gaming;
+L;Raze;0.90;179;10;14;3;44%;121;21%;1;4;Alpha Six Gaming;
+L;Jett;0.76;256;15;16;3;82%;152;29%;4;0;Alpha Six Gaming;
+L;Raze;1.12;226;16;15;4;70%;146;20%;3;4;Alpha Six Gaming;
+W;Jett;1.11;225;18;17;6;58%;148;11%;3;5;Alpha Six Gaming;
+W;Jett;0.97;179;16;17;5;73%;121;20%;7;2;Alpha Six Gaming;
+L;Jett;0.90;221;13;14;4;72%;133;17%;2;2;Alpha Six Gaming;
+L;Raze;0.74;162;8;13;4;47%;90;27%;1;4;Alpha Six Gaming;
+W;Raze;1.92;402;23;8;4;100%;230;20%;5;0;Alpha Six Gaming;
+L;Jett;0.87;237;17;19;1;60%;158;32%;3;2;Alpha Six Gaming;
+L;Jett;0.39;132;5;13;3;29%;60;12%;2;3;Alpha Six Gaming;

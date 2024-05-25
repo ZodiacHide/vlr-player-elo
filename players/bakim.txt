@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;335;23;10;5; ;209;25%;1;1;Rodelindo Roman esports;
+L;Breach; ;184;11;15;8; ;103;32%;1;1;Rodelindo Roman esports;
+L;Raze; ;302;23;17;6; ;235;24%;5;4;Rodelindo Roman esports;

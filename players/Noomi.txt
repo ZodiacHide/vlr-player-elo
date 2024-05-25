@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;G.Gang;
+W;Sage; ;178;18;13;6; ; ; ;0; ;G.Gang;
+L;Sage; ;305;27;16;10; ; ; ;11; ;G.Gang;
+L;Sage; ;174;14;17;8; ; ; ;2; ;G.Gang;
+W;Sage; ;240;15;9;7; ; ; ;3; ;G.Gang;
+L;Sage; ;200;12;15;4; ;137;22%;2;1;G.Gang;
+L;Skye;0.62;142;10;17;5;57%;103;29%;1;3;Graviton Surge;
+L;Skye;0.54;106;7;14;2;53%;69;7%;1;5;Graviton Surge;
+L;Skye;0.75;176;12;17;12;75%;104;18%;0;1;Graviton Surge;
+W;Skye;1.33;322;28;16;6;83%;185;15%;5;2;Graviton Surge;
+L;Sage;0.61;97;7;18;9;57%;68;29%;2;5;Graviton Surge;
+W;Skye;0.95;192;15;14;8;87%;120;26%;1;2;SALOH;
+W;Sage;0.75;98;8;12;4;58%;69;35%;2;3;SALOH;

@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;132;12;18;5; ;90;15%;0;3;Gravitas;
+W;Cypher; ;263;17;4;2; ;145;16%;2;0;Gravitas;
+W;Cypher; ;176;13;14;7; ;112;10%;1;2;Gravitas;
+W;Cypher; ;199;20;18;8; ;119;15%;1;1;Gravitas;
+L;Cypher; ;188;13;15;2; ;118;15%;0;2;Gravitas;
+L;Cypher; ;111;6;15;2; ;86;19%;0;1;Gravitas;
+W;Cypher; ;218;20;15;3; ;107;14%;3;2;Gravitas;
+L;Cypher; ;240;17;16;4; ;153;14%;0;1;Gravitas;
+W;Cypher; ;225;13;11;10; ;197;11%;2;1;Gravitas;
+W;Cypher; ;200;14;7;3; ;113;42%;2;0;Gravitas;
+W;Cypher; ;247;17;10;6; ;125;14%;2;0;Gravitas;
+L;Cypher; ;234;14;14;4; ;143;21%;1;0;Gravitas;
+W;Killjoy; ;247;14;9;7; ;166;11%;1;0;Gravitas;
+L;Cypher; ;120;8;13;6; ;95;24%;0;2;Gravitas;
+W;Killjoy; ;157;16;22;4; ;102;4%;2;5;Gravitas;
+L;Cypher; ;118;6;15;4; ;69;14%;3;5;Gravitas;

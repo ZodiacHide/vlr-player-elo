@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;154;9;17;6; ; ; ;0; ;Olav;
+L;Omen;0.27;102;5;15;3;47%;74;14%;0;1;VECA;
+L;Reyna;0.42;122;7;17;3;32%;66;33%;1;4;VECA;

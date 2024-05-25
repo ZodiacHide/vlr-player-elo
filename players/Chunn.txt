@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;100;6;15;2; ;58;14%;0;2;Sneaker Daily Meloner;
+L;Cypher; ;166;12;16;3; ;99;13%;1;2;Sneaker Daily Meloner;

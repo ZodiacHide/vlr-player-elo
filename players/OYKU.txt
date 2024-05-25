@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;1.55;262;15;4;2;93%;173;20%;1;0;Papara SuperMassive Female;
+W;Astra;1.65;355;27;9;4;95%;217;22%;2;0;Papara SuperMassive Female;
+W;Omen;1.30;166;10;6;11;89%;126;21%;0;0;Papara SuperMassive Female;
+W;Viper;1.36;153;8;3;7;86%;99;14%;2;0;Papara SuperMassive Female;
+W;Viper;1.04;171;14;13;8;77%;112;14%;0;2;Papara SuperMassive Female;
+L;Viper;0.83;170;13;16;9;83%;110;20%;1;0;Papara SuperMassive Female;
+L;Omen;0.66;118;8;14;4;67%;80;13%;0;0;Papara SuperMassive Female;

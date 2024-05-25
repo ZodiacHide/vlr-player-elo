@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Viper;1.24;254;18;13;8;81%;149;16%;2;4;KG Network;
+W;Sage;1.09;239;15;11;7;71%;148;25%;3;5;KG Network;
+W;Jett; ;338;21;11;6; ; ; ;2; ;KG Network;
+L;Sage; ;137;11;14;1; ; ; ;1; ;KG Network;
+L;Viper; ;279;14;7;5; ; ; ;4; ;KG Network;
+W;Sage;1.29;228;18;11;6;77%;123;21%;3;3;KG Network;
+L;Jett;0.78;214;15;18;1;45%;130;22%;3;5;KG Network;
+L;Raze;0.49;96;5;13;4;41%;69;11%;1;1;KG Network;
+L;Sage;0.99;236;17;15;4;60%;147;25%;3;2;KG Network;
+L;Sage;0.35;82;3;14;4;40%;57;5%;0;5;KG Network;
+W;Astra;1.13;173;11;10;10;83%;121;15%;2;0;KG Network;
+L;Jett;0.17;118;4;16;2;50%;80;12%;0;3;KG Network;
+L;Omen;0.53;107;8;19;8;59%;68;14%;1;1;KG Network;

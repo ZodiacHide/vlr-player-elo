@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;191;14;15;4; ;125;11%;3;4;Sandwich Eaters 40;
+W;Phoenix; ;159;13;17;5; ;103;22%;2;5;Sandwich Eaters 40;
+L;Cypher;0.77;173;8;15;4;59%;110;16%;1;1;Sandwich Eaters 40;
+L;Killjoy;0.73;157;10;15;1;44%;90;20%;2;4;Sandwich Eaters 40;
+L;Cypher;0.72;176;11;16;1;56%;98;18%;3;2;Sandwich Eaters 40;

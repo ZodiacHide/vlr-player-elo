@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ; ; ; ; ; ; ; ; ; ;Stay Small, Stay Second;
+W;None;0;0;0;0;0;0;0;0;0;0;Stay Small, Stay Second;

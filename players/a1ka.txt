@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;93;3;13;2; ;60;19%;1;1;ECM FCG eSports;
+L;Viper; ;151;11;15;0; ;111;50%;1;2;ECM FCG eSports;
+L;Viper;0.56;140;11;20;6;58%;71;25%;2;2;ECM FCG eSports;
+L;Killjoy;0.97;255;12;13;5;63%;168;22%;1;0;ECM FCG eSports;

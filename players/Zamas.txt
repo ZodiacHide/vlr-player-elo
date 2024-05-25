@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;67;3;16;2; ;42;10%;0;0;Sovereign;
+L;Cypher; ;162;10;17;2; ;95;45%;3;3;Sovereign;

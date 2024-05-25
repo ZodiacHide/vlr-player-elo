@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.52;109;8;19;3;45%;73;23%;2;2;RAIJIN;
+L;Sage;0.86;163;11;15;7;52%;98;26%;0;2;RAIJIN;
+L;Raze;0.93;206;14;18;3;68%;136;16%;2;2;RAIJIN;
+L;Phoenix;0.59;160;9;15;4;56%;102;23%;1;5;RAIJIN;
+L;Jett;0.34;124;6;14;1;36%;74;15%;0;2;RAIJIN;
+L;Sova;0.51;153;7;15;4;73%;98;26%;0;2;RAIJIN;
+L;Raze;0.44;196;10;15;1;60%;102;38%;1;2;RAIJIN;

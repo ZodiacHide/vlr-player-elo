@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;50;3;16;2; ;26;50%;0;1;Grow uP eSports;
+L;Breach; ;97;6;15;4; ;47;42%;0;1;Grow uP eSports;
+L;Raze;0.72;191;8;14;2;60%;120;21%;2;4;Rhyno Esports;
+L;Raze;0.91;202;12;13;2;47%;127;31%;1;2;Rhyno Esports;
+L;Sage;0.45;114;6;14;1;33%;72;19%;0;3;Tropa Suprema;
+L;Skye;0.57;154;9;15;2;69%;101;32%;0;4;Tropa Suprema;

@@ -1,0 +1,15 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Liberty;Haven;Athletico Zombies;REPOW;kato;BladeZ;PxL;vtrg0d;13:10;False;50:24;Thursday, January 7th, 11:00 PM CET;Ultimaster AOC;https://www.twitch.tv/videos/865025238?t=0h30m32s;
+Attack;W;Liberty;Icebox;Athletico Zombies;REPOW;kato;BladeZ;PxL;vtrg0d;13:10;False;56:11;Thursday, January 7th, 11:00 PM CET;Ultimaster AOC;https://www.twitch.tv/videos/865025238?t=0h30m32s;
+Defense;L;Keyd Stars;Haven;Athletico Zombies;kato;PxL;REPOW;vtrg0d;BladeZ;5:13;False;35:22;Friday, January 15th, 1:00 AM CET;Ultimaster AOC;https://www.twitch.tv/videos/873661050?t=2h56m48s;
+Attack;L;Keyd Stars;Split;Athletico Zombies;kato;PxL;REPOW;vtrg0d;BladeZ;11:13;False;1:25:07;Friday, January 15th, 1:00 AM CET;Ultimaster AOC;https://www.twitch.tv/videos/873661050?t=2h56m48s;
+Attack;W;BRAVOS GAMING;Split;BRAVOS GAMING;kato;REPOW;BladeZ;vtrg0d;PxL;13:11;False;47:38;Wednesday, January 20th, 11:00 PM CET;D2E Series Brazil;https://www.twitch.tv/videos/881470362?t=0h19m23s;
+Defense;W;BRAVOS GAMING;Icebox;BRAVOS GAMING;kato;REPOW;BladeZ;vtrg0d;PxL;13:2;False;22:50;Wednesday, January 20th, 11:00 PM CET;D2E Series Brazil;https://www.twitch.tv/videos/881470362?t=0h19m23s;
+Defense;W;Rise Gaming;Haven;Athletico Zombies;vtrg0d;kato;PxL;BladeZ;REPOW;13:7;False;34:45;Saturday, January 23rd, 1:00 AM CET;D2E Series Brazil;https://www.twitch.tv/videos/884020283?t=2h25m10s;
+Attack;L;Rise Gaming;Icebox;Athletico Zombies;vtrg0d;kato;PxL;BladeZ;REPOW;8:13;False;39:18;Saturday, January 23rd, 1:00 AM CET;D2E Series Brazil;https://www.twitch.tv/videos/884020283?t=2h25m10s;
+Defense;L;Rise Gaming;Bind;Athletico Zombies;vtrg0d;kato;PxL;BladeZ;REPOW;10:13;False;40:23;Saturday, January 23rd, 1:00 AM CET;D2E Series Brazil;https://www.twitch.tv/videos/884020283?t=2h25m10s;
+Attack;L;favela aimers;Haven;favela aimers;kato;REPOW;PxL;vtrg0d;BladeZ;7:13;False;38:53;Tuesday, January 26th, 10:00 PM CET;Champions Tour Brazil Stage 1: Challengers 1;url.net;
+Defense;L;favela aimers;Bind;favela aimers;kato;REPOW;PxL;vtrg0d;BladeZ;9:13;False;40:51;Tuesday, January 26th, 10:00 PM CET;Champions Tour Brazil Stage 1: Challengers 1;url.net;
+Defense;W;FREEAGENTS;Haven;Athletico Zombies;Dvyno;Leakq;rankioshi;kato;BladeZ;13:7;False;39:15;Wednesday, March 24th, 10:00 PM CET;Champions Tour Brazil Stage 2: Challengers 1;url.net;
+Attack;L;FREEAGENTS;Ascent;Athletico Zombies;Dvyno;Leakq;rankioshi;kato;BladeZ;9:13;False;50:19;Wednesday, March 24th, 10:00 PM CET;Champions Tour Brazil Stage 2: Challengers 1;url.net;
+Defense;L;FREEAGENTS;Icebox;Athletico Zombies;Dvyno;Leakq;rankioshi;kato;BladeZ;2:13;False;30:30;Wednesday, March 24th, 10:00 PM CET;Champions Tour Brazil Stage 2: Challengers 1;url.net;

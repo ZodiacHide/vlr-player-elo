@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;182;9;15;6; ;126;23%;1;2;WHITE TIGER;
+L;Sova; ;135;5;15;6; ;91;10%;1;3;WHITE TIGER;

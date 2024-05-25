@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;146;6;15;6; ;86;9%;0;0;Fluid Gaming;
+L;Brimstone; ;111;7;16;4; ;73;13%;0;2;Fluid Gaming;
+L;Omen; ;209;12;15;3; ;143;20%;2;3;Fluid Gaming;
+L;Omen; ;183;10;16;3; ;112;22%;3;2;Fluid Gaming;

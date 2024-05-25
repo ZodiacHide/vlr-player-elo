@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Kayo;0.86;175;19;25;14;75%;106;15%;0;2;The Goose House Lunar;
+W;Skye;0.97;138;11;12;5;77%;89;7%;1;1;The Goose House Lunar;
+L;Skye;0.86;178;17;24;6;59%;133;15%;3;4;The Goose House Lunar;

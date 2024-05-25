@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;273;19;13;10; ;162;18%;0;2;OWA OWA;
+L;Reyna; ;207;12;15;2; ;128;6%;3;2;OWA OWA;

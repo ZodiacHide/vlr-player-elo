@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;113;6;14;1; ;78;11%;0;1;Team Poland;
+L;Raze; ;220;10;13;4; ;132;4%;1;1;Team Poland;
+W;Raze; ;151;12;13;4; ;91;4%;0;1;Team Poland;
+L;Raze; ;161;12;16;3; ;99;9%;0;1;Team Poland;

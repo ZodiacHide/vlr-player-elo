@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;144;7;11;2; ;77;19%;0;1;Pepeggas;
+L;Sova; ;168;8;14;0; ;125;29%;1;0;836.PizzaLocale;
+L;Sova; ;203;11;14;3; ;107;18%;1;2;836.PizzaLocale;

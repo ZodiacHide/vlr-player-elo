@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;173;12;16;2; ;87;38%;0;0;Poised;
+L;Omen; ;168;12;21;0; ;103;33%;1;6;Poised;
+L;Killjoy;0.89;152;11;14;2;43%;103;25%;0;2;Bait Academy;
+W;Killjoy;1.23;202;12;8;4;82%;122;18%;3;1;Bait Academy;
+L;Killjoy;0.70;190;12;18;2;68%;116;29%;2;2;Bait Academy;
+L;Killjoy;0.93;171;16;18;6;73%;120;22%;3;3;Bait Academy;
+W;Sova;0.90;171;14;15;4;64%;101;21%;3;2;Bait Academy;
+W;Killjoy;1.19;213;17;16;3;95%;140;23%;3;1;Bait Academy;
+L;Killjoy;0.74;151;13;18;3;57%;95;21%;2;1;Bait Academy;
+L;Killjoy;0.73;145;9;13;2;65%;95;14%;2;0;Bait Academy;

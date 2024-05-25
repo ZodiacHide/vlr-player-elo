@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;309;28;20;3; ; ; ;2; ;DREAMCHASERS;
+W;None;0;0;0;0;0;0;0;0;0;0;DREAMCHASERS;
+W;None;0;0;0;0;0;0;0;0;0;0;DREAMCHASERS;

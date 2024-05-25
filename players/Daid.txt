@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;333;26;16;8; ;206;18%;4;0;LANCHILLERS;
+L;Raze; ;302;32;21;3; ;177;16%;6;1;LANCHILLERS;
+L;Raze; ;190;15;14;3; ;117;17%;1;4;LANCHILLERS;

@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;279;22;15;8; ;235;21%;2;3;ex-Reckless Lads;
+L;None;0;0;0;0;0;0;0;0;0;0;ex-Reckless Lads;
+L;Sova; ;255;16;14;5; ;168;24%;1;0;ex-Reckless Lads;
+L;Killjoy; ;174;8;16;3; ;117;12%;0;3;ex-Reckless Lads;
+L;Sova; ;211;14;17;9; ;148;29%;1;3;ex-Reckless Lads;
+L;Sova; ;128;8;14;3; ;94;29%;0;1;ex-Reckless Lads;
+L;Sova; ;226;17;15;11; ;145;21%;2;3;ex-Reckless Lads;
+W;Sova; ;271;19;9;8; ;139;14%;3;0;WOLFPACK;
+L;Sova; ;159;9;16;3; ;103;11%;0;0;WOLFPACK;
+L;Sova; ;108;6;16;7; ;62;15%;2;1;WOLFPACK;
+L;Sage;0.33;101;5;15;2;38%;64;22%;1;4;Mencari Tempat Berlabuh;
+L;Sova;0.90;167;10;15;8;68%;130;32%;0;3;Mencari Tempat Berlabuh;
+L;Sova;0.23;51;1;14;2;36%;49;12%;0;1;NXLG Academy;
+L;Sova;0.68;94;7;15;8;68%;58;16%;0;2;NXLG Academy;
+L;Sova;0.69;96;5;15;12;71%;76;6%;1;1;NXLG Academy;
+L;Sova;0.90;194;18;21;9;75%;119;13%;2;1;NXLG Academy;
+L;Viper;0.97;221;18;17;8;79%;108;13%;3;3;NXLG Academy;

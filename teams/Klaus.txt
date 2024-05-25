@@ -1,0 +1,10 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;NUTURN;Haven;Klaus;Hound;rolex;JW;ACCEL;DaeGi;10:13;False;50:05;Saturday, July 3rd, 5:00 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Defense;L;NUTURN;Breeze;Klaus;Hound;rolex;JW;ACCEL;DaeGi;3:13;False;30:32;Saturday, July 3rd, 5:00 AM CEST;Champions Tour Korea Stage 3: Challengers;url.net;
+Attack;L;NUTURN;Bind;NUTURN;DaeGi;ACCEL;rolex;Hound;JW;6:13;False;38:12;Friday, July 9th, 10:40 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1081210271?t=2h45m7s;
+Attack;L;NUTURN;Ascent;Klaus;DaeGi;ACCEL;rolex;Hound;JW;8:13;False;42:50;Friday, July 9th, 10:40 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1081210271?t=2h45m7s;
+Defense;L;TNL Esports;Ascent;TNL Esports;Hound;JW;ELSE;ACCEL;DaeGi;8:13;False;46:57;Saturday, July 17th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1089298461?t=4h4m54s;
+Defense;L;TNL Esports;Haven;Klaus;Hound;JW;ELSE;ACCEL;DaeGi;5:13;False;37:20;Saturday, July 17th, 11:00 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1089298461?t=4h4m54s;
+Attack;W;Mujig 100su;Split;Klaus;JW;Hound;DaeGi;ACCEL;ELSE;13:6;False;42:18;Thursday, July 29th, 11:50 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=4h27m43s;
+Defense;L;Mujig 100su;Bind;Mujig 100su;JW;Hound;DaeGi;ACCEL;ELSE;5:13;False;39:53;Thursday, July 29th, 11:50 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=4h27m43s;
+Defense;L;Mujig 100su;Ascent;Mujig 100su;JW;Hound;DaeGi;ACCEL;ELSE;9:13;False;46:15;Thursday, July 29th, 11:50 AM CEST;Champions Tour Korea Stage 3: Challengers;https://www.twitch.tv/videos/1101516383?t=4h27m43s;

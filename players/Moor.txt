@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;184;13;18;2; ;119;23%;3;8;Lethal Grinders;
+L;Jett; ;302;19;14;3; ;169;12%;5;3;Lethal Grinders;
+L;Omen; ;200;11;17;4; ;115;28%;1;1;Lethal Grinders;
+L;Omen; ;226;16;16;3; ;150;24%;3;2;Lethal Grinders;

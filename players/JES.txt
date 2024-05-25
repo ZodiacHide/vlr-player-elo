@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;116;8;11;5; ;70;17%;4;2;Awake Esports;
+L;Sage; ;147;10;15;3; ;97;27%;1;2;Awake Esports;
+L;Sage; ;95;4;13;1; ;64;36%;1;1;Awake Esports;
+L;Sage; ;146;7;16;1; ;95;43%;2;1;Awake Esports;
+W;Omen; ;225;23;19;5; ;150;41%;2;4;Awake Esports;

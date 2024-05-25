@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;108;4;13;1; ;79;22%;0;0;Pirate Nation;
+L;Sova; ;110;4;13;2; ;76;25%;0;0;Pirate Nation;
+L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;
+L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;

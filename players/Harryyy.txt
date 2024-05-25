@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;224;20;24;3; ;142;23%;4;4;GBP Esports;
+L;Phoenix;0.69;231;15;20;7;73%;146;19%;3;5;GBP Esports;
+L;Omen;0.95;270;18;16;4;70%;175;21%;3;2;GBP Esports;

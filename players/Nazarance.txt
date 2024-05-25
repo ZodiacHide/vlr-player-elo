@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.85;244;20;20;4;78%;137;10%;3;2;Party Stool;
+L;Sage;0.40;143;6;16;5;38%;92;10%;1;4;Party Stool;

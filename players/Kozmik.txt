@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;108;5;13;2; ;62;5%;0;0;Aquatik;
+L;Killjoy; ;227;12;14;1; ;134;10%;2;0;Aquatik;

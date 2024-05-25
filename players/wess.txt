@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;192;18;18;1; ;129;37%;0;3;Grow uP eSports;
+L;Reyna; ;153;9;15;3; ;99;45%;1;1;Grow uP eSports;
+L;Reyna; ;184;14;17;3; ;173;24%;4;5;Grow uP eSports;
+L;Raze; ;227;11;15;3; ;124;15%;2;3;Grow uP eSports;
+L;Cypher; ;187;12;15;4; ;169;25%;1;0;Grow uP eSports;
+L;Raze; ;263;13;14;1; ;171;24%;2;3;Grow uP eSports;
+L;Reyna; ;167;9;14;2; ;85;45%;1;4;Grow uP eSports;

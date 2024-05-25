@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;171;17;12;4; ;113;17%;2;1;Waterbottle;
+L;Killjoy; ;106;6;14;2; ;49;21%;1;0;Waterbottle;
+L;Killjoy; ;97;6;15;1; ;51;19%;1;2;Waterbottle;
+L;Killjoy; ;195;11;15;1; ;128;23%;1;1;McTeam;
+L;Reyna; ;130;6;15;3; ;97;20%;0;1;McTeam;
+L;Killjoy; ;105;7;14;2; ;72;20%;1;4;McTeam;
+L;Killjoy; ;145;7;14;2; ;99;19%;1;2;McTeam;

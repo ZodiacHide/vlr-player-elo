@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.62;169;9;14;0;38%;92;8%;0;2;SEMORGAINDA;
+L;Jett;0.74;195;13;17;2;74%;114;31%;5;3;SEMORGAINDA;
+L;Raze;0.77;220;20;24;3;57%;150;21%;5;7;SEMORGAINDA;
+L;Skye;0.33;83;4;19;6;47%;62;10%;0;1;Folouers Esports;
+L;Yoru;0.54;197;9;15;3;53%;129;23%;1;2;Folouers Esports;
+L;Skye;0.97;196;13;14;5;58%;122;38%;1;3;Folouers Esports;
+L;Raze;0.52;186;15;22;4;57%;112;17%;2;8;KING OF SELVA;
+L;Reyna;0.67;142;10;16;3;52%;98;19%;1;2;KING OF SELVA;
+L;Raze;0.81;174;14;20;8;63%;103;17%;4;8;Predestinados;
+W;Sage;1.07;267;17;12;2;89%;147;29%;3;1;Predestinados;
+W;Sage;0.50;106;6;13;2;59%;59;20%;0;1;Predestinados;
+W;Raze; ;297;21;14;4; ; ; ;2; ;Predestinados;
+W;Sage; ;174;13;14;6; ; ; ;1; ;Predestinados;
+W;Killjoy; ;149;12;16;3; ; ; ;2; ;Predestinados;
+L;Sage;0.72;153;11;18;5;68%;104;27%;1;2;Predestinados;
+W;Sage;0.98;190;15;15;7;82%;123;32%;0;0;Predestinados;
+W;Raze;1.69;337;21;8;3;82%;204;20%;3;5;Predestinados;

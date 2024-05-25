@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;277;17;12;5; ;181;23%;5;1;Running Dogs;
+W;Jett; ;294;26;20;4; ;175;28%;5;2;Running Dogs;

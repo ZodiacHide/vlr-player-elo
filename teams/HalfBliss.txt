@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Gen.G;Breeze;HalfBliss;welyy;Akame;Rest;spoog;Vibes;1:13;False;26:44;Thursday, July 1st, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 1;url.net;
+Attack;L;Gen.G;Haven;HalfBliss;welyy;Akame;Rest;spoog;Vibes;4:13;False;28:16;Thursday, July 1st, 11:00 PM CEST;Champions Tour North America Stage 3: Challengers 1;url.net;
+Attack;L;Knights;Ascent;Decider;spoog;welyy;Rest;Bowman;MOOD;2:13;False;30:58;Monday, August 30th, 8:00 PM CEST;Knights Monthly Gauntlet: August;url.net;

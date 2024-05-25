@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.95;231;13;14;3;81%;136;18%;0;0;XStealers;
+L;Sova;0.59;108;8;14;2;53%;66;15%;1;1;Spectral Esports Purple;
+L;Sova;0.36;60;3;14;2;33%;37;33%;0;1;Spectral Esports Purple;
+L;Sova;0.37;95;3;13;3;31%;73;27%;0;0;Spectral Esports Purple;

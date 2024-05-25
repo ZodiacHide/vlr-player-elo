@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;223;16;14;14; ;130;24%;3;2;NerdTown eSport;
+W;Sova; ;265;15;8;14; ;162;26%;3;0;NerdTown eSport;
+L;Sova; ;274;20;14;8; ;174;26%;3;1;NerdTown eSport;
+W;Sova; ;314;27;17;9; ;186;34%;5;0;NerdTown eSport;
+L;Sova; ;135;5;15;7; ;100;14%;2;0;NerdTown eSport;
+L;Sova; ;179;10;15;4; ;101;12%;0;1;NerdTown eSport;
+L;Sova; ;191;14;23;7; ;132;19%;5;6;NerdTown eSport;
+L;Sova; ;219;15;17;3; ;132;37%;2;2;NerdTown eSport;
+L;Cypher; ;188;16;16;4; ;122;27%;2;2;NerdTown eSport;
+W;Sova; ;237;20;10;6; ;144;20%;0;0;NerdTown eSport;
+W;Sova; ;167;9;4;8; ;111;30%;0;0;NerdTown eSport;
+L;Sova; ;214;16;15;10; ;144;19%;1;0;NerdTown eSport;
+W;Sova; ;244;15;8;13; ;143;6%;1;0;NerdTown eSport;
+L;Sova; ;125;11;17;4; ;76;10%;1;1;NerdTown eSport;
+W;Cypher; ;114;8;13;4; ;69;11%;1;1;NerdTown eSport;
+L;Sova; ;118;8;16;6; ;74;28%;2;1;NerdTown eSport;

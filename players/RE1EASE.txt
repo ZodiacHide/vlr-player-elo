@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;262;26;15;6; ; ; ;3; ;team cotch;
+L;Cypher; ;208;13;18;7; ; ; ;1; ;team cotch;
+L;Cypher; ;185;12;16;3; ; ; ;0; ;team cotch;
+L;None;0;0;0;0;0;0;0;0;0;0;team cotch;
+W;Cypher; ;127;14;23;4; ;80;34%;0;0;team cotch;
+L;Cypher; ;162;14;16;4; ;103;27%;1;1;team cotch;
+L;Cypher; ;104;6;16;5; ;63;17%;1;2;team cotch;
+L;Jett; ;195;17;18;3; ;128;30%;0;4;team cotch;

@@ -1,0 +1,14 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Lankräm;Split;Decider;dakeex;FaQooN;pashapain666;stimx;AM3LIE;4:13;False;34:57;Wednesday, October 7th, 8:00 PM CEST;Dell Gaming Challenge;url.net;
+Defense;W;FishkaVTom;Ascent;Decider;FaQooN;stimx;dakeex;pashapain666;AM3LIE;13:3;False;31:36;Saturday, October 10th, 8:00 PM CEST;Dell Gaming Challenge;https://www.twitch.tv/videos/766431820?t=0h11m25s;
+Defense;L;flawless;Bind;flawless;AM3LIE;pashapain666;FaQooN;stimx;dakeex;8:13;False;40:50;Saturday, October 10th, 10:30 PM CEST;Dell Gaming Challenge;https://www.twitch.tv/videos/766431820?t=2h23m44s;
+Attack;W;flawless;Ascent;flawless;AM3LIE;pashapain666;FaQooN;stimx;dakeex;13:8;False;36:59;Saturday, October 10th, 10:30 PM CEST;Dell Gaming Challenge;https://www.twitch.tv/videos/766431820?t=2h23m44s;
+Attack;W;flawless;Split;flawless;AM3LIE;pashapain666;FaQooN;stimx;dakeex;13:10;False;46:27;Saturday, October 10th, 10:30 PM CEST;Dell Gaming Challenge;https://www.twitch.tv/videos/766431820?t=2h23m44s;
+Defense;L;need more DM;Bind;Decider;AM3LIE;FaQooN;pashapain666;dakeex;stimx;11:13;False;48:10;Tuesday, October 20th, 7:00 PM CEST;NGL Open Cup;url.net;
+Defense;L;unsigned;Bind;Decider;pashapain666;FaQooN;AM3LIE;dakeex;stimx;7:13;False;38:58;Saturday, October 24th, 6:10 PM CEST;NGL Open Cup;https://www.twitch.tv/videos/780395462?t=01h20m34s;
+Attack;L;need more DM;Ascent;Decider;pashapain666;stimx;dakeex;AM3LIE;FaQooN;8:13;False;38:34;Saturday, October 24th, 8:00 PM CEST;NGL Open Cup;https://www.twitch.tv/videos/780395462?t=03h13m24s;
+Defense;L;Wygers;Bind;Decider;pashapain666;dakeex;AM3LIE;stimx;FaQooN;8:13;False;39:20;Saturday, October 24th, 9:00 PM CEST;NGL Open Cup;https://www.twitch.tv/videos/780395462?t=04h05m55s;
+Defense;L;Team Singularity;Split;Team Singularity;stimx;pashapain666;AM3LIE;dakeex;FaQooN;11:13;False;51:23;Friday, November 13th, 4:00 PM CET;First Strike: CIS;https://www.twitch.tv/videos/801483992?t=0h12m33s;
+Attack;L;Team Singularity;Ascent;Team Singularity;stimx;pashapain666;AM3LIE;dakeex;FaQooN;11:13;False;44:28;Friday, November 13th, 4:00 PM CET;First Strike: CIS;https://www.twitch.tv/videos/801483992?t=0h12m33s;
+Defense;L;5MOKES;Bind;BeeNinjas;pashapain666;AM3LIE;stimx;FaQooN;dakeex;10:13;False;47:21;Thursday, November 19th, 4:00 PM CET;First Strike: CIS;url.net;
+Defense;L;5MOKES;Haven;BeeNinjas;pashapain666;AM3LIE;stimx;FaQooN;dakeex;11:13;False;42:33;Thursday, November 19th, 4:00 PM CET;First Strike: CIS;url.net;

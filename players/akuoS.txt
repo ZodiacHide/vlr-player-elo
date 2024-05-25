@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;180;13;9;5; ;134;27%;0;0;One Shot Esports;
+W;Cypher; ;209;16;11;2; ;135;26%;0;1;One Shot Esports;
+L;Cypher; ;133;9;16;2; ;93;19%;2;3;One Shot Esports;
+L;Cypher; ;140;9;17;3; ;150;28%;1;1;One Shot Esports;
+W;Cypher; ;204;15;11;3; ;173;20%;3;0;One Shot Esports;
+L;Cypher; ;157;20;27;5; ;96;16%;3;3;One Shot Esports;
+L;Cypher; ;98;8;18;2; ;59;30%;1;1;One Shot Esports;

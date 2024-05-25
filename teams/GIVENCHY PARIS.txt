@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;EndGame;Icebox;EndGame;soyer;pavel;AimGreen;fak;DmL;9:13;False;45:59;Tuesday, July 13th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 2;url.net;
+Defense;W;EndGame;Haven;EndGame;soyer;pavel;AimGreen;fak;DmL;13:1;False;24:21;Tuesday, July 13th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 2;url.net;
+Attack;L;EndGame;Bind;EndGame;soyer;pavel;AimGreen;fak;DmL;11:13;False;54:03;Tuesday, July 13th, 11:00 PM CEST;Champions Tour Brazil Stage 3: Challengers 2;url.net;

@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;160;13;16;4; ;91;19%;2;2;BDV;
+W;Sova; ;194;16;19;5; ;105;12%;2;1;BDV;
+L;Sova; ;125;5;19;9; ;88;7%;2;7;BDV;
+W;Sova; ;256;23;19;8; ;164;26%;1;5;BDV;
+L;Sova; ;187;9;14;2; ;113;13%;4;2;BDV;
+L;Sova; ;92;4;15;4; ;67;0%;1;1;BDV;
+L;Sova; ;163;9;14;7; ;109;21%;3;1;BDV;
+L;Sova; ;186;14;17;7; ;119;25%;0;0;N0thing To L0se;
+L;Sova; ;157;8;14;3; ;91;31%;1;1;N0thing To L0se;
+W;Sova; ;252;18;14;14; ;167;32%;0;1;N0thing To L0se;
+L;Sova; ;149;8;15;4; ;100;32%;0;4;N0thing To L0se;
+L;Sage; ;194;14;16;4; ;111;21%;3;4;TIMETOPLAY;
+L;Sova; ;187;11;15;2; ;120;16%;1;1;TIMETOPLAY;

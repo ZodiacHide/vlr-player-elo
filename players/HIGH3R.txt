@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;177;15;16;1; ;106;20%;1;1;Allware;
+W;Jett; ;370;28;9;4; ;196;24%;4;2;Allware;
+L;Raze; ;72;3;15;4; ;51;17%;0;5;Allware;
+L;Skye;0.11;44;2;15;2;33%;33;22%;0;2;UBITEAM;
+L;Breach;1.06;227;14;14;8;83%;134;30%;0;3;UBITEAM;
+L;Reyna;0.36;135;7;18;4;42%;85;21%;2;4;UBITEAM;
+L;Breach;0.83;160;12;15;7;65%;99;17%;1;3;UBITEAM;
+L;Reyna;0.82;209;13;17;5;74%;127;24%;2;2;UBITEAM;
+L;Phoenix;0.63;141;9;17;4;55%;90;16%;1;6;UBITEAM;

@@ -1,0 +1,12 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Complexity;Split;Decider;Sympul;valyn;Bewd;b0ssy;DENYA;13:9;False;37:39;Wednesday, January 20th, 12:00 AM CET;WSOE Online V;url.net;
+Attack;W;Dem Boys Cold;Split;Decider;b0ssy;valyn;DENYA;Bewd;Sympul;14:12;True;50:30;Wednesday, January 20th, 1:15 AM CET;WSOE Online V;url.net;
+Defense;W;down bad;Bind;Decider;Bewd;b0ssy;DENYA;valyn;Sympul;13:7;False;39:10;Thursday, January 21st, 1:30 AM CET;WSOE Online V;url.net;
+Attack;W;Cloud9 White;Ascent;Decider;DENYA;Sympul;valyn;b0ssy;Bewd;13:5;False;33:10;Friday, January 22nd, 10:00 PM CET;Knights Monthly Gauntlet: January;https://www.twitch.tv/videos/883943383?t=0h34m42s;
+Defense;W;Techno Monks;Ascent;Decider;DENYA;valyn;b0ssy;Bewd;Sympul;13:5;False;37:46;Friday, January 22nd, 11:00 PM CET;Knights Monthly Gauntlet: January;url.net;
+Attack;W;Spotlight;Bind;Decider;b0ssy;Bewd;valyn;DENYA;Sympul;15:13;True;55:47;Saturday, January 23rd, 12:00 AM CET;Knights Monthly Gauntlet: January;url.net;
+Attack;L;On The Way;Ascent;Decider;DENYA;valyn;Sympul;Bewd;b0ssy;2:13;False;25:28;Saturday, January 23rd, 2:15 AM CET;Knights Monthly Gauntlet: January;url.net;
+Defense;L;Carpe Noctem;Bind;Decider;b0ssy;valyn;Bewd;Sympul;DENYA;17:19;True;1:05:06;Saturday, January 23rd, 8:15 PM CET;Knights Monthly Gauntlet: January;url.net;
+Defense;W;Big Frames;Bind;Big Frames;b0ssy;Bewd;DENYA;Sympul;valyn;13:4;False;30:18;Wednesday, January 27th, 1:45 AM CET;WSOE Online V;https://www.twitch.tv/videos/889320680?t=1h55m23s;
+Attack;L;Big Frames;Split;Big Frames;b0ssy;Bewd;DENYA;Sympul;valyn;11:13;False;45:09;Wednesday, January 27th, 1:45 AM CET;WSOE Online V;https://www.twitch.tv/videos/889320680?t=1h55m23s;
+Defense;L;Big Frames;Ascent;Big Frames;b0ssy;Bewd;DENYA;Sympul;valyn;8:13;False;39:35;Wednesday, January 27th, 1:45 AM CET;WSOE Online V;https://www.twitch.tv/videos/889320680?t=1h55m23s;

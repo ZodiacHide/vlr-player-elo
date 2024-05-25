@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;219;10;13;2; ;130;10%;3;1;Hello Kity;
+L;Phoenix; ;159;8;13;5; ;96;20%;0;2;Hello Kity;

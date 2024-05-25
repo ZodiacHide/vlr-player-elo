@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;267;23;20;1; ;151;15%;4;1;Thatoc Esports;
+L;Raze; ;197;12;16;4; ;124;23%;0;2;Thatoc Esports;

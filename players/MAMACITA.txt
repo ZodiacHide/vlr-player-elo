@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Kayo;1.09;167;17;15;7;75%;112;19%;2;3;VAC Kimchi;
+L;Kayo;0.62;121;14;28;14;65%;80;26%;2;1;VAC Kimchi;
+W;Kayo;0.96;180;15;16;7;63%;125;31%;0;2;VAC Kimchi;
+W;Kayo;0.94;166;14;16;9;71%;100;24%;4;1;VAC Kimchi;
+W;Sage;1.52;332;30;16;5;79%;184;25%;4;1;VAC Kimchi;
+L;Sage;0.83;205;14;16;1;62%;120;28%;3;4;VAC Kimchi;
+W;Kayo;0.76;100;9;17;10;61%;64;18%;1;2;VAC Kimchi;
+L;Kayo;0.74;119;8;16;8;55%;90;16%;0;2;VAC Kimchi;

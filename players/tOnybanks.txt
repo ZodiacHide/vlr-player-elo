@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;246;17;13;5; ;138;21%;1;0;ANBU Elite Gaming;
+W;Breach; ;241;19;10;4; ;171;22%;3;0;ANBU Elite Gaming;
+L;Breach; ;250;18;14;11; ;170;16%;2;1;ANBU Elite Gaming;
+L;Sova; ;227;17;16;3; ;142;22%;1;0;ANBU Elite Gaming;
+L;Sova; ;211;11;13;3; ;116;19%;1;2;ANBU Elite Gaming;
+L;Sova; ;93;3;15;3; ;69;9%;0;1;ANBU Elite Gaming;
+L;Sova; ;216;17;15;13; ;148;26%;2;0;ANBU Elite Gaming;
+L;Sova; ;181;13;17;6; ;112;26%;2;3;ANBU Elite Gaming;

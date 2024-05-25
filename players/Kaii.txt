@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.89;199;15;21;7;62%;146;17%;1;2;RVNS Esports;
+L;Killjoy;0.79;182;14;17;3;70%;127;9%;4;3;RVNS Esports;
+L;Killjoy;1.07;214;16;18;4;70%;133;12%;4;0;RVNS Esports;

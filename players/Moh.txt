@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;The Ultimates;
+L;Omen; ;242;27;20;5; ;152;38%;4;2;The Ultimates;
+L;Omen; ;185;14;15;4; ;172;33%;2;0;The Ultimates;
+W;Omen;1.14;173;15;12;6;62%;113;37%;0;4;Piercer Esports;
+W;Reyna;1.04;185;16;14;4;68%;123;24%;1;3;Piercer Esports;
+W;Brimstone;1.31;283;18;12;8;84%;187;36%;0;1;Piercer Esports;
+L;Omen;1.32;231;24;17;16;81%;155;30%;1;1;Piercer Esports;
+W;Reyna;1.43;277;26;15;10;77%;174;21%;5;3;Piercer Esports;
+L;Omen;1.46;239;26;17;14;71%;174;30%;2;0;Piercer Esports;
+L;Brimstone;0.63;184;7;13;1;54%;124;40%;0;0;Piercer Esports;
+W;Reyna;0.96;177;13;12;2;67%;108;30%;3;5;Piercer Esports;
+L;Omen;0.53;173;9;18;6;67%;129;23%;1;3;Piercer Esports;
+L;Omen;1.05;263;20;16;5;73%;161;27%;5;2;Piercer Esports;

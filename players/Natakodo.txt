@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Yoru;0.43;137;5;14;3;64%;91;23%;2;4;Shaverma;
+L;Yoru;0.67;198;10;15;2;50%;115;31%;2;4;Shaverma;

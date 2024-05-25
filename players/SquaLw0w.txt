@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;171;16;18;3; ;118;29%;1;1;ALFA Esport;
+L;Killjoy; ;158;9;14;1; ;93;28%;0;2;ALFA Esport;
+L;Killjoy; ;173;12;19;2; ;117;14%;1;1;ALFA Esport;

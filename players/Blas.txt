@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;132;8;10;8; ;90;32%;2;1;DreamFyre;
+L;Brimstone; ;225;20;18;7; ;148;30%;1;1;DreamFyre;
+L;Omen; ;82;5;17;6; ;55;12%;1;1;DreamFyre;
+W;Sage; ;177;14;15;9; ;119;29%;1;1;DreamFyre;
+L;Sage; ;105;9;14;9; ;66;29%;2;1;DreamFyre;
+W;Killjoy; ;188;17;20;5; ;137;18%;1;2;DreamFyre;
+W;Brimstone; ;244;23;15;9; ;141;45%;2;1;DreamFyre;
+L;Brimstone; ;191;13;15;12; ;134;17%;1;2;DreamFyre;
+L;Killjoy; ;181;13;15;2; ;119;20%;0;3;DreamFyre;
+L;Killjoy;0.65;183;11;17;1;67%;99;19%;2;1;Galaxy Racer;
+W;None;0;0;0;0;0;0;0;0;0;0;Galaxy Racer;
+L;None;0;0;0;0;0;0;0;0;0;0;Galaxy Racer;

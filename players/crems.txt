@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Leviathan;
+L;Sova; ;217;17;16;4; ; ; ;4; ;Team Leviathan;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Leviathan;
+L;Sova; ; ; ; ; ; ; ; ; ; ;Young and Beautiful;
+L;Omen; ;316;31;19;5; ;239;25%;4;1;6'4 fully tatted;

@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;216;20;18;5; ;203;12%;3;2;SLAMMING GEARS;
+L;Reyna; ;237;17;17;4; ;142;23%;2;3;SLAMMING GEARS;
+L;Killjoy; ;139;11;15;3; ;103;23%;1;4;SLAMMING GEARS;
+L;Reyna; ;237;18;17;4; ;138;9%;2;1;SLAMMING GEARS;
+L;Reyna; ;197;17;18;5; ;108;10%;2;5;SLAMMING GEARS;
+L;Cypher; ;171;11;16;2; ;115;33%;0;2;SLAMMING GEARS;

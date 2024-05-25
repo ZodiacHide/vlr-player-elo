@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.72;132;7;16;10;63%;93;42%;0;1;Chariot;
+L;Phoenix;1.08;242;19;15;4;62%;136;36%;2;3;Ahjin;
+W;Phoenix;1.21;233;19;15;7;76%;126;24%;4;2;Ahjin;
+L;Skye;0.63;126;11;18;2;55%;86;34%;0;2;Ahjin;

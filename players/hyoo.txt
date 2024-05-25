@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;99;5;17;7; ;64;22%;0;1;Bulldozer Gaming;
+L;Sage; ;116;5;13;3; ;60;23%;0;1;Bulldozer Gaming;
+L;Brimstone; ;94;6;15;1; ;58;15%;0;1;Bulldozer Gaming;
+L;Cypher; ;178;10;14;2; ;114;14%;0;1;Bulldozer Gaming;

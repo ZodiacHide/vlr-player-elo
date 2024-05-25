@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;137;7;13;0; ;76;17%;0;2;Team Aurora;
+L;Killjoy; ;326;21;13;6; ;208;35%;0;1;Team Aurora;

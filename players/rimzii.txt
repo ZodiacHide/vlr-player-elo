@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;171;12;17;0; ;105;50%;2;4;Only One Word;
+L;Phoenix; ;194;15;17;4; ;134;37%;2;2;Only One Word;
+L;Raze; ;240;21;15;5; ;164;25%;1;0;Only One Word;
+L;Reyna; ;254;20;15;3; ;158;27%;3;2;Only One Word;
+L;Raze; ;167;11;15;0; ;94;30%;2;1;Only One Word;
+L;Raze; ;211;13;14;1; ;118;16%;2;3;Only One Word;
+L;Reyna; ;243;19;16;2; ;165;27%;2;1;Only One Word;
+L;Raze; ;258;19;16;2; ;228;26%;0;3;Only One Word;
+L;Cypher; ;230;22;22;2; ;139;35%;7;1;Only One Word;
+W;Reyna; ;276;20;11;1; ;160;46%;3;1;Only One Word;
+L;Reyna; ;174;12;17;10; ;109;29%;2;2;Only One Word;

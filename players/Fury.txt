@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;198;16;18;2; ;106;19%;0;0;RevX Necrosis;
+L;Killjoy; ;190;11;15;3; ;189;17%;0;0;Steel Tactics;
+L;Killjoy; ;206;16;17;3; ;131;29%;2;2;Steel Tactics;

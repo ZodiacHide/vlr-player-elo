@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.79;146;10;14;2;60%;93;7%;0;0;Liberty Female;
+L;Sage;1.19;298;22;16;5;70%;146;16%;2;0;Liberty Female;
+W;Killjoy;1.21;179;12;7;0;75%;94;13%;2;0;Liberty Female;
+W;Killjoy;1.07;165;11;10;5;80%;116;26%;1;1;Liberty Female;
+L;Killjoy;0.66;125;8;14;2;39%;70;12%;0;1;Liberty Female;
+L;Killjoy;0.67;128;10;17;2;55%;90;26%;0;2;Liberty Female;
+W;Killjoy;1.11;204;15;13;5;76%;126;12%;2;0;Liberty Female;
+W;Killjoy;1.16;232;15;10;3;78%;136;16%;2;1;Liberty Female;
+W;Killjoy;1.16;203;13;10;3;83%;120;13%;0;1;Liberty Female;
+L;Killjoy;0.86;150;15;17;5;75%;93;13%;1;4;Liberty Female;
+L;Killjoy;0.84;188;15;18;4;77%;124;12%;3;2;Liberty Female;
+L;Omen;0.62;141;7;14;2;40%;91;0%;0;1;Stars Horizon Vênus;
+L;Astra;0.32;73;4;14;3;36%;39;14%;0;1;Stars Horizon Vênus;

@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Velocity Gaming;Icebox;OnlyFriends;Kev;CruiserGOD;bullseyE;Quake;Naivejester;7:13;False;40:09;Saturday, September 25th, 10:30 AM CEST;Skyesports Championship 3.0;url.net;
+Attack;L;Velocity Gaming;Bind;OnlyFriends;Kev;CruiserGOD;bullseyE;Naivejester;GauRanG;3:13;False;26:57;Saturday, September 25th, 10:30 AM CEST;Skyesports Championship 3.0;url.net;
+Defense;W;Team Punished;Split;Team Punished;GauRanG;Kev;bullseyE;Naivejester;CruiserGOD;13:7;False;43:53;Tuesday, September 28th, 10:30 AM CEST;Skyesports Championship 3.0;url.net;
+Attack;L;Team Punished;Ascent;Team Punished;GauRanG;Kev;bullseyE;Naivejester;CruiserGOD;5:13;False;34:15;Tuesday, September 28th, 10:30 AM CEST;Skyesports Championship 3.0;url.net;
+Defense;L;Team Punished;Icebox;Team Punished;GauRanG;Kev;bullseyE;Naivejester;CruiserGOD;11:13;False;51:55;Tuesday, September 28th, 10:30 AM CEST;Skyesports Championship 3.0;url.net;

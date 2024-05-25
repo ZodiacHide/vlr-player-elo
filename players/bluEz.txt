@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Sector One;
+L;None;0;0;0;0;0;0;0;0;0;0;Sector One;
+W;None;0;0;0;0;0;0;0;0;0;0;Sector One;
+L;Breach; ;184;12;17;8; ;102;15%;4;0;Sector One;
+L;Breach; ;115;6;16;8; ;63;33%;1;1;Sector One;

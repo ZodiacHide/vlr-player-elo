@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;169;11;16;9; ;118;17%;5;4;Kantic Gaming;
+L;Raze; ;112;6;14;2; ;79;24%;0;3;Kantic Gaming;
+W;Raze; ;230;19;16;3; ;142;39%;2;2;Kantic Gaming;
+L;Raze; ;175;11;16;5; ;132;32%;1;1;Kantic Gaming;

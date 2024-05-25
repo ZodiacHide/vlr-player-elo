@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone;0.93;200;14;18;10;71%;142;14%;0;1;Kaos Latin Gamers;
+L;Astra;0.78;94;8;15;7;74%;62;17%;2;1;Kaos Latin Gamers;
+L;Astra;1.04;271;19;16;3;58%;163;18%;2;4;Kaos Latin Gamers;
+W;Astra;1.12;207;19;14;8;75%;133;34%;1;0;Kaos Latin Gamers;
+W;Viper;1.09;180;14;10;1;75%;119;37%;0;1;Kaos Latin Gamers;
+L;Astra;0.63;108;7;15;4;52%;78;18%;0;1;Kaos Latin Gamers;
+L;Astra;0.72;141;7;12;3;53%;102;26%;1;2;Kaos Latin Gamers;
+W;Jett;1.30;282;29;23;2;73%;157;25%;7;3;Kaos Latin Gamers;
+W;Jett;1.53;306;25;13;6;83%;178;16%;5;1;Kaos Latin Gamers;
+L;Jett;1.03;238;17;15;6;68%;158;29%;4;4;Kaos Latin Gamers;
+W;Jett;1.39;287;22;13;3;77%;163;21%;7;2;Kaos Latin Gamers;
+W;Jett;1.37;296;19;13;8;89%;199;18%;7;3;Kaos Latin Gamers;
+W;Raze;1.17;210;19;18;10;79%;148;10%;6;5;Kaos Latin Gamers;
+L;Jett;0.39;151;7;15;2;60%;72;24%;1;2;Pana.Rabbit;
+L;Jett;0.61;166;12;19;4;68%;117;16%;1;4;Pana.Rabbit;
+L;Jett;0.78;178;12;16;2;67%;103;18%;2;3;Pana.Rabbit;
+L;Jett;0.08;42;1;13;0;15%;33;13%;0;2;Pana.Rabbit;

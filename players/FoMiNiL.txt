@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Kayo;0.51;148;10;22;7;57%;98;18%;0;6;NMG Indigo;
+L;Sova;0.74;182;10;15;7;72%;130;20%;2;3;NMG Indigo;
+L;Sova;0.79;171;9;14;6;58%;123;21%;1;2;NMG Indigo;
+L;Omen;0.63;136;7;15;6;69%;90;7%;0;3;NMG Indigo;

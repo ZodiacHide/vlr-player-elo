@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Zwan Gaming;
+L;Sage; ;239;14;15;2; ;146;15%;0;3;Zwan Gaming;
+L;Sage; ;208;12;16;5; ;132;11%;0;6;Zwan Gaming;
+L;Sage; ;208;12;16;5; ;132;11%;0;6;Zwan Gaming;

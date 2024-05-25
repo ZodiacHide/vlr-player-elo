@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;193;15;12;2; ;96;19%;3;4;Necrotic Esports;
+W;Killjoy;0.90;130;8;10;6;79%;101;13%;2;2;iPon Esport;
+W;Killjoy;1.32;200;14;7;3;79%;165;26%;0;0;iPon Esport;
+W;Raze;0.95;127;8;8;2;81%;103;17%;0;3;iPon Esport;
+W;Omen;0.95;140;11;12;9;74%;110;24%;0;2;iPon Esport;

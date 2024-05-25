@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;196;11;9;7; ;128;10%;1;1;Chick Fil Ayy;

@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.14;299;22;17;2;70%;175;21%;3;3;Team Moon;
+W;Jett;0.99;240;16;15;2;74%;143;17%;5;5;Team Moon;
+L;Jett;0.38;182;10;19;5;50%;108;16%;2;3;Team Moon;
+W;Jett;1.35;316;21;14;5;74%;173;25%;6;5;Team Moon;
+W;Jett;1.13;209;13;9;2;73%;132;38%;2;4;Team Moon;
+W;Raze;1.09;179;7;10;8;76%;129;11%;1;3;Lexious Gaming;
+W;Jett;1.23;281;21;15;5;90%;173;16%;7;5;Lexious Gaming;
+L;Jett;0.93;216;17;16;5;73%;141;27%;4;5;Lexious Gaming;
+W;Jett;1.49;354;20;11;1;81%;190;15%;7;3;Lexious Gaming;
+L;Jett;0.62;184;10;15;5;75%;121;24%;1;5;Lexious Gaming;
+W;Jett;1.25;331;29;18;4;70%;190;25%;4;4;Lexious Gaming;
+L;Jett;0.20;131;8;16;1;56%;76;32%;1;8;Lexious Gaming;
+L;Jett;0.83;198;12;16;1;61%;127;33%;3;3;Lexious Gaming;
+L;Raze;1.39;318;27;17;4;67%;200;20%;2;2;Lexious Gaming;

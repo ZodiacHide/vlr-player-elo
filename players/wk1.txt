@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;146;12;15;5; ;100;20%;0;1;Sekai;
+L;Omen; ;112;7;17;4; ;83;28%;0;1;Sekai;
+W;Omen; ;190;15;10;1; ;117;20%;2;1;Sekai;
+L;Omen; ;102;7;19;4; ;106;16%;0;1;Sekai;
+W;Omen; ;192;11;10;5; ;123;16%;2;1;Sekai;
+W;Omen; ;154;13;20;3; ;101;28%;1;5;Sekai;
+L;Omen; ;117;5;15;2; ;77;12%;1;0;Sekai;
+L;Omen; ;188;10;14;2; ;114;24%;2;3;Sekai;
+W;Omen; ;138;14;18;5; ;79;27%;2;1;Sekai;
+W;Omen; ;136;11;15;9; ;141;26%;1;5;Sekai;
+L;Omen; ;203;15;16;2; ;123;30%;1;4;Sekai;
+W;Omen; ;80;6;10;4; ;58;20%;0;1;Sekai;
+L;Omen; ;123;6;14;4; ;84;9%;0;1;Sekai;

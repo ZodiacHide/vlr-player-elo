@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.13;56;2;15;1;47%;48;15%;2;8;GEKO GEKO GAMING;

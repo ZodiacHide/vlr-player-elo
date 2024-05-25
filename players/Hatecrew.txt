@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;110;7;17;2; ;69;18%;3;2;Exceeli Esports;
+L;Sova; ;155;8;15;6; ;107;13%;1;2;Exceeli Esports;
+L;Sova; ;258;20;18;6; ;181;28%;2;0;Exceeli Esports;
+W;Raze; ;179;12;13;6; ;138;14%;0;3;Exceeli Esports;
+W;Sova; ;158;13;18;12; ;112;20%;1;1;Exceeli Esports;
+L;Sova; ;169;11;17;6; ;125;30%;1;1;Exceeli Esports;
+L;Sova; ;182;14;18;4; ;125;9%;3;1;Exceeli Esports;
+W;Astra;1.61;219;15;5;6;94%;129;29%;1;0;Exceeli Esports;
+W;Brimstone;1.34;259;22;14;2;78%;160;32%;1;1;Exceeli Esports;
+L;Breach;0.85;170;20;25;3;73%;107;27%;0;0;Exceeli Esports;
+L;Killjoy;0.80;160;10;16;8;68%;112;21%;1;2;Exceeli Esports;

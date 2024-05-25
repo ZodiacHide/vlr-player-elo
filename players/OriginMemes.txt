@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.70;163;9;14;7;65%;99;26%;1;2;StarlessGG;
+L;Omen;0.59;112;6;14;4;50%;75;19%;0;0;StarlessGG;
+L;Sova;0.62;97;6;13;3;44%;60;36%;0;2;Method2Madness;
+L;Sova;0.85;234;17;19;7;80%;122;48%;4;1;Method2Madness;

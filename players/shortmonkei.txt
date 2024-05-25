@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.58;131;9;16;2;58%;88;42%;0;2;Békéscsabai E-sport Egyesület;
+W;Viper;0.94;163;14;15;2;68%;109;44%;0;0;Békéscsabai E-sport Egyesület;
+L;Astra;0.80;207;11;13;4;69%;128;32%;0;1;Békéscsabai E-sport Egyesület;
+L;Astra;0.91;171;12;16;10;65%;105;50%;2;1;Békéscsabai E-sport Egyesület;
+L;Astra;0.54;201;11;18;3;61%;129;31%;2;3;Békéscsabai E-sport Egyesület;
+W;Viper;1.29;250;18;11;4;75%;159;35%;3;2;Békéscsabai E-sport Egyesület;
+W;Astra;1.35;273;19;11;7;89%;177;42%;2;1;Békéscsabai E-sport Egyesület;
+L;Astra;0.99;191;14;16;10;68%;134;51%;3;0;Békéscsabai E-sport Egyesület;
+L;Astra;0.80;167;13;18;7;59%;99;26%;5;2;Békéscsabai E-sport Egyesület;
+W;Astra;1.01;149;12;13;9;68%;120;29%;0;0;Békéscsabai E-sport Egyesület;

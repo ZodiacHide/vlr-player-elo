@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;145;8;15;3; ;96;37%;4;1;Bounty Esports;
+L;Reyna; ;194;13;18;5; ;165;40%;4;3;Bounty Esports;
+L;Jett; ;78;4;14;2; ;50;14%;0;4;Bounty Esports;

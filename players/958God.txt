@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;197;13;15;4; ;105;23%;1;1;EDward Gaming;
+L;Breach; ;75;5;16;4; ;52;17%;0;3;EDward Gaming;
+L;Breach; ;158;13;15;8; ;103;15%;1;0;EDward Gaming;

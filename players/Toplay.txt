@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;177;17;17;9; ;119;25%;2;3;Only One Word;
+W;Sova; ;169;11;7;11; ;122;23%;0;0;Only One Word;
+L;Cypher; ;98;4;16;12; ;88;7%;0;2;Only One Word;

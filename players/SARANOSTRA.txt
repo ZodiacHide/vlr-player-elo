@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;242;21;14;4; ;142;29%;3;5;RARE Esports;
+W;Breach; ;193;16;18;10; ;129;31%;3;1;RARE Esports;
+W;Breach; ;195;11;12;9; ;120;29%;1;0;RARE Esports;
+L;Breach; ;244;19;15;8; ;184;36%;2;1;RARE Esports;
+L;Breach; ;178;10;15;3; ;112;28%;1;0;RARE Esports;

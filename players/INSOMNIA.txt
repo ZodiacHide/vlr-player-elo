@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;101;8;16;1; ;66;15%;1;1;świeca;
+L;Cypher; ;142;11;19;5; ;92;32%;3;2;świeca;
+L;Cypher; ;155;8;15;5; ;105;27%;2;0;świeca;
+L;Cypher; ;173;14;18;3; ;105;34%;4;1;świeca;
+W;Cypher;1.01;168;14;13;7;74%;104;21%;2;0;świeca;
+W;Cypher;1.19;182;12;8;2;76%;127;21%;2;0;świeca;
+L;Cypher;0.97;198;16;15;3;64%;132;20%;1;1;świeca;
+L;Killjoy;0.42;124;6;13;3;47%;74;29%;1;0;świeca;

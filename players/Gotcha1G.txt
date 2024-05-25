@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;333;21;11;7; ;193;20%;4;1;One Shot Esports;
+W;Reyna; ;186;14;14;3; ;98;17%;3;2;One Shot Esports;
+L;Reyna; ;277;19;12;3; ;188;23%;1;1;One Shot Esports;
+L;Reyna; ;189;15;11;1; ;231;36%;0;0;One Shot Esports;
+W;Reyna; ;196;12;15;7; ;174;15%;3;4;One Shot Esports;
+L;Reyna; ;258;31;27;15; ;176;18%;0;3;One Shot Esports;
+L;Reyna; ;184;15;18;3; ;99;24%;3;3;One Shot Esports;

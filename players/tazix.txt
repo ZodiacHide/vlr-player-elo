@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;126;9;16;4; ;91;36%;0;3;VIRTUOSO;
+L;Phoenix;0.52;142;11;20;3;36%;83;26%;1;6;YFP Gaming;
+L;Raze;0.73;219;13;18;4;50%;136;24%;2;6;YFP Gaming;

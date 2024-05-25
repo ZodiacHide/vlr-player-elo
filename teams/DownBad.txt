@@ -1,0 +1,3 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;NRG Esports;Bind;DownBad;Lime;WonIN;mai;anzusimp;wenge;0:13;False;21:00;Friday, April 16th, 12:00 AM CEST;Champions Tour North America Stage 2: Challengers 2;https://www.twitch.tv/videos/988818782?t=0h32m19s;
+Defense;L;NRG Esports;Haven;NRG Esports;Lime;WonIN;mai;anzusimp;wenge;5:13;False;30:04;Friday, April 16th, 12:00 AM CEST;Champions Tour North America Stage 2: Challengers 2;https://www.twitch.tv/videos/988818782?t=0h32m19s;

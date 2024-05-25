@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;188;16;16;5; ; ; ;0; ;Team Yelo;
+W;Reyna; ;163;10;6;5; ; ; ;0; ;Team Yelo;
+L;Brimstone; ;172;14;17;8; ; ; ;1; ;Team Yelo;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;127;9;14;6; ;94;22%;0;1;steven edge le;
+L;Omen; ;169;15;18;3; ;103;65%;2;3;steven edge le;

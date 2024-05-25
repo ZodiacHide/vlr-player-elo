@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;203;16;16;11; ; ; ;1; ;Vincit Gaming;
+W;Sage; ;201;17;14;5; ; ; ;1; ;Vincit Gaming;
+W;Sage; ;133;10;13;7; ; ; ;1; ;Vincit Gaming;
+W;Sage; ;272;19;10;6; ; ; ;3; ;Vincit Gaming;
+L;Sage; ;192;13;12;2; ; ; ;1; ;Vincit Gaming;
+L;Sage; ;189;16;13;7; ; ; ;2; ;Vincit Gaming;
+W;Sage; ;241;21;13;6; ; ; ;2; ;Vincit Gaming;
+W;Sage; ;192;14;16;9; ; ; ;3; ;Vincit Gaming;
+L;Sage; ;123;5;13;5; ; ; ;1; ;Vincit Gaming;
+W;Sage; ;183;15;11;8; ; ; ;2; ;Vincit Gaming;
+L;Sage; ;144;8;15;6; ; ; ;0; ;Vincit Gaming;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Vikings;
+L;Omen; ;148;8;16;5; ;94;9%;0;2;Team Vikings;

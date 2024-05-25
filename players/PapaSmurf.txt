@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;1.13;295;18;15;4;76%;170;26%;0;2;TradeLikePros;
+L;Omen;0.65;107;9;16;2;50%;72;35%;1;2;TradeLikePros;
+L;Viper;1.24;287;19;14;5;83%;159;23%;2;1;TradeLikePros;
+L;Omen;1.01;198;18;18;7;75%;125;34%;1;2;TradeLikePros;
+L;Omen;0.50;78;5;14;5;56%;54;14%;0;1;TradeLikePros;
+L;Viper;0.56;115;8;17;6;52%;76;36%;1;4;TradeLikePros;
+L;Viper;0.50;90;4;13;1;33%;78;14%;1;1;TradeLikePros;
+L;Viper;0.81;188;15;20;6;63%;126;22%;1;3;TradeLikePros;

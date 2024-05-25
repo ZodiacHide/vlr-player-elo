@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;330;18;4;0; ;192;20%;4;1;MUTED;
+W;Jett; ;210;17;13;2; ;122;23%;4;1;MUTED;
+W;Jett; ;162;13;13;1; ;93;38%;3;3;MUTED;
+L;Sova; ;161;11;18;13; ;123;17%;0;0;MUTED;
+W;Jett; ;132;10;18;5; ;84;14%;2;7;MUTED;
+W;Sova; ;132;9;13;11; ;85;24%;0;1;MUTED;
+W;Sova; ;122;9;16;3; ;88;26%;1;2;MUTED;
+L;Sova; ;268;22;18;4; ;150;26%;2;1;MUTED;
+L;Sova; ;200;14;14;2; ;127;18%;1;1;MUTED;
+L;Sova; ;154;12;21;7; ;157;33%;2;1;MUTED;
+L;Sova; ;146;9;15;4; ;100;48%;0;0;MUTED;
+L;Sova;1.23;277;20;16;7;68%;180;50%;2;1;breskvice;
+L;Sova;0.81;180;11;17;8;55%;133;26%;1;1;breskvice;

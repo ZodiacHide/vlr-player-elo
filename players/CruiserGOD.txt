@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;182;13;14;7; ;121;23%;2;2;Villainous;
+W;Sova; ;242;21;13;5; ;144;28%;3;0;Villainous;
+L;Sova; ;202;16;17;3; ;130;23%;1;2;Villainous;
+L;Cypher; ;209;12;13;5; ;134;26%;3;0;Villainous;
+W;Cypher; ;235;18;16;9; ;154;29%;2;3;Villainous;
+L;Cypher; ;160;10;16;10; ;107;34%;2;0;Villainous;
+L;Sova;1.18;250;17;15;6;67%;151;21%;1;3;Villainous;
+L;Killjoy;1.02;297;20;18;4;50%;180;17%;2;2;OnlyFriends;
+L;Skye;0.43;160;9;16;0;63%;104;36%;2;1;OnlyFriends;
+W;Skye;0.93;171;12;12;6;80%;133;22%;2;1;OnlyFriends;
+L;Sova;0.68;114;6;14;9;61%;88;24%;0;3;OnlyFriends;
+L;Killjoy;1.14;246;20;17;5;75%;162;17%;1;4;OnlyFriends;

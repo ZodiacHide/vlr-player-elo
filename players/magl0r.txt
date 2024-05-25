@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;108;7;17;1; ;71;24%;1;4;MELiNA;
+L;Omen; ;204;14;19;6; ;129;22%;0;2;MELiNA;
+L;Skye;1.11;254;20;15;3;73%;149;32%;4;0;OutRage;
+W;Skye;0.93;217;23;21;6;77%;138;32%;4;2;OutRage;
+L;Skye;0.58;144;9;16;2;63%;98;31%;3;1;OutRage;

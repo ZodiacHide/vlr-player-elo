@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;233;14;12;4; ;159;19%;1;1;Kum Gaming;
+L;Jett; ;246;15;15;3; ;153;20%;4;2;Kum Gaming;
+W;Jett; ;215;17;16;4; ;114;25%;2;3;Kum Gaming;
+L;Jett; ;151;9;18;5; ;104;15%;1;3;Kum Gaming;
+W;Raze; ;291;22;18;8; ;167;20%;6;2;Kum Gaming;
+L;Sova; ;217;16;20;10; ;138;19%;1;2;Ambitious;
+L;Sova; ;107;4;13;2; ;66;29%;1;2;Ambitious;

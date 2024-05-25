@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;need more DM;
+L;None;0;0;0;0;0;0;0;0;0;0;need more DM;
+L;None;0;0;0;0;0;0;0;0;0;0;need more DM;
+L;None;0;0;0;0;0;0;0;0;0;0;need more DM;
+W;None;0;0;0;0;0;0;0;0;0;0;need more DM;
+L;Sage; ;202;18;15;12; ; ; ;1; ;Mattistack;
+L;Sage; ;197;11;15;10; ; ; ;2; ;Mattistack;

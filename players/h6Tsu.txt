@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;125;6;14;0; ;62;17%;1;1;ECM FCG eSports;
+L;Jett; ;147;10;16;1; ;105;21%;1;4;ECM FCG eSports;
+L;Jett;1.50;320;27;14;3;83%;184;19%;6;1;ECM FCG eSports;
+L;Jett;0.70;174;10;15;1;50%;97;8%;2;1;ECM FCG eSports;

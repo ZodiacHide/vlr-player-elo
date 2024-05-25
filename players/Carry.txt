@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;90;7;17;6; ;48;17%;1;2;SeolHaeOne Prince;
+L;Breach; ;186;18;19;10; ;119;33%;3;0;SeolHaeOne Prince;
+L;Breach; ;186;10;17;10; ;120;24%;0;1;SeolHaeOne Prince;
+L;Reyna; ;162;10;15;5; ;95;23%;1;5;SeolHaeOne Prince;
+L;Breach; ;93;8;15;4; ;49;8%;1;2;SeolHaeOne Prince;

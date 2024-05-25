@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Brimstone Gaming;Split;Decider;tem;gucc107;instinct;Welshy;Reality;10:13;False;45:03;Saturday, June 12th, 8:00 PM CEST;Knights Monthly Gauntlet: June;url.net;
+Defense;L;Brimstone Gaming;Ascent;Polpette Di Carne;Welshy;tem;instinct;gucc107;Reality;8:13;False;39:12;Saturday, June 12th, 10:00 PM CEST;Knights Monthly Gauntlet: June;url.net;
+Attack;L;Brimstone Gaming;Icebox;Polpette Di Carne;Welshy;tem;instinct;gucc107;Reality;11:13;False;39:20;Saturday, June 12th, 10:00 PM CEST;Knights Monthly Gauntlet: June;url.net;

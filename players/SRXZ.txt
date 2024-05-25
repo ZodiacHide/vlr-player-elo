@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;176;15;18;6; ;107;14%;3;3;TooManyQuestions;
+L;Cypher; ;170;12;18;2; ;121;22%;3;3;TooManyQuestions;
+W;Cypher; ;230;15;11;4; ;126;47%;3;2;TooManyQuestions;
+L;Cypher; ;264;27;21;6; ;167;27%;5;1;TooManyQuestions;
+L;None;0;0;0;0;0;0;0;0;0;0;TooManyQuestions;
+W;Cypher; ;296;19;12;6; ;175;30%;2;3;TooManyQuestions;
+L;None;0;0;0;0;0;0;0;0;0;0;TooManyQuestions;
+L;Cypher; ;141;12;17;5; ;93;21%;3;0;TooManyQuestions;
+W;Killjoy; ;233;22;19;4; ;129;21%;2;1;TooManyQuestions;
+W;Cypher; ;143;10;14;3; ;89;22%;2;1;TooManyQuestions;
+L;Cypher; ;189;16;19;2; ;107;38%;1;2;TooManyQuestions;
+W;Cypher; ;370;27;15;10; ;213;26%;5;1;TooManyQuestions;
+L;Cypher; ;200;11;15;2; ;140;31%;1;4;TooManyQuestions;
+L;Cypher;0.66;169;11;15;3;61%;110;34%;0;2;TooManyQuestions;
+L;Killjoy;1.30;289;21;15;3;71%;217;16%;1;0;TooManyQuestions;

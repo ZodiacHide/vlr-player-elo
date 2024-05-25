@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;183;8;13;6; ;131;21%;0;2;Hamboigas;
+L;Reyna; ;181;10;10;1; ;114;52%;0;1;Hamboigas;
+L;Reyna; ;278;22;15;2; ;176;16%;1;2;Hamboigas;
+W;Reyna; ;240;15;11;9; ;157;13%;2;2;Hamboigas;
+W;Reyna; ;288;13;9;6; ;169;21%;4;1;Hamboigas;

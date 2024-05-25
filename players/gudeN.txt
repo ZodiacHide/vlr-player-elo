@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;219;16;11;7; ;132;26%;1;2;Inside Games;
+W;Skye; ;248;23;14;3; ;140;31%;3;0;Inside Games;
+W;Sova; ;173;12;11;13; ;120;26%;1;1;Inside Games;
+W;Skye; ;213;14;10;6; ;127;29%;1;1;Inside Games;
+L;Sova; ;200;15;16;9; ;133;44%;2;0;Inside Games;
+L;Skye; ;138;9;17;3; ;84;14%;1;4;Inside Games;

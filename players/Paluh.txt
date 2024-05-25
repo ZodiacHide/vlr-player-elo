@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Liquid R6;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Liquid R6;

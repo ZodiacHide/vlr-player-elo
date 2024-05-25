@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;95;7;16;7; ;69;12%;0;2;Exodus;
+W;Sova; ;219;17;10;8; ;137;25%;5;0;Exodus;
+L;Sova; ;130;14;21;5; ;77;17%;1;1;Exodus;
+L;Breach; ;108;9;14;8; ;111;27%;1;1;Exodus;
+W;Breach; ;182;13;12;9; ;111;26%;3;1;Exodus;
+L;Sova; ;166;18;22;11; ;120;23%;1;2;Exodus;
+L;Sova; ;153;10;17;9; ;101;21%;0;0;Exodus;
+L;Sova;0.43;104;4;15;3;56%;80;8%;1;0;Team 600;
+L;Sage;0.74;139;8;17;13;76%;92;18%;0;2;Team 600;
+W;Sova;0.91;151;13;16;9;78%;110;22%;1;2;Team 600;
+L;Sova;0.78;203;11;14;2;56%;112;21%;1;1;Team 600;

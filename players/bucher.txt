@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;131;9;17;5; ;77;23%;0;1;Dreamwalker;
+W;Breach; ;208;17;11;4; ;111;26%;3;1;Dreamwalker;
+W;Cypher; ;252;21;14;6; ;135;20%;2;1;Dreamwalker;
+L;Raze; ;205;13;17;5; ;119;14%;5;1;Dreamwalker;
+L;Jett; ;189;13;17;4; ;107;18%;0;5;Dreamwalker;
+L;Sage;0.77;176;13;15;6;71%;120;30%;0;2;King's Gambit;
+L;Viper;0.52;158;7;14;1;40%;112;17%;2;2;King's Gambit;

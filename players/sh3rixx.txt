@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze;0.70;199;15;24;9;69%;138;11%;3;3;UnderDogs;
+L;Raze;0.80;236;16;18;1;55%;131;28%;3;2;UnderDogs;
+L;Jett;0.87;215;12;13;2;65%;140;29%;1;4;UnderDogs;

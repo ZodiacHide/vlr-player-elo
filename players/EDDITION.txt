@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;122;11;18;4; ;79;32%;2;4;GGmate;
+W;Omen; ;126;9;8;3; ;90;29%;0;2;GGmate;
+L;Omen; ;188;13;16;3; ;119;32%;2;1;GGmate;
+L;Jett; ;107;6;13;0; ;72;43%;0;3;sas elle;
+L;Jett; ;204;11;18;3; ;121;33%;1;7;sas elle;
+L;Sage;0.61;142;10;16;2;55%;91;23%;3;5;sas elle;
+L;Raze;0.94;190;17;22;9;77%;122;21%;8;3;sas elle;
+L;Jett;0.47;130;9;21;0;45%;90;28%;2;4;Equality;
+L;Jett;0.61;216;10;14;1;57%;141;26%;2;2;Equality;

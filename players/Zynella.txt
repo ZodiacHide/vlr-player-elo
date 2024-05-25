@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;0.98;183;17;20;6;65%;131;27%;1;2;F5;
+L;Reyna;0.87;213;13;16;1;47%;146;48%;1;1;F5;
+L;Astra;1.38;267;21;16;9;78%;185;35%;4;3;F5;

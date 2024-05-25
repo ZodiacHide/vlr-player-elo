@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;0.77;154;11;15;6;70%;87;33%;2;1;Invictus Gaming Academy;
+L;Reyna;0.88;239;17;16;2;53%;154;37%;2;2;Invictus Gaming Academy;
+W;Omen;1.33;205;13;9;9;100%;109;19%;1;1;Invictus Gaming Academy;
+L;Omen;1.10;216;15;15;1;53%;134;35%;1;0;Invictus Gaming Academy;
+L;Brimstone;0.87;178;17;20;15;81%;115;27%;2;2;O2 Gaming;
+L;Omen;1.16;237;20;16;11;71%;132;39%;2;3;O2 Gaming;
+L;Omen;0.65;149;8;16;5;63%;96;11%;1;1;O2 Gaming;
+L;None;0;0;0;0;0;0;0;0;0;0;O2 Gaming;
+W;Jett;0.91;136;9;11;3;68%;80;25%;2;3;O2 Gaming;
+W;Sova;1.37;232;17;11;7;86%;157;16%;4;0;O2 Gaming;
+L;Sova;0.70;164;8;14;5;67%;96;13%;1;0;O2 Gaming;
+L;Jett;0.86;188;17;18;3;63%;117;25%;5;3;O2 Gaming;

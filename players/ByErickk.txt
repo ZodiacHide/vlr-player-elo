@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;127;6;14;0; ;82;35%;2;2;Wizards Club;
+W;Raze; ;295;18;7;3; ;161;22%;3;1;Wizards Club;
+L;Killjoy; ;179;7;14;0; ;110;15%;2;1;Wizards Club;
+W;Cypher; ;164;13;12;6; ;112;26%;0;1;Wizards Club;
+L;Raze; ;231;17;16;5; ;165;17%;1;1;Wizards Club;
+L;Breach; ;198;17;16;8; ;120;49%;3;0;Wizards Club;
+W;Breach; ;224;17;11;5; ;121;28%;0;1;Wizards Club;
+W;Breach; ;165;13;15;8; ;90;26%;0;0;Wizards Club;
+L;Breach; ;266;29;19;8; ;159;29%;3;2;Wizards Club;
+W;Breach; ;188;16;12;7; ;107;32%;1;3;Wizards Club;
+L;Breach; ;152;11;16;4; ;101;14%;1;3;Wizards Club;
+W;Breach; ;226;13;10;10; ;154;21%;2;0;Wizards Club;

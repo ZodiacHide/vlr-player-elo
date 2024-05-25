@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.53;160;6;13;2;53%;116;7%;0;1;Anavrin Esports;
+L;Killjoy;0.69;174;8;13;0;50%;131;17%;0;3;Anavrin Esports;

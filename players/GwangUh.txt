@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;190;18;15;10; ;159;22%;2;1;Gehenna Sweepers;
+L;Sova; ;182;10;15;5; ;120;23%;0;2;Gehenna Sweepers;
+L;Sova; ;140;12;17;4; ;79;6%;0;4;Gehenna Sweepers;
+L;Skye;0.59;138;6;15;5;44%;98;21%;0;1;Gehenna Sweepers;
+L;Skye;0.78;174;12;20;9;64%;114;29%;1;1;Gehenna Sweepers;
+L;Skye;0.46;114;6;14;2;50%;75;41%;0;2;Gehenna Sweepers;
+L;Skye;1.01;251;19;20;12;78%;156;18%;1;2;Gehenna Sweepers;

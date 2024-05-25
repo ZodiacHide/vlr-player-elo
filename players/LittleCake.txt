@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.29;91;3;14;1;27%;73;7%;0;2;Bonde da Loli Careca;
+L;Killjoy;0.31;107;4;13;2;38%;70;12%;0;2;Bonde da Loli Careca;

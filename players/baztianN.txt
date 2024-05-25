@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;225;21;17;12; ;131;21%;4;2;SLAMMING GEARS;
+L;Omen; ;150;13;14;1; ;96;19%;0;4;SLAMMING GEARS;
+L;Sova; ;189;11;19;6; ;138;21%;1;2;SLAMMING GEARS;
+L;Killjoy; ;193;14;15;3; ;127;26%;1;1;SLAMMING GEARS;
+L;Killjoy; ;172;16;16;5; ;112;13%;1;4;SLAMMING GEARS;
+L;Sova; ;183;9;17;4; ;126;35%;0;2;SLAMMING GEARS;
+L;Sova; ;177;8;14;7; ;130;37%;1;0;SLAMMING GEARS;
+W;Sova; ;189;17;15;5; ;120;21%;0;1;SLAMMING GEARS;
+L;Killjoy; ;92;5;14;3; ;65;10%;1;1;SLAMMING GEARS;

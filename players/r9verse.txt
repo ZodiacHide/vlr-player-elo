@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;88;6;16;3; ;56; ;0; ;Imposto é Roubo;
+W;Jett; ;217;20;25;4; ;130; ;7; ;Imposto é Roubo;
+L;Raze; ;154;5;15;3; ;96;14%;1;5;Imposto é Roubo;

@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;GODSENT;
+L;None;0;0;0;0;0;0;0;0;0;0;GODSENT;
+L;None;0;0;0;0;0;0;0;0;0;0;GODSENT;
+L;Brimstone; ;119;7;18;2; ; ; ;0; ;GODSENT;
+L;Brimstone; ;94;6;18;1; ; ; ;0; ;GODSENT;
+L;Brimstone; ;0;0;0;0; ; ; ;0; ;GODSENT;
+L;Brimstone; ;0;0;0;0; ; ; ;0; ;GODSENT;
+L;Brimstone; ;119;6;14;1; ; ; ;2; ;GODSENT;
+L;Brimstone; ;114;4;14;0; ; ; ;0; ;GODSENT;

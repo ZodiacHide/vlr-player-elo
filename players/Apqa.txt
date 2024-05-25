@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.47;160;7;15;4;63%;104;32%;1;4;Frontline Esports;
+L;Cypher;0.06;49;2;13;2;31%;41;25%;0;3;Frontline Esports;
+L;Killjoy;0.77;153;6;13;2;43%;119;13%;1;0;Team Mystic;
+L;Cypher;0.28;116;4;15;3;40%;82;26%;0;3;Team Mystic;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;238;21;17;4; ;149;23%;2;2;Infamous Gaming;
+L;Reyna; ;238;21;17;4; ;149;23%;2;2;Infamous Gaming;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;1.00;200;16;16;5;67%;126;16%;0;1;ELNiS Esports;
+L;Reyna;0.92;210;13;14;2;59%;153;18%;1;1;ELNiS Esports;

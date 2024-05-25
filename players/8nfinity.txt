@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;264;23;15;6; ;150;23%;1;2;Ryze Gaming;
+W;Cypher; ;180;14;13;6; ;115;22%;0;2;Ryze Gaming;
+L;Cypher; ;47;2;15;2; ;31;8%;0;1;Ryze Gaming;
+L;Cypher; ;196;11;14;5; ;113;13%;1;1;Ryze Gaming;
+W;Cypher; ;150;17;21;2; ;90;18%;1;2;Ryze Gaming;
+L;Cypher; ;162;11;16;6; ;109;9%;1;1;Ryze Gaming;
+L;Cypher; ;161;12;19;3; ;104;26%;3;4;Ryze Gaming;
+L;Killjoy; ;194;12;17;7; ;119;16%;3;4;Ryze Gaming;
+W;Cypher; ;182;12;13;3; ;116;19%;3;1;Ryze Gaming;
+L;Cypher; ;146;10;17;5; ;101;21%;1;0;Ryze Gaming;

@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;182;14;12;7; ;106;26%;0;1;Akave Esports;
+W;Omen; ;160;13;10;4; ;83;8%;1;1;Akave Esports;
+W;Omen; ;244;16;8;4; ;130;22%;3;0;Akave Esports;
+L;Omen; ;199;17;20;8; ;117;14%;1;4;Akave Esports;
+L;Omen; ;178;12;16;4; ;107;36%;1;1;Akave Esports;
+L;Omen; ;61;3;18;4; ;45;35%;1;2;Akave Esports;
+L;Killjoy; ;201;8;13;0; ;132;27%;0;2;WALTEM Gaming;
+L;Cypher; ;268;17;13;2; ;160;20%;1;2;WALTEM Gaming;
+L;Cypher; ;148;11;18;1; ;101;28%;1;4;WALTEM Gaming;

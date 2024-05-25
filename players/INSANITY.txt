@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ;128;10;15;6; ; ; ;2; ;COFFEE;
+L;Sage; ;90;4;14;3; ; ; ;1; ;COFFEE;
+L;Brimstone; ;215;17;13;2; ; ; ;2; ;COFFEE;
+L;Sage; ;97;7;18;0; ; ; ;1; ;COFFEE;
+L;Sage; ;177;11;11;8; ; ; ;0; ;COFFEE;
+L;Reyna; ;245;15;14;3; ; ; ;4; ;Dia De Los Muertos;
+L;Reyna; ;159;11;17;2; ; ; ;3; ;Dia De Los Muertos;
+W;Phoenix; ;190;14;18;4; ;124;12%;2;3;Mystery Inc.;
+L;Phoenix; ;138;8;20;5; ;140;22%;3;4;Mystery Inc.;
+L;Reyna; ;123;12;17;4; ;81;24%;2;1;Mystery Inc.;
+L;Reyna; ;191;15;16;3; ;113;15%;3;2;Mystery Inc.;

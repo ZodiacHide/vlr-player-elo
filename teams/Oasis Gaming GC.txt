@@ -1,0 +1,9 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Alter Ego Celeste;Ascent;Oasis Gaming GC;Muffyn;Lax;Babytz;Anko;Stan;2:13;False;28:39;Sunday, July 4th, 8:30 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #4;https://www.twitch.tv/videos/1076122505?t=2h41m27s;
+Defense;W;Alter Ego Celeste;Icebox;Oasis Gaming GC;Muffyn;Lax;Babytz;Anko;zini;13:6;False;33:24;Sunday, July 4th, 8:30 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #4;https://www.twitch.tv/videos/1076122505?t=2h41m27s;
+Attack;L;Alter Ego Celeste;Bind;Oasis Gaming GC;Muffyn;Lax;Babytz;Anko;Stan;5:13;False;34:59;Sunday, July 4th, 8:30 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #4;https://www.twitch.tv/videos/1076122505?t=2h41m27s;
+Defense;W;Alter Ego Celeste;Breeze;Oasis Gaming GC;Muffyn;Lax;Babytz;Anko;Stan;13:5;False;30:52;Sunday, July 4th, 8:30 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #4;https://www.twitch.tv/videos/1076122505?t=2h41m27s;
+Attack;L;Alter Ego Celeste;Split;Decider;Muffyn;Lax;Babytz;Anko;Stan;5:13;False;31:38;Sunday, July 4th, 8:30 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #4;https://www.twitch.tv/videos/1076122505?t=2h41m27s;
+Attack;L;Galaxy Racer Female;Icebox;Oasis Gaming GC;Stan;Anko;Muffyn;Poly;1001;11:13;False;44:15;Sunday, August 29th, 6:00 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #6;url.net;
+Defense;W;Galaxy Racer Female;Haven;Oasis Gaming GC;Stan;Anko;Muffyn;Poly;1001;14:12;True;49:22;Sunday, August 29th, 6:00 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #6;url.net;
+Attack;L;Galaxy Racer Female;Ascent;Oasis Gaming GC;Stan;Anko;Muffyn;Poly;1001;4:13;False;31:14;Sunday, August 29th, 6:00 AM CEST;Champions Tour Game Changers SEA: FSL Open 2021 #6;url.net;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.87;165;14;16;4;71%;114;14%;0;1;Team Reckaroo;
+L;Sage;1.07;177;17;14;3;67%;102;22%;0;3;Team Reckaroo;
+W;Sage;0.72;123;11;18;6;58%;81;16%;0;3;Team Reckaroo;
+L;Cypher;0.81;164;9;11;1;57%;113;24%;0;3;Team Reckaroo;
+W;Killjoy;1.29;226;17;10;4;71%;141;16%;0;0;Team Reckaroo;
+L;Killjoy;0.80;160;9;14;4;63%;112;20%;0;1;Team Reckaroo;
+L;Cypher;0.30;71;4;16;2;41%;39;5%;1;3;Team Reckaroo;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;168;10;13;5; ;107;17%;1;1;Pro Hub Gaming;
+L;Sova; ;138;11;14;2; ;86;24%;0;1;Pro Hub Gaming;
+W;None;0;0;0;0;0;0;0;0;0;0;Pro Hub Gaming;

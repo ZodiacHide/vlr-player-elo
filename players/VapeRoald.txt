@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;51;2;14;1; ;40;13%;2;6;Team Doggo;
+L;Jett;0.53;177;8;15;4;67%;117;31%;3;3;Team Doggo;
+L;Jett;1.09;272;19;17;1;52%;174;20%;4;3;Team Doggo;

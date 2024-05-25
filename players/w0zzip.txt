@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.04;214;13;14;4;67%;124;12%;0;4;Team BELEAGUERS;
+L;Jett;1.01;242;23;22;3;62%;130;20%;5;6;Team BELEAGUERS;

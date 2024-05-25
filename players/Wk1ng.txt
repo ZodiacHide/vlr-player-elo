@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;1.13;318;18;14;3;81%;200;22%;2;2;Zercus Esports;
+L;Viper;0.43;145;8;19;6;63%;95;18%;1;1;Zercus Esports;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.12;162;13;10;7;74%;103;31%;2;3;Nerd Emoji;
+L;Sova;1.05;201;15;17;11;76%;143;41%;1;2;Nerd Emoji;
+L;Sova;0.84;173;15;20;6;65%;131;52%;4;2;Nerd Emoji;

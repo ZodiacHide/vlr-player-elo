@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.86;210;12;14;4;59%;129;26%;2;0;Mujig 100su;
+L;Omen;0.86;135;12;15;3;59%;79;19%;2;0;Mujig 100su;
+L;Astra;1.05;225;18;16;5;62%;156;23%;3;1;Mujig 100su;
+L;Omen;0.62;123;8;17;8;71%;87;17%;0;1;Mujig 100su;
+L;Omen;0.88;192;11;16;5;63%;137;26%;1;2;Mujig 100su;
+W;Omen;0.86;141;10;11;4;67%;98;32%;2;2;Mujig 100su;
+W;Omen;1.02;219;18;13;6;82%;125;19%;3;2;Mujig 100su;
+L;Omen;0.82;128;9;14;7;60%;84;18%;0;1;Mujig 100su;
+W;Omen;1.16;240;15;13;6;72%;145;15%;2;0;Mujig 100su;
+L;Omen;0.40;79;4;18;9;57%;61;9%;0;5;Mujig 100su;

@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;168;5;13;2; ; ; ;2; ;GVNG;
+W;Sova; ;261;19;14;10; ; ; ;3; ;GVNG;
+W;Sova; ;186;12;11;8; ; ; ;1; ;GVNG;
+W;Sova; ;224;15;10;9; ; ; ;3; ;GVNG;
+W;Omen; ;143;9;11;8; ; ; ;1; ;GVNG;
+L;Sova; ;80;3;17;4; ; ; ;0; ;GVNG;
+W;Sova; ;288;22;15;7; ; ; ;2; ;GVNG;
+L;Omen; ; ; ; ; ; ; ; ; ; ;GVNG;

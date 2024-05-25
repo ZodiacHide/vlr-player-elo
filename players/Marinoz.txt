@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;323;22;14;3; ;228;17%;2;2;VETERANOS e-Sports;
+L;Raze; ;146;8;14;0; ;89;8%;2;3;VETERANOS e-Sports;
+L;Raze; ;231;17;12;3; ;146;16%;2;5;VETERANOS e-Sports;
+W;Raze; ;260;19;15;2; ;164;18%;3;2;VETERANOS e-Sports;
+L;Jett; ;245;20;17;5; ;159;16%;4;3;VETERANOS e-Sports;
+L;Jett; ;186;17;13;3; ;101;19%;3;4;Wizards Club;
+L;Skye;1.04;185;14;16;11;64%;131;20%;4;2;PATATERA SQUAD;
+L;Jett;0.78;170;10;15;2;47%;106;12%;0;4;PATATERA SQUAD;
+L;Raze;0.78;223;11;13;2;67%;141;21%;2;2;Wizards Club;
+L;Jett;0.91;238;16;16;3;60%;154;27%;6;5;Wizards Club;
+L;Jett;0.96;187;12;16;2;65%;114;23%;6;3;Wizards Club;
+L;Jett;1.24;242;19;16;3;73%;156;20%;4;3;Wizards Club;
+W;Breach;1.13;172;13;9;7;89%;115;20%;1;0;Wizards Club;

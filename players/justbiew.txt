@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;1.03;266;17;19;10;74%;180;16%;4;3;fully;
+L;Raze;0.97;295;19;19;4;71%;177;17%;6;3;fully;
+L;Brimstone;1.01;228;19;22;11;72%;131;16%;5;6;fully;

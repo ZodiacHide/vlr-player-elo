@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;1.08;256;16;14;5;70%;171;26%;0;1;Funky Monkeys;
+W;Omen;1.30;190;16;10;9;80%;118;25%;1;1;Funky Monkeys;
+W;Viper;0.95;201;16;17;5;75%;129;30%;1;3;Funky Monkeys;
+L;Omen;1.20;260;23;17;11;88%;156;30%;2;1;Funky Monkeys;
+W;Viper;0.95;127;9;13;8;73%;82;22%;1;2;Funky Monkeys;
+W;Omen;0.88;119;10;13;10;77%;84;35%;0;3;Funky Monkeys;
+L;Astra;0.88;247;13;13;3;63%;141;29%;2;1;Funky Monkeys;
+L;Viper;0.70;141;8;14;2;50%;104;35%;1;1;Funky Monkeys;
+L;Omen;0.63;157;8;12;2;71%;107;13%;0;0;VERTEX;
+L;Astra;0.99;255;15;16;4;67%;156;23%;2;2;VERTEX;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Kayo;0.35;105;5;14;2;50%;69;38%;0;3;God Given;

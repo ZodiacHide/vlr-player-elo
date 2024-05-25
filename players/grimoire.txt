@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Skye;1.29;206;13;12;11;79%;138;30%;3;0;Nerd Emoji;
+L;Cypher;1.01;213;17;17;3;62%;117;41%;2;3;Nerd Emoji;
+L;Skye;0.99;188;17;19;10;85%;124;41%;5;1;Nerd Emoji;

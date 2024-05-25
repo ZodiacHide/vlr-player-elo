@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;231;13;14;2; ;145;31%;1;1;All Day Long;
+L;Omen; ;138;10;16;4; ;129;21%;0;2;All Day Long;
+W;Omen; ;150;11;9;5; ;75;19%;2;1;All Day Long;
+L;Omen; ;82;3;13;4; ;49;10%;0;1;All Day Long;
+L;Sage; ;218;23;18;6; ;134;26%;1;1;ehehxd;
+L;Sova; ;115;8;15;5; ;69;22%;1;2;ehehxd;
+W;Sova; ;188;12;12;11; ;110;21%;0;0;ehehxd;
+L;Sage; ;122;11;21;10; ;81;13%;0;3;ehehxd;
+L;Jett;0.62;122;7;14;2;56%;73;33%;2;2;Ignite;
+L;Raze;0.77;200;11;15;4;59%;138;20%;3;3;Ignite;
+W;Jett;1.23;219;11;10;5;80%;149;34%;1;2;EGN Esports;
+W;Jett;1.13;222;14;7;2;88%;117;29%;2;1;EGN Esports;
+L;Jett;1.04;249;21;18;3;61%;166;29%;3;2;EGN Esports;
+L;Jett;1.41;280;24;16;7;65%;182;20%;4;3;EGN Esports;

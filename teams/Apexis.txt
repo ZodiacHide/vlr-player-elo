@@ -1,0 +1,10 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Dawn of Stars;Haven;Dawn of Stars;Maxic;RAZORCONEE;bacyx;TARDUU;Flash;13:2;False;-;Sunday, July 5th, None;Vitality European Open;url.net;
+Defense;W;Dawn of Stars;Ascent;Dawn of Stars;Maxic;RAZORCONEE;bacyx;TARDUU;Flash;13:9;False;-;Sunday, July 5th, None;Vitality European Open;url.net;
+Attack;W;KOUD’KOUTO;Bind;Decider;TARDUU;Maxic;bacyx;Flash;RAZORCONEE;13:10;False;-;Sunday, July 5th, None;Vitality European Open;url.net;
+Defense;L;need more DM;Haven;need more DM;RAZORCONEE;bacyx;Maxic;TARDUU;Flash;3:13;False;-;Friday, July 10th, 2:59 PM CEST;Vitality European Open;https://www.twitch.tv/videos/675504661?t=0h11m45s;
+Defense;L;need more DM;Bind;need more DM;RAZORCONEE;bacyx;Maxic;TARDUU;Flash;3:13;False;-;Friday, July 10th, 2:59 PM CEST;Vitality European Open;https://www.twitch.tv/videos/675504661?t=0h11m45s;
+Attack;L;G2 Esports;Bind;G2 Esports;RAZORCONEE;TARDUU;bacyx;Maxic;Flash;9:13;False;-;Friday, July 10th, 6:15 PM CEST;Vitality European Open;https://www.twitch.tv/videos/675597750?t=0h33m35s;
+Defense;L;G2 Esports;Haven;G2 Esports;RAZORCONEE;TARDUU;bacyx;Maxic;Flash;6:13;False;-;Friday, July 10th, 6:15 PM CEST;Vitality European Open;https://www.twitch.tv/videos/675597750?t=0h33m35s;
+Defense;L;FABRIKEN;Bind;FABRIKEN;RAZORCONEE;bacyx;Maxic;Flash;TARDUU;12:13;False;-;Friday, July 10th, 7:50 PM CEST;Vitality European Open;url.net;
+Defense;L;FABRIKEN;Ascent;FABRIKEN;RAZORCONEE;bacyx;Maxic;Flash;TARDUU;10:13;False;-;Friday, July 10th, 7:50 PM CEST;Vitality European Open;url.net;

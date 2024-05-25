@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;232;14;13;9; ;138;14%;3;2;Orange Borange;
+L;Reyna; ;91;5;14;0; ;36;0%;1;4;Orange Borange;
+L;Reyna; ;248;19;17;5; ;206;25%;4;4;Divine;
+W;Reyna; ;163;13;16;6; ;108;18%;0;2;Divine;
+L;Reyna; ;157;7;15;3; ;93;9%;2;3;Divine;

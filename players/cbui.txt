@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.70;185;10;14;1;56%;105;22%;2;2;Elysium NOIR;
+L;Astra;1.19;228;23;18;9;73%;152;24%;3;0;Elysium NOIR;
+L;Raze;0.86;213;16;19;5;67%;142;16%;2;3;Elysium NOIR;
+L;Astra;0.54;117;7;13;2;53%;74;18%;0;1;Elysium NOIR;

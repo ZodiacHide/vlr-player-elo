@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.85;208;17;19;3;65%;131;19%;2;2;Ovation eSports;
+L;Jett;0.47;121;6;14;1;40%;51;31%;2;2;Ovation eSports;
+L;Jett;1.02;242;19;19;5;79%;141;22%;5;3;Ovation eSports;
+L;Jett;0.66;167;14;20;0;58%;87;32%;3;3;Ovation eSports;
+L;Jett;1.12;243;18;17;6;64%;161;20%;4;3;Ovation eSports;
+L;Jett;1.20;309;21;17;2;75%;194;21%;2;3;Ovation eSports;
+W;Jett;0.96;237;19;19;5;65%;145;24%;4;4;Ovation eSports;
+L;Jett;0.79;221;19;22;8;75%;139;21%;2;6;Ovation eSports;
+W;Jett;1.22;290;23;15;6;91%;178;14%;2;2;Ovation eSports;

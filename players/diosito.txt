@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;175;13;10;7; ;149;5%;2;0;PLAYMAKERS;
+W;Sova; ;234;16;10;11; ;167;30%;6;1;PLAYMAKERS;
+W;Sova; ;153;11;11;6; ;113;21%;0;3;PLAYMAKERS;
+L;Sova; ;180;14;18;12; ;117;6%;1;1;PLAYMAKERS;
+L;Raze; ;218;10;14;2; ;122;18%;0;0;PLAYMAKERS;

@@ -1,0 +1,10 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Ninjas in Pyjamas;Split;Absolute Legends Blue;Demon;Hazar;Garrix;Alyx;Daan;6:13;False;-;Sunday, May 17th, 6:00 PM CEST;Absolute Masters;url.net;
+Attack;L;Ninjas in Pyjamas;Bind;Absolute Legends Blue;Demon;Hazar;Garrix;Alyx;Daan;4:13;False;-;Sunday, May 17th, 6:00 PM CEST;Absolute Masters;url.net;
+Attack;W;KK VALORANT;Ascent;KK VALORANT;Demon;Scruven;Hafficool;Alyx;miNideGreez;13:12;True;-;Sunday, June 21st, 8:30 PM CEST;Absolute Masters;https://www.twitch.tv/videos/657448487?t=0h29m54s;
+Defense;L;KK VALORANT;Haven;KK VALORANT;Demon;Scruven;Hafficool;Alyx;miNideGreez;3:13;False;-;Sunday, June 21st, 8:30 PM CEST;Absolute Masters;https://www.twitch.tv/videos/657448487?t=1h56m45s;
+Attack;W;KK VALORANT;Bind;KK VALORANT;Demon;Scruven;Hafficool;Alyx;miNideGreez;13:4;False;-;Sunday, June 21st, 8:30 PM CEST;Absolute Masters;url.net;
+Defense;L;InetGamer;Bind;Absolute Legends Blue;Alyx;Hafficool;miNideGreez;Demon;Scruven;3:13;False;-;Sunday, June 28th, 8:30 PM CEST;Absolute Masters;https://www.twitch.tv/videos/664080462?t=2h26m4s;
+Attack;W;InetGamer;Ascent;Absolute Legends Blue;Alyx;Hafficool;miNideGreez;Demon;Scruven;13:7;False;-;Sunday, June 28th, 8:30 PM CEST;Absolute Masters;https://www.twitch.tv/videos/664080462?t=2h26m4s;
+Attack;L;InetGamer;Haven;Absolute Legends Blue;Alyx;Hafficool;miNideGreez;Demon;Scruven;6:13;False;-;Sunday, June 28th, 8:30 PM CEST;Absolute Masters;https://www.twitch.tv/videos/664080462?t=2h26m4s;
+Attack;L;Rix.GG;Split;Decider;Raymon;Hafficool;Demon;Scruven;Alyx;7:13;False;41:39;Friday, July 31st, 9:00 PM CEST;Mandatory.gg Cup #2;url.net;

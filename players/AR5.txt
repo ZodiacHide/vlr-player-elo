@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;139;11;17;5; ;90;16%;0;3;Puggers Unite;
+L;Sova; ;157;12;18;4; ;96;28%;2;0;Puggers Unite;
+L;Omen; ;72;4;17;2; ;35;6%;0;3;Dallas Vendetta;
+L;Omen; ;216;16;14;3; ;126;16%;0;1;Dallas Vendetta;
+L;Phoenix;0.75;169;13;16;3;59%;115;19%;0;3;Third Impact;
+W;Phoenix;0.86;138;9;10;3;69%;88;17%;0;3;Third Impact;
+L;Phoenix;0.57;177;12;14;1;47%;113;33%;1;4;Third Impact;
+L;Jett;1.08;232;16;17;3;68%;158;42%;2;4;Third Impact;

@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;206;16;13;4; ;138;29%;3;3;Nester;
+L;Sova; ;105;5;17;9; ;71;12%;0;1;Nester;
+L;Killjoy; ;158;13;18;5; ;111;19%;2;3;Nester;
+W;Sova; ;252;12;6;3; ;143;25%;2;1;Nester;
+L;Sova; ;127;6;14;1; ;86;13%;0;0;Nester;
+L;Sova; ;231;17;16;12; ;139;18%;2;1;Nester;
+L;Omen;0.58;115;9;19;3;48%;74;18%;0;2;Free Agents;
+W;Viper;0.93;126;9;9;1;65%;70;38%;1;0;Free Agents;
+L;Skye;0.52;103;6;16;1;39%;66;12%;2;2;Updraft;

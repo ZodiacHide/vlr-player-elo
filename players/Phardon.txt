@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;150;7;15;2; ;94;9%;0;4;All Day Long;
+L;Raze; ;250;16;17;6; ;159;21%;3;3;All Day Long;
+W;Raze; ;477;32;10;6; ;292;26%;6;0;All Day Long;
+L;Raze; ;218;9;12;2; ;220;22%;1;4;All Day Long;
+L;Cypher; ;278;24;14;2; ;184;18%;4;1;Purple Cobras;
+L;Killjoy; ;208;19;17;5; ;142;15%;1;3;Purple Cobras;
+L;Cypher;0.38;83;4;16;6;56%;58;47%;0;2;Cream Real Betis;
+L;Skye;1.22;271;23;15;2;67%;159;29%;2;3;Cream Real Betis;
+W;Killjoy;0.93;180;11;14;5;72%;128;27%;2;2;Rugrats;
+L;Viper;0.78;197;13;17;8;60%;123;37%;0;3;Rugrats;
+L;Cypher;0.62;149;9;16;5;63%;100;21%;1;3;Rugrats;
+L;Viper;0.76;184;10;17;5;56%;136;18%;1;1;Rugrats;
+L;Cypher;0.98;198;15;16;3;64%;133;28%;2;2;Rugrats;

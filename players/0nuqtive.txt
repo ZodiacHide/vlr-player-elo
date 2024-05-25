@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;SELFMADE;
+L;Cypher; ;251;14;16;5; ; ; ;0; ;Team Sfory;
+L;Cypher; ;166;7;14;0; ; ; ;1; ;Team Sfory;
+L;Cypher; ;150;7;15;2; ; ; ;1; ;Team Sfory;
+L;Cypher; ;197;14;13;1; ;122;30%;2;2;AERIS;
+L;Cypher; ;112;7;16;7; ;88;20%;0;1;AERIS;
+W;Cypher; ;192;17;14;6; ;128;33%;2;2;MJAOMODE;
+L;Cypher; ;257;19;19;5; ;156;35%;3;1;MJAOMODE;
+L;Killjoy; ;77;4;16;2; ;52;13%;1;4;MJAOMODE;
+L;Cypher; ;206;18;22;4; ;126;24%;1;1;MJAOMODE;
+W;Cypher; ;180;11;5;1; ;98;53%;1;1;zazemlenie;
+W;Cypher; ;173;11;7;2; ;102;38%;1;1;zazemlenie;
+L;Cypher; ;143;6;13;1; ;73;36%;0;1;zazemlenie;
+L;Cypher; ;192;10;13;1; ;115;60%;1;4;zazemlenie;

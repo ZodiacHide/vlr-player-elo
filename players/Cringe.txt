@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;211;15;15;7; ;122;31%;2;2;No Teeth;
+L;Omen; ;184;11;16;2; ;184;35%;2;2;No Teeth;
+L;Omen; ;248;18;16;2; ;140;28%;1;1;No Teeth;

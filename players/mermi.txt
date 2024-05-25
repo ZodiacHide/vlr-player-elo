@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.03;241;26;22;2;67%;145;33%;6;5;ownage;
+L;Killjoy;1.15;271;22;18;2;75%;184;28%;1;2;ownage;
+W;Jett;1.11;211;18;16;3;75%;135;44%;6;3;ownage;
+W;Jett;1.48;315;20;12;6;83%;200;25%;7;2;ownage;
+W;Jett;0.96;248;19;17;2;68%;160;33%;9;6;ownage;
+L;Jett;0.65;178;11;17;2;65%;131;35%;3;6;ownage;

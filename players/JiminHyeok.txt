@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;93;4;18;3; ;70;29%;2;3;No Mercy;
+W;Cypher; ;158;14;13;6; ;125;32%;0;1;No Mercy;
+L;Cypher; ;88;5;19;8; ;67;12%;0;1;No Mercy;

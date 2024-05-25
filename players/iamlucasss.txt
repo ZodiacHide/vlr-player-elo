@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;152;12;19;9; ;101;17%;1;1;Urubuzada e-Sports;
+L;Omen; ;146;9;18;4; ;90;10%;0;0;Urubuzada e-Sports;

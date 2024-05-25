@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.35;219;15;10;2;72%;130;32%;0;1;MAX Esports;
+W;Jett;0.99;217;14;14;3;68%;119;29%;6;2;MAX Esports;
+L;Jett;1.37;319;24;15;0;50%;174;25%;5;6;MAX Esports;
+W;Jett;0.54;141;11;20;4;70%;87;15%;2;3;MAX Esports;
+L;Jett;1.02;246;17;18;3;75%;150;49%;7;4;MAX Esports;
+L;Jett;0.74;215;12;17;0;53%;139;33%;5;4;MAX Esports;
+L;Jett;0.68;177;10;13;1;47%;116;23%;1;2;MAX Esports;
+L;Sage;0.65;139;10;19;7;58%;101;32%;3;4;MAX Esports;
+L;Sage;0.49;109;8;19;8;52%;69;45%;3;3;MAX Esports;
+L;Raze;0.13;75;3;15;3;47%;50;29%;0;5;MAX Esports;
+L;Skye;0.43;126;10;19;3;61%;78;23%;1;5;MAX Esports;

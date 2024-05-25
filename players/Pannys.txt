@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;199;15;13;1; ;110;29%;0;3;LYNX TH;
+L;Jett; ;256;19;17;7; ;167;14%;1;5;LYNX TH;
+L;Breach; ;140;14;21;18; ;84;17%;2;1;LYNX TH;
+L;Breach; ;152;10;16;10; ;77;20%;1;2;LYNX TH;
+L;Astra;1.01;152;15;12;6;74%;93;29%;0;2;LYNX TH;
+L;Astra;0.61;129;8;17;7;59%;77;22%;0;3;LYNX TH;
+L;Astra;0.28;78;3;14;3;60%;54;21%;0;0;LYNX TH;
+L;Astra;0.86;166;13;18;5;74%;105;21%;0;2;LYNX TH;
+L;Astra;0.74;158;12;15;4;68%;80;23%;1;0;LYNX TH;

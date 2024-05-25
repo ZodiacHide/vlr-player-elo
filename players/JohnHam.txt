@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;165;7;13;2; ;98;17%;2;2;ABC Boiz;
+L;Sova; ;99;7;15;2; ;74;16%;0;3;ABC Boiz;

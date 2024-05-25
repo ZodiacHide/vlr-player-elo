@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.23;225;24;25;20;83%;166;19%;3;5;SMARACIS eSports Female;
+W;Sova;1.00;179;11;13;13;85%;121;16%;3;1;SMARACIS eSports Female;
+W;Sova;1.09;176;11;12;8;79%;135;17%;2;2;SMARACIS eSports Female;
+L;Sova;1.16;266;20;15;5;76%;166;21%;0;1;SMARACIS eSports Female;
+L;Sova;0.80;185;11;18;9;83%;140;18%;0;3;SMARACIS eSports Female;

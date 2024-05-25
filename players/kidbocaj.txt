@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;314;19;12;2; ; ; ;6; ;Team Lothar;
+L;Omen; ;157;13;14;7; ; ; ;0; ;Team Lothar;
+W;Omen; ;110;6;8;11; ; ; ;1; ;Team Lothar;
+L;Phoenix; ;190;12;20;4; ; ; ;2; ;Team Lothar;

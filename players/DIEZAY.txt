@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;173;10;15;1; ;98;21%;4;6;Grinch Gang;
+L;Jett; ;175;13;21;6; ;93;17%;2;3;Grinch Gang;
+L;Breach; ;246;13;15;8; ;149;20%;1;2;Grinch Gang;
+L;Breach; ;170;14;20;13; ;100;26%;1;1;Grinch Gang;

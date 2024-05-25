@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;184;12;16;6; ;119;11%;0;4;Logan Paulers;
+L;Jett; ;209;12;14;1; ;116;14%;3;4;Logan Paulers;

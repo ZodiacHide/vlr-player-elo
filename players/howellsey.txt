@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy;0.85;194;14;15;4;73%;127;11%;2;3;Funee Monkee;
+L;Killjoy;0.69;135;11;17;2;43%;85;8%;3;4;Funee Monkee;
+W;Viper;1.16;188;17;14;7;65%;117;16%;1;1;Funee Monkee;
+L;Viper;0.59;207;8;15;1;33%;133;32%;2;1;Funee Monkee;
+L;Killjoy;0.79;173;11;16;4;73%;111;23%;1;1;Funee Monkee;
+W;Killjoy;1.20;248;20;15;3;77%;131;22%;1;0;Funee Monkee;

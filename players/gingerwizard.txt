@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;250;20;10;4; ; ; ;3; ;tyeasy;
+W;Raze; ;166;12;18;6; ; ; ;2; ;tyeasy;
+L;Sova; ;236;19;16;8; ; ; ;2; ;tyeasy;
+L;Sova; ;195;15;13;7; ; ; ;1; ;tyeasy;
+L;Sova; ;256;21;15;6; ; ; ;2; ;tyeasy;
+W;Skye; ;273;18;11;5; ;159;26%;2;1;FlyToMoon;
+L;Breach; ;82;4;14;0; ;28;22%;0;5;FlyToMoon;
+W;Skye; ;117;9;15;4; ;84;31%;0;2;FlyToMoon;
+L;Skye; ;166;15;16;7; ;104;20%;0;0;FlyToMoon;
+L;Skye; ;226;16;17;16; ;148;17%;1;0;FlyToMoon;
+L;Raze; ;189;10;15;4; ;129;12%;2;3;illusioń!;
+W;Skye; ;162;10;13;11; ;114;41%;0;1;illusioń!;
+W;Breach; ;123;5;8;17; ;81;10%;1;2;illusioń!;
+L;Skye; ;182;18;17;3; ;143;30%;1;3;illusioń!;
+W;Skye; ;154;10;9;6; ;94;18%;1;1;illusioń!;
+W;Skye; ;287;25;17;10; ;169;26%;4;3;illusioń!;

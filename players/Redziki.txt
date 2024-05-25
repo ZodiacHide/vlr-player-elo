@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;145;12;19;6; ;94;19%;0;1;ROG Esport;
+W;Cypher; ;185;13;8;4; ;114;27%;0;2;ROG Esport;
+W;Cypher; ;140;16;18;9; ;96;18%;1;0;ROG Esport;
+L;Cypher; ;117;5;14;2; ;81;14%;1;2;ROG Esport;

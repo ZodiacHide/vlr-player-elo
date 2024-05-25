@@ -1,0 +1,8 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;Oxygen Esports;Haven;BDV;Adriantje;Snyler;Mylent;Veteranjrr;nukem;8:13;False;37:44;Saturday, October 10th, 1:00 PM CEST;epic31 Online;url.net;
+Defense;W;Oxygen Esports;Ascent;BDV;Adriantje;Snyler;Mylent;Veteranjrr;nukem;13:11;False;53:18;Saturday, October 10th, 1:00 PM CEST;epic31 Online;url.net;
+Defense;L;Oxygen Esports;Bind;BDV;Adriantje;Snyler;Mylent;Veteranjrr;nukem;6:13;False;36:40;Saturday, October 10th, 1:00 PM CEST;epic31 Online;url.net;
+Defense;W;Tarren Mill;Ascent;Tarren Mill;Snyler;Veteranjrr;nukem;Adriantje;Mylent;14:12;True;55:43;Saturday, October 10th, 7:00 PM CEST;epic31 Online;https://www.twitch.tv/videos/766138379?t=6h27m27s;
+Attack;L;Tarren Mill;Bind;Tarren Mill;Snyler;Veteranjrr;nukem;Adriantje;Mylent;2:13;False;31:46;Saturday, October 10th, 7:00 PM CEST;epic31 Online;https://www.twitch.tv/videos/766138379?t=6h27m27s;
+Defense;L;Tarren Mill;Haven;Tarren Mill;Snyler;Veteranjrr;nukem;Adriantje;Mylent;2:13;False;26:24;Saturday, October 10th, 7:00 PM CEST;epic31 Online;https://www.twitch.tv/videos/766138379?t=6h27m27s;
+Defense;L;Project SW;Bind;Decider;Ryota;jackanoryy;nukem;Veteranjrr;Mouai;6:13;False;33:15;Sunday, October 18th, 3:10 PM CEST;Shooting Stars;url.net;

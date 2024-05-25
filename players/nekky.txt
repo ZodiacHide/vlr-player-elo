@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.98;181;12;14;6;71%;126;30%;1;0;Orgless5;
+L;Astra;1.09;285;23;18;12;83%;172;33%;2;3;Orgless5;

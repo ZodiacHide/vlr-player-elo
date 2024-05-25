@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;317;20;9;5; ;191;40%;2;0;NO CONTRACT;
+W;Jett; ;325;26;19;3; ;200;45%;4;3;NO CONTRACT;
+L;Jett; ;240;20;19;2; ;146;23%;2;4;NO CONTRACT;
+W;Jett; ;211;15;17;4; ;137;25%;3;2;NO CONTRACT;
+L;Jett; ;248;18;16;5; ;190;22%;2;2;NO CONTRACT;
+L;Jett; ;267;14;14;4; ;164;27%;2;1;NO CONTRACT;
+L;Jett; ;123;5;15;3; ;69;9%;0;1;NO CONTRACT;

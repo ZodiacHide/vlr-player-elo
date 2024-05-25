@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;227;15;16;9; ;135;11%;2;0;Gonzo Gaming;
+W;Phoenix; ;190;13;9;3; ;126;27%;4;1;Gonzo Gaming;
+W;Phoenix; ;228;20;12;5; ;126;16%;4;0;Gonzo Gaming;
+L;Phoenix; ;167;12;17;7; ;104;23%;1;5;Gonzo Gaming;
+L;Sova; ;175;10;15;3; ;113;15%;0;2;Pyronic;
+W;Sova; ;287;25;14;6; ;183;29%;2;0;Pyronic;
+L;Raze; ;150;8;13;3; ;97;18%;1;2;Pyronic;

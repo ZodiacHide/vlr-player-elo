@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;118;5;14;3; ;88;12%;0;1;Man I Love Fwogs;
+L;Reyna; ;73;3;13;0; ;42;13%;2;1;Man I Love Fwogs;
+L;Reyna; ;209;15;15;8; ;130;11%;2;3;Man I Love Fwogs;
+L;Skye; ;97;4;13;1; ;71;17%;0;0;Man I Love Fwogs;

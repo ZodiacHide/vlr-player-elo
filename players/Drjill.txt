@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;246;13;7;6; ; ; ;1; ;LEMONn;
+L;Brimstone; ;291;23;17;6; ; ; ;2; ;LEMONn;
+L;Brimstone; ;268;20;15;5; ; ; ;4; ;LEMONn;

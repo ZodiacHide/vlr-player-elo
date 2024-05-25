@@ -1,0 +1,6 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Agua Fusion Latao;Bind;Decider;mch;biviz;pava;Miiih;Henrytado;13:4;False;-;Thursday, June 25th, 12:10 AM CEST;Fusion New Rivals;https://www.twitch.tv/videos/660437419?t=1h28m33s;
+Defense;W;Team Tom;Ascent;Decider;mch;pava;Miiih;Henrytado;biviz;13:7;False;-;Thursday, June 25th, 1:10 AM CEST;Fusion New Rivals;url.net;
+Defense;W;Team Calango;Bind;Decider;mch;biviz;pava;Miiih;Henrytado;13:9;False;-;Friday, June 26th, 12:10 AM CEST;Fusion New Rivals;https://www.twitch.tv/videos/661453866?t=0h37m28s;
+Attack;L;Bottom Fraggers;Bind;Bottom Fraggers;mch;Miiih;Henrytado;biviz;pava;2:13;False;-;Friday, June 26th, 3:30 AM CEST;Fusion New Rivals;url.net;
+Defense;L;Bottom Fraggers;Ascent;Bottom Fraggers;mch;Miiih;Henrytado;biviz;pava;0:13;False;-;Friday, June 26th, 3:30 AM CEST;Fusion New Rivals;url.net;

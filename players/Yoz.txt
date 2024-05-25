@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;226;14;9;5; ; ; ;3; ;Team sabagod2;
+W;Brimstone; ;221;15;12;7; ; ; ;1; ;Team sabagod2;
+W;Brimstone; ;292;14;8;2; ; ; ;5; ;Team sabagod2;
+L;None;0;0;0;0;0;0;0;0;0;0;Team sabagod2;
+W;Brimstone; ;276;20;7;4; ; ; ;3; ;Team sabagod2;
+W;Brimstone; ;252;17;12;5; ; ; ;3; ;Nora-Rengo;
+W;Omen; ;198;17;18;4; ; ; ;2; ;Nora-Rengo;
+L;Brimstone; ;145;5;14;5; ; ; ;1; ;Nora-Rengo;
+L;Omen; ;179;12;16;2; ; ; ;0; ;Nora-Rengo;

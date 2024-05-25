@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;139;11;13;9; ;99;15%;0;1;xCeed;
+L;Omen; ;92;6;18;6; ;59;13%;0;1;xCeed;
+L;Omen; ;108;5;11;3; ;98;30%;1;0;xCeed;

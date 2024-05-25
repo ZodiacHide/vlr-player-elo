@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;221;13;10;6; ;150;34%;3;1;Nezuko Gaming;
+W;Omen; ;208;15;15;5; ;117;17%;2;4;Nezuko Gaming;
+L;Omen; ;151;10;18;4; ;148;18%;0;2;Nezuko Gaming;
+L;Brimstone; ;212;14;17;5; ;139;28%;2;1;Nezuko Gaming;
+L;Omen; ;148;10;16;3; ;97;35%;2;1;Nezuko Gaming;
+L;Breach; ;134;8;15;3; ;90;24%;0;2;Nezuko Gaming;
+W;Phoenix; ;315;25;11;5; ;199;25%;3;3;Reckoning Esports;
+W;Omen; ;167;10;14;9; ;106;9%;2;2;Reckoning Esports;
+L;Omen; ;188;13;18;6; ;126;13%;0;3;Reckoning Esports;
+L;Phoenix; ;166;10;14;3; ;101;16%;1;2;Reckoning Esports;
+L;Phoenix; ;194;17;19;5; ;127;17%;2;3;Reckoning Esports;
+L;Omen; ;115;6;14;1; ;70;19%;0;3;Reckoning Esports;

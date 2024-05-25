@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.55;180;9;14;1;47%;82;8%;1;1;Atfinest;
+L;Killjoy;0.51;199;9;13;1;57%;121;16%;0;1;Atfinest;

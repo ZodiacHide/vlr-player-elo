@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;187;13;17;5; ;110;21%;0;1;GamerDuderGuys;
+L;Omen; ;59;1;13;0; ;40;20%;0;0;GamerDuderGuys;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;161;8;15;2; ;98;36%;1;2;화나면 물어요;
+L;Jett; ;248;15;12;1; ;153;28%;4;1;Fiat Lux;
+L;Jett; ;205;11;13;4; ;120;10%;3;0;Fiat Lux;

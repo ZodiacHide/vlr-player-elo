@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;125;6;14;2; ;78;18%;0;2;ULVL;
+W;Jett; ;205;19;18;2; ;130;30%;6;4;ULVL;
+L;Jett;0.74;157;11;13;1;56%;93;17%;1;7;ULVL;
+L;Jett;0.74;227;23;26;6;63%;145;22%;5;7;Vendetta;
+W;Jett;1.25;290;22;16;4;75%;169;33%;7;3;Vendetta;
+L;Reyna;0.96;203;15;17;8;77%;132;24%;3;0;Vendetta;
+L;Reyna;0.78;191;11;14;3;53%;113;29%;1;4;Vendetta;

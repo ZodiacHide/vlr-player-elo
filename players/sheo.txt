@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;184;15;12;8; ;108;36%;1;0;aspyxia;
+L;Breach; ;150;8;16;6; ;93;30%;0;3;aspyxia;
+L;Breach; ;170;17;18;4; ;105;36%;0;4;aspyxia;
+W;Breach; ;197;19;11;7; ;124;30%;1;1;aspyxia;
+W;Breach; ;291;17;5;6; ;166;25%;2;0;aspyxia;
+L;Breach; ;81;5;18;4; ;52;36%;0;1;aspyxia;
+L;Breach; ;187;14;15;5; ;126;22%;0;4;aspyxia;
+W;Cypher; ;109;7;4;1; ;73;44%;0;0;Team ScreaM;
+L;Cypher; ;211;15;20;5; ;134;31%;2;2;Team ScreaM;
+L;Cypher; ;239;19;15;7; ;159;33%;2;3;Team ScreaM;
+L;Cypher; ;89;4;16;1; ;65;20%;1;2;aspyxia;
+L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;
+L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;
+L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;

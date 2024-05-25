@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;39;1;14;1; ;29;9%;1;3;Team Fight;
+L;Breach; ;183;9;15;3; ;115;15%;1;4;Team Fight;

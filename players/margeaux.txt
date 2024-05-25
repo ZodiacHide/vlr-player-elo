@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;205;10;15;5; ;142;30%;0;2;Celeste;
+L;Reyna; ;208;14;18;2; ;133;22%;3;3;Celeste;
+W;Reyna; ;322;26;17;9; ;207;21%;5;4;Celeste;
+L;Omen; ;151;6;14;2; ;112;29%;1;1;Celeste;
+L;Omen; ;174;12;15;4; ;117;28%;0;3;Celeste;
+W;Reyna; ;232;17;17;9; ;128;13%;3;5;Celeste;
+W;Omen;1.47;246;16;7;4;80%;118;29%;2;1;Alter Ego Celeste;
+L;Killjoy;0.71;122;7;14;2;47%;85;28%;2;2;Alter Ego Celeste;
+W;Brimstone;0.78;124;8;12;10;89%;92;50%;0;2;Alter Ego Celeste;
+L;Viper;0.84;163;10;13;6;56%;109;30%;1;1;Alter Ego Celeste;
+W;Omen;0.95;145;10;10;4;67%;102;32%;1;1;Alter Ego Celeste;
+W;Omen;1.04;156;12;11;9;70%;129;25%;0;0;Alter Ego Celeste;
+W;Omen;0.70;117;10;13;5;65%;74;25%;0;2;Alter Ego Celeste;
+W;Viper;1.27;206;14;9;2;81%;122;22%;1;1;Alter Ego Celeste;
+W;Omen;1.04;152;12;12;9;76%;99;26%;1;0;Alter Ego Celeste;
+W;Omen;0.81;206;15;16;4;57%;121;33%;3;2;Alter Ego Celeste;
+W;Sova;0.99;175;17;17;9;79%;118;50%;2;3;Alter Ego Celeste;

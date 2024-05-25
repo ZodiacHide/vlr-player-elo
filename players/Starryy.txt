@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.56;181;8;15;2;53%;110;15%;3;2;Castaways;
+L;Astra;0.33;120;4;13;3;38%;95;15%;0;2;Castaways;
+W;Astra;1.22;210;14;8;2;76%;148;20%;1;1;Castaways;
+W;Sage;1.18;291;20;16;4;57%;183;15%;3;3;Castaways;
+L;Sage;0.55;155;9;17;6;63%;98;18%;1;6;Castaways;
+L;Astra;0.27;104;6;15;4;44%;62;11%;2;4;Castaways;
+L;Astra;0.64;155;8;14;2;38%;99;8%;2;2;Castaways;
+L;Astra;0.63;162;9;15;6;72%;113;5%;0;3;Castaways;

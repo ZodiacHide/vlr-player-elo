@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;155;9;17;7; ;92;21%;0;2;In The Lab;
+L;Sova; ;85;2;14;2; ;67;33%;0;4;In The Lab;

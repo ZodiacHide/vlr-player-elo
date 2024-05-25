@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna; ;216;18;18;3; ;134;25%;1;1;MiTH.Attitude;
+L;Reyna; ;248;17;15;6; ;148;18%;2;2;MiTH.Attitude;
+L;Reyna; ;298;21;17;7; ;174;13%;1;1;MiTH.Attitude;
+L;Reyna; ;192;11;15;4; ;114;24%;1;2;MiTH.Attitude;
+W;Reyna; ;269;16;9;3; ;153;10%;4;0;MiTH.Attitude;
+L;Reyna; ;280;22;14;1; ;176;21%;0;0;MiTH.Attitude;
+W;Reyna; ;278;21;15;6; ;165;17%;2;1;MiTH.Attitude;
+L;Reyna; ;108;5;13;4; ;140;15%;0;3;MiTH.Attitude;
+W;Reyna; ;234;15;9;6; ;123;7%;2;0;MiTH.Attitude;
+W;Reyna; ;310;20;11;4; ;174;29%;4;3;MiTH.Attitude;
+L;Raze; ;86;5;16;2; ;54;14%;1;3;MiTH.Attitude;
+L;Raze; ;62;2;16;2; ;56;11%;1;5;MiTH.Attitude;
+W;Reyna; ;237;13;8;7; ;165;31%;0;2;MiTH.Attitude;
+L;Reyna; ;261;23;15;12; ;170;13%;1;0;MiTH.Attitude;
+L;Reyna; ;223;17;16;2; ;127;25%;3;2;MiTH.Attitude;
+L;Reyna; ;245;17;15;2; ;123;15%;3;1;MiTH.Attitude;
+L;Reyna; ;180;17;18;1; ;111;20%;0;2;VVV;

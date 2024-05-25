@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ; ;8;17;7; ; ; ; ; ;Team Vikings;
+W;Breach; ;157;13;14;4; ; ; ;4; ;Team Vikings;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Vikings;
+L;Cypher; ;168;14;19;6; ; ; ;3; ;Interpol;
+L;Cypher; ;152;10;16;8; ; ; ;0; ;Interpol;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;153;7;13;0; ; ; ;0; ;9XL;
+L;Reyna; ;179;8;13;3; ; ; ;2; ;9XL;
+W;Reyna; ;227;18;19;6; ; ; ;3; ;9XL;
+L;Reyna; ;175;12;16;0; ; ; ;2; ;9XL;

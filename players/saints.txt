@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;140;5;13;1; ;92;24%;0;2;Pirate Nation;
+L;Phoenix; ;154;8;13;4; ;105;38%;2;5;Pirate Nation;
+L;Raze; ;245;14;18;7; ;151;16%;3;1;Pirate Nation;
+L;Phoenix; ;118;5;12;1; ;65;25%;0;2;Pirate Nation;
+L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;
+L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;

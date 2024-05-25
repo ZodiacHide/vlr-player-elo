@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.60;100;7;20;7;54%;72;14%;2;4;RVNS Esports;
+L;Sage;1.10;127;11;12;15;70%;95;18%;1;2;RVNS Esports;
+L;Jett;0.66;170;11;20;6;52%;126;21%;2;6;RVNS Esports;

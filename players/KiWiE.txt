@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;193;9;13;1; ;126;40%;1;0;Wulf Esports;
+L;Reyna; ;83;3;13;1; ;51;18%;0;1;Wulf Esports;
+L;Reyna;1.26;287;19;16;2;79%;185;27%;5;2;Wulf Esports;
+L;Reyna;0.80;198;12;14;1;47%;123;33%;1;3;Wulf Esports;
+L;Phoenix;0.78;199;12;17;3;50%;111;28%;2;2;Wulf Esports;

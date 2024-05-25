@@ -1,0 +1,18 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;avg25iq;Ascent;Decider;oKKo;Tomkeejs;elwzoy;M1st1ck;MaFiN;12:14;True;50:43;Saturday, October 3rd, 1:00 PM CEST;Valorant Contenders Cup;url.net;
+Defense;W;Arctic;Split;Decider;elwzoy;Erik;oKKo;Tomkeejs;MaFiN;13:6;False;36:02;Monday, October 19th, 7:15 PM CEST;NGL Open Cup;url.net;
+Defense;L;alltheRAGE;Ascent;Decider;oKKo;MaFiN;Tomkeejs;Erik;elwzoy;11:13;False;48:23;Monday, October 19th, 9:00 PM CEST;NGL Open Cup;url.net;
+Attack;W;ex-Giants Gaming;Split;Decider;elwzoy;oKKo;MaFiN;Tomkeejs;M1st1ck;15:13;True;55:17;Sunday, October 25th, 5:00 PM CET;NGL Open Cup;https://www.twitch.tv/videos/781526718?t=0h19m30s;
+Attack;L;Opportunists;Split;Decider;MaFiN;Tomkeejs;oKKo;M1st1ck;elwzoy;6:13;False;29:06;Sunday, October 25th, 7:00 PM CET;NGL Open Cup;url.net;
+Attack;W;Awake Esports;Ascent;Decider;oKKo;M1st1ck;elwzoy;Tomkeejs;MaFiN;13:4;False;28:23;Sunday, October 25th, 7:50 PM CET;NGL Open Cup;url.net;
+Defense;W;Totem Providence;Ascent;Decider;MaFiN;Tomkeejs;oKKo;elwzoy;M1st1ck;13:8;False;39:14;Sunday, October 25th, 10:00 PM CET;NGL Open Cup;url.net;
+Defense;L;SUMN FC;Split;Decider;MaFiN;M1st1ck;elwzoy;oKKo;Tomkeejs;5:13;False;35:38;Tuesday, November 10th, 6:15 PM CET;First Strike: Europe;url.net;
+Attack;W;AYB Esports;Ascent;Decider;oKKo;elwzoy;MaFiN;Tomkeejs;M1st1ck;13:7;False;37:05;Thursday, November 12th, 5:00 PM CET;First Strike: Europe;url.net;
+Defense;L;Finest;Haven;Decider;oKKo;MaFiN;Tomkeejs;M1st1ck;elwzoy;10:13;False;41:20;Thursday, November 12th, 6:10 PM CET;First Strike: Europe;url.net;
+Defense;W;thunderPEEK;Split;Decider;M1st1ck;oKKo;elwzoy;MaFiN;Tomkeejs;13:6;False;38:55;Tuesday, November 17th, 5:00 PM CET;First Strike: Europe;url.net;
+Defense;L;ex-Giants Gaming;Haven;Decider;elwzoy;Tomkeejs;oKKo;MaFiN;M1st1ck;8:13;False;48:04;Tuesday, November 17th, 6:15 PM CET;First Strike: Europe;url.net;
+Attack;L;ex-Ravens Esports Club;Ascent;Decider;Tomkeejs;oKKo;elwzoy;M1st1ck;MaFiN;10:13;False;46:08;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;
+Defense;W;Kamil Klein new chapter;Haven;Decider;elwzoy;Tomkeejs;MaFiN;M1st1ck;oKKo;13:7;False;40:20;Monday, December 7th, 8:00 PM CET;HyperX Valorant Nightcup;url.net;
+Defense;W;Květinky;Ascent;Decider;oKKo;elwzoy;M1st1ck;Tomkeejs;MaFiN;13:4;False;29:52;Monday, December 7th, 9:00 PM CET;HyperX Valorant Nightcup;url.net;
+Attack;W;Team Sampi;Ascent;Team Sampi;oKKo;Tomkeejs;MaFiN;elwzoy;M1st1ck;13:9;False;39:21;Monday, December 7th, 10:00 PM CET;HyperX Valorant Nightcup;url.net;
+Defense;W;Team Sampi;Split;Team Sampi;oKKo;Tomkeejs;MaFiN;elwzoy;M1st1ck;13:3;False;28:01;Monday, December 7th, 10:00 PM CET;HyperX Valorant Nightcup;url.net;

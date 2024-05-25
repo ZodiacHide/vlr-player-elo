@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;224;14;16;5; ;146;15%;2;3;Darkness;
+L;Reyna; ;39;10;14;2; ;19;0%;0;0;Darkness;
+W;Phoenix; ;268;23;12;1; ;133;19%;3;2;KADILIMAN;
+L;Jett; ;235;19;18;7; ;151;26%;3;5;KADILIMAN;
+L;Sage;0.86;192;15;14;5;71%;120;35%;2;3;KADILIMAN;
+L;Sage;0.99;207;16;17;8;83%;125;20%;3;2;KADILIMAN;
+L;Yoru;0.86;228;18;19;4;65%;134;14%;1;4;KADILIMAN;
+L;Jett;0.95;216;15;16;2;65%;115;15%;6;2;KADILIMAN;

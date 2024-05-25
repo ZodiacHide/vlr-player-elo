@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;142;10;17;8; ;82; ;1; ;big pizza;
+L;Omen; ;118;11;20;3; ;74; ;2; ;big pizza;
+L;Raze; ;187;10;17;6; ;120; ;4; ;big pizza;
+L;Killjoy; ;118;7;15;3; ;143;14%;1;4;nedg's daycare;

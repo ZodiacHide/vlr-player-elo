@@ -1,0 +1,14 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;W;Bigetron Arctic;Icebox;Bigetron Arctic;zharwow;AyamBakar;Einarhkays;gilbertmhs;mika;14:12;True;55:32;Friday, August 6th, 8:30 AM CEST;Champions Tour Indonesia Stage 3: Challengers 3;https://www.twitch.tv/videos/1109690422?t=00h51m24s;
+Attack;L;Bigetron Arctic;Haven;BEAST;zharwow;AyamBakar;Einarhkays;gilbertmhs;mika;11:13;False;50:16;Friday, August 6th, 8:30 AM CEST;Champions Tour Indonesia Stage 3: Challengers 3;https://www.twitch.tv/videos/1109690422?t=00h51m24s;
+Attack;W;Bigetron Arctic;Bind;BEAST;zharwow;AyamBakar;Einarhkays;gilbertmhs;mika;13:4;False;41:31;Friday, August 6th, 8:30 AM CEST;Champions Tour Indonesia Stage 3: Challengers 3;https://www.twitch.tv/videos/1109690422?t=00h51m24s;
+Defense;W;Morph Impact;Ascent;Morph Impact;AyamBakar;gilbertmhs;mika;zharwow;Einarhkays;13:8;False;49:40;Friday, August 6th, 3:00 PM CEST;Champions Tour Indonesia Stage 3: Challengers 3;https://www.twitch.tv/videos/1109690422?t=07h08m37s;
+Attack;W;Morph Impact;Haven;Morph Impact;AyamBakar;gilbertmhs;mika;zharwow;Einarhkays;13:10;False;46:31;Friday, August 6th, 3:00 PM CEST;Champions Tour Indonesia Stage 3: Challengers 3;https://www.twitch.tv/videos/1109690422?t=07h08m37s;
+Defense;L;BOOM Esports;Ascent;BEAST;gilbertmhs;AyamBakar;Einarhkays;zharwow;mika;11:13;False;55:03;Saturday, August 7th, 1:50 PM CEST;Champions Tour Indonesia Stage 3: Challengers 3;url.net;
+Attack;L;BOOM Esports;Haven;BEAST;gilbertmhs;AyamBakar;Einarhkays;zharwow;mika;6:13;False;39:20;Saturday, August 7th, 1:50 PM CEST;Champions Tour Indonesia Stage 3: Challengers 3;url.net;
+Defense;W;Rex Regum Qeon;Bind;Rex Regum Qeon;Einarhkays;gilbertmhs;zharwow;AyamBakar;mika;13:9;False;47:49;Sunday, August 8th, 8:30 AM CEST;Champions Tour Indonesia Stage 3: Challengers 3;url.net;
+Attack;L;Rex Regum Qeon;Ascent;BEAST;Einarhkays;gilbertmhs;zharwow;AyamBakar;mika;10:13;False;49:04;Sunday, August 8th, 8:30 AM CEST;Champions Tour Indonesia Stage 3: Challengers 3;url.net;
+Attack;L;Rex Regum Qeon;Haven;Rex Regum Qeon;Einarhkays;gilbertmhs;zharwow;AyamBakar;mika;5:13;False;42:10;Sunday, August 8th, 8:30 AM CEST;Champions Tour Indonesia Stage 3: Challengers 3;url.net;
+Defense;L;Rex Regum Qeon;Bind;BEAST;mika;Einarhkays;gilbertmhs;zharwow;AyamBakar;8:13;False;44:40;Monday, September 6th, 10:00 AM CEST;AMD Valorant Adrenalin Season 3;url.net;
+Attack;W;Rex Regum Qeon;Haven;BEAST;mika;Einarhkays;gilbertmhs;zharwow;AyamBakar;13:9;False;42:12;Monday, September 6th, 10:00 AM CEST;AMD Valorant Adrenalin Season 3;url.net;
+Attack;L;Rex Regum Qeon;Icebox;BEAST;mika;Einarhkays;gilbertmhs;zharwow;AyamBakar;12:14;True;50:39;Monday, September 6th, 10:00 AM CEST;AMD Valorant Adrenalin Season 3;url.net;

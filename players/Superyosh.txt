@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ; ; ; ; ; ; ; ; ; ;WanteD;
+L;Sage;0.72;188;13;18;6;73%;124;33%;0;0;GrandSpirit;
+L;Killjoy;0.72;201;9;14;1;57%;119;30%;1;1;GrandSpirit;

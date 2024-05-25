@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;221;11;13;4; ;151;28%;0;2;VERITAS VINCIT;
+L;Raze; ;207;12;16;1; ;118;24%;6;1;VERITAS VINCIT;
+L;Jett; ;250;22;21;2; ;156;36%;7;1;Team White;
+L;Raze; ;310;17;13;2; ;166;30%;4;1;Team White;
+L;Cypher; ;124;6;15;3; ;100;21%;0;0;Team Rocket;
+L;Sage; ;107;5;15;5; ;55;24%;0;2;Team Rocket;

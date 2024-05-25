@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;mens));Bind;Decider;Amilwa;graphix;Babax;al0rante;apathy;13:7;False;41:02;Thursday, November 12th, 5:00 PM CET;First Strike: Europe;url.net;
+Attack;L;VASTA Gaming;Bind;Decider;apathy;Babax;al0rante;Amilwa;graphix;4:13;False;29:10;Thursday, November 12th, 6:10 PM CET;First Strike: Europe;url.net;
+Defense;L;With the boiz;Split;Decider;apathy;Amilwa;Babax;al0rante;graphix;10:13;False;44:49;Tuesday, November 17th, 5:00 PM CET;First Strike: Europe;url.net;
+Defense;L;Enterprise Esports;Bind;Decider;apathy;al0rante;Amilwa;Babax;graphix;6:13;False;36:25;Thursday, November 19th, 5:00 PM CET;First Strike: Europe;url.net;

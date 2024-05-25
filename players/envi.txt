@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;149;13;13;7; ; ; ;2; ;SimpleMinecraftPlayers;
+W;Cypher; ;205;12;15;2; ; ; ;1; ;SimpleMinecraftPlayers;
+W;Brimstone; ;222;13;7;5; ; ; ;1; ;SimpleMinecraftPlayers;
+L;Cypher; ;218;13;16;6; ; ; ;1; ;SimpleMinecraftPlayers;
+W;Cypher; ;250;18;8;3; ; ; ;0; ;SimpleMinecraftPlayers;
+L;Cypher; ;154;11;13;3; ; ; ;0; ;SimpleMinecraftPlayers;

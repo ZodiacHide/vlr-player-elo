@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy; ;166;7;12;0; ;106;5%;1;0;NBP;
+L;Cypher; ;251;16;15;3; ;147;28%;1;0;NBP;
+L;Cypher; ;194;13;16;3; ;133;25%;3;2;Bounty Esports;
+L;Cypher; ;149;11;18;2; ;102;26%;0;5;Bounty Esports;
+L;Cypher; ;184;15;16;6; ;112;13%;0;0;Bounty Esports;
+W;Cypher; ;142;12;19;11; ;84;7%;3;1;Bounty Esports;
+L;Cypher; ;142;13;23;6; ;88;19%;2;2;Bounty Esports;

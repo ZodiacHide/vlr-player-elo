@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;195;13;12;6; ;107;5%;2;1;Genesis;
+L;Sova; ;234;14;17;7; ;148;7%;0;2;Genesis;
+W;Jett; ;202;12;8;2; ;118;4%;1;1;Genesis;
+L;Jett; ;196;16;19;4; ;127;23%;3;1;Genesis;
+L;Omen; ;111;10;16;4; ;65;19%;2;2;Genesis;
+L;Sova; ;99;5;17;4; ;69;10%;0;3;Genesis;
+L;Sova; ;151;11;13;8; ;95;17%;2;2;Genesis;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;0.79;166;14;16;5;63%;121;28%;2;4;Innocent Cats Esports;
+L;Sova;0.99;173;14;15;4;68%;111;29%;2;1;Innocent Cats Esports;
+L;Sova;0.44;111;6;17;4;53%;69;38%;2;3;Innocent Cats Esports;
+L;Sage;0.42;117;9;21;5;50%;83;18%;0;3;Innocent Cats Esports;
+L;Omen;0.58;171;8;13;3;67%;121;39%;0;4;Innocent Cats Esports;

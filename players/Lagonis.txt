@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team kalera;
+L;None;0;0;0;0;0;0;0;0;0;0;Team kalera;
+L;None;0;0;0;0;0;0;0;0;0;0;Team kalera;

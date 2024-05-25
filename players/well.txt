@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;192;9;15;1; ;119;26%;2;2;Save's eSports;
+L;Brimstone; ;158;10;19;12; ;95;21%;1;2;Save's eSports;

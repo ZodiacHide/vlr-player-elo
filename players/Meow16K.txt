@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;135;7;14;2; ;69;50%;2;1;Ah yeah gaming;
+L;Omen; ;136;7;15;2; ;82;22%;0;1;Ah yeah gaming;
+L;Omen; ;241;14;16;5; ;154;16%;2;1;Ah yeah gaming;
+L;Omen; ;176;17;16;2; ;117;51%;3;2;Ah yeah gaming;

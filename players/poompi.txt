@@ -1,0 +1,14 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;142;7;16;3; ;79;8%;4;3;Momentum Based;
+W;Cypher; ;254;20;9;3; ;133;14%;3;2;Momentum Based;
+W;Cypher; ;191;17;15;6; ;111;9%;0;1;Momentum Based;
+W;Cypher; ;244;21;18;4; ;150;21%;1;2;Momentum Based;
+L;Cypher; ;134;6;14;1; ;80;13%;1;0;Momentum Based;
+L;Cypher; ;196;11;15;2; ;127;11%;0;4;Momentum Based;
+L;Cypher; ;196;12;15;3; ;117;18%;1;1;Momentum Based;
+L;Cypher; ;319;19;14;5; ;171;29%;1;0;Momentum Based;
+L;Cypher; ;169;9;16;3; ;100;15%;2;3;Momentum Based;
+W;Cypher; ;227;21;19;7; ;147;21%;2;1;AFTERMIND;
+W;Cypher; ;190;14;15;2; ;86;12%;3;4;AFTERMIND;
+L;Cypher; ;97;5;16;2; ;65;14%;0;1;AFTERMIND;
+L;Cypher; ;214;15;14;5; ;143;19%;2;3;AFTERMIND;

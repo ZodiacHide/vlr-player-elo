@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.97;267;20;20;2;64%;165;22%;7;3;ex-Reveur/Team Phenix;

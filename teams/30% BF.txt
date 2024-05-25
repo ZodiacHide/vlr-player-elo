@@ -1,0 +1,4 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;DETONA Gaming;Bind;Decider;Meeph;lucasyuri;didiNAVONA;vpzin;distt;4:13;False;31:39;Thursday, August 13th, 12:30 AM CEST;KombatKlub League - Season 1;url.net;
+Defense;L;exuLt.gg;Ascent;Decider;distt;didiNAVONA;vpzin;lucasyuri;Meeph;8:13;False;36:40;Thursday, August 13th, 1:30 AM CEST;KombatKlub League - Season 1;url.net;
+Attack;L;Hazmat.gg;Haven;Decider;distt;vpzin;Meeph;didiNAVONA;lucasyuri;12:14;True;46:22;Thursday, August 13th, 3:30 AM CEST;KombatKlub League - Season 1;https://www.twitch.tv/videos/709219124;

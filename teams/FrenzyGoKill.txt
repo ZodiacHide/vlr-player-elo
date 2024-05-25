@@ -1,0 +1,14 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;Wave Esports;Bind;Wave Esports;vakk;bramz;M4CHINA;feqew;ceNder;7:13;False;35:47;Sunday, January 24th, 12:30 PM CET;Red Bull Home Ground;url.net;
+Attack;W;Wave Esports;Ascent;Wave Esports;vakk;bramz;M4CHINA;feqew;ceNder;13:2;False;24:13;Sunday, January 24th, 12:30 PM CET;Red Bull Home Ground;url.net;
+Defense;W;Wave Esports;Haven;Wave Esports;vakk;bramz;M4CHINA;feqew;ceNder;13:0;False;21:13;Sunday, January 24th, 12:30 PM CET;Red Bull Home Ground;url.net;
+Defense;W;BIG;Haven;FrenzyGoKill;vakk;M4CHINA;bramz;ceNder;feqew;13:1;False;21:40;Sunday, January 24th, 3:30 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=0h5m10s;
+Attack;L;BIG;Ascent;FrenzyGoKill;vakk;M4CHINA;bramz;ceNder;feqew;11:13;False;41:41;Sunday, January 24th, 3:30 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=0h5m10s;
+Attack;W;BIG;Split;FrenzyGoKill;vakk;M4CHINA;bramz;ceNder;feqew;13:8;False;46:37;Sunday, January 24th, 3:30 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=0h5m10s;
+Attack;W;BIG;Icebox;FrenzyGoKill;vakk;M4CHINA;bramz;ceNder;feqew;13:11;False;44:18;Sunday, January 24th, 3:30 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=0h5m10s;
+Attack;L;DfuseTeam;Ascent;FrenzyGoKill;vakk;ceNder;M4CHINA;feqew;bramz;10:13;False;41:44;Sunday, January 24th, 9:00 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=5h39m11s;
+Defense;W;DfuseTeam;Icebox;DfuseTeam;vakk;ceNder;M4CHINA;feqew;bramz;13:6;False;29:06;Sunday, January 24th, 9:00 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=5h39m11s;
+Attack;W;DfuseTeam;Haven;DfuseTeam;vakk;ceNder;M4CHINA;feqew;bramz;13:4;False;28:04;Sunday, January 24th, 9:00 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=5h39m11s;
+Attack;W;DfuseTeam;Bind;DfuseTeam;vakk;ceNder;M4CHINA;feqew;bramz;13:10;False;43:55;Sunday, January 24th, 9:00 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/886301215?t=5h39m11s;
+Attack;L;G2 Esports;Split;G2 Esports;M4CHINA;feqew;bramz;ceNder;vakk;7:13;False;37:32;Thursday, January 28th, 5:30 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/891389824?t=0h15m22s;
+Attack;L;G2 Esports;Icebox;FrenzyGoKill;M4CHINA;feqew;bramz;ceNder;vakk;10:13;False;40:00;Thursday, January 28th, 5:30 PM CET;Red Bull Home Ground;https://www.twitch.tv/videos/891389824?t=0h15m22s;

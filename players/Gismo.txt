@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;126;7;16;2; ;72;26%;2;2;Mustang Gaming;
+L;Phoenix; ;190;11;13;2; ;116;53%;2;4;Mustang Gaming;

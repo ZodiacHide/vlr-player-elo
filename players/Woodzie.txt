@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;58;1;15;4; ;46;0%;0;1;Surabaya Esports;
+L;Reyna; ;310;18;14;4; ;182;20%;0;3;Surabaya Esports;

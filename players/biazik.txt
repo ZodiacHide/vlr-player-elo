@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;1.56;352;25;12;9;85%;207;25%;4;1;Keyd Stars Athenas;
+L;Sova;1.02;243;18;18;11;79%;166;12%;3;2;Keyd Stars Athenas;
+W;Sova;1.42;264;13;7;5;86%;152;17%;3;0;Keyd Stars Athenas;
+W;Reyna;1.44;290;23;13;3;67%;180;29%;3;3;Keyd Stars Athenas;
+L;Viper;1.12;250;14;14;8;56%;143;15%;2;1;Keyd Stars Athenas;
+L;Sova;0.80;238;17;21;8;73%;143;11%;2;3;Keyd Stars Athenas;
+W;Sova;1.12;260;20;17;8;86%;155;14%;3;2;Keyd Stars Athenas;
+L;Sova;1.02;218;21;19;9;68%;134;19%;0;2;Keyd Stars Athenas;
+L;Sova;1.22;311;25;17;4;86%;200;19%;1;1;Keyd Stars Athenas;

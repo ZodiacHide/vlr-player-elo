@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach;0.46;64;2;15;6;56%;42;12%;0;1;Wave Academy;
+L;Cypher;0.51;121;7;14;3;56%;84;39%;0;2;Wave Academy;
+L;Sova;0.50;135;9;15;2;50%;63;21%;0;2;Kolossus Academy;
+L;Skye;0.56;128;4;12;4;54%;80;21%;1;1;Kolossus Academy;

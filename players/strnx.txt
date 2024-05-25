@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;302;19;9;10; ;174;30%;2;1;Hazmat.gg;
+L;Brimstone; ;141;9;20;4; ;82;17%;1;0;Hazmat.gg;
+W;Omen; ;266;27;16;5; ;169;22%;2;1;Hazmat.gg;

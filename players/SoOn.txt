@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.06;295;20;16;2;62%;168;19%;5;5;Graviton Surge;
+L;Raze;0.80;195;11;15;4;47%;117;9%;4;4;Graviton Surge;
+L;Raze;0.77;193;12;16;6;70%;120;22%;3;6;Graviton Surge;
+W;Raze;1.08;197;16;13;8;71%;136;16%;3;5;Graviton Surge;
+L;Jett;1.42;330;26;16;1;70%;188;22%;7;1;Graviton Surge;
+W;Jett;1.49;314;27;14;5;83%;185;30%;7;3;SALOH;
+W;Jett;1.45;232;16;10;6;79%;169;28%;3;1;SALOH;
+L;Jett;0.70;184;13;17;4;67%;108;18%;2;3;Bonsoir;
+L;Jett;0.39;157;7;14;0;40%;101;17%;1;1;Bonsoir;
+L;Raze;0.46;151;9;16;5;53%;91;12%;2;3;Bonsoir;
+L;Jett;0.97;212;17;17;3;65%;138;16%;4;1;Bonsoir;

@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher;0.44;94;8;17;1;45%;59;29%;0;3;Orgless5;
+L;Cypher;0.76;159;12;16;3;60%;101;26%;0;4;Orgless5;
+L;Astra;0.82;218;13;15;2;53%;136;33%;2;2;Orgless5;
+L;Breach;0.88;153;13;16;4;65%;111;53%;3;0;Orgless5;

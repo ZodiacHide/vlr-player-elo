@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;1.12;241;13;12;4;69%;160;30%;2;0;Union Gaming;
+W;Raze;1.21;276;19;12;7;85%;167;19%;6;3;Union Gaming;
+W;Raze;1.15;233;18;17;4;78%;147;15%;3;2;Union Gaming;
+W;Raze;1.28;283;21;19;11;79%;180;14%;6;1;Union Gaming;
+L;Raze;0.97;262;17;17;5;48%;166;12%;1;2;Union Gaming;
+L;Raze;0.76;243;15;17;7;74%;135;4%;3;3;Union Gaming;

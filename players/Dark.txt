@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;211;12;18;2; ;118; ;2; ;Shiba;
+L;Breach; ;116;7;16;3; ;78;21%;0;2;Shiba;
+L;Phoenix; ;191;12;17;6; ; ; ;3; ;Shiba;
+L;Sova; ;168;12;14;5; ;96;33%;3;1;Offenders;
+L;Sova; ;186;14;19;4; ;121;26%;2;0;Offenders;

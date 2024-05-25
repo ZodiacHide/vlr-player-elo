@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.60;175;11;15;7;78%;102;21%;1;2;La Familia;
+L;Sova;0.66;143;6;14;5;44%;114;13%;1;1;La Familia;
+L;Sova;0.67;144;8;17;6;63%;99;33%;2;0;La Familia;

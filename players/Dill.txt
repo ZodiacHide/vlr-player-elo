@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix; ;142;7;12;1; ;104;27%;0;0;TAMU Maroon;
+L;Sage; ;186;11;13;3; ;110;30%;1;1;TAMU Maroon;
+L;Reyna;0.86;266;13;15;1;60%;146;40%;3;0;TAMU Maroon;
+L;Sage;0.48;118;5;13;3;57%;64;27%;0;3;TAMU Maroon;

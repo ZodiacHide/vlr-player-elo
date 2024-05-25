@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Reyna;1.10;242;17;14;5;65%;164;22%;2;5;RedFire.Wasd Arena;
+L;Jett;0.94;244;20;19;6;71%;146;10%;6;3;RedFire.Wasd Arena;
+L;Jett;1.19;260;19;14;0;68%;146;18%;2;1;RedFire.Wasd Arena;

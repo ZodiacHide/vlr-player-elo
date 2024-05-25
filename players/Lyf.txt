@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy;1.45;313;26;17;10;79%;192;11%;0;0;MEOGANG;
+W;Killjoy;1.55;212;12;4;2;100%;116;17%;1;0;MEOGANG;
+L;Killjoy;0.75;147;10;17;5;67%;91;7%;3;4;MEOGANG;

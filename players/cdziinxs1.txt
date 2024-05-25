@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;341;24;21;7; ;201;16%;3;3;Agentes Livres;
+L;Raze; ;253;14;21;14; ;188;17%;4;3;Agentes Livres;
+L;Raze;0.77;250;16;20;4;67%;145;15%;3;4;Fakezin de cria;
+L;Sage;0.68;206;12;15;5;56%;133;46%;2;1;Fakezin de cria;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach;0.84;176;12;16;9;71%;109;12%;1;4;BLUEJAYS Hunter;
+L;Breach;0.83;172;15;16;9;65%;98;10%;2;4;BLUEJAYS Hunter;

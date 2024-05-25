@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;1.02;212;15;14;4;71%;138;23%;1;0;PN Crew;
+L;Cypher;0.66;158;10;15;3;80%;89;24%;1;3;PN Crew;

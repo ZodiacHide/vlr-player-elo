@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.33;115;4;13;2;38%;82;29%;0;1;Flying Pigs;

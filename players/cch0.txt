@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.80;163;10;15;8;70%;115;25%;0;2;Man I Love Fwogs;
+L;Sova;0.82;130;10;16;7;73%;91;39%;1;2;Man I Love Fwogs;
+W;Sage;0.93;194;16;17;10;74%;112;11%;2;1;Man I Love Fwogs;
+W;Sova;1.21;141;9;6;5;81%;79;8%;1;2;Man I Love Fwogs;
+L;Sova;1.13;259;22;18;7;77%;171;22%;2;1;Man I Love Fwogs;
+W;Sova;0.91;195;15;15;1;60%;105;19%;4;2;Man I Love Fwogs;
+W;Sage;1.12;211;18;15;11;79%;119;17%;2;3;Man I Love Fwogs;
+L;Sage;0.69;155;11;18;3;75%;77;31%;1;1;Man I Love Fwogs;
+L;Sova;0.54;119;6;13;3;50%;85;37%;0;1;Man I Love Fwogs;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.87;177;12;15;4;70%;105;21%;1;0;Guardian Esports Team;

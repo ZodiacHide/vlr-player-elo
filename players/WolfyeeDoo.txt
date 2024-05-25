@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;231;22;18;1; ;116;31%;2;1;Mystery Inc.;
+L;Omen; ;145;10;17;3; ;83;21%;0;2;Mystery Inc.;
+L;Omen; ;211;19;15;3; ;152;29%;3;5;Mystery Inc.;
+L;Omen; ;165;12;17;4; ;107;27%;3;4;Mystery Inc.;
+L;Omen; ;153;13;17;5; ;109;13%;1;2;Mystery Inc.;

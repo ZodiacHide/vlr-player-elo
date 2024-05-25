@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone;0.54;141;5;15;7;69%;96;22%;2;2;Griffos Starfire;
+L;Sage;0.91;179;12;17;8;65%;113;10%;1;1;Griffos Starfire;
+W;Sage;0.94;169;10;11;10;83%;104;18%;4;1;Griffos Starfire;
+W;Sage;0.99;169;17;17;9;69%;109;14%;1;1;Griffos Starfire;
+L;Omen;0.87;171;14;17;5;67%;97;8%;3;2;Griffos Starfire;
+L;Sage;0.47;136;8;16;2;56%;78;16%;1;4;Griffos Starfire;

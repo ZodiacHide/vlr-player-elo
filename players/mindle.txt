@@ -1,0 +1,15 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;0.86;262;15;17;4;67%;155;21%;4;2;Stars Horizon Vênus;
+L;Raze;0.92;212;13;15;2;72%;113;28%;5;3;Stars Horizon Vênus;
+W;Jett;1.34;351;32;19;6;81%;217;23%;4;4;Stars Horizon Vênus;
+W;Raze;1.22;249;20;18;6;74%;164;15%;7;2;Stars Horizon Vênus;
+L;Raze;1.19;293;20;15;6;76%;185;16%;3;2;Stars Horizon Vênus;
+W;Raze;1.22;241;24;19;2;68%;151;23%;6;1;Stars Horizon Vênus;
+W;Raze;1.46;292;23;13;9;77%;171;22%;6;2;Stars Horizon Vênus;
+L;Jett;0.97;230;14;14;1;61%;145;19%;3;3;Stars Horizon Vênus;
+W;Raze;0.86;197;17;18;6;75%;122;9%;3;6;Stars Horizon Vênus;
+W;Raze;1.38;248;22;17;8;73%;169;17%;2;3;Stars Horizon Vênus;
+L;Raze;0.49;172;10;19;1;47%;114;24%;2;6;Stars Horizon Vênus;
+L;Reyna;1.18;323;17;14;5;71%;183;38%;4;2;Stars Horizon Vênus;
+L;Jett;0.20;68;3;15;0;20%;56;27%;2;3;Stars Horizon Vênus;
+L;Jett;0.45;159;8;15;1;50%;94;19%;3;2;Stars Horizon Vênus;

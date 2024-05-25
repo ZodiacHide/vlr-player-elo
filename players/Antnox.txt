@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;110;5;12;2; ;77;16%;0;1;Skull Cracker;
+L;Sova; ;243;18;15;5; ;163;25%;0;0;Skull Cracker;
+L;Brimstone; ;289;22;15;5; ;174;36%;4;1;Skull Cracker;
+L;Brimstone; ;135;7;13;10; ;86;10%;0;2;Skull Cracker;
+L;Sage;0.90;211;16;17;10;74%;139;26%;1;1;Skull Cracker;
+L;Sage;1.15;214;18;15;6;77%;136;20%;2;4;Skull Cracker;
+W;Sage;1.37;224;17;7;3;81%;118;18%;0;2;Skull Cracker;
+L;Sage;0.80;174;15;19;11;79%;111;13%;2;4;Skull Cracker;

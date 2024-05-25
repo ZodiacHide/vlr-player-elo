@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze;0.85;195;16;21;5;63%;121;23%;5;5;afterMath Esports;
+W;Raze;0.94;197;14;17;6;77%;137;24%;2;6;afterMath Esports;
+L;Raze;0.74;154;9;15;5;63%;105;48%;2;2;afterMath Esports;
+L;Jett;0.90;218;9;13;3;64%;152;26%;2;2;afterMath Esports;
+L;Raze;0.51;174;10;17;1;53%;104;18%;1;4;afterMath Esports;
+L;Jett;1.34;285;24;17;2;78%;190;21%;2;2;afterMath Esports;
+L;Viper;1.00;268;19;17;2;67%;170;20%;2;1;afterMath Esports;
+L;Jett;0.84;188;13;16;7;71%;121;12%;3;1;afterMath Esports;
+L;Astra;0.88;174;14;15;2;58%;130;54%;1;2;afterMath Esports;
+L;Jett;1.16;268;21;15;3;70%;144;19%;1;2;afterMath Esports;
+L;Jett;0.54;139;8;17;1;44%;84;11%;0;0;afterMath Esports;

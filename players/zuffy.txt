@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna; ;149;7;14;6; ;91;11%;1;3;NBKS CENTURIONS;
+L;Reyna; ;302;17;13;0; ;182;27%;1;0;NBKS CENTURIONS;

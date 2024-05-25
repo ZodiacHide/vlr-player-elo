@@ -1,0 +1,5 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;Just Breathe;Breeze;Just Breathe;cinnamon;slaze;bENITA;clawdia;Naomi;13:7;False;33:23;Sunday, August 22nd, 8:00 PM CEST;Sakura Cup #4;url.net;
+Defense;W;Just Breathe;Ascent;Just Breathe;cinnamon;slaze;bENITA;clawdia;Naomi;13:10;False;40:48;Sunday, August 22nd, 8:00 PM CEST;Sakura Cup #4;url.net;
+Defense;L;TSM X;Icebox;Grilled Cheese;cinnamon;clawdia;slaze;bENITA;Naomi;11:13;False;42:41;Sunday, August 22nd, 10:30 PM CEST;Sakura Cup #4;url.net;
+Attack;L;TSM X;Split;Grilled Cheese;cinnamon;clawdia;slaze;bENITA;Naomi;7:13;False;35:09;Sunday, August 22nd, 10:30 PM CEST;Sakura Cup #4;url.net;

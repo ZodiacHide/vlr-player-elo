@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen;1.24;268;19;12;0;84%;145;19%;3;0;ET ELLER ANDET FEDT;
+L;Omen;0.67;122;7;14;3;47%;79;27%;0;1;ET ELLER ANDET FEDT;
+L;Cypher;0.93;137;12;14;2;68%;69;4%;0;1;AXIBYTE ESPORTS;
+L;Viper;0.93;201;13;15;6;74%;119;29%;3;1;AXIBYTE ESPORTS;
+L;Viper;1.13;211;21;15;4;75%;132;29%;0;4;AXIBYTE ESPORTS;
+W;Cypher;0.64;113;9;17;6;67%;78;10%;0;2;AXIBYTE ESPORTS;
+L;Killjoy;1.09;200;20;16;3;58%;130;12%;1;3;AXIBYTE ESPORTS;

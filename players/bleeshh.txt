@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Solaaaa;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Solaaaa;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Solaaaa;
+L;Omen; ;171;13;18;6; ; ; ;1; ;Team Solaaaa;
+L;Brimstone; ;190;16;18;3; ; ; ;2; ;Wave Esports;
+L;Brimstone; ;192;11;16;5; ; ; ;1; ;Wave Esports;
+L;Omen; ;253;18;15;3; ; ; ;2; ;Wave Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Wave Esports;
+W;None;0;0;0;0;0;0;0;0;0;0;Wave Esports;
+L;Cypher; ;189;10;18;6; ;123;26%;2;2;Wave Esports;
+L;Cypher; ;109;5;13;2; ;64;26%;0;1;Wave Esports;
+L;Cypher; ;145;9;16;3; ;105;31%;2;4;Wave Esports;

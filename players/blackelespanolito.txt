@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone; ;108;7;19;2; ; ; ;2; ;Team blackelespanolito;
+L;Brimstone; ;156;9;15;2; ; ; ;0; ;Team blackelespanolito;
+W;Brimstone; ;163;12;9;0; ; ; ;3; ;Team blackelespanolito;
+L;Omen; ;110;8;21;6; ;82;9%;1;1;Team Spain;
+L;Omen; ;175;15;18;4; ;112;18%;3;1;Team Spain;
+W;Omen; ;156;9;8;2; ;89;30%;3;2;Team Spain;
+W;Omen; ;247;20;13;3; ;155;36%;0;0;Team Spain;
+W;Omen; ;160;11;9;3; ;101;13%;1;1;Team Spain;
+L;Omen; ;96;6;14;2; ;61;12%;1;2;Team Spain;

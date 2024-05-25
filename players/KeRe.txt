@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;129;10;18;5; ;74;16%;2;3;CrowСrowd;
+W;Cypher; ;154;10;16;11; ;106;9%;1;0;CrowСrowd;
+L;Cypher; ;200;13;14;3; ;162;38%;2;2;CrowСrowd;
+L;Cypher; ;78;4;12;1; ;46;25%;0;0;CrowСrowd;

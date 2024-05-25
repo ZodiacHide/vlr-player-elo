@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;234;18;18;4; ;198; ;1; ;Crazy Hamster;
+L;Jett; ;120;5;13;1; ;78; ;2; ;Crazy Hamster;

@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.98;187;11;16;4;60%;121;19%;1;0;Double Vision;
+L;Sova;0.50;157;4;15;5;53%;134;30%;0;3;Double Vision;

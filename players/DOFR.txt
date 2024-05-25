@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;100;4;13;0; ;64;8%;1;2;Sprayz Gaming;
+W;Viper; ;274;21;17;9; ;154;11%;3;2;Sprayz Gaming;
+L;Viper; ;183;14;17;6; ;93;4%;1;4;Sprayz Gaming;
+L;Omen; ;129;7;14;2; ;86;20%;0;2;Sprayz Gaming;
+L;Brimstone;0.50;145;6;16;6;63%;94;29%;2;1;Sprayz Gaming;
+L;Viper;0.87;212;10;14;3;67%;128;23%;2;2;Sprayz Gaming;

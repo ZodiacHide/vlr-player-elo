@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;158;12;20;3; ;110;21%;4;4;McTeam;
+W;Omen; ;202;21;19;6; ;129;23%;5;4;McTeam;
+W;Raze; ;206;17;15;10; ;130;18%;4;4;McTeam;
+L;Raze; ;354;26;16;5; ;217;22%;3;2;McTeam;
+L;Raze; ;197;15;15;5; ;140;14%;1;0;McTeam;
+L;Omen; ;187;11;17;7; ;134;21%;0;3;McTeam;
+W;Raze; ;308;24;12;3; ;183;19%;3;4;McTeam;
+W;Raze; ;163;14;19;2; ;115;28%;2;1;McTeam;
+L;Raze; ;181;10;15;1; ;114;13%;0;2;McTeam;
+L;Raze; ;273;13;14;5; ;159;15%;3;1;McTeam;
+L;Omen; ;194;15;16;2; ;124;24%;0;2;McTeam;
+L;Raze; ;211;10;14;1; ;119;13%;2;0;Fighting 4 Freedom;
+L;Raze; ;217;15;17;3; ;154;16%;4;3;Fighting 4 Freedom;
+W;Cypher; ;355;22;9;1; ;254;33%;3;1;Fighting 4 Freedom;
+L;Cypher; ;174;11;16;3; ;116;23%;1;0;Fighting 4 Freedom;

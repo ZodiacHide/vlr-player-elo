@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.39;95;5;14;3;50%;70;11%;0;5;Illuzion Orange;
+L;Killjoy;0.29;136;8;17;1;50%;89;17%;0;5;Illuzion Orange;
+L;Cypher;0.51;108;5;13;1;53%;76;22%;1;1;Illuzion Orange;

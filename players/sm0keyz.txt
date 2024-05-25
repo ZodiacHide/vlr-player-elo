@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;112;6;14;0; ;75;22%;0;4;ULVL;
+W;Killjoy; ;183;13;19;5; ;111;16%;4;2;ULVL;
+L;Sage;0.46;139;7;16;4;61%;88;14%;2;2;ULVL;

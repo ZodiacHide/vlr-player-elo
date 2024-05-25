@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;217;16;10;3; ; ; ;3; ;Les Farmers;
+W;Omen; ;207;13;8;2; ; ; ;3; ;Les Farmers;
+W;Omen; ;293;21;17;7; ; ; ;5; ;Les Farmers;
+L;Omen; ;259;19;17;6; ; ; ;5; ;Les Farmers;
+L;Omen; ;219;16;16;6; ; ; ;1; ;Les Farmers;
+L;Jett; ;351;20;13;1; ;182;25%;5;1;A SEITA;
+L;Jett; ;247;21;19;3; ;188;28%;3;1;A SEITA;

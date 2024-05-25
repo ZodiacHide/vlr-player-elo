@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.57;198;11;17;2;72%;128;32%;0;2;Team BELEAGUERS;
+L;Killjoy;0.76;157;14;20;5;58%;118;21%;0;2;Team BELEAGUERS;

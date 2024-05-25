@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;152;8;16;2; ;99;30%;1;3;Śląsk Wrocław;
+L;Jett; ;204;12;17;6; ;126;24%;5;4;Śląsk Wrocław;

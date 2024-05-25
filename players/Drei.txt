@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;292;23;21;7; ;158;30%;6;6;SE ATLAS;
+W;Jett; ;264;21;19;3; ;183;15%;6;1;SE ATLAS;
+W;Jett; ;258;21;21;2; ;138;12%;5;5;SE ATLAS;
+L;Jett; ;227;15;18;5; ;185;17%;6;2;SE ATLAS;
+L;Raze; ;219;14;17;2; ;135;16%;2;5;SE ATLAS;
+L;Sova; ;146;8;13;1; ;90;19%;1;1;SE ATLAS;
+L;Cypher; ;184;16;17;5; ;160;25%;1;5;SE ATLAS;
+W;Killjoy; ;180;9;7;6; ;126;26%;2;2;SE ATLAS;
+W;Killjoy; ;164;11;12;1; ;83;17%;3;2;SE ATLAS;
+W;Omen; ;206;13;20;13; ;121;13%;3;3;SE ATLAS;
+L;Omen; ;210;19;19;11; ;154;20%;3;2;SE ATLAS;
+L;Killjoy; ;149;7;16;6; ;110;13%;2;3;SE ATLAS;
+L;Viper;0.70;165;15;24;7;67%;109;13%;2;1;SE ATLAS;
+W;Killjoy;0.91;177;14;17;3;63%;100;12%;4;3;SE ATLAS;
+L;Killjoy;0.72;188;9;17;5;59%;119;20%;3;1;SE ATLAS;
+L;Cypher;0.74;208;9;14;3;40%;129;17%;1;2;SE ATLAS;
+L;Cypher;0.47;133;8;16;3;53%;85;26%;2;2;SE ATLAS;

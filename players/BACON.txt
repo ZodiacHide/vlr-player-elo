@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;201;15;17;8; ;128;13%;1;1;AtmosFear;
+W;Breach; ;278;21;15;5; ;160;39%;2;2;AtmosFear;
+L;Sova; ;80;2;13;8; ;60;12%;0;3;AtmosFear;
+L;Raze; ;205;13;17;4; ;155;17%;2;0;AtmosFear;

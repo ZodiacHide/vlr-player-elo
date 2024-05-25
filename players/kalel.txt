@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;161;15;15;2; ; ; ;1; ;defkon;
+L;Omen; ;85;4;16;2; ; ; ;1; ;defkon;
+L;Brimstone; ;157;11;18;5; ; ; ;0; ;defkon;

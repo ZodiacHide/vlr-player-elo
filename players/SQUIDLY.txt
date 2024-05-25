@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.83;181;7;14;4;59%;124;12%;3;0;Celestial Violet;
+L;Sova;0.62;203;9;13;2;69%;94;38%;1;1;Celestial Violet;

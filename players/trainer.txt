@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;137;10;17;8; ;90;6%;2;3;Luminosity;
+W;Sova; ;155;9;9;4; ;98;47%;2;0;Luminosity;
+L;Raze;0.86;186;15;17;6;52%;127;19%;0;2;Good Fellas;
+L;Kayo;0.69;138;6;14;3;64%;89;17%;2;1;Good Fellas;

@@ -1,0 +1,2 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;REJECT;Haven;Decider;Tempura;KeNNy;またきち;Nun;Levicak;2:13;False;28:38;Saturday, July 17th, 9:10 AM CEST;Champions Tour Japan Stage 3: Challengers 2;url.net;

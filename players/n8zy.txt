@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Phoenix;0.23;69;2;16;4;38%;63;46%;0;4;XStealers;
+L;Sage;0.58;163;8;14;0;53%;95;27%;1;0;Spectral Esports Purple;
+L;Brimstone;0.26;100;4;13;2;38%;80;29%;0;3;Spectral Esports Purple;

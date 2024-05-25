@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.93;264;17;16;1;50%;153;21%;3;3;Stars Horizon Vênus;
+L;Cypher;0.94;230;13;15;7;72%;144;12%;4;2;Stars Horizon Vênus;
+W;Killjoy;0.82;226;17;22;7;73%;149;12%;5;5;Stars Horizon Vênus;
+W;Jett;0.92;231;18;19;7;74%;139;14%;3;2;Stars Horizon Vênus;
+L;Cypher;0.78;171;12;18;5;67%;110;19%;1;1;Stars Horizon Vênus;
+W;Killjoy;1.32;267;24;18;7;79%;170;15%;5;2;Stars Horizon Vênus;
+W;Killjoy;1.32;287;25;16;8;86%;151;12%;5;4;Stars Horizon Vênus;
+L;Killjoy;0.86;240;14;17;4;83%;127;16%;3;2;Stars Horizon Vênus;
+W;Killjoy;1.01;283;23;21;3;67%;160;9%;3;3;Stars Horizon Vênus;
+W;Killjoy;0.67;140;11;20;8;69%;86;7%;4;3;Stars Horizon Vênus;
+L;Killjoy;0.62;139;8;16;2;47%;97;27%;1;3;Stars Horizon Vênus;
+L;Sage;0.32;109;5;16;3;41%;58;19%;0;6;Stars Horizon Vênus;

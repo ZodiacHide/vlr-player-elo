@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Austin Creed;
+L;Phoenix; ;59;2;13;2; ; ; ;0; ;Team Austin Creed;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Austin Creed;

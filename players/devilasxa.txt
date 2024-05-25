@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;0.80;203;11;15;5;60%;127;31%;3;3;Sad Girls;
+W;Reyna;1.16;257;23;16;1;67%;170;45%;1;1;Sad Girls;
+W;Jett;1.38;348;30;19;0;65%;212;25%;6;2;Sad Girls;
+L;Reyna;0.70;192;14;20;3;48%;131;43%;2;5;Sad Girls;
+L;Jett;0.87;244;14;18;5;74%;178;16%;2;4;Sad Girls;

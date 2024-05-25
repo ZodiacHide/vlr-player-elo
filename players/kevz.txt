@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;147;8;15;4; ;84;24%;0;1;Supremacy Gaming;
+L;Cypher; ;163;12;19;5; ;89;21%;4;0;Supremacy Gaming;

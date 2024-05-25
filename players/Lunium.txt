@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;297;17;13;3; ;177;22%;3;2;Team Doggo;
+L;Killjoy;0.63;183;10;13;1;60%;114;13%;2;2;Team Doggo;
+L;Sage;0.62;99;7;16;3;57%;74;22%;0;3;Team Doggo;

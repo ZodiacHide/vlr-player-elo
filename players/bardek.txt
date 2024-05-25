@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;152;8;14;1; ;88;25%;1;0;FALTAM 2 MIN;
+L;Killjoy; ;162;11;13;3; ;78;16%;1;1;FALTAM 2 MIN;
+L;Cypher;0.83;142;13;17;1;55%;94;38%;1;2;RATAO;
+L;Cypher;0.81;174;12;15;3;58%;109;23%;0;1;RATAO;

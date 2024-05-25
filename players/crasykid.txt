@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;207;21;16;3; ;176;21%;1;0;Vendetta;
+L;Killjoy; ;161;11;16;5; ;155;13%;0;1;Vendetta;
+W;Killjoy; ;226;14;9;5; ;140;12%;2;0;Vendetta;
+L;Killjoy; ;188;14;16;8; ;127;13%;0;2;Vendetta;

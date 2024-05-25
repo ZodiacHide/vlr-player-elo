@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;142;8;14;3; ;80;10%;0;0;Creme brulee;
+W;Sova; ;154;7;13;15; ;110;18%;1;1;Dreamwalker;
+W;Reyna; ;410;27;13;5; ;242;17%;5;0;Dreamwalker;
+W;Sova; ;220;15;9;4; ;162;17%;0;0;Dreamwalker;
+L;Reyna; ;107;6;15;3; ;60;22%;0;3;Dreamwalker;
+W;Sova; ;140;12;23;9; ;101;20%;3;2;Dreamwalker;

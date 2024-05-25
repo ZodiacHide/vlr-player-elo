@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;171;7;14;1; ;103;24%;1;1;Team Samurai;
+L;Jett; ;194;13;20;8; ;114;23%;4;4;Team Samurai;
+L;Jett; ;146;7;17;5; ;107;11%;3;4;Team Samurai;
+L;Jett; ;163;16;26;4; ;115;20%;4;4;Team Samurai;
+L;Jett; ;220;10;14;5; ;160;27%;1;1;Team Samurai;
+L;Jett; ;204;14;15;3; ;140;31%;4;2;Team Samurai;

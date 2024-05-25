@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Skye;1.21;258;20;15;4;74%;135;32%;4;2;Valstars Gaming Female;
+L;Phoenix;1.02;241;20;20;4;75%;167;31%;5;6;Valstars Gaming Female;
+W;Jett;1.18;249;16;14;8;80%;160;22%;4;6;Valstars Gaming Female;
+L;Skye;0.63;148;8;15;7;59%;105;18%;1;4;Valstars Gaming Female;
+W;Raze;1.14;304;26;20;5;58%;210;26%;3;9;Valstars Gaming Female;
+W;Jett;0.90;209;21;22;2;70%;126;16%;7;7;Valstars Gaming Female;
+L;Jett;1.23;244;16;15;7;65%;163;28%;5;6;Valstars Gaming Female;
+L;Raze;1.02;269;18;17;3;67%;164;25%;2;4;Valstars Gaming Female;

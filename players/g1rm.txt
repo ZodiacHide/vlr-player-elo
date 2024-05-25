@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;188;9;14;3; ;103; ;1; ;Imposto é Roubo;
+W;Cypher; ;193;20;18;2; ;111; ;0; ;Imposto é Roubo;
+L;Cypher; ;125;6;13;1; ;76;13%;0;3;Imposto é Roubo;

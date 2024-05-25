@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;242;18;10;3; ; ; ;0; ;DREAMCHASERS;
+W;Sage; ;149;10;12;4; ; ; ;0; ;DREAMCHASERS;
+L;Jett; ;216;13;17;1; ;115;13%;3;0;Nice Cars;
+W;Jett; ;235;21;20;4; ;145;20%;5;6;Nice Cars;
+L;Jett; ;199;15;18;3; ;114;8%;4;5;Nice Cars;
+W;Jett; ;265;20;8;2; ;124;19%;4;0;Nice Cars;
+W;Jett; ;211;18;11;1; ;107;22%;1;1;Nice Cars;
+L;Jett; ;250;16;16;1; ;148;20%;3;1;Nice Cars;
+L;Jett; ;162;14;20;4; ;93;29%;2;4;hej patrik;
+L;Jett; ;223;18;18;1; ;152;38%;5;3;hej patrik;

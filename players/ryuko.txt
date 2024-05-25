@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.64;165;9;16;2;44%;95;26%;4;3;Anime Aimers;
+L;Astra;0.71;194;11;17;1;59%;115;48%;1;1;Anime Aimers;

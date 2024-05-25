@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.84;181;11;14;7;75%;117;15%;1;3;Finest Female;
+L;Omen;0.75;124;9;14;3;60%;76;24%;1;0;Finest Female;
+L;Astra;0.47;135;8;20;7;68%;94;20%;1;1;Finest Female;
+L;Sova;0.89;204;10;12;2;57%;128;48%;1;0;Finest Female;

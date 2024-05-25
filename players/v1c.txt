@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.19;247;20;16;6;71%;155;19%;5;4;T1 Academy;
+W;Jett;1.09;209;17;15;4;75%;124;18%;3;1;T1 Academy;
+L;Jett;0.92;225;23;21;0;65%;110;19%;4;2;T1 Academy;
+W;Jett;1.02;216;12;9;0;79%;126;6%;6;0;T1 Academy;
+L;Jett;0.79;185;14;16;2;62%;123;31%;2;2;T1 Academy;

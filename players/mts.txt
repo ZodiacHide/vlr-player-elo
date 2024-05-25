@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;217;18;16;17; ;123;31%;2;4;PHARAONS;
+L;Breach; ;153;12;20;16; ;89;27%;1;3;PHARAONS;
+L;Phoenix; ;167;8;15;2; ;82;13%;3;2;noFEAR;
+L;Breach; ;29;1;14;4; ;12;0%;0;1;noFEAR;
+L;Omen;0.50;155;11;18;2;58%;94;33%;2;3;123TAP;
+L;Omen;0.89;221;11;13;3;73%;145;47%;2;0;123TAP;

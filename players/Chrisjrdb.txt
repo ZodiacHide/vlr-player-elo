@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;0.83;196;22;26;7;66%;127;16%;4;7;KJC eSports;
+L;Omen;0.54;130;7;14;0;47%;58;21%;0;2;KJC eSports;
+L;Omen;1.14;226;18;15;7;83%;142;16%;1;3;TYPHOONS;
+W;Omen;1.48;299;20;11;6;85%;200;33%;3;2;TYPHOONS;
+W;Viper;1.11;216;19;16;10;71%;151;23%;2;1;TYPHOONS;
+L;Viper;0.35;140;7;14;0;47%;80;10%;0;3;TYPHOONS;
+L;Omen;0.77;198;11;16;4;63%;115;19%;3;3;TYPHOONS;

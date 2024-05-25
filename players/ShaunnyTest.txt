@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.87;211;12;14;3;50%;144;32%;2;2;Aerstream Esports;

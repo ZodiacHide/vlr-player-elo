@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;218;14;17;2; ; ; ;3; ;Clan123;
+L;Jett; ;210;11;13;0; ; ; ;2; ;Clan123;

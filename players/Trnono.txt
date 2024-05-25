@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;None;0;0;0;0;0;0;0;0;0;0;Viboras;
+W;Cypher; ;219;15;6;2; ; ; ;0; ;Viboras;
+W;Cypher; ;208;18;15;7; ; ; ;1; ;Viboras;
+L;Cypher; ;138;12;20;1; ; ; ;0; ;Viboras;
+L;Cypher; ;151;8;13;2; ; ; ;1; ;Viboras;
+L;None;0;0;0;0;0;0;0;0;0;0;Viboras;

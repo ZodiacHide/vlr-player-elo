@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;KK VALORANT;
+L;Cypher; ;120;8;14;2; ; ; ;1; ;KK VALORANT;
+L;Cypher; ;233;17;19;1; ; ; ;4; ;KK VALORANT;

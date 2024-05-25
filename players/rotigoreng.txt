@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;205;14;20;8; ;129;17%;2;6;ZENITH;
+L;Jett; ;151;7;13;2; ;57;17%;2;2;ZENITH;

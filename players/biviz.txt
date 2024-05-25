@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone; ;341;22;7;2; ; ; ;3; ;Anata;
+W;Phoenix; ; ; ; ; ; ; ; ; ; ;Anata;
+W;Brimstone; ;309;25;13;1; ; ; ;3; ;Anata;
+L;None;0;0;0;0;0;0;0;0;0;0;Anata;
+L;None;0;0;0;0;0;0;0;0;0;0;Anata;

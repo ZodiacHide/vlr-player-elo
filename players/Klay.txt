@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;183;10;15;6; ;114;18%;1;1;Shadow Life;
+L;Sova; ;278;22;14;3; ;144;5%;2;1;Shadow Life;
+L;Sova; ;180;7;13;4; ;104;22%;0;4;Deadlife;
+L;Cypher; ;213;9;16;6; ;138;36%;1;0;Deadlife;

@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.40;346;22;13;1;89%;181;30%;5;1;Rix.GG Lightning;
+W;Jett;1.61;356;29;17;8;75%;217;17%;8;5;Rix.GG Lightning;
+W;Jett;2.05;439;23;7;3;100%;305;33%;5;0;THE ORIGINALS;
+W;Jett;2.09;424;24;7;2;80%;264;33%;7;2;THE ORIGINALS;
+W;Jett;1.29;251;16;8;2;81%;158;25%;3;2;THE ORIGINALS;
+W;Raze;1.40;303;18;11;3;82%;200;26%;3;2;THE ORIGINALS;
+W;Raze;1.40;256;17;11;2;76%;166;29%;3;4;THE ORIGINALS;
+W;Jett;1.59;364;26;12;5;70%;223;23%;3;2;THE ORIGINALS;

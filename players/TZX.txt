@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;1.00;219;17;16;9;73%;139;22%;2;1;OtherSide Blue;
+W;Viper;1.06;207;13;12;9;72%;76;12%;1;2;OtherSide Blue;
+L;Killjoy;0.70;196;11;15;1;65%;96;24%;4;2;OtherSide Blue;

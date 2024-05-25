@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sage; ; ; ; ; ; ; ; ; ; ;Rebirth Esports;
+W;Sage; ; ; ; ; ; ; ; ; ; ;Rebirth Esports;
+W;Sage; ; ; ; ; ; ; ; ; ; ;Rebirth Esports;
+L;Breach; ;149;12;14;5; ;141;32%;2;2;Undead Gaming;
+W;Breach; ;155;14;8;10; ;102;24%;1;2;Undead Gaming;
+L;Sage; ;115;10;16;8; ;124;24%;2;0;Undead Gaming;

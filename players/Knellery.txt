@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;124;7;16;1; ; ; ;1; ;1HP;
+L;Sova; ;149;11;17;2; ; ; ;0; ;1HP;
+L;Brimstone; ;156;8;15;1; ; ; ;1; ;1HP;
+L;Sova; ;175;11;14;3; ;87;8%;1;2;1HP;
+L;Sova; ;115;4;15;0; ;81;7%;0;1;1HP;
+L;Sova; ;184;13;16;7; ;135;25%;1;2;1HP;
+L;Phoenix;0.42;118;6;16;3;50%;78;7%;1;1;PEACE;
+L;Sage;0.32;65;4;18;2;40%;47;18%;0;0;PEACE;

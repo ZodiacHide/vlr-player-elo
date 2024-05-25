@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.04;253;17;17;5;55%;167;23%;3;6;OnlyFriends;
+L;Sage;0.12;90;3;16;3;25%;69;30%;0;3;OnlyFriends;
+W;Raze;1.31;358;24;17;5;85%;217;14%;6;2;OnlyFriends;
+L;Skye;0.78;219;13;15;5;61%;148;22%;2;0;OnlyFriends;
+L;Jett;1.42;332;31;19;3;75%;199;27%;3;1;OnlyFriends;

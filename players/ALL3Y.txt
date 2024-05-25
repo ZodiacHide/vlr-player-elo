@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;0.87;215;18;19;2;67%;132;26%;3;5;Team Aurora;
+W;Jett;0.70;258;22;23;4;58%;137;23%;7;9;Team Aurora;
+W;Jett;0.89;272;24;22;5;77%;163;45%;6;5;Team Aurora;
+L;Jett;1.18;285;25;19;5;81%;175;30%;6;6;Team Aurora;
+W;Jett;1.24;324;23;15;3;75%;181;38%;6;4;Team Aurora;
+L;Sage;0.37;148;7;19;3;32%;102;33%;3;5;Team Aurora;
+L;Jett;0.58;169;10;16;4;53%;102;33%;3;7;Team Aurora;
+L;Jett;0.67;205;14;18;1;50%;127;27%;3;2;Team Aurora;
+L;Jett;1.08;299;22;21;7;77%;189;39%;4;4;Team Aurora;

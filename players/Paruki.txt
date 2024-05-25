@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Skye;1.05;185;16;14;10;73%;101;29%;2;2;Banditz;
+L;Breach;0.74;123;7;16;11;62%;84;13%;0;2;Banditz;
+L;Sova;0.62;145;10;17;2;59%;94;9%;1;1;Banditz;

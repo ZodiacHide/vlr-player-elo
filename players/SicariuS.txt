@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;159;10;14;2; ;113;12%;1;3;Zero Synergy White;
+L;Sova; ;114;12;20;4; ;72;6%;0;6;Zero Synergy White;
+L;Cypher;0.82;163;11;15;1;47%;89;8%;3;1;Zero Synergy;
+L;Killjoy;0.49;127;5;14;3;50%;81;14%;1;1;Zero Synergy;
+L;Viper;0.84;247;11;13;5;71%;146;13%;1;1;Zero Synergy;

@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Brimstone;1.11;147;11;9;3;72%;82;18%;0;0;Enigma Gaming;
+L;Killjoy;0.48;120;7;18;3;45%;93;13%;0;0;Enigma Gaming;
+L;Killjoy;0.73;110;7;14;6;70%;93;15%;2;0;Enigma Gaming;
+L;Jett;0.25;88;4;16;4;44%;61;10%;0;0;Enigma Gaming;
+W;Kayo;0.56;74;6;13;3;55%;57;19%;0;1;Enigma Gaming;
+W;Omen;0.71;99;9;19;12;62%;71;26%;0;1;Enigma Gaming;
+L;Brimstone;0.72;156;11;15;3;75%;100;19%;0;0;Enigma Gaming;
+L;Omen;0.57;71;5;17;9;57%;50;19%;0;4;Enigma Gaming;

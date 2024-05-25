@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.64;107;10;18;3;62%;70;22%;1;2;Paper Rex;
+L;Viper;0.39;136;7;17;6;61%;105;32%;1;5;Paper Rex;
+W;Killjoy;0.97;195;12;14;9;82%;140;18%;2;1;Paper Rex;
+L;Astra;0.80;159;16;18;3;58%;104;13%;1;2;Paper Rex;
+W;Viper;1.29;264;21;14;9;77%;167;27%;3;2;Paper Rex;
+W;Astra;0.99;207;13;12;5;79%;121;24%;2;2;Paper Rex;

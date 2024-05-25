@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;0.97;262;14;15;5;65%;172;24%;2;1;FreeAgentz;
+L;Killjoy;0.61;157;10;16;2;50%;120;25%;0;3;FreeAgentz;

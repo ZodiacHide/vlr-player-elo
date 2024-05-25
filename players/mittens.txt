@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.62;156;10;17;3;55%;115;42%;0;3;Liberty Female;
+L;Viper;0.85;161;11;15;4;80%;113;31%;1;0;Liberty Female;
+W;Astra;1.30;184;11;6;5;94%;125;30%;0;0;Liberty Female;
+W;Viper;1.61;318;24;10;7;95%;213;34%;0;1;Liberty Female;
+L;Astra;0.70;165;11;15;3;56%;102;29%;1;1;Liberty Female;
+L;Viper;0.80;158;12;16;5;73%;104;30%;1;1;Liberty Female;
+W;Astra;1.19;216;17;12;9;86%;138;49%;2;2;Liberty Female;
+W;Viper;1.34;239;16;10;3;83%;151;32%;3;0;Liberty Female;
+W;Viper;1.00;219;14;11;8;83%;114;15%;2;2;Liberty Female;
+L;Astra;0.87;206;16;20;8;79%;137;21%;3;1;Liberty Female;
+L;Astra;0.90;186;16;17;7;85%;141;21%;2;2;Liberty Female;

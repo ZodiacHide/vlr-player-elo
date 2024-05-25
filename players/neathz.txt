@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Phoenix; ;0;0;0;0; ; ; ;0; ;Clan123;
+W;Phoenix; ;236;13;20;8; ; ; ;3; ;Clan123;
+W;Phoenix; ;239;19;17;6; ; ; ;2; ;Clan123;
+L;Phoenix; ;327;28;18;6; ; ; ;7; ;Clan123;
+W;Phoenix; ;200;11;11;2; ; ; ;3; ;Clan123;
+L;Phoenix; ;186;10;19;5; ; ; ;1; ;Clan123;
+L;Phoenix; ;92;3;14;3; ; ; ;2; ;Clan123;
+L;Phoenix; ;242;14;18;2; ; ; ;2; ;Clan123;
+L;Phoenix; ;154;9;17;2; ; ; ;1; ;Clan123;

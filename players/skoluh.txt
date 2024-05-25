@@ -1,0 +1,13 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;187;13;15;6; ;119;24%;2;1;Illinois Servers Please;
+L;Breach; ;118;6;14;3; ;75;15%;0;0;Illinois Servers Please;
+L;Breach; ;232;21;17;9; ;141;29%;2;0;Illinois Servers Please;
+L;Sova; ;136;8;14;6; ;92;24%;0;1;Illinois Servers Please;
+L;Breach; ;147;8;16;2; ;80;14%;2;0;Illinois Servers Please;
+L;Sova; ;237;19;14;8; ;157;13%;1;0;Illinois Servers Please;
+L;Sova; ;145;12;19;7; ;96;15%;1;0;Illinois Servers Please;
+W;Breach; ;237;11;6;9; ;141;6%;0;0;Illinois Servers Please;
+W;Sova; ;181;13;13;10; ;102;12%;1;1;Illinois Servers Please;
+W;Sova; ;172;14;17;10; ;116;19%;0;4;Illinois Servers Please;
+L;Sova; ;123;8;15;7; ;82;14%;0;1;Illinois Servers Please;
+L;Sova; ;231;16;16;13; ;141;9%;0;0;Illinois Servers Please;

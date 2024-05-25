@@ -1,0 +1,18 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;0.76;149;13;19;8;62%;106;21%;1;1;True Rippers;
+W;Raze;1.16;290;16;13;7;100%;173;18%;4;2;True Rippers;
+L;Omen;0.95;254;15;13;3;71%;163;38%;2;1;True Rippers;
+L;Jett;0.73;193;13;18;3;68%;111;18%;4;4;True Rippers;
+L;Omen;1.12;231;20;16;4;71%;149;29%;4;2;True Rippers;
+W;Omen;1.36;289;25;16;6;77%;170;23%;2;3;True Rippers;
+W;Raze;0.93;248;18;19;7;65%;157;17%;5;4;True Rippers;
+L;Raze;1.08;291;22;17;3;64%;178;31%;4;6;True Rippers;
+L;Omen;0.32;91;8;20;0;46%;60;14%;1;4;True Rippers;
+L;Killjoy;0.88;210;14;16;1;58%;132;29%;0;4;True Rippers;
+W;Omen;1.27;202;17;13;10;74%;145;37%;2;2;True Rippers;
+L;Omen;1.03;219;14;12;4;76%;136;29%;2;1;True Rippers;
+L;Reyna;1.03;222;14;14;3;67%;158;32%;4;2;True Rippers;
+L;Skye;0.76;191;14;19;10;67%;130;19%;3;2;True Rippers;
+W;Raze;1.14;282;23;15;3;86%;179;23%;4;0;True Rippers;
+L;Raze;0.70;155;9;16;4;65%;106;19%;2;0;True Rippers;
+L;Viper;0.70;156;12;17;1;55%;110;32%;2;1;True Rippers;

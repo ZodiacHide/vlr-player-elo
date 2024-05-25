@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;291;22;8;3; ;174;13%;6;1;ANBU Elite Gaming;
+W;Killjoy; ;224;17;14;4; ;142;11%;2;1;ANBU Elite Gaming;
+L;Killjoy; ;152;10;14;4; ;168;9%;1;1;ANBU Elite Gaming;
+L;Raze; ;203;13;18;3; ;126;17%;3;2;ANBU Elite Gaming;
+L;Raze; ;133;6;15;1; ;82;6%;3;1;ANBU Elite Gaming;
+L;Killjoy; ;239;14;13;2; ;155;16%;1;0;ANBU Elite Gaming;
+L;Cypher; ;214;18;16;8; ;143;15%;0;1;ANBU Elite Gaming;
+L;Raze; ;253;21;16;4; ;162;14%;3;1;ANBU Elite Gaming;

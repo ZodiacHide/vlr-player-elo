@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Brimstone;0.84;221;14;17;5;55%;96;27%;5;3;Team Moon;
+W;Omen;1.39;295;21;13;4;95%;192;31%;2;1;Team Moon;
+L;Omen;0.88;256;16;16;5;67%;174;27%;0;3;Team Moon;
+W;Astra;1.41;315;20;11;7;95%;215;43%;3;0;Team Moon;
+W;Omen;1.29;287;17;10;1;87%;169;27%;2;1;Team Moon;

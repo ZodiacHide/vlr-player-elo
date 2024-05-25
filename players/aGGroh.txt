@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;130;6;14;0; ;75;23%;3;4;TAMU Maroon;
+L;Jett; ;153;8;16;3; ;92;14%;2;5;TAMU Maroon;
+L;Jett;0.31;103;6;14;0;47%;78;25%;1;4;TAMU Maroon;
+L;Jett;0.49;168;8;14;2;57%;97;29%;3;4;TAMU Maroon;

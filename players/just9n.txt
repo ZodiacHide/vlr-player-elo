@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+W;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Shroud;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Kephrii;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Kephrii;
+L;None;0;0;0;0;0;0;0;0;0;0;Team Kephrii;

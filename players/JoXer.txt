@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;142;9;17;4; ;96;22%;2;3;GodVibes;
+W;Raze; ;194;14;17;4; ;175;18%;2;2;swieca mix;
+L;Raze; ;235;14;15;2; ;132;10%;4;4;swieca mix;
+L;Raze; ;167;10;20;8; ;121;8%;0;5;swieca mix;
+L;Phoenix; ;241;18;15;4; ;149;22%;3;2;Team Questionmark;
+L;Phoenix; ;191;12;17;7; ;124;20%;3;4;Team Questionmark;
+L;Sova;1.37;281;18;13;2;78%;180;27%;2;0;świeca;
+W;Sage;1.73;314;23;7;5;79%;179;25%;0;1;świeca;
+L;Sova;1.11;210;16;15;11;83%;139;23%;3;2;świeca;

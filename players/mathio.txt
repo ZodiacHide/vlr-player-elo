@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;134;9;17;6; ; ; ;2; ;SimpleMinecraftPlayers;
+W;Sova; ;123;6;15;4; ; ; ;1; ;SimpleMinecraftPlayers;
+W;Sova; ;250;14;8;5; ; ; ;2; ;SimpleMinecraftPlayers;
+L;Sova; ;152;8;16;5; ; ; ;0; ;SimpleMinecraftPlayers;
+W;Sova; ;270;19;14;7; ; ; ;2; ;SimpleMinecraftPlayers;
+L;Sova; ;149;10;15;1; ; ; ;2; ;SimpleMinecraftPlayers;

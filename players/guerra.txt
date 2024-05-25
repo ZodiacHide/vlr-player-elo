@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;118;8;16;2; ;74;26%;0;2;FUSCA AZUL;
+W;Omen; ;194;12;13;8; ;113;28%;2;1;FUSCA AZUL;
+L;Sage; ;163;13;17;6; ;91;24%;1;1;FUSCA AZUL;

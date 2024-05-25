@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;121;6;14;1; ;79;22%;0;3;VERITAS VINCIT;
+L;Brimstone; ;172;13;15;2; ;93;19%;1;1;VERITAS VINCIT;
+L;Omen; ;215;19;18;6; ;131;25%;2;3;Team White;
+L;Omen; ;146;6;13;5; ;95;27%;0;2;Team White;
+L;Sova; ;193;10;16;6; ;120;24%;1;0;Team White;
+W;Raze; ;238;15;12;5; ;131;14%;0;3;Team White;
+L;Raze; ;130;8;14;1; ;126;16%;2;5;Team White;
+L;Killjoy; ;175;15;15;5; ;155;16%;2;2;Ambitious;
+L;Killjoy; ;119;3;13;1; ;79;19%;1;1;Ambitious;

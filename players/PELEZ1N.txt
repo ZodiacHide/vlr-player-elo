@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;193;14;19;4; ;125;24%;2;1;BRAVOS GAMING;
+L;Raze; ;113;4;13;5; ;87;21%;0;2;BRAVOS GAMING;

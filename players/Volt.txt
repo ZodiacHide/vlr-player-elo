@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;112;5;15;2; ;75;33%;1;8;GCU Esports;
+L;Jett; ;182;9;15;0; ;107;14%;3;1;GCU Esports;
+L;Omen;0.34;90;3;14;1;29%;66;40%;0;3;Team Mystic;
+L;Omen;0.40;121;4;15;1;47%;87;18%;1;1;Team Mystic;

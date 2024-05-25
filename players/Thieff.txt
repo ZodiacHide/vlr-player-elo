@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett; ;275;26;21;3; ;150;22%;6;2;Květinky;
+L;Jett; ;163;8;16;3; ;102;8%;1;5;Květinky;
+L;Jett; ;274;20;16;1; ;156;33%;6;4;Květinky;
+L;Jett; ;244;16;15;6; ;136;26%;5;2;Květinky;

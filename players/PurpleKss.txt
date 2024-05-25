@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.76;169;12;19;7;70%;110;16%;4;0;Lapki;
+W;Astra;0.78;129;13;20;5;79%;81;26%;2;2;Lapki;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;188;10;14;3; ;111;23%;2;4;LES PILLEURS;
+L;Viper;0.87;220;17;19;10;70%;147;17%;3;6;PULSAR OLDSTARS;
+L;Jett;1.22;286;19;16;2;74%;164;30%;5;0;PULSAR OLDSTARS;

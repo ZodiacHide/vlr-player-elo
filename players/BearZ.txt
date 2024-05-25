@@ -1,0 +1,17 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;179;10;5;7; ;108;24%;2;1;Last Round Save;
+W;Sova; ;162;8;9;9; ;111;10%;1;0;Last Round Save;
+W;Sova; ;167;12;14;13; ;110;18%;2;1;Last Round Save;
+L;Breach; ;113;5;14;6; ;69;10%;0;2;Last Round Save;
+L;Killjoy; ;141;10;19;5; ;103;14%;1;3;Last Round Save;
+L;Sova; ;148;7;15;10; ;103;10%;1;0;Last Round Save;
+L;Sova; ;100;6;16;5; ;82;19%;0;2;Last Round Save;
+L;Sova;0.66;158;9;13;2;67%;97;20%;0;2;O.O.D.A Loopers;
+L;Breach;0.59;139;9;16;6;60%;80;28%;0;0;O.O.D.A Loopers;
+L;Raze;0.51;156;7;13;1;50%;103;50%;2;2;O.O.D.A Loopers;
+W;Sova;1.26;206;20;12;11;88%;104;9%;0;0;O.O.D.A Loopers;
+W;Sova;0.97;165;13;14;5;73%;108;17%;0;1;O.O.D.A Loopers;
+L;Sova;0.89;195;13;17;4;55%;125;37%;1;0;O.O.D.A Loopers;
+L;Sova;0.68;137;8;15;2;56%;86;14%;0;1;O.O.D.A Loopers;
+L;Sova;0.71;197;9;15;6;67%;147;13%;1;2;O.O.D.A Loopers;
+L;Sova;0.87;211;13;16;7;58%;146;36%;0;3;O.O.D.A Loopers;

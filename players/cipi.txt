@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;110;10;15;3; ;75;12%;1;1;PARA LAZIM;
+W;Omen; ;236;19;11;7; ;152;27%;3;0;PARA LAZIM;
+L;Omen; ;185;21;22;6; ;112;28%;3;6;PARA LAZIM;
+L;Omen; ;145;11;14;5; ;104;34%;1;2;PARA LAZIM;
+L;Omen; ;158;12;16;4; ;105;32%;2;3;CANAVARLAR;
+W;Omen; ;151;12;20;4; ;80;7%;3;2;CANAVARLAR;
+L;Omen; ;160;10;16;4; ;119;40%;1;2;CANAVARLAR;

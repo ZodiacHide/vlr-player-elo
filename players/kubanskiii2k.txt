@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.12;33;0;13;2;23%;32;0%;0;0;Noxus Pro;

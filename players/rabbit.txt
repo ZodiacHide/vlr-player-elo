@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;195;19;18;7; ;132;27%;0;2;Sk8tr Boyz;
+L;Omen; ;111;7;20;5; ;64;17%;0;5;Sk8tr Boyz;
+L;Omen; ;112;8;17;3; ;70;19%;0;2;Sk8tr Boyz;

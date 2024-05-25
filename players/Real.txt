@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ;252;17;14;9; ;158;16%;2;2;Washington Muscle;
+L;Breach; ;144;8;14;7; ;99;17%;0;2;Washington Muscle;
+W;Breach; ;320;17;3;5; ;205;19%;1;1;Washington Muscle;
+L;Breach; ;182;13;17;7; ;120;28%;1;1;Washington Muscle;
+L;Sova; ;153;9;16;5; ;92;28%;2;3;Lunatic-Hai;
+L;Sova; ;221;14;16;6; ;131;41%;2;2;Lunatic-Hai;
+L;Cypher; ;140;10;14;1; ;100;12%;1;1;Lunatic-Hai;
+L;Sova; ;187;16;20;6; ;112;19%;1;2;Lunatic-Hai;
+L;Jett;0.66;255;13;16;2;69%;133;43%;3;3;2red;
+L;Jett;0.34;160;8;20;2;42%;100;24%;2;9;2red;
+W;Jett;1.58;355;25;10;3;84%;202;25%;4;3;2red;
+W;Raze;1.14;247;17;15;6;71%;157;16%;1;7;2red;
+L;Jett;0.90;200;15;14;2;68%;130;26%;3;3;2red;
+L;Sova;0.66;164;11;18;8;67%;113;17%;2;3;AGAiN;
+L;Sova;0.47;132;6;13;4;60%;94;17%;0;3;AGAiN;

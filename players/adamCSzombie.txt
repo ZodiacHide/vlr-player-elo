@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;142;8;16;4; ;69;25%;5;3;Rating Greatly Decreased;

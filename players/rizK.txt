@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Killjoy; ;237;18;17;5; ;166;18%;4;2;ShockDart;
+W;Killjoy; ;186;13;18;6; ;117;8%;3;0;ShockDart;
+L;Cypher; ;253;29;26;7; ;161;32%;2;5;ShockDart;
+L;Cypher; ;191;9;13;2; ;126;30%;0;2;ShockDart;
+W;Omen; ;220;18;18;3; ;134;22%;3;8;ShockDart;
+L;Omen; ;215;11;14;3; ;139;20%;0;1;ShockDart;
+L;Omen; ;149;7;17;5; ;115;21%;1;3;ShockDart;
+L;Killjoy;0.99;278;19;18;4;77%;181;23%;3;1;Average Joes;
+L;Cypher; ;204;10;15;6; ;145;24%;2;4;Average Joes;
+L;Cypher;1.17;281;20;14;3;89%;171;40%;1;1;Average Joes;
+L;Cypher;1.03;220;11;13;1;60%;136;18%;1;1;Average Joes;

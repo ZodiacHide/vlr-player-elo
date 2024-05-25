@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.03;215;17;15;3;62%;122;26%;1;1;1620 Kings;
+L;Jett;0.64;194;9;14;1;53%;118;32%;3;0;1620 Kings;
+L;Raze;0.64;148;10;17;1;47%;88;16%;1;2;1620 Kings;
+W;Raze;1.32;319;27;17;3;79%;201;19%;3;2;1620 Kings;
+L;Raze;0.72;177;9;14;6;61%;127;15%;3;0;1620 Kings;
+L;Jett;0.79;175;11;15;2;61%;93;24%;2;1;1620 Kings;

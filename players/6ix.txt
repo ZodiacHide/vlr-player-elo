@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;201;13;16;2; ;119;20%;2;0;BALANCED?;
+L;Cypher;0.83;169;14;18;4;54%;95;34%;2;4;YAZDA;
+W;Cypher;1.19;197;17;11;4;67%;96;29%;2;2;YAZDA;
+W;Killjoy;0.72;204;12;15;5;68%;143;30%;2;2;YAZDA;
+W;Sage;1.15;200;27;20;16;88%;117;28%;0;0;YAZDA;
+L;Killjoy;0.99;226;15;15;2;47%;157;35%;3;5;YAZDA;
+L;Cypher;1.13;228;16;15;2;53%;139;25%;3;4;YAZDA;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Viper;0.75;217;11;14;3;71%;123;35%;2;0;East Hill;
+L;Sage;0.53;120;6;13;2;50%;72;40%;0;1;East Hill;
+L;Sova;0.76;163;7;14;8;80%;106;43%;1;0;East Hill;

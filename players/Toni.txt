@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;187;19;22;11; ;131;24%;3;0;YFP Gaming;
+W;Omen; ;188;16;16;1; ;117;23%;3;2;ANEW Esports;
+L;Omen; ;161;12;19;4; ;98;13%;2;3;ANEW Esports;
+L;Jett; ;155;7;14;3; ;100;14%;0;3;ANEW Esports;
+L;Jett; ;205;12;18;3; ;113;16%;4;2;ANEW Esports;

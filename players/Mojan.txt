@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;151;8;15;2; ;105;19%;2;1;Good Game;
+L;Viper; ;123;8;16;1; ;72;36%;2;1;Good Game;
+L;Viper; ;201;16;17;5; ;105;8%;3;1;Good Game;
+W;Viper; ;158;14;16;3; ;89;24%;1;1;Good Game;
+W;Jett; ;215;12;13;5; ;119;14%;4;2;Good Game;
+L;Jett; ;127;9;19;3; ;93;18%;0;2;Good Game;

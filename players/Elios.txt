@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen;1.06;197;17;15;4;83%;136;19%;1;1;Ghost CommandoS;
+W;Omen;1.02;190;12;9;2;82%;109;15%;1;0;Ghost CommandoS;
+L;Omen;0.99;196;19;16;5;69%;106;14%;1;1;Ghost CommandoS;
+L;Omen;0.52;133;8;15;2;65%;93;30%;1;2;Ghost CommandoS;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;199;16;18;12; ;163;23%;4;2;Gamerbots;
+W;Breach; ;179;21;17;13; ;110;39%;2;5;Gamerbots;
+W;Breach; ;192;14;14;14; ;113;26%;1;0;Gamerbots;
+L;Breach; ;135;10;16;10; ;85;19%;1;1;Gamerbots;
+L;Breach; ;123;10;16;6; ;73;7%;2;1;Gamerbots;

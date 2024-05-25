@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;256;12;14;4; ;149;26%;0;2;Rated Gaming;
+L;Cypher; ;165;11;16;1; ;113;46%;0;5;Rated Gaming;
+L;Cypher;0.92;183;13;16;3;53%;114;45%;2;1;Lazarus;
+L;Cypher;0.75;194;12;18;4;52%;124;16%;3;3;Lazarus;
+L;Sage;0.25;61;2;16;3;39%;38;11%;0;5;Lazarus;

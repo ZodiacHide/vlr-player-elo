@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;89;3;14;2; ;54;4%;1;2;Kaster Onez;
+L;Reyna; ;152;8;13;3; ;78;5%;1;0;Kaster Onez;

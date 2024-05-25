@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.52;150;7;17;7;47%;99;16%;1;1;Origin Sky;
+L;Sova;0.68;158;8;15;4;63%;96;20%;1;1;Origin Sky;
+L;Sova;0.70;161;11;18;7;68%;112;19%;0;2;Origin Sky;

@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;152;7;17;4; ;99;6%;2;2;OffLimits;
+L;Raze; ;148;10;20;5; ;97;10%;1;3;OffLimits;
+L;Raze; ;215;16;18;8; ;143;23%;2;5;OffLimits;
+L;Raze; ;134;8;14;0; ;80;3%;1;5;OffLimits;
+W;Raze; ;314;21;16;7; ;191;14%;6;2;Pingu Gang;
+L;Raze; ;203;15;17;3; ;128;13%;3;1;Pingu Gang;
+L;Raze; ;304;19;17;4; ;164;11%;6;3;Pingu Gang;
+L;Killjoy;0.57;125;5;13;1;27%;79;6%;2;1;4iHNK;
+L;Killjoy;0.81;229;14;16;2;59%;121;19%;2;1;4iHNK;
+L;Brimstone;0.75;181;13;18;7;50%;107;16%;2;4;Monkey Stars;
+L;Astra;0.63;136;6;15;5;53%;93;13%;2;2;Monkey Stars;

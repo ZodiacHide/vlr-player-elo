@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.65;201;11;14;7;69%;123;6%;0;1;ONYX Purple;
+L;Sage;0.51;120;9;23;15;62%;89;16%;0;2;ONYX Purple;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.85;171;11;15;6;74%;119;22%;1;1;Massive Physiques;
+W;Astra;1.25;258;17;8;3;82%;142;26%;2;3;Massive Physiques;
+L;Viper;0.45;142;8;16;2;59%;96;39%;2;3;Massive Physiques;

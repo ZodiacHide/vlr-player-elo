@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;41;1;14;4; ;27;20%;0;2;John Howard;
+L;Skye;0.30;61;4;13;0;38%;43;13%;0;4;John Howard;
+L;Sage;0.70;135;8;17;7;64%;96;13%;2;1;John Howard;

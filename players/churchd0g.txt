@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Breach; ;113;5;14;1; ;76;22%;0;2;Fighting 4 Freedom;
+L;Breach; ;179;13;17;3; ;81;14%;3;2;Fighting 4 Freedom;
+W;Breach; ;88;5;10;4; ;56;8%;1;2;Fighting 4 Freedom;
+L;Breach; ;159;8;17;9; ;104;11%;2;1;Fighting 4 Freedom;

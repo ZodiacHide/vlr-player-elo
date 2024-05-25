@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;204;11;13;1; ;126;33%;1;3;Manse PP;
+L;Jett; ;152;8;17;5; ;108;18%;2;3;Manse PP;
+L;Reyna; ;130;5;13;2; ;65;20%;1;3;Manse PP;
+L;Jett; ;125;6;15;2; ;74;30%;1;3;Manse PP;
+L;Jett; ;124;5;15;4; ;86;17%;1;3;Manse PP;
+L;Breach; ;241;12;15;2; ;148;15%;5;3;Manse PP;

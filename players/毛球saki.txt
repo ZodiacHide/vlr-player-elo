@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Jett;1.42;262;18;11;7;80%;155;29%;6;2;ShanXi Gaming;
+W;Jett;1.19;279;18;15;3;74%;143;14%;6;1;ShanXi Gaming;
+L;Jett;0.75;190;10;13;2;38%;118;32%;1;6;ShanXi Gaming;
+L;Jett;0.82;147;9;12;2;68%;89;25%;2;1;ShanXi Gaming;

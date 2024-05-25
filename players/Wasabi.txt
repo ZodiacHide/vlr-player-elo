@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Skye;0.67;191;7;14;4;60%;113;24%;0;2;Sivasspor E-Spor;
+L;Sova;0.79;166;10;15;2;47%;89;13%;1;2;Sivasspor E-Spor;

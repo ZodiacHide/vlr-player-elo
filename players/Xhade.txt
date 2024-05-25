@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova; ;371;29;15;7; ;213;16%;3;1;xCeed;
+L;Sova; ;252;19;16;5; ;168;27%;2;0;xCeed;
+L;Sova; ;220;11;12;1; ;132;16%;2;1;xCeed;
+W;Jett; ;150;10;8;2; ;93;10%;1;3;Paratroops;
+W;Jett; ;330;19;7;4; ;192;22%;3;1;Paratroops;
+W;Killjoy; ;204;17;11;2; ;126;19%;1;0;Paratroops;
+L;Killjoy; ;171;12;16;5; ;122;14%;0;2;Paratroops;
+L;Jett; ;192;15;17;3; ;106;17%;1;4;Paratroops;
+W;Killjoy; ;255;18;6;4; ;168;16%;0;0;Paratroops;
+W;Killjoy; ;201;14;9;5; ;175;14%;1;1;Paratroops;

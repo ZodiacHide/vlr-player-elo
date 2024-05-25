@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;159;14;26;8; ;109;19%;1;5;SLAMMING GEARS;
+L;Raze; ;179;11;22;5; ;123;13%;5;4;SLAMMING GEARS;
+L;Phoenix; ;264;18;19;7; ;147;25%;1;1;SLAMMING GEARS;
+L;Raze; ;221;12;20;10; ;142;14%;5;3;SLAMMING GEARS;
+L;Raze; ;287;21;19;12; ;197;13%;2;1;SLAMMING GEARS;
+L;Sage; ;137;9;17;3; ;65;32%;3;6;SLAMMING GEARS;
+L;Raze; ;142;8;16;3; ;86;7%;4;3;SLAMMING GEARS;
+W;Raze; ;296;25;14;1; ;184;18%;3;4;SLAMMING GEARS;
+L;Raze; ;260;16;18;6; ;162;12%;3;5;SLAMMING GEARS;
+L;Jett;0.87;292;19;19;5;68%;185;31%;4;5;Macko Esports;
+L;Jett;1.35;300;22;17;4;70%;170;14%;4;2;Macko Esports;

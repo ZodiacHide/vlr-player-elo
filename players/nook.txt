@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;254;22;14;6; ;165;16%;1;2;Appa Yip Yip;
+L;Sova; ;143;8;15;9; ;114;30%;0;1;Appa Yip Yip;
+L;Omen; ;173;19;13;4; ;101;22%;0;0;Appa Yip Yip;

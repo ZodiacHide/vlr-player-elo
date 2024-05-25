@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;179;10;13;4; ;128;16%;2;0;SLO;
+L;Sova; ;232;12;12;5; ;208;13%;1;1;SLO;
+L;Sova; ;147;13;9;5; ;92;22%;0;0;SLO;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;97;6;13;1; ;74;31%;0;1;mercenaries;
+W;Breach; ;215;16;8;8; ;127;24%;2;1;Event Horizon;
+L;Sova; ;137;5;13;5; ;102;21%;0;0;Event Horizon;
+W;Sova; ;192;16;16;10; ;109;16%;0;0;Event Horizon;
+L;Sova; ;135;9;15;5; ;77;19%;1;1;Event Horizon;

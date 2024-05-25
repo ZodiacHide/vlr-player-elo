@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;209;18;13;2; ;123;13%;1;4;BLAHAJ;
+L;Raze; ;241;21;22;3; ;153;26%;4;1;BLAHAJ;
+L;Raze; ;154;12;22;6; ;99;12%;4;2;BLAHAJ;
+L;Sova; ;182;10;14;4; ;113;35%;2;0;BLAHAJ;
+L;Phoenix; ;192;12;14;3; ;100;19%;0;1;BLAHAJ;

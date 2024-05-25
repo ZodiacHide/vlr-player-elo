@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage; ;187;13;17;8; ; ; ;4; ;Dire Wolves;
+W;Sage; ;184;17;19;8; ; ; ;1; ;Dire Wolves;
+L;Sage; ;120;9;17;10; ; ; ;1; ;Dire Wolves;
+L;Sova; ;74;5;18;5; ;55;3%;0;3;Dire Wolves;
+W;Sova; ;183;15;12;11; ;113;19%;1;2;Dire Wolves;
+L;Sova; ;131;7;14;2; ;65;4%;1;1;Dire Wolves;
+W;Sova; ;207;11;9;7; ;180;20%;4;0;Dire Wolves;
+L;Sova; ;128;9;17;7; ;81;12%;0;3;Dire Wolves;
+L;Sova; ;57;3;14;3; ;44;13%;0;0;Dire Wolves;

@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Cypher; ;181;14;10;2; ;119;23%;0;2;eXiLe Academy;
+L;Cypher; ;149;9;15;2; ;88;17%;1;0;eXiLe Academy;
+L;Cypher; ;191;18;16;5; ;111;26%;0;1;eXiLe Academy;
+L;Killjoy;0.85;231;14;16;1;65%;139;16%;1;0;Dream Team;
+L;Killjoy;0.62;124;8;18;6;50%;90;6%;0;1;Dream Team;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Omen; ;201;13;15;4; ;110;25%;2;2;OffLimits;
+L;Omen; ;141;11;16;6; ;76;23%;1;1;OffLimits;
+L;Omen; ;239;21;13;6; ;156;31%;3;0;OffLimits;
+L;Omen; ;153;9;12;2; ;156;57%;0;0;OffLimits;
+W;Omen; ;137;14;11;3; ;74;23%;1;1;Pingu Gang;
+L;Omen; ;211;15;15;3; ;123;27%;3;2;Pingu Gang;
+L;Omen; ;158;12;15;5; ;98;32%;0;0;Pingu Gang;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;219;13;13;0; ;194;24%;0;0;Unsold Stuff Gaming;

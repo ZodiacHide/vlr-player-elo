@@ -1,0 +1,8 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;L;S2V Esports;Icebox;ORGLESS5;kev1n;graphix;thebigfiz;Vince;HighKitty;9:13;False;41:34;Tuesday, February 16th, 10:15 PM CET;Champions Tour Europe Stage 1: Challengers 2;url.net;
+Defense;W;S2V Esports;Ascent;ORGLESS5;kev1n;graphix;thebigfiz;Vince;HighKitty;13:7;False;36:47;Tuesday, February 16th, 10:15 PM CET;Champions Tour Europe Stage 1: Challengers 2;url.net;
+Attack;W;S2V Esports;Split;ORGLESS5;kev1n;graphix;thebigfiz;Vince;HighKitty;13:7;False;37:50;Tuesday, February 16th, 10:15 PM CET;Champions Tour Europe Stage 1: Challengers 2;url.net;
+Attack;L;RARE Esports;Bind;Orgless5;BR4N;sturNN;SnapS;OPGLawyers;VINDICARE;7:13;False;48:34;Friday, April 16th, 5:00 PM CEST;Champions Tour Turkey Stage 2: Challengers 2;https://www.twitch.tv/videos/989506284?t=1h21m44s;
+Defense;L;RARE Esports;Haven;RARE Esports;BR4N;sturNN;SnapS;OPGLawyers;VINDICARE;7:13;False;33:53;Friday, April 16th, 5:00 PM CEST;Champions Tour Turkey Stage 2: Challengers 2;https://www.twitch.tv/videos/989506284?t=1h21m44s;
+Defense;L;Fire Flux Esports;Ascent;Fire Flux Esports;nekky;Rosé;VINDICARE;OPGLawyers;Bia;4:13;False;33:44;Thursday, July 1st, 8:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 1;https://www.twitch.tv/videos/1073553190?t=0h24m5s;
+Defense;L;Fire Flux Esports;Bind;Fire Flux Esports;nekky;Rosé;VINDICARE;OPGLawyers;Bia;10:13;False;45:13;Thursday, July 1st, 8:00 PM CEST;Champions Tour Turkey Stage 3: Challengers 1;https://www.twitch.tv/videos/1073553190?t=0h24m5s;

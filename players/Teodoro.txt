@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;203;17;17;6; ;133;23%;2;2;Builders;
+W;Breach; ;196;15;18;3; ;130;19%;2;0;Builders;
+L;Sova; ;152;7;13;1; ;107;37%;1;1;Builders;

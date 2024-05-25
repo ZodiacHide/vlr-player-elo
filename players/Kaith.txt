@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Astra;1.37;254;25;18;11;86%;178;28%;1;2;Lycus Empire Red;
+L;Astra;0.69;139;9;18;7;67%;104;24%;0;1;Lycus Empire Red;
+L;Viper;1.14;203;15;14;8;76%;136;25%;1;0;Lycus Empire Red;

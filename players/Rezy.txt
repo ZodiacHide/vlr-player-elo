@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;None;0;0;0;0;0;0;0;0;0;0;KappaPride;
+L;Viper;0.70;175;14;18;1;55%;110;35%;0;2;Tuwaiq Esports Club;
+L;Killjoy;0.55;133;9;17;2;63%;84;24%;1;2;Tuwaiq Esports Club;

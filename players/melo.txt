@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;234;14;14;3; ;159;19%;1;2;Nexus Gaming;
+L;Raze; ;181;14;23;8; ;141;18%;2;4;Nexus Gaming;
+W;Raze; ;367;17;10;5; ;222;20%;3;1;Nexus Gaming;
+L;Sova; ;170;14;19;7; ;124;18%;0;1;Nexus Gaming;

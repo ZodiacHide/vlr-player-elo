@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;221;19;20;5; ;130;10%;4;5;AKIHABARA ENCOUNT;

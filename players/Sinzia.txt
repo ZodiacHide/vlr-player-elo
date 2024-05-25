@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova;0.51;119;7;18;3;57%;68;11%;3;1;ELNiS Esports;
+L;Sova;0.68;176;7;15;6;59%;128;12%;1;1;ELNiS Esports;

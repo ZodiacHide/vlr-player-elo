@@ -1,0 +1,12 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sage;0.51;115;6;14;1;35%;68;35%;1;4;BBBongos;
+W;Raze;0.63;158;11;19;5;65%;118;12%;4;4;BBBongos;
+L;Jett;1.09;200;17;15;2;71%;138;18%;7;2;BBBongos;
+L;Jett;0.78;163;16;25;8;69%;113;16%;6;1;The Goose House;
+W;Raze;1.35;270;16;8;2;81%;174;29%;2;0;The Goose House;
+W;Jett;1.26;261;22;15;5;71%;154;32%;5;4;The Goose House;
+L;Raze;1.12;228;15;13;1;63%;133;16%;0;3;The Goose House;
+W;Jett;1.18;240;21;16;4;71%;153;31%;3;1;The Goose House;
+L;Jett;1.35;352;23;15;6;79%;214;30%;4;2;The Goose House;
+L;Raze;0.79;176;14;18;1;45%;123;28%;0;3;The Goose House;
+L;Raze;0.93;239;17;18;3;60%;149;23%;1;6;The Goose House;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;215;9;15;2; ;154;24%;3;2;John Howard;
+L;Jett;0.67;180;7;12;5;69%;127;19%;2;4;John Howard;
+L;Jett;1.28;316;24;16;2;77%;172;22%;2;2;John Howard;

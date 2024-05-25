@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Raze; ;310;23;13;2; ; ; ;6; ;defkon;
+L;Raze; ;217;9;14;7; ; ; ;1; ;defkon;
+L;Jett; ;246;15;17;9; ; ; ;2; ;defkon;
+L;Phoenix; ;87;4;14;2; ;62;11%;2;5;No2B e-Sports;
+L;Reyna; ;128;10;18;2; ;81;11%;3;4;No2B e-Sports;
+W;Phoenix; ;267;17;12;3; ;166;35%;2;2;No2B e-Sports;
+L;Phoenix; ;199;17;16;4; ;127;26%;4;2;No2B e-Sports;
+L;Jett; ;206;18;17;6; ;147;19%;7;3;REVOADINHA;
+W;Phoenix; ;232;11;10;7; ;136;23%;2;0;REVOADINHA;
+L;Jett; ;205;15;18;2; ;116;29%;3;4;REVOADINHA;

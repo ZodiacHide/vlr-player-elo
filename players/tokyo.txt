@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;186;15;19;4; ;121;20%;2;2;MROrgless;
+L;Jett; ;197;16;15;4; ;125;17%;4;3;MROrgless;

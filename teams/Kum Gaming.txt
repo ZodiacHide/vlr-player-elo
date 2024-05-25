@@ -1,0 +1,7 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;CR4ZY;Split;Decider;Sp1eez;Bayzon;mishA;Cart00nZ;GrejacKlupe;5:13;False;26:47;Tuesday, September 29th, 6:45 PM CEST;Show Your Valor;https://www.twitch.tv/videos/755558925?t=1h18m12s;
+Defense;W;lvlUP;Ascent;Decider;Sp1eez;Bayzon;Uglomer;mishA;Cart00nZ;13:4;False;26:37;Sunday, October 4th, 6:00 PM CEST;Show Your Valor;url.net;
+Defense;L;Team Toxic;Haven;Decider;Uglomer;mishA;Bayzon;Sp1eez;Cart00nZ;7:13;False;37:27;Tuesday, October 6th, 8:50 PM CEST;Show Your Valor;https://www.twitch.tv/videos/762339284?t=03h21m26s;
+Defense;W;Marten Gaming;Haven;Decider;Sp1eez;Cart00nZ;Uglomer;Bayzon;mishA;13:10;False;49:29;Sunday, October 11th, 6:10 PM CEST;Show Your Valor;https://www.twitch.tv/videos/767350509?t=0h39m26s;
+Defense;L;MUTED;Split;Decider;mishA;Sp1eez;Cart00nZ;Uglomer;Bayzon;10:13;False;38:51;Tuesday, October 13th, 8:40 PM CEST;Show Your Valor;https://www.twitch.tv/videos/769216543?t=3h10m22s;
+Defense;W;Good Game;Haven;Decider;Uglomer;Cart00nZ;Sp1eez;Bayzon;mishA;13:10;False;39:53;Tuesday, October 20th, 6:00 PM CEST;Show Your Valor;https://www.twitch.tv/videos/776241244?t=0h38m56s;

@@ -1,0 +1,12 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Attack;W;The Future;Split;Les Zinzins De Lespace;bRAAHH;PanNiKkK;fROKIZ;Kiiyo;NowaXxZang;13:9;False;44:26;Monday, June 28th, 10:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;https://www.twitch.tv/videos/1070491182?t=0h8m11s;
+Defense;L;The Future;Ascent;Les Zinzins De Lespace;bRAAHH;PanNiKkK;fROKIZ;Kiiyo;NowaXxZang;7:13;False;35:03;Monday, June 28th, 10:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;https://www.twitch.tv/videos/1070491182?t=0h8m11s;
+Attack;W;The Future;Bind;Les Zinzins De Lespace;bRAAHH;PanNiKkK;fROKIZ;Kiiyo;NowaXxZang;13:5;False;35:37;Monday, June 28th, 10:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;https://www.twitch.tv/videos/1070491182?t=0h8m11s;
+Defense;W;HEET;Icebox;Les Zinzins De Lespace;fROKIZ;NowaXxZang;bRAAHH;BaWaN;Kiiyo;13:8;False;41:47;Tuesday, June 29th, 6:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;url.net;
+Defense;L;HEET;Bind;Les Zinzins De Lespace;fROKIZ;NowaXxZang;bRAAHH;BaWaN;Kiiyo;5:13;False;36:43;Tuesday, June 29th, 6:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;url.net;
+Defense;L;HEET;Ascent;Les Zinzins De Lespace;fROKIZ;NowaXxZang;bRAAHH;BaWaN;Kiiyo;6:13;False;33:56;Tuesday, June 29th, 6:00 PM CEST;Champions Tour Europe Stage 3: Challengers 1;url.net;
+Attack;L;MTP Esport;Split;MTP Esport;fROKIZ;SM9LE;bRAAHH;Kiiyo;NowaXxZang;9:13;False;40:59;Wednesday, July 21st, 9:00 PM CEST;Champions Tour Europe Stage 3: Challengers 2;url.net;
+Attack;L;MTP Esport;Icebox;MTP Esport;fROKIZ;SM9LE;bRAAHH;Kiiyo;NowaXxZang;10:13;False;42:44;Wednesday, July 21st, 9:00 PM CEST;Champions Tour Europe Stage 3: Challengers 2;url.net;
+Attack;W;123TAP;Ascent;Les Zinzins De Lespace;Jakexd;Sayonara;Kiiyo;fROKIZ;NowaXxZang;13:1;False;28:37;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;
+Defense;L;123TAP;Breeze;Les Zinzins De Lespace;Jakexd;Sayonara;Kiiyo;fROKIZ;NowaXxZang;11:13;False;41:57;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;
+Attack;L;123TAP;TBD;Les Zinzins De Lespace;Jakexd;Sayonara;Kiiyo;fROKIZ;NowaXxZang;0:0;False;-;Thursday, August 26th, 5:00 PM CEST;LVP Rising Series #3;url.net;

@@ -1,0 +1,9 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Omen; ;292;18;9;6; ;171;27%;3;1;KINGSLAYERS;
+W;Omen; ;220;15;7;2; ;123;13%;1;2;KINGSLAYERS;
+L;Omen; ;217;16;18;4; ;120;9%;2;1;KINGSLAYERS;
+L;None;0;0;0;0;0;0;0;0;0;0;KINGSLAYERS;
+L;Brimstone; ;217;18;18;12; ;136;10%;2;1;KINGSLAYERS;
+L;Omen;0.69;125;11;22;14;73%;86;12%;3;2;KINGSLAYERS;
+W;Omen;1.31;266;22;14;5;82%;143;15%;2;1;KINGSLAYERS;
+L;Brimstone;0.82;155;13;17;9;65%;85;8%;0;3;KINGSLAYERS;

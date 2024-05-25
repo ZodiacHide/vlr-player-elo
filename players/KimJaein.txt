@@ -1,0 +1,5 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Cypher; ;222;16;16;7; ;139;22%;1;2;Team Solace;
+L;Cypher; ;116;6;13;2; ;81;29%;1;0;Team Solace;
+L;Cypher; ;152;12;13;5; ;105;13%;1;1;Team Solace;
+L;Cypher; ;161;13;13;4; ;98;21%;0;3;Team Solace;

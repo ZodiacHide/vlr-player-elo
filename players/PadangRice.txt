@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Sova; ;178;12;16;5; ;104;15%;1;2;Somnium Esports;
+L;Sova;0.94;254;20;20;6;74%;170;12%;1;3;Somnium Esports;
+L;Sage;0.56;140;9;15;3;58%;95;14%;2;1;Somnium Esports;

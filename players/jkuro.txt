@@ -1,0 +1,10 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;155;12;17;4; ;103;26%;3;4;CBT Gaming;
+W;Jett; ;192;14;12;2; ;106;19%;3;4;CBT Gaming;
+L;Jett; ;204;12;14;1; ;130;20%;1;3;CBT Gaming;
+L;Reyna; ;212;13;16;3; ;110;15%;2;0;CBT Gaming;
+L;Jett; ;226;15;16;3; ;146;31%;3;4;CBT Gaming;
+W;Jett; ;300;20;13;3; ;173;28%;6;4;CBT Gaming;
+W;Jett; ;219;15;15;4; ;137;28%;6;2;CBT Gaming;
+W;Jett; ;173;15;17;3; ;102;17%;4;6;CBT Gaming;
+W;Jett; ;222;19;12;3; ;142;30%;1;2;CBT Gaming;

@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Astra;0.67;224;12;17;5;82%;132;21%;5;2;Gunslingers;
+L;Astra;0.58;126;10;21;5;65%;91;30%;1;3;Gunslingers;
+W;Astra;1.02;207;12;12;5;72%;140;23%;1;0;Gunslingers;

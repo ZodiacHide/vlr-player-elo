@@ -1,0 +1,16 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;221;13;18;2; ;144;33%;2;1;AG.Nefarious;
+L;Breach; ;89;5;14;7; ;115;16%;0;1;AG.Nefarious;
+W;Jett; ;220;17;15;8; ;142;14%;4;1;ex-SV Empire;
+W;Phoenix; ;209;19;15;4; ;139;43%;2;3;ex-SV Empire;
+W;Jett; ;251;20;17;5; ;149;16%;3;2;ex-SV Empire;
+W;Phoenix; ;324;22;13;8; ;182;34%;4;2;ex-SV Empire;
+L;Jett; ;192;15;16;3; ;127;35%;1;1;ex-SV Empire;
+L;Jett; ;155;10;18;5; ;100;18%;5;6;ex-SV Empire;
+L;Phoenix; ;273;21;15;2; ;170;29%;4;2;ex-SV Empire;
+W;Raze; ;251;17;15;3; ;151;17%;4;3;ex-SV Empire;
+L;Jett; ;202;19;22;3; ;123;24%;5;6;ex-SV Empire;
+L;Phoenix; ;182;12;19;4; ;113;13%;4;5;ex-SV Empire;
+L;Cypher; ;145;9;13;2; ;108;21%;0;4;ex-SV Empire;
+W;Jett; ;353;24;12;2; ;213;25%;7;1;ex-SV Empire;
+L;Cypher; ;186;12;16;4; ;120;20%;4;4;ex-SV Empire;

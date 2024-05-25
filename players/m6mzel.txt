@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Breach; ; ; ; ; ; ; ; ; ; ;clowns;
+L;Breach; ;152;12;17;3; ; ; ;1; ;clowns;
+L;Omen; ;169;10;16;2; ;108;19%;2;1;clowns;

@@ -1,0 +1,2 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.57;162;8;14;1;47%;94;12%;3;0;1Tap Tavern;

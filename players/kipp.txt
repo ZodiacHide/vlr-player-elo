@@ -1,0 +1,6 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;0.48;126;6;16;4;56%;75;16%;0;0;FREELO;
+W;Killjoy;1.19;195;17;12;3;73%;105;11%;2;0;FREELO;
+W;Astra;0.78;202;19;20;3;71%;120;17%;4;4;FREELO;
+L;Killjoy;0.71;109;9;16;4;67%;76;11%;0;2;FREELO;
+L;Killjoy;0.61;150;10;18;3;45%;111;23%;3;1;FREELO;

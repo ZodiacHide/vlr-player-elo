@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett; ;185;17;18;1; ;110;9%;4;2;Builders;
+W;Jett; ;198;16;14;3; ;120;17%;3;4;Builders;
+L;Jett; ;165;6;12;2; ;104;23%;0;3;Builders;

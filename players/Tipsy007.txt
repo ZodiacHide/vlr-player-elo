@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Viper;0.94;149;8;10;5;76%;100;18%;2;1;Mist Walkers;
+L;Viper;0.79;158;11;16;6;65%;86;17%;1;0;Mist Walkers;

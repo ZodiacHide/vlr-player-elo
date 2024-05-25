@@ -1,0 +1,14 @@
+starting_side; map_result; opposing_team_name; map_name; map_pick; player1; player2; player3; player4; player5; scoreline; overtime;match_length; date_of_match; event_name; vod_link;
+Defense;L;AG;Icebox;EZ KATKA;stimx;pashapain666;tonyblack;AM3LIE;m0z;8:13;False;41:21;Saturday, June 26th, 1:00 PM CEST;Moscow Cybersport Series #3;url.net;
+Attack;L;AG;Ascent;EZ KATKA;stimx;pashapain666;tonyblack;AM3LIE;m0z;11:13;False;50:46;Saturday, June 26th, 1:00 PM CEST;Moscow Cybersport Series #3;url.net;
+Defense;W;Axsor;Breeze;Axsor;pashapain666;tonyblack;mate;stimx;soze;13:10;False;45:06;Tuesday, August 24th, 5:00 PM CEST;GLA Baku Summer Cup 2021;https://www.twitch.tv/videos/1128051520?t=676s;
+Attack;L;Axsor;Bind;Axsor;pashapain666;tonyblack;mate;stimx;soze;8:13;False;44:05;Tuesday, August 24th, 5:00 PM CEST;GLA Baku Summer Cup 2021;https://www.twitch.tv/videos/1128051520?t=676s;
+Attack;W;Axsor;Ascent;Axsor;pashapain666;tonyblack;mate;stimx;soze;13:9;False;46:16;Tuesday, August 24th, 5:00 PM CEST;GLA Baku Summer Cup 2021;https://www.twitch.tv/videos/1128051520?t=676s;
+Attack;L;GMT Esports;Icebox;GMT Esports;soze;tonyblack;mate;stimx;pashapain666;2:13;False;30:08;Thursday, August 26th, 5:00 PM CEST;GLA Baku Summer Cup 2021;https://www.twitch.tv/videos/1130066675?t=00h10m41s;
+Defense;L;GMT Esports;Breeze;GMT Esports;soze;tonyblack;mate;stimx;pashapain666;7:13;False;40:08;Thursday, August 26th, 5:00 PM CEST;GLA Baku Summer Cup 2021;https://www.twitch.tv/videos/1130066675?t=00h10m41s;
+Defense;L;Team Singularity;Ascent;EZ KATKA;soze;mate;tonyblack;pashapain666;stimx;8:13;False;42:50;Monday, August 30th, 7:00 PM CEST;GLA Baku Summer Cup 2021;url.net;
+Attack;W;Team Singularity;Haven;EZ KATKA;soze;mate;tonyblack;pashapain666;stimx;13:8;False;45:45;Monday, August 30th, 7:00 PM CEST;GLA Baku Summer Cup 2021;url.net;
+Defense;L;Team Singularity;Breeze;EZ KATKA;soze;mate;tonyblack;pashapain666;stimx;5:13;False;37:02;Monday, August 30th, 7:00 PM CEST;GLA Baku Summer Cup 2021;url.net;
+Attack;W;Aim.Attack;Haven;EZ KATKA;pashapain666;tonyblack;stimx;soze;mate;14:12;True;52:43;Tuesday, August 31st, 5:00 PM CEST;GLA Baku Summer Cup 2021;https://www.twitch.tv/videos/1135002292?t=933s;
+Attack;W;Aim.Attack;Ascent;EZ KATKA;pashapain666;tonyblack;stimx;soze;mate;13:2;False;30:29;Tuesday, August 31st, 5:00 PM CEST;GLA Baku Summer Cup 2021;https://www.twitch.tv/videos/1135002292?t=933s;
+Attack;L;GMT Esports;Bind;Decider;mate;stimx;pashapain666;Enroy;soze;9:13;False;44:48;Sunday, September 26th, 5:00 PM CEST;Circuito de Elite - Round #3;url.net;

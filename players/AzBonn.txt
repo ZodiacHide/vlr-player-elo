@@ -1,0 +1,11 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Killjoy;1.00;207;17;16;7;83%;140;25%;2;0;Damianos Esport;
+L;Reyna;1.15;256;18;17;9;59%;180;33%;4;4;Damianos Esport;
+L;Reyna;0.91;193;14;18;4;62%;131;34%;4;3;HE Gaming;
+W;Reyna;2.07;452;27;6;5;88%;302;37%;3;1;HE Gaming;
+W;Reyna;1.09;185;22;16;8;92%;113;16%;6;2;HE Gaming;
+L;Reyna;1.03;227;22;18;3;69%;141;34%;3;5;HE Gaming;
+L;Reyna;1.02;207;18;16;4;75%;150;26%;1;2;HE Gaming;
+W;Reyna;1.38;270;26;18;9;75%;179;25%;2;2;HE Gaming;
+L;Reyna;0.98;226;17;17;2;65%;129;30%;3;3;HE Gaming;
+L;Reyna;0.89;270;12;15;1;53%;181;41%;4;1;HE Gaming;

@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Raze; ;167;8;15;3; ;93;14%;4;1;Genuine Gaming;
+L;Breach; ;43;1;15;2; ;34;7%;0;3;Genuine Gaming;
+L;Raze; ;223;16;18;4; ;148;15%;4;5;Genuine Gaming;
+L;Killjoy; ;144;7;15;3; ;95;20%;2;5;Genuine Gaming;
+L;Killjoy; ;121;6;16;3; ;81;16%;0;2;Genuine Gaming;
+L;Killjoy; ;112;9;18;6; ;75;5%;1;4;Genuine Gaming;
+L;Cypher; ;150;8;16;8; ;103;15%;1;1;Genuine Gaming;

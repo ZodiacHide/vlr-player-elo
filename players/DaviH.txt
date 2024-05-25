@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Reyna;0.78;172;13;18;5;64%;107;12%;2;3;Macacos Bovinos;
+W;Reyna;1.47;258;23;11;8;77%;150;21%;1;1;Macacos Bovinos;
+L;Viper;1.08;247;16;15;5;74%;141;28%;1;2;Macacos Bovinos;

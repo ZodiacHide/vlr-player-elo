@@ -1,0 +1,8 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.11;269;22;18;4;74%;164;19%;4;3;RYU Gaming;
+L;Jett;1.61;357;26;14;4;85%;218;29%;6;1;RYU Gaming;
+L;Jett;0.39;146;7;14;2;40%;82;23%;2;4;RYU Gaming;
+L;Jett;0.92;252;19;19;2;73%;157;13%;3;3;RYU Gaming;
+W;Jett;1.53;351;20;10;4;93%;184;14%;8;1;RYU Gaming;
+L;Jett;0.76;201;14;17;1;60%;120;16%;4;1;RYU Gaming;
+L;Jett;0.79;192;12;14;1;53%;110;23%;3;2;RYU Gaming;

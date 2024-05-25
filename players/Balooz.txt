@@ -1,0 +1,3 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Kayo;0.68;193;13;21;11;62%;115;31%;1;2;Team Volpid;
+L;Jett;0.45;145;7;15;4;63%;96;18%;1;3;Team Volpid;

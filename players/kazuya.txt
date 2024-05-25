@@ -1,0 +1,7 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+L;Jett;1.34;324;26;17;3;77%;204;24%;6;3;TGS aXe;
+L;Jett;0.74;186;11;14;1;53%;106;19%;3;3;TGS aXe;
+W;None;0;0;0;0;0;0;0;0;0;0;TGS aXe;
+W;Jett;1.30;307;26;17;2;73%;186;21%;8;2;TGS aXe;
+L;Jett;0.28;142;5;15;3;27%;92;16%;2;6;TGS aXe;
+L;Jett;0.81;220;11;16;3;76%;149;34%;4;5;TGS aXe;

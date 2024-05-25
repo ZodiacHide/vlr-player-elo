@@ -1,0 +1,4 @@
+map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
+W;Sova;0.86;97;6;8;6;80%;64;5%;0;1;Evolved Gamers;
+L;Sova;0.58;110;4;12;3;44%;88;29%;0;4;Evolved Gamers;
+L;None;0;0;0;0;0;0;0;0;0;0;Evolved Gamers;
