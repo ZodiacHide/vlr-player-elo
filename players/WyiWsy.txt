@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;1.11;260;20;16;2;68%;150;18%;3;2;O2 Gaming;
-L;Jett;0.37;112;6;13;0;27%;66;21%;0;4;O2 Gaming;
-W;Raze;1.02;219;15;13;2;79%;138;8%;3;2;O2 Gaming;
-L;Jett;0.76;223;17;19;2;59%;120;13%;5;4;O2 Gaming;
-L;Jett;0.76;175;13;19;5;67%;112;20%;3;6;O2 Gaming;
-L;Raze;0.94;232;20;20;4;69%;159;14%;2;3;O2 Gaming;
-L;Jett;0.76;169;13;17;6;67%;109;24%;3;5;O2 Gaming;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;181;12;17;1; ;111;42%;2;7;Raptor Esport;
-L;Jett; ;161;8;13;3; ;162;39%;2;4;Raptor Esport;

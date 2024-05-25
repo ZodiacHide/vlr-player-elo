@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Viper;1.48;272;19;9;9;95%;164;50%;1;0;Rebirth Esports;
-L;Viper;0.84;189;16;17;6;71%;107;22%;0;3;Rebirth Esports;
-W;Killjoy;1.18;235;21;15;2;84%;162;35%;3;3;Rebirth Esports;

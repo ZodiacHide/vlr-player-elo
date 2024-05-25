@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;113;9;14;6; ;67;14%;0;1;Zanga7;
-L;Sova; ;109;4;17;8; ;75;12%;0;1;Zanga7;
-L;Sova;0.47;83;4;15;4;42%;54;5%;2;2;Team Godzilla;
-L;Sova;0.65;114;6;11;2;69%;76;29%;1;2;Team Godzilla;

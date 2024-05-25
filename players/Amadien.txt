@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;95;6;13;6; ;56;16%;0;2;Frigid;
-L;Breach; ;170;13;17;2; ;102;32%;0;1;Frigid;
-W;Jett; ;286;21;12;6; ;174;18%;2;1;Frigid;

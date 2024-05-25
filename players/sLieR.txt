@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;202;15;16;4; ;131;12%;5;2;Bencheados Academy;
-W;Cypher; ;230;18;10;3; ;134;14%;1;2;Bencheados Academy;
-L;Cypher; ;164;8;13;3; ;97;12%;0;0;Bencheados Academy;

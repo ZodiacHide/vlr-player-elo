@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;107;5;16;2; ;71;30%;3;1;SUMMIT's 탁아소;
-L;Reyna; ;131;6;13;2; ;80;39%;1;1;SUMMIT's 탁아소;

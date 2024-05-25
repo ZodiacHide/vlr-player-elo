@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;249;17;15;3; ;154;10%;1;4;KnockOut Esports;
-L;Reyna; ;200;10;14;3; ;127;16%;2;5;KnockOut Esports;
-L;Killjoy; ;114;4;14;3; ;84;18%;2;4;KnockOut Esports;

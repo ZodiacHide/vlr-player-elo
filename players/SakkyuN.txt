@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;161;13;17;4; ;133;25%;0;6;Ark5;
-L;Phoenix; ;191;7;12;2; ;148;22%;1;1;Ark5;
-L;Phoenix; ;183;8;12;4; ;114;14%;1;1;Ark5;
-L;Raze; ;120;7;15;4; ;85;10%;2;2;Ark5;

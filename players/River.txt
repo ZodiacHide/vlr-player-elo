@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy;1.73;291;16;3;4;93%;176;22%;1;1;Papara SuperMassive Female;
-W;Killjoy;0.96;162;12;11;2;84%;113;18%;1;0;Papara SuperMassive Female;
-W;Killjoy;1.38;254;18;11;3;89%;167;25%;2;1;Papara SuperMassive Female;
-W;Killjoy;1.27;240;13;6;1;93%;131;16%;4;1;Papara SuperMassive Female;
-W;Killjoy;1.05;177;14;13;5;73%;126;22%;2;3;Papara SuperMassive Female;
-L;Cypher;1.18;252;22;17;6;74%;155;20%;2;2;Papara SuperMassive Female;
-L;Killjoy;0.79;164;9;14;4;61%;126;23%;1;2;Papara SuperMassive Female;

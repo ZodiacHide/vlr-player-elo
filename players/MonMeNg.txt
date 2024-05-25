@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.40;119;7;17;3;47%;87;18%;2;2;LCVS esports club;

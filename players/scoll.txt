@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.81;199;10;15;4;69%;139;39%;1;0;DaBaby Clan;
-L;Sova;0.60;105;6;14;3;59%;72;17%;0;2;DaBaby Clan;

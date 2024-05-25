@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;186;8;13;1; ;119;37%;0;3;EthanK Fan Club;
-L;Omen; ;92;4;13;4; ;65;13%;1;1;EthanK Fan Club;

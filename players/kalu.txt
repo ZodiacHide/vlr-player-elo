@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;153;7;15;0; ;87;16%;0;4;lvlUP;
-L;Reyna; ;223;12;14;6; ;143;12%;2;2;lvlUP;
-L;Reyna; ;234;15;18;4; ;132;32%;4;4;lvlUP;
-L;Jett; ;244;17;16;1; ;140;24%;2;3;lvlUP;
-L;Jett; ;310;18;12;2; ;163;21%;2;0;lvlUP;
-L;Jett; ;279;14;13;0; ;173;13%;2;0;lvlUP;

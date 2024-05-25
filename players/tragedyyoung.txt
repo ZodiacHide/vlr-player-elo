@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;239;19;16;2; ;144;15%;2;5;+W party;
-W;Reyna; ;288;29;15;8; ;214;17%;4;2;+W party;
-W;Reyna; ;234;19;13;5; ;149;27%;5;4;+W party;
-L;Reyna; ;222;17;16;1; ;136;20%;6;4;+W party;
-L;Reyna; ;136;8;16;4; ;75;24%;2;4;+W party;

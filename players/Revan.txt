@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;283;20;14;5; ;160;24%;7;2;OWA OWA;
-L;Jett; ;111;6;16;1; ;79;38%;1;2;OWA OWA;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;1.09;128;6;5;4;100%;105;48%;0;1;Papara SuperMassive Female;
-W;Sova;1.36;207;14;8;11;79%;130;21%;3;0;Papara SuperMassive Female;
-W;Sova;1.53;293;20;9;7;100%;195;21%;3;1;Papara SuperMassive Female;
-W;Sova;1.84;293;15;2;7;100%;183;34%;1;0;Papara SuperMassive Female;
-W;Sova;1.32;267;20;14;9;86%;190;41%;1;0;Papara SuperMassive Female;
-L;Sova;1.14;221;17;17;8;74%;158;19%;3;1;Papara SuperMassive Female;
-L;Sova;1.01;212;14;13;6;72%;155;23%;0;1;Papara SuperMassive Female;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;71;2;12;4; ;60;20%;0;1;Sprayz Gaming;
-W;Skye; ;107;8;17;4; ;80;16%;0;3;Sprayz Gaming;
-L;Skye; ;231;16;20;8; ;158;23%;3;1;Sprayz Gaming;

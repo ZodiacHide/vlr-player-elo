@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;115;6;15;5; ;84;17%;1;0;Weeb Dream Team;
-W;Viper;1.04;211;17;19;12;65%;135;16%;4;3;Team X;
-L;Cypher;1.49;315;22;13;7;65%;198;22%;5;0;Team X;
-L;Cypher;0.67;194;15;20;5;67%;123;14%;1;3;Team X;

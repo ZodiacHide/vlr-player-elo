@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.56;183;10;15;2;44%;103;19%;1;1;Team 600;
-L;Jett;0.94;199;15;15;1;57%;121;25%;3;3;Team 600;
-W;Jett;1.21;272;23;17;4;74%;168;29%;4;1;Team 600;
-L;Jett;0.49;145;7;15;3;44%;96;27%;0;2;Team 600;

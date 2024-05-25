@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Viper;1.05;127;11;9;4;81%;87;21%;0;1;trying to win;
-L;Sage;0.85;193;16;18;5;75%;127;25%;2;1;trying to win;
-W;Killjoy;0.99;184;14;13;5;75%;121;11%;0;3;trying to win;

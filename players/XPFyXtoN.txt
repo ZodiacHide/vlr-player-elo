@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;91;4;13;0; ;57;14%;0;1;Team Happy;
-L;Breach; ;146;7;14;3; ;94;44%;1;3;Team Happy;
-L;Omen; ;242;13;14;2; ;122;27%;1;1;Team Happy;

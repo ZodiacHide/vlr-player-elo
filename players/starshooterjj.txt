@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;97;4;13;3; ;52;13%;0;3;HACKJR;
-L;Omen; ;246;13;15;4; ;150;10%;2;2;HACKJR;

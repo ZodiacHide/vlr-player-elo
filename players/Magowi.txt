@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.70;132;11;17;2;55%;91;34%;1;4;Hysteria;

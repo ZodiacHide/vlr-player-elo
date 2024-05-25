@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.98;235;20;19;6;74%;147;18%;3;2;Lapki;
-W;Breach;1.01;256;23;22;9;82%;163;21%;3;4;Lapki;

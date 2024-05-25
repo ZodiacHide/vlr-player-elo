@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;203;13;12;5; ; ; ;3; ;Oxygen Supremacy;
-W;Brimstone; ;196;16;16;5; ; ; ;1; ;Oxygen Supremacy;
-W;Brimstone; ;193;14;16;11; ; ; ;2; ;Oxygen Supremacy;
-W;Brimstone; ;237;13;9;7; ; ; ;1; ;Oxygen Supremacy;
-L;Brimstone; ;230;19;21;7; ; ; ;1; ;Oxygen Supremacy;
-L;Brimstone; ;175;8;14;5; ; ; ;2; ;Oxygen Supremacy;

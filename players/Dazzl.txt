@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;155;8;13;2; ;96;17%;1;1;Emerald Gaming;
-W;Omen; ;179;12;17;6; ;126;24%;1;2;Emerald Gaming;
-L;Omen; ;196;14;16;2; ;120;39%;1;3;Emerald Gaming;
-L;Omen; ;150;9;14;1; ;102;25%;1;0;Brotherhood of the Five;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;101;4;14;3; ;63;22%;2;1;GaDZoVKY;

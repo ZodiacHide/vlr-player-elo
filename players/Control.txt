@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;186;15;15;6; ;109;19%;2;0;RevX Necrosis;
-L;Sova;0.22;64;1;13;6;29%;62;10%;0;2;MercenarieZ;
-L;Sova;1.05;245;16;19;9;73%;155;19%;2;2;MercenarieZ;
-L;Sova;1.25;280;16;12;8;59%;186;25%;2;1;MercenarieZ;

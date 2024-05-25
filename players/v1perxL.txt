@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;317;25;19;5; ;184;32%;6;1;Radiant Esports;
-L;Phoenix; ;133;6;14;2; ;77;22%;1;4;Radiant Esports;
-L;Phoenix; ;100;6;16;1; ;62;27%;1;4;Radiant Esports;
-W;Breach; ;165;11;10;10; ;147;19%;2;2;Radiant Esports;

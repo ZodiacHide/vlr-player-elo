@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.72;173;10;15;3;67%;108;39%;1;1;FontanerosMaura;
-L;Sage;0.28;92;2;14;3;29%;70;37%;0;1;FontanerosMaura;

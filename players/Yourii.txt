@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.49;159;8;15;3;67%;101;38%;1;3;Team Doggo;
-L;Viper;0.80;150;10;16;4;48%;111;17%;0;2;Team Doggo;

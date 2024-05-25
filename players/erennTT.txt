@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;237;14;11;10; ;166;20%;1;2;Digital Athletics;
-W;Raze; ;268;18;12;4; ;179;38%;1;0;Digital Athletics;
-W;Raze; ;232;17;20;9; ;137;13%;4;3;Digital Athletics;
-L;Raze; ;158;11;17;4; ;98;20%;2;6;Digital Athletics;
-L;Raze; ;304;20;15;10; ;210;16%;1;3;Random Five;
-L;Raze; ;234;21;23;8; ;162;14%;3;4;Random Five;
-L;Jett;1.09;253;21;19;4;63%;174;39%;4;4;Cyber Skull Esports;
-L;Viper;0.96;220;16;18;8;75%;154;30%;2;1;Cyber Skull Esports;

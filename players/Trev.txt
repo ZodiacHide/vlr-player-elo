@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.03;32;1;13;0;15%;14;0%;0;2;Noxus Pro;

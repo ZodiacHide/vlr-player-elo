@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Skye; ;239;20;12;3; ;205;28%;0;0;Team CIS;
-L;Skye; ;154;8;13;3; ;104;24%;0;1;Team CIS;
-L;Raze; ;169;13;23;6; ;113;13%;0;4;Team CIS;
-L;Raze; ;192;18;21;4; ;118;14%;2;3;Team CIS;

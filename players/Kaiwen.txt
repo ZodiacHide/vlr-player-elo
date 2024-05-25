@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.07;50;2;14;2;43%;36;17%;0;5;Buffalo;
-L;Cypher;0.48;142;8;14;1;63%;94;33%;0;1;Buffalo;

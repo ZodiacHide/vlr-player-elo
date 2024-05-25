@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;125;11;9;4; ;88;15%;0;1;Radiant Esports;
-L;Sage; ;232;13;12;3; ;147;42%;0;1;Radiant Esports;
-L;Sage; ;119;5;15;7; ;87;15%;0;2;Radiant Esports;
-W;Brimstone; ;227;14;14;7; ;140;14%;2;3;Radiant Esports;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;47;3;17;4; ;21;9%;0;1;NXP.Aether;
-L;Breach; ;109;9;17;8; ;69;10%;0;3;NXP.Aether;
-L;Brimstone; ;215;20;18;6; ;138;19%;0;2;NXP.Aether;
-L;Killjoy; ;235;18;16;7; ;152;15%;5;0;NXP.Aether;
-L;Killjoy;0.47;105;8;21;4;50%;79;13%;2;2;Aether Esports;
-L;None;0;0;0;0;0;0;0;0;0;0;Aether Esports;

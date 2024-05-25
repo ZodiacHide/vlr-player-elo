@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze;1.21;260;22;15;5;75%;144;9%;0;1;Renatus Black;
-W;Skye;0.99;178;15;14;6;68%;106;28%;1;1;Renatus Black;
-L;Raze;0.93;236;19;17;4;68%;134;12%;2;1;Renatus Black;
-L;Raze;0.90;172;9;16;4;68%;114;14%;1;1;Renatus Black;
-L;Phoenix;0.97;255;19;18;4;78%;160;23%;3;2;Renatus Black;
-W;Skye;1.09;256;19;15;3;86%;157;23%;1;0;Renatus Black;
-W;Raze;1.65;346;25;10;3;85%;214;21%;3;2;Renatus Black;
-L;Skye;0.89;198;13;14;3;76%;129;32%;0;0;Renatus Black;

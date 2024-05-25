@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;237;28;29;10; ;160;14%;3;4;The Clappening;
-W;Raze; ;292;22;17;11; ;199;16%;4;4;The Clappening;
-W;Raze; ;304;17;10;1; ;178;15%;3;1;The Clappening;
-W;Raze; ;234;23;25;5; ;162;24%;4;2;The Clappening;
-L;Raze; ;183;9;14;3; ;118;23%;1;2;The Clappening;
-L;Raze; ;193;12;15;3; ;129;21%;1;2;The Clappening;

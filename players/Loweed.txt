@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;244;13;16;8; ;177;12%;0;1;Esquema Único;
-L;Raze; ;221;12;13;4; ;161;12%;1;1;Esquema Único;

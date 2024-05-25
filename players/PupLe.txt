@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;167;7;13;5; ;105;11%;0;0;re'born;
-W;Breach; ;225;19;14;6; ;130;22%;3;0;re'born;
-L;Breach; ;104;9;15;6; ;62;11%;0;1;re'born;
-L;Breach; ;137;8;14;5; ;141;9%;2;0;PK;
-L;Sova; ;122;7;14;2; ;85;12%;0;2;PK;
-L;Breach; ;129;11;14;7; ;82;33%;0;2;APEX PEOPLE;
-W;Breach; ;117;11;18;8; ;67;19%;1;2;APEX PEOPLE;
-L;Breach; ;145;7;16;11; ;98;10%;0;1;APEX PEOPLE;

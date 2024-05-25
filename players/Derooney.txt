@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;255;24;20;2; ;146;17%;2;3;RED5;
-W;Sova; ;98;5;16;11; ;68;27%;0;3;RED5;
-L;Sova; ;182;12;14;4; ;126;25%;2;3;RED5;
-W;Killjoy; ;168;14;15;5; ;153;16%;1;0;RED5;
-L;Sova; ;102;6;19;4; ;76;12%;1;2;RED5;
-L;Viper; ;170;8;14;1; ;104;30%;0;4;We Need Org;
-L;Raze; ;225;18;18;6; ;125;16%;2;2;We Need Org;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;1.19;267;20;14;0;85%;150;20%;4;1;Team Legion;
-W;Reyna;1.10;251;19;18;6;79%;157;17%;4;3;Team Legion;
-W;Reyna;0.95;220;15;15;1;68%;120;31%;3;2;Team Legion;
-L;Reyna;0.54;121;8;15;5;53%;75;28%;1;2;Team Legion;
-L;Reyna;0.79;162;13;18;5;52%;116;16%;3;4;Team Legion;
-W;Kayo;1.18;247;17;14;8;65%;145;17%;4;4;Team Legion;
-L;Kayo;0.60;157;10;18;2;63%;96;26%;4;1;Team Legion;

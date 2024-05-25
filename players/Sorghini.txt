@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;171;7;13;1; ;89; ;3; ;Fox Wizards;

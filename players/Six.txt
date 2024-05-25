@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;183;12;14;5; ;116;26%;1;2;ANBU Elite Gaming;
-W;Omen; ;188;14;12;2; ;152;29%;0;3;ANBU Elite Gaming;
-L;Omen; ;186;14;12;5; ;126;21%;3;2;ANBU Elite Gaming;
-L;Cypher; ;169;15;15;2; ;105;23%;2;4;ANBU Elite Gaming;
-L;Cypher; ;83;4;13;2; ;49;28%;0;4;ANBU Elite Gaming;
-L;Omen; ;176;9;13;0; ;104;28%;4;3;ANBU Elite Gaming;
-L;Omen; ;287;23;20;6; ;157;20%;4;2;ANBU Elite Gaming;
-L;Cypher; ;273;21;16;11; ;215;19%;1;5;ANBU Elite Gaming;

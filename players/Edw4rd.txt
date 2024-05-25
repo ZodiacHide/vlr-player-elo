@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.80;177;14;19;6;69%;104;19%;1;5;Boss Gold;

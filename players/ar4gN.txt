@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach;1.19;152;10;8;3;80%;104;21%;1;0;Einheit;
-L;Viper;0.67;130;9;16;4;55%;87;30%;1;2;Einheit;
-W;Sova;1.12;192;20;15;5;69%;114;19%;3;0;Einheit;
-L;Breach;0.97;202;18;15;2;74%;128;36%;1;0;Einheit;
-W;Sova;1.31;251;21;11;7;78%;161;12%;0;0;Einheit;
-L;Sova;0.73;108;8;16;8;73%;76;12%;0;1;Einheit;

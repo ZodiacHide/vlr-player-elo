@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Viper;1.16;248;18;17;12;74%;154;19%;1;2;LIZHI;
-W;Skye;1.09;202;15;11;4;89%;101;34%;5;2;LIZHI;
-W;Viper;1.44;281;19;10;8;78%;183;19%;1;0;LIZHI;
-L;Phoenix;0.56;174;10;17;1;44%;119;29%;1;0;LIZHI;
-L;Skye;0.77;124;9;17;10;71%;87;23%;0;3;LIZHI;
-L;Phoenix;0.80;190;14;16;7;71%;133;32%;0;6;LIZHI;
-L;Viper;0.61;138;6;14;8;50%;80;25%;0;1;LIZHI;
-L;Phoenix;0.96;227;20;21;8;65%;152;31%;3;6;LIZHI;

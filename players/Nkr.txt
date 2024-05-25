@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;99;4;12;1; ;75;16%;0;1;Sneaker Daily Meloner;
-L;Reyna; ;130;6;14;3; ;90;18%;0;2;Sneaker Daily Meloner;
-L;Reyna; ;166;10;15;2; ;96;23%;4;1;Sneaker Daily Meloner;
-L;Reyna; ;194;14;20;5; ;116;18%;3;1;Sneaker Daily Meloner;
-L;Sage;0.21;72;3;14;2;27%;50;13%;0;4;Sneaker Daily Meloner;
-W;Cypher;0.91;159;12;14;7;76%;112;15%;0;0;Sneaker Daily Meloner;
-L;Cypher;0.91;164;8;13;5;59%;119;30%;0;1;Sneaker Daily Meloner;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;242;17;9;0; ;130;32%;7;3;eStar Gaming;
-W;Jett; ;344;23;14;2; ;212;33%;5;2;eStar Gaming;
-W;Jett; ;239;17;17;7; ;158;26%;4;1;eStar Gaming;

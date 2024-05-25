@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.66;128;8;15;5;65%;87;36%;1;2;ValorantEXEC;
-L;Sova;0.59;139;9;17;4;50%;93;43%;0;1;ValorantEXEC;

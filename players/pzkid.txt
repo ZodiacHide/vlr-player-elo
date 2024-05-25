@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;253;20;14;12; ;136;13%;4;5;ex-Timing Monster Gaming;
-W;Sova; ;258;18;12;8; ;193;20%;1;1;ex-Timing Monster Gaming;
-L;Sova; ;135;10;14;6; ;153;14%;0;4;ex-Timing Monster Gaming;
-L;Sage; ;178;19;21;10; ;102;9%;3;2;ex-Timing Monster Gaming;
-L;Sova; ;192;11;15;4; ;129;19%;0;2;ex-Timing Monster Gaming;

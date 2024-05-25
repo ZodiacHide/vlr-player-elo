@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;204;12;9;4; ; ; ;1; ;Sengoku Gaming;
-L;Cypher; ;111;6;20;6; ; ; ;2; ;Sengoku Gaming;

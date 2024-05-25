@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;189;11;15;6; ;123;21%;1;1;ESTEVANDOR;

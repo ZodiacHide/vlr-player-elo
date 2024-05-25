@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;247;24;18;3; ;133;23%;2;3;Hamtories;
-W;Jett; ;139;9;12;3; ;96;19%;5;4;Hamtories;
-L;Jett; ;170;9;14;2; ;93;12%;3;4;Hamtories;
-W;Jett; ;226;18;14;2; ;127;23%;5;3;Hamtories;
-L;Jett; ;119;8;16;1; ;72;25%;2;3;Hamtories;
-L;Jett; ;181;12;17;7; ;112;16%;4;1;Hamtories;
-L;Jett; ;181;13;17;3; ;115;20%;3;3;Hamtories;
-L;Raze; ;247;14;14;4; ;143;13%;3;1;Hamtories;

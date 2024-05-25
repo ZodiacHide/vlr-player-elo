@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;202;14;13;9; ; ; ;2; ;Obsidian Esports;
-W;Sage; ;245;21;19;7; ; ; ;4; ;Obsidian Esports;
-L;Sage; ;72;4;17;8; ; ; ;0; ;Ambush Esport;
-L;Sage; ;159;9;14;2; ; ; ;3; ;Ambush Esport;

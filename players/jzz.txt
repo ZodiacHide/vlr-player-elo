@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.72;212;15;20;3;59%;138;19%;1;2;RATAO;
-L;Raze;0.50;164;8;18;4;53%;122;24%;1;6;RATAO;
-W;Raze;0.79;216;14;17;5;70%;140;27%;4;4;Onlyfans;
-L;Reyna;0.99;282;16;17;0;67%;178;22%;2;3;Onlyfans;
-W;Reyna;0.71;180;14;18;3;50%;105;22%;4;4;Onlyfans;
-L;Raze;0.96;198;13;16;6;47%;123;23%;2;3;Onlyfans;
-W;Raze;1.19;288;32;27;4;81%;187;26%;10;4;Onlyfans;

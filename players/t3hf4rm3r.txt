@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;139;8;18;8; ; ; ;1; ;DREAMCHASERS;
-L;Sage; ;102;9;19;5; ; ; ;0; ;DREAMCHASERS;
-W;Cypher; ; ; ; ; ; ; ; ; ; ;DREAMCHASERS;
-W;Sova; ;196;17;17;5; ;125;25%;0;3;DREAMCHASERS;
-L;Sova; ;119;7;17;3; ; ; ;0; ;DREAMCHASERS;
-L;Cypher; ;208;14;19;7; ; ; ;1; ;DREAMCHASERS;

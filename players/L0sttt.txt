@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;0.91;130;9;13;11;74%;84;25%;0;0;Reckoning Esports;
-L;Sova;1.30;256;21;14;7;78%;171;38%;3;0;Reckoning Esports;
-L;Sova;0.94;230;15;16;6;60%;143;32%;0;3;Reckoning Esports;
-L;Sova;1.29;294;22;15;8;86%;180;14%;1;0;Reckoning Esports;
-L;Sova;0.74;159;12;17;1;52%;103;27%;1;1;Reckoning Esports;
-L;Sova;1.30;330;19;16;3;67%;197;25%;2;2;Reckoning Esports;
-L;Sova;0.88;275;12;14;5;80%;158;38%;3;1;Reckoning Esports;
-L;Viper;1.10;256;19;14;2;68%;157;25%;1;3;Reckoning Esports;

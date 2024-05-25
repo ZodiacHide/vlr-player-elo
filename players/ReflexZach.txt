@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.10;259;22;20;7;69%;159;37%;5;4;UYU;
-L;Jett;0.59;117;8;15;2;47%;78;43%;2;3;UYU;
-L;Jett;0.50;189;8;17;7;75%;107;32%;3;5;UYU;
-W;Astra;1.35;253;24;15;7;71%;170;56%;3;3;UYU;
-L;Sage;0.63;138;7;15;6;50%;98;36%;3;4;UYU;
-L;Astra;0.72;155;11;19;4;57%;100;32%;4;1;UYU;
-L;Jett;0.10;42;0;13;4;31%;42;38%;0;3;UYU;

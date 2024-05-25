@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;274;19;19;3; ;160;27%;1;1;+W party;
-W;Raze; ;235;21;21;9; ;140;20%;4;2;+W party;
-W;Killjoy; ;274;22;15;6; ;159;29%;3;2;+W party;
-L;Killjoy; ;185;16;17;3; ;129;29%;0;3;+W party;
-L;Killjoy; ;247;11;16;4; ;162;25%;2;1;+W party;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;1.13;216;23;22;5;67%;136;25%;6;5;EZclap;

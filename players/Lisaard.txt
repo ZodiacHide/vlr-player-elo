@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;163;11;10;8; ;109;16%;1;1;Rodelindo Roman esports;
-L;Killjoy; ;256;15;15;5; ;220;13%;3;2;Rodelindo Roman esports;
-L;Cypher; ;162;12;15;6; ;164;14%;1;0;Rodelindo Roman esports;

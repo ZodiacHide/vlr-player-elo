@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.10;254;19;17;2;65%;158;18%;4;2;TLP Monkies;
-W;Jett;1.58;323;25;13;5;95%;211;30%;7;0;TLP Monkies;
-L;Raze;1.39;354;25;17;4;70%;216;22%;3;2;TLP Monkies;
-L;Jett;1.13;283;24;20;2;71%;167;20%;9;1;TLP Monkies;
-L;Jett;0.90;238;15;16;0;63%;140;25%;4;0;TLP Monkies;
-W;Jett;0.89;207;16;21;10;71%;128;9%;2;5;TLP Monkies;
-L;Viper;0.58;133;8;16;4;61%;66;18%;2;3;TLP Monkies;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;203;15;19;5; ;128;16%;3;0;FARESHI;
-L;Killjoy; ;180;12;14;4; ;110;11%;2;0;Swag Silicone;
-L;Cypher; ;227;16;16;2; ;144;28%;0;3;Swag Silicone;

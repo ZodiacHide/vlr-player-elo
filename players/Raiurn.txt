@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;264;20;20;8; ;155;18%;3;3;BananaBoys;
-L;Omen; ;194;10;17;2; ;112;10%;2;2;BananaBoys;
-L;Omen; ;204;13;15;2; ;116;10%;3;3;BananaBoys;

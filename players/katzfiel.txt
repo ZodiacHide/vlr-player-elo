@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.39;118;4;14;2;29%;92;25%;0;5;JustSoldiers;
-L;Killjoy;0.43;152;6;14;1;53%;102;34%;1;2;JustSoldiers;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.44;89;5;13;1;36%;52;33%;1;2;East Hill;

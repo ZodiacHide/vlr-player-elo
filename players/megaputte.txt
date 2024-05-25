@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.49;150;9;14;1;44%;76;30%;1;2;Unsigned Losers;
-L;Viper;0.93;248;16;15;1;50%;114;28%;3;5;Unsigned Losers;
-L;Brimstone;0.62;151;9;14;1;38%;92;33%;1;1;Monkey Momentum;
-L;Sova;1.18;220;18;13;7;82%;133;10%;2;1;Monkey Momentum;

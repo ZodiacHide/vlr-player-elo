@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;308;19;9;5; ;199;44%;0;1;HIGHPOWER;
-W;Sova; ;184;21;24;15; ;113;34%;2;6;HIGHPOWER;
-W;Sova; ;217;18;17;4; ;124;18%;1;0;HIGHPOWER;
-L;Sova; ;140;8;16;9; ;104;32%;0;1;HIGHPOWER;
-L;Sova; ;179;7;15;5; ;113;25%;2;4;HIGHPOWER;
-L;Astra;0.68;113;10;16;4;78%;77;32%;1;0;HIGHPOWER;
-L;Viper;0.92;219;13;16;4;70%;132;30%;1;0;HIGHPOWER;

@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Shazoo;
-W;None;0;0;0;0;0;0;0;0;0;0;Shazoo;
-W;None;0;0;0;0;0;0;0;0;0;0;Shazoo;
-L;None;0;0;0;0;0;0;0;0;0;0;Shazoo;
-L;None;0;0;0;0;0;0;0;0;0;0;Shazoo;
-W;Brimstone; ;288;18;11;2; ;176;31%;2;0;200 Policemen;
-L;Sova; ;193;10;16;9; ;147;28%;0;1;200 Policemen;
-W;Sova; ;110;8;11;4; ;77;24%;3;2;200 Policemen;

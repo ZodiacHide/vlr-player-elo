@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;42;2;18;2; ;33;12%;0;1;Forsaken;
-L;Raze; ;229;12;15;2; ;131;21%;3;2;Forsaken;

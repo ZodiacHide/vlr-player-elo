@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.76;186;13;16;4;75%;117;24%;1;1;Team Legion;
-W;Astra;1.10;238;21;17;10;79%;140;12%;2;2;Team Legion;
-W;Astra;1.01;163;11;11;6;74%;100;8%;1;1;Team Legion;
-L;Astra;0.72;153;9;15;8;63%;107;22%;0;2;Team Legion;
-L;Viper;0.94;215;17;17;7;74%;145;19%;3;5;Team Legion;
-W;Astra;1.04;220;14;13;4;85%;124;10%;0;2;Team Legion;
-L;Astra;0.84;240;16;17;6;68%;146;27%;1;0;Team Legion;

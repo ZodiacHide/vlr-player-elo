@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;116;8;14;0; ;91;33%;0;3;PAJACE;
-L;Cypher; ;191;16;19;9; ;122;26%;0;3;PAJACE;
-W;Breach;1.01;182;16;21;19;64%;103;20%;1;2;Kraken;
-W;Phoenix;1.04;187;15;14;9;74%;122;30%;0;1;Kraken;
-L;Astra;1.12;217;16;14;4;81%;136;23%;0;3;Kraken;
-L;Breach;0.84;114;8;15;13;76%;83;44%;0;0;Kraken;

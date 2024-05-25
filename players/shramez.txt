@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;225;19;13;5; ;157;31%;0;1;be Logic;
-W;None;0;0;0;0;0;0;0;0;0;0;be Logic;
-L;Sova; ;128;7;15;6; ;102;15%;1;1;earnings: 0;
-W;Omen;1.17;167;14;12;6;86%;112;23%;0;1;HATALANTE;
-L;Viper;0.90;178;11;12;1;72%;91;26%;2;0;HATALANTE;

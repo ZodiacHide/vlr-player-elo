@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;1.22;214;22;18;15;81%;149;12%;1;2;The Goose House Lunar;
-W;Viper;1.16;189;17;11;3;77%;99;22%;1;4;The Goose House Lunar;
-L;Brimstone;1.12;211;25;22;13;75%;116;15%;3;2;The Goose House Lunar;

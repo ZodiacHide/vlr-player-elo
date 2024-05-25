@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;89;6;15;2; ;43;13%;0;1;Surabaya Esports;
-L;Omen; ;109;3;16;8; ;84;20%;1;1;Surabaya Esports;

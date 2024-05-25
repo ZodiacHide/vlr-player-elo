@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna;1.12;273;17;15;8;74%;162;12%;2;4;TIAN DOGS GAMING;

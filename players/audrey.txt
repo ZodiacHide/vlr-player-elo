@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Astra;1.29;219;14;11;8;95%;144;41%;3;2;Nerd Emoji;
-L;Jett;0.81;154;9;16;4;62%;104;24%;3;5;Nerd Emoji;
-L;Astra;0.85;198;17;20;8;69%;149;36%;2;6;Nerd Emoji;

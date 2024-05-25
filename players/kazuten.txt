@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.28;90;3;15;1;33%;59;4%;0;4;Tropa Suprema;
-L;Jett;0.22;69;2;16;4;56%;53;19%;2;4;Tropa Suprema;

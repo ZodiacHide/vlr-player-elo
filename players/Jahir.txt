@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;164;13;21;5; ;89;21%;5;2;Janus Esports;
-W;Killjoy; ;168;15;17;11; ;125;11%;3;3;Janus Esports;
-L;Killjoy; ;122;9;15;7; ;82;17%;1;1;Janus Esports;
-W;Cypher; ;197;15;14;5; ;122;30%;2;3;Janus Esports;
-L;Cypher; ;137;11;17;4; ;84;25%;1;1;Janus Esports;
-L;Cypher; ;244;19;15;3; ;150;28%;1;3;Janus Esports;
-L;Killjoy; ;60;3;13;3; ;37;4%;0;0;Janus Esports;
-L;Cypher; ;171;9;16;2; ;120;21%;0;1;Janus Esports;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.64;145;9;16;3;55%;95;15%;0;1;Goblin Squadron;
-W;Astra;1.36;267;22;15;3;74%;176;16%;2;0;ex-Recon 5;
-L;Astra;0.59;129;7;15;5;44%;93;16%;0;2;ex-Recon 5;
-L;Viper;1.20;259;20;17;7;74%;174;19%;2;1;ex-Recon 5;

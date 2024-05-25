@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;186;14;18;3; ;97;17%;4;2;ex-Reckless Lads;
-L;Killjoy; ;186;10;16;0; ;112;15%;3;2;ex-Reckless Lads;
-W;Killjoy; ;233;22;15;6; ;140;17%;2;2;ex-Reckless Lads;
-L;Killjoy; ;149;6;15;3; ;89;9%;3;5;ex-Reckless Lads;
-W;Killjoy; ;204;21;25;4; ;120;20%;3;5;ex-Reckless Lads;
-L;Killjoy; ;184;11;18;3; ;131;31%;2;3;ex-Reckless Lads;

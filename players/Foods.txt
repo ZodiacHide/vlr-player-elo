@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;1.04;233;21;21;11;85%;149;27%;5;1;Bestial;
-W;Killjoy;1.46;249;14;4;2;93%;195;24%;1;1;Bestial;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;1.11;154;12;9;3;68%;103;32%;0;2;En corto gamers;
-L;Jett;0.70;165;10;15;2;59%;100;21%;0;2;En corto gamers;
-L;Raze;0.68;155;8;13;3;63%;87;17%;2;1;En corto gamers;
-L;Sage;0.95;252;16;14;4;83%;149;32%;0;0;En corto gamers;
-L;Jett;0.96;227;13;14;0;63%;108;13%;5;2;En corto gamers;

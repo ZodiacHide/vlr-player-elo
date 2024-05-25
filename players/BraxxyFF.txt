@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;197;19;19;5; ;124;34%;1;2;ChillinWithFriends;
-L;Cypher; ;103;5;13;2; ;77;38%;0;3;ChillinWithFriends;

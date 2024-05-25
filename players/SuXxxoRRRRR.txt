@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;256;15;6;10; ; ; ;0; ;InetGamer;
-L;Breach; ;167;11;15;1; ; ; ;2; ;InetGamer;
-W;Raze; ;265;18;12;6; ; ; ;2; ;InetGamer;
-L;Breach; ;168;13;17;4; ; ; ;0; ;InetGamer;
-L;Breach; ;153;10;15;3; ; ; ;1; ;InetGamer;
-L;Breach; ;202;11;13;4; ; ; ;1; ;InetGamer;

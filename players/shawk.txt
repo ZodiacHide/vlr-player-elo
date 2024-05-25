@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;191;12;14;4; ; ; ;2; ;Urubuzada e-Sports;
-L;Raze; ;180;8;17;8; ; ; ;2; ;Urubuzada e-Sports;
-L;Raze; ;179;9;17;6; ;121;6%;3;0;CONCENTRA SOVA;
-L;Raze; ;109;8;19;3; ;53;15%;0;5;CONCENTRA SOVA;

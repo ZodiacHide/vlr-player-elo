@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;124;4;15;4; ;83;15%;0;3;Fighting 4 Freedom;
-L;Omen; ;135;10;17;3; ;71;14%;1;1;Fighting 4 Freedom;
-W;Omen; ;303;19;10;3; ;157;18%;3;0;Fighting 4 Freedom;
-L;Omen; ;162;9;16;4; ;89;7%;1;2;Fighting 4 Freedom;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;168;13;17;5; ;105;10%;2;0;99cents;
-W;Killjoy; ;140;12;12;3; ;178;13%;2;1;99cents;
-L;Cypher; ;162;11;15;5; ;102;16%;2;3;99cents;
-L;Reyna;0.94;210;13;14;5;56%;134;21%;2;1;FontanerosMaura;
-L;Reyna;0.42;151;6;14;2;43%;97;26%;0;3;FontanerosMaura;

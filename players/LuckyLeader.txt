@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;178;10;15;3; ;116;23%;2;2;Depth;
-L;Jett; ;225;16;16;8; ;166;23%;3;6;Depth;
-L;Astra;0.81;148;8;13;8;72%;115;27%;0;0;HEAD HUNTERS;
-W;Omen;1.27;170;11;7;4;76%;94;11%;1;0;HEAD HUNTERS;
-L;Omen;0.74;214;12;15;4;59%;123;9%;1;2;HEAD HUNTERS;

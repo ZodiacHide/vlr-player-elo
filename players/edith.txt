@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;151;10;16;7; ;142;20%;1;2;THE START W;
-L;Phoenix; ;236;19;18;3; ;169;43%;0;2;THE START W;
-W;Phoenix; ;283;15;10;5; ;177;28%;3;2;THE START W;
-W;Raze; ;286;20;14;4; ;172;19%;3;2;THE START W;
-W;Raze; ;289;23;13;1; ;158;11%;5;1;THE START W;
-L;Raze; ;206;14;18;7; ;150;25%;3;2;THE START W;
-L;Raze; ;179;11;17;4; ;117;10%;0;2;THE START W;

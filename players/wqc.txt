@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;75;5;17;4; ;51;12%;0;6;All Gamers;
-W;Brimstone; ;188;11;15;4; ;120;11%;2;1;All Gamers;
-L;Brimstone; ;106;8;19;3; ;89;10%;0;4;All Gamers;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.46;116;5;14;3;41%;88;25%;0;5;SIZDIM BEKLE;
-L;Sage;0.36;101;5;14;3;53%;45;50%;0;3;SIZDIM BEKLE;

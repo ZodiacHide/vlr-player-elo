@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Skye;1.03;251;30;31;8;75%;171;25%;4;5;SMARACIS eSports Female;
-W;Phoenix;1.07;187;14;14;7;75%;119;27%;1;6;SMARACIS eSports Female;
-W;Reyna;1.10;219;17;12;4;68%;130;22%;2;1;SMARACIS eSports Female;
-L;Reyna;0.61;190;13;20;7;52%;121;21%;1;8;SMARACIS eSports Female;
-L;Phoenix;1.06;250;20;20;3;65%;154;25%;4;1;SMARACIS eSports Female;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;152;9;15;4; ;114;19%;0;4;Infantry;
-L;Reyna; ;218;19;16;4; ;142;29%;2;4;Infantry;
-L;Reyna; ;173;14;18;3; ;125;31%;1;1;Infantry;

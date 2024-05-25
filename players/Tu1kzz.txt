@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.90;260;16;16;1;68%;157;25%;2;2;Ronin Team;
-L;Cypher;0.63;141;10;14;2;67%;84;12%;0;2;Ronin Team;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.89;170;17;23;8;71%;133;31%;1;6;ITALIANO;
-L;Omen;1.12;252;18;18;11;61%;138;21%;3;2;ITALIANO;

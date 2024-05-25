@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;DivisionX Gaming;
-W;Sage;1.10;179;15;13;6;90%;115;32%;1;1;DivisionX Gaming;
-L;Astra;0.58;126;6;15;6;72%;95;24%;1;1;DivisionX Gaming;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;109;6;17;1; ;65;8%;3;4;WHITE TIGER;
-L;Jett; ;163;8;15;1; ;81;20%;3;2;WHITE TIGER;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;98;7;19;2; ; ; ;3; ;FazTeuHype;

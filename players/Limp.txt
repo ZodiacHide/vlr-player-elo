@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;157;10;15;6; ;99;19%;1;0;thunderPEEK;
-W;Breach; ;212;16;13;15; ;133;34%;0;2;thunderPEEK;
-W;Sova; ;202;13;13;12; ;186;27%;1;2;thunderPEEK;
-L;Breach; ;110;8;15;11; ;62;41%;0;2;thunderPEEK;
-L;Cypher; ;136;10;16;5; ;74;11%;1;2;thunderPEEK;

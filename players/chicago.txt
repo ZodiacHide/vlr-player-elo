@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix;1.08;232;24;20;8;68%;142;28%;0;2;Able Esports;
-W;Phoenix;1.36;337;27;16;4;83%;222;43%;9;2;Able Esports;
-L;Phoenix;0.43;132;7;16;4;53%;83;30%;2;3;Able Esports;
-L;Reyna;0.74;230;15;21;3;60%;145;37%;5;4;Able Esports;
-L;Phoenix;0.84;180;14;19;4;52%;113;31%;4;4;Able Esports;
-L;Phoenix;0.44;138;9;19;3;35%;101;30%;2;7;Able Esports;
-L;Raze;0.77;203;11;16;2;59%;134;33%;4;6;Able Esports;

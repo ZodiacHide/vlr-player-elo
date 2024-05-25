@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;224;9;13;0; ;120;29%;2;3;Ethereal;
-L;Sova; ;134;9;14;3; ;88;18%;0;5;Ethereal;
-L;Raze;0.39;86;2;14;7;56%;69;13%;1;0;Ethereal;
-L;None;0;0;0;0;0;0;0;0;0;0;Ethereal;

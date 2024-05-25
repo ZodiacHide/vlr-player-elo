@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.33;244;16;11;1;75%;143;24%;4;3;Griffos Starfire;
-L;Jett;0.75;215;14;20;8;70%;130;17%;3;2;Griffos Starfire;
-W;Jett;1.27;251;17;8;4;72%;105;11%;1;1;Griffos Starfire;
-W;Jett;1.32;284;25;19;5;65%;168;22%;4;5;Griffos Starfire;
-L;Jett;0.52;109;7;17;5;57%;68;23%;0;5;Griffos Starfire;
-L;Jett;0.76;173;9;14;3;50%;128;17%;3;2;Griffos Starfire;

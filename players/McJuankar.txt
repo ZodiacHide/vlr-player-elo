@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.75;169;11;17;7;68%;126;14%;3;1;Spain.dll;
-W;Killjoy;0.70;126;11;17;6;65%;88;12%;2;4;Spain.dll;
-L;Killjoy;0.68;195;13;19;5;71%;118;26%;3;2;Spain.dll;
-L;Killjoy;0.65;104;6;13;1;50%;81;30%;0;1;Spain.dll;

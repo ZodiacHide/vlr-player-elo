@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;143;11;17;3; ; ; ;2; ;BADARANTS;
-W;Sova; ;260;16;12;9; ; ; ;3; ;BADARANTS;
-L;Sova; ;126;7;16;2; ; ; ;1; ;BADARANTS;

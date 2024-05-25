@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.97;210;16;18;4;55%;125;16%;3;4;Titan Esports;

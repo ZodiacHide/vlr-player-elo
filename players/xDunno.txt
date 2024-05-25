@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;107;6;12;0; ;62;45%;1;2;Constant rise;
-W;Raze; ;183;15;14;4; ;123;10%;3;6;Constant rise;
-L;Sova; ;107;6;13;5; ;73;13%;0;1;Constant rise;
-L;Sova; ;214;15;14;2; ;133;25%;2;0;Constant rise;
-L;Sova; ;110;5;14;7; ;79;18%;0;0;Constant rise;
-L;Cypher; ;233;17;16;1; ;135;22%;1;2;Kamil Klein new chapter;

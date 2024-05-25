@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;68;2;13;3; ;50;0%;0;3;Team Happy;
-L;Killjoy; ;156;7;14;2; ;92;8%;1;2;Team Happy;
-L;Sage; ;152;9;15;5; ;86;13%;1;3;Team Happy;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.18;94;5;18;3;53%;68;41%;2;3;On Vient CS;
-L;Killjoy;0.69;121;10;18;3;50%;91;21%;0;3;On Vient CS;

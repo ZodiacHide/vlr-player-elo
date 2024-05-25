@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;210;14;15;9; ;144;23%;3;6;SeolHaeOne Prince;
-L;Omen; ;87;8;22;10; ;50;13%;1;6;SeolHaeOne Prince;
-L;Omen; ;186;13;16;0; ;115;29%;1;1;SeolHaeOne Prince;
-L;Omen; ;151;10;16;5; ;91;15%;0;3;SeolHaeOne Prince;
-L;Omen; ;184;12;16;7; ;116;14%;0;1;SeolHaeOne Prince;

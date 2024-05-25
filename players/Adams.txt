@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher;0.96;193;18;15;2;74%;116;21%;2;3;POISON CLAN;
-L;Killjoy;0.28;103;5;14;1;43%;79;15%;0;2;POISON CLAN;
-L;Raze;0.75;179;10;16;7;68%;124;20%;3;3;POISON CLAN;

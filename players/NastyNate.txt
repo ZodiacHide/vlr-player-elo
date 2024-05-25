@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;100;5;15;3; ;59;16%;2;4;In The Lab;
-L;Jett; ;166;7;12;1; ;93;46%;1;1;In The Lab;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.63;168;7;15;3;53%;117;31%;0;2;Collateral eSports;
-L;Raze;1.23;320;22;15;8;77%;221;11%;1;0;Collateral eSports;

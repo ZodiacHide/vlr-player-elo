@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.80;189;12;19;7;68%;123;15%;4;4;UnderDogs Gaming;
-L;Jett;1.23;268;25;19;3;77%;164;22%;7;1;UnderDogs Gaming;
-L;Jett;1.39;338;22;14;1;78%;193;27%;5;2;UnderDogs Gaming;
-W;Jett;1.09;238;18;16;5;78%;163;27%;3;3;UnderDogs Gaming;

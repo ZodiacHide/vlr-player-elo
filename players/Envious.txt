@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;336;28;17;3; ;202;22%;7;2;Excelsa;
-L;Jett; ;112;7;15;2; ;82;29%;1;3;Excelsa;
-L;Jett; ;165;11;16;2; ;101;18%;1;3;Excelsa;

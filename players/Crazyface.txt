@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;243;18;13;4; ; ; ;1; ;ahq e-Sports Club;
-L;Sova; ;186;15;15;9; ; ; ;0; ;ahq e-Sports Club;
-L;Sova; ;59;3;14;3; ; ; ;0; ;ahq e-Sports Club;

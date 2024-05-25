@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;1.05;207;19;19;11;73%;128;16%;1;0;KADILIMAN;

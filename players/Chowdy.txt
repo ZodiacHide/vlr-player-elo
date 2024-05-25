@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;1.01;213;20;17;6;69%;127;26%;3;4;Aether Esports;
-L;Skye;1.06;208;15;14;4;67%;127;20%;4;1;Aether Esports;

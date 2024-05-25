@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.71;161;9;15;4;72%;108;20%;3;5;7even Esport;
-L;Viper;0.52;132;8;17;4;53%;81;9%;0;3;7even Esport;

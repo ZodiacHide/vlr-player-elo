@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;157;10;15;4; ;74;19%;0;1;PHARAONS;
-L;Sage; ;93;7;17;7; ;52;13%;0;0;PHARAONS;
-L;Sova; ;198;14;17;10; ;125;18%;1;1;PHARAONS;
-L;Sage; ;254;18;19;15; ;140;10%;2;2;PHARAONS;

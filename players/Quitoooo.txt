@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;128;11;21;9; ; ; ;2; ;Team Quitooo;
-W;Omen; ;290;22;17;8; ; ; ;4; ;Team Quitooo;
-W;Omen; ;272;16;12;9; ; ; ;1; ;Team Quitooo;
-L;Omen; ;233;13;14;2; ; ; ;3; ;Team Quitooo;
-L;Omen; ;182;11;14;1; ; ; ;2; ;Team Quitooo;

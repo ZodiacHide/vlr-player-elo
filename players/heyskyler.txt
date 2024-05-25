@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;198;9;13;0; ;112;15%;1;0;EthanK Fan Club;
-L;Killjoy; ;216;11;15;1; ;138;29%;4;1;EthanK Fan Club;
-L;Killjoy;0.38;120;6;15;1;56%;70;18%;2;4;Taipan Esports;
-L;Killjoy;0.51;137;7;14;1;50%;90;9%;1;5;Taipan Esports;

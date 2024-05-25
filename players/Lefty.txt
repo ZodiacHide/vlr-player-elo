@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;CGN Esports;
-L;Omen;0.55;145;8;14;4;63%;90;32%;0;3;CGN Esports;
-L;Omen;0.73;85;7;14;7;61%;56;9%;1;1;CGN Esports;
-W;Sage;0.56;88;7;18;9;67%;69;16%;0;1;CGN Esports;
-L;Omen;1.08;155;15;13;6;70%;94;6%;0;2;CGN Esports;

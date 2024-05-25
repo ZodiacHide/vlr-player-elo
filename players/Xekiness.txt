@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;171;9;15;2; ;92;15%;3;5;ZaPs Clan;
-W;Sova; ;320;26;14;8; ;172;7%;4;2;ZaPs Clan;
-W;Sova; ;358;26;14;9; ;187;14%;3;1;ZaPs Clan;
-W;Raze; ;272;19;19;5; ;148;11%;6;3;ZaPs Clan;
-L;Sova; ;266;15;15;1; ;147;17%;3;3;ZaPs Clan;

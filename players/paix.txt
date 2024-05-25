@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Furacão RED;
-L;Omen; ;224;13;16;2; ;135;20%;1;1;Furacão RED;
-L;Cypher; ;230;20;17;4; ;136;27%;0;1;Urubuzada e-Sports;
-L;Cypher; ;168;9;16;5; ;168;26%;0;2;Urubuzada e-Sports;

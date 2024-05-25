@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.77;186;15;23;12;60%;134;13%;1;1;Vendetta;
-W;Sova;1.01;165;11;14;10;55%;108;27%;1;1;Vendetta;
-L;Sova;0.96;177;13;16;10;77%;118;24%;2;1;Vendetta;
-L;Sova;0.65;148;8;15;2;59%;109;28%;0;0;Vendetta;

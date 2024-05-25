@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.65;217;10;14;5;73%;143;16%;1;1;Oasis Gaming GC;
-W;Omen;0.91;140;10;11;5;68%;83;18%;2;2;Oasis Gaming GC;
-L;Omen;0.90;183;13;13;4;61%;113;29%;0;0;Oasis Gaming GC;
-W;Viper;1.15;199;13;10;6;78%;128;11%;2;1;Oasis Gaming GC;
-L;Sage;0.89;127;9;12;3;67%;72;28%;2;3;Oasis Gaming GC;

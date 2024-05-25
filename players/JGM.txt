@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;162;10;17;2; ;108;23%;0;1;Take Flyte;
-L;Omen; ;256;15;13;1; ;138;22%;0;0;Take Flyte;
-L;Sage;0.84;189;12;13;2;59%;109;23%;1;0;Archons;
-L;Skye;0.71;170;9;13;1;53%;108;23%;0;1;Archons;

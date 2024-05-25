@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.65;124;7;14;3;56%;74;56%;1;2;TempesT;
-W;Raze;1.32;314;20;15;5;89%;197;30%;6;4;TempesT;
-L;Raze;0.79;255;15;18;3;67%;129;16%;2;2;TempesT;
-W;Raze;1.36;316;18;13;7;94%;209;21%;3;2;TempesT;
-W;Raze;1.55;254;15;6;2;93%;136;19%;2;0;TempesT;

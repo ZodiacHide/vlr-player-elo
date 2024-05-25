@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;69;4;15;1; ;40;13%;0;1;Fojosok;
-L;Omen; ;69;2;14;1; ;56;22%;0;0;Fojosok;

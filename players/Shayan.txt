@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.80;223;12;16;3;71%;132;23%;6;3;Magma;
-L;Reyna;1.27;280;22;16;4;62%;162;27%;3;2;Magma;

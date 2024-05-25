@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.20;55;3;14;1;36%;34;10%;0;3;SLU Esports;
-L;Sova;0.77;245;10;13;1;62%;155;33%;2;0;SLU Esports;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;160;13;20;3; ; ; ;5; ;Shawty Gamin';
-L;Jett; ;194;17;20;0; ; ; ;3; ;Shawty Gamin';
-L;Jett; ;45;2;15;2; ; ; ;0; ;Shawty Gamin';

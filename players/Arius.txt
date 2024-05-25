@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;115;5;8;9; ; ; ;1; ;BAKEMON;
-W;Sage; ;239;17;9;6; ; ; ;0; ;BAKEMON;
-L;Sage; ;189;7;17;3; ; ; ;3; ;BAKEMON;
-W;Sage; ;223;16;11;5; ; ; ;1; ;BAKEMON;

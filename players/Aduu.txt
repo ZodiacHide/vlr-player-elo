@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.68;205;12;17;3;53%;124;25%;3;3;Regal E-Sports;
-L;Sova;0.48;109;6;14;3;41%;63;17%;0;2;Regal E-Sports;

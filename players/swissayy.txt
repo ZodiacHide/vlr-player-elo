@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;233;20;14;5; ;160;19%;1;5;Dog Team Needs Club Org;
-L;Phoenix; ;238;19;14;1; ;138;21%;2;3;Dog Team Needs Club Org;
-L;Omen; ;151;6;13;2; ;90;14%;0;2;Dog Team Needs Club Org;
-W;Reyna; ;178;15;13;4; ;143;18%;3;1;Dog Team Needs Club Org;
-L;Phoenix; ;141;10;18;3; ;99;24%;0;4;Dog Team Needs Club Org;

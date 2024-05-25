@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;261;19;11;4; ; ; ;2; ;MIRONGA VIRUS;
-W;Cypher; ;134;11;14;9; ; ; ;1; ;MIRONGA VIRUS;
-W;Cypher; ;173;13;10;5; ; ; ;2; ;MIRONGA VIRUS;
-L;Cypher; ;198;13;14;1; ; ; ;0; ;MIRONGA VIRUS;
-L;Breach; ;235;18;20;11; ; ; ;1; ;MIRONGA VIRUS;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;198;23;22;4; ;120;14%;4;5;ME CONTRATA;
-W;Sage; ;200;16;13;5; ;117;32%;1;2;ME CONTRATA;
-L;Breach; ;153;14;17;14; ;102;15%;4;0;ME CONTRATA;
-L;Raze; ;206;14;15;5; ;128;21%;3;0;ÉPEGADINHA;
-W;Raze; ;221;15;18;9; ;138;16%;5;5;ÉPEGADINHA;
-L;Raze; ;190;12;17;7; ;138;11%;1;2;ÉPEGADINHA;

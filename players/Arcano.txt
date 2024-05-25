@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;259;17;10;7; ;161;24%;2;0;Running Dogs;
-W;Breach; ;97;7;19;11; ;68;21%;2;4;Running Dogs;

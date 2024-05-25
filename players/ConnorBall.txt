@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;75;6;21;9; ;53;5%;0;2;Team UK;
-W;Sage; ;101;9;14;6; ;65;8%;1;2;Team UK;
-W;Sage; ;95;10;16;8; ;63;4%;1;1;Team UK;
-W;Sage; ;134;11;15;5; ;91;22%;2;1;Team UK;
-W;Sage; ;81;7;15;7; ;49;21%;0;0;Team UK;
-L;Sage; ;88;4;14;4; ;46;11%;0;2;Team UK;
-L;Sage; ;120;6;14;1; ;72;14%;1;0;Team UK;

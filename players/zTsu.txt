@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;159;10;13;3; ;120;24%;1;1;Arctic Gaming Mexico;
-L;Brimstone; ;240;12;12;4; ;132;45%;2;0;Arctic Gaming Mexico;
-W;Brimstone; ;263;21;12;4; ;155;21%;0;1;Arctic Gaming Mexico;

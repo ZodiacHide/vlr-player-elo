@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;81;6;18;11; ; ; ;2; ;NeverEndingStory;
-W;Sage; ;190;17;16;9; ; ; ;2; ;NeverEndingStory;
-L;Sage; ;165;13;19;7; ; ; ;0; ;NeverEndingStory;

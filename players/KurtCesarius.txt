@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;75;2;15;2; ;69; ;0; ;Imposto é Roubo;
-W;Sova; ;165;14;18;9; ;105; ;2; ;Imposto é Roubo;
-L;Sova; ;160;7;15;4; ;97;14%;2;2;Imposto é Roubo;

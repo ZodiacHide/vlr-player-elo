@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;237;20;16;4; ; ; ;1; ;Crab Walk Killers;
-L;Raze; ;116;8;18;2; ; ; ;1; ;Crab Walk Killers;
-W;Raze; ;146;8;13;8; ; ; ;1; ;Crab Walk Killers;
-L;Raze; ;197;15;21;3; ; ; ;2; ;Crab Walk Killers;
-L;Jett; ;201;14;16;4; ;134;18%;2;2;Crab Walk Killers;
-L;Jett; ;187;14;17;1; ;115;27%;3;2;Crab Walk Killers;
-L;Cypher; ;134;9;16;11; ;95;11%;1;2;Avant;
-W;Cypher; ;113;6;10;4; ;67;23%;1;0;Avant;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;70;5;14;1; ;44;23%;0;4;Infantry;
-L;Omen; ;147;12;20;4; ;92;20%;1;2;Infantry;
-L;Omen; ;135;10;18;9; ;98;16%;1;1;Infantry;

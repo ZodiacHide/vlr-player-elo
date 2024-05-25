@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen;1.08;232;19;13;6;74%;154;25%;3;2;Team Singularity Female;
-L;Astra;1.37;288;29;16;5;75%;189;34%;5;3;Team Singularity Female;
-W;Raze;1.42;357;25;18;6;90%;235;19%;7;1;Team Singularity Female;
-W;Astra;1.23;252;18;10;4;82%;176;36%;2;1;Team Singularity Female;
-L;Viper;0.04;49;1;12;1;23%;38;10%;0;6;Team Singularity Female;
-L;Astra;0.30;72;2;14;2;31%;52;11%;0;3;Team Singularity Female;

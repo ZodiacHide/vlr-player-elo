@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;152;8;18;4; ;110;17%;3;4;Guess;
-L;Killjoy; ;108;6;14;1; ;77;15%;2;5;Guess;
-W;Reyna; ;151;10;9;2; ;85;18%;2;2;Guess;
-L;Jett; ;271;18;16;3; ;214;19%;8;3;Guess;
-L;Jett; ;336;31;13;3; ;183;21%;7;4;Guess;
-L;Jett; ;195;12;17;4; ;111;21%;3;7;VIIIJNIIIIIIIIIIIIIIIIII;

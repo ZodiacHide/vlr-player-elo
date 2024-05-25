@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Shoguns;
-L;Raze; ;222;11;16;0; ;127;26%;4;3;Shoguns;

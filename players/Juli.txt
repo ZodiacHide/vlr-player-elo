@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;161;8;14;2; ;102;15%;2;0;Hamboigas;
-L;Cypher; ;102;4;12;0; ;58;43%;1;2;Hamboigas;
-L;Cypher; ;85;7;16;1; ;51;8%;2;2;Hamboigas;
-W;Cypher; ;132;9;9;5; ;71;13%;1;1;Hamboigas;
-W;Cypher; ;142;8;6;4; ;111;21%;0;0;Hamboigas;

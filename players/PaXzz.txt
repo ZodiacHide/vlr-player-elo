@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;139;11;17;3; ;89;26%;3;1;BananaBoys;
-L;Breach; ;154;8;15;1; ;112;21%;1;2;BananaBoys;
-L;Breach; ;69;3;16;4; ;50;20%;1;1;BananaBoys;

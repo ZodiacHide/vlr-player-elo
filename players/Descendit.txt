@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;128;14;25;4; ;119;20%;3;2;Zootopia;
-L;Omen; ;91;5;14;0; ;59;9%;0;1;Zootopia;

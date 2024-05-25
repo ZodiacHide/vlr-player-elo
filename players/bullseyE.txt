@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.43;134;9;19;1;48%;89;10%;2;5;Villainous;
-L;Sova;0.88;205;15;18;3;75%;135;15%;2;1;OnlyFriends;
-L;Jett;0.54;140;6;15;3;44%;98;23%;3;6;OnlyFriends;
-W;Jett;1.13;223;15;13;6;70%;142;17%;3;6;OnlyFriends;
-L;Jett;0.80;207;14;15;3;72%;120;19%;4;4;OnlyFriends;
-L;Sova;0.79;180;14;21;7;79%;122;29%;4;2;OnlyFriends;

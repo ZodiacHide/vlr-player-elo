@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;235;12;16;4; ;162;20%;3;4;Team SMOKER;
-L;Reyna; ;134;7;15;3; ;80;32%;3;4;Team SMOKER;

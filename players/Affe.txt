@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;170;10;16;6; ;112;24%;1;0;iXA;
-L;Astra;1.19;223;20;14;6;71%;130;21%;1;2;iXA;
-L;Astra;0.49;133;5;13;2;43%;75;25%;0;0;iXA;
-L;Astra;0.90;213;10;13;6;59%;143;10%;2;1;iXA;

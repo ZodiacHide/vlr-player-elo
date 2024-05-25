@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.37;97;4;14;1;40%;79;18%;0;3;We Raise Blame;
-L;Brimstone;0.55;138;8;13;3;50%;79;27%;0;5;We Raise Blame;
-L;Brimstone;0.39;69;4;13;1;50%;43;18%;0;2;We Raise Blame;
-L;Viper;0.06;37;1;15;2;21%;34;8%;0;4;We Raise Blame;

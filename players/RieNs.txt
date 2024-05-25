@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.10;238;23;22;5;64%;146;11%;10;4;Unity Esports;
-L;Jett;0.88;238;16;18;1;70%;131;10%;6;4;Unity Esports;
-L;Viper;0.89;223;12;15;2;75%;160;30%;2;0;Unity Esports;
-W;Jett;0.98;184;15;12;2;71%;108;13%;2;3;Unity Esports;
-L;Skye;0.62;193;10;15;1;60%;112;42%;1;2;Unity Esports;
-L;Jett;0.96;240;21;23;5;81%;160;17%;7;4;Unity Esports;
-W;Skye;1.51;320;32;18;5;65%;176;24%;7;2;Unity Esports;
-L;Viper;0.82;175;11;19;7;55%;120;25%;2;4;Unity Esports;

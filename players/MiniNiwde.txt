@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;232;13;14;2; ;138;20%;3;2;Skull Cracker;
-L;Jett; ;237;17;16;5; ;150;24%;4;1;Skull Cracker;
-L;Phoenix; ;238;17;17;4; ;145;34%;4;1;Skull Cracker;
-L;Raze; ;122;5;16;4; ;80;22%;1;1;Skull Cracker;
-L;Raze;1.05;262;20;19;4;74%;167;14%;4;7;Skull Cracker;
-L;Raze;0.61;135;9;19;7;68%;90;18%;2;3;Skull Cracker;
-W;Raze;1.93;372;22;8;9;100%;224;18%;3;0;Skull Cracker;
-L;Raze;1.00;271;20;23;7;63%;180;18%;4;1;Skull Cracker;

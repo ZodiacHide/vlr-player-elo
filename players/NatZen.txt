@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;La Menace Fantôme;
-L;Jett;1.05;227;14;14;2;58%;149;33%;2;2;La Menace Fantôme;
-L;Jett;0.78;217;14;17;3;63%;133;28%;3;1;On Vient CS;
-L;Jett;1.06;235;19;18;7;71%;148;14%;2;4;On Vient CS;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;238;18;12;7; ; ; ;2; ;Vikingekrig Esports;
-L;Sova; ;204;12;6;5; ; ; ;1; ;Vikingekrig Esports;
-L;Sova; ;151;7;14;2; ; ; ;1; ;Vikingekrig Esports;
-L;Brimstone; ;206;13;17;6; ; ; ;2; ;Vikingekrig Esports;
-L;Brimstone; ;190;16;20;5; ; ; ;0; ;Vikingekrig Esports;
-L;Phoenix; ;132;9;16;4; ;86;13%;1;1;Kamil Klein new chapter;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.43;134;5;16;1;31%;87;23%;3;2;Unsigned Losers;
-L;Omen;0.43;105;6;17;2;33%;73;14%;1;2;Unsigned Losers;
-L;Sage;0.29;109;5;15;4;63%;76;29%;0;2;Monkey Momentum;
-L;Phoenix;1.06;227;16;17;5;68%;149;22%;4;4;Monkey Momentum;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.93;253;16;16;5;74%;147;11%;2;3;ShanXi Gaming Girls;
-L;Phoenix;0.73;228;10;13;3;47%;147;39%;1;0;ShanXi Gaming Girls;
-L;Raze;0.13;68;2;14;4;54%;57;18%;0;5;ShanXi Gaming Girls;
-L;Raze;0.08;104;2;15;1;21%;85;12%;1;3;ShanXi Gaming Girls;

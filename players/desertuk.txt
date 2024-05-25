@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;244;14;17;7; ; ; ;0; ;Team gamelifeow;
-L;Raze; ;268;14;14;3; ; ; ;1; ;Team gamelifeow;
-L;Raze; ;290;21;18;8; ; ; ;2; ;Team gamelifeow;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.86;114;12;21;21;75%;85;23%;1;4;AXIBYTE ESPORTS;
-W;Sova;0.90;130;12;16;11;71%;96;21%;0;6;AXIBYTE ESPORTS;
-L;Sova;1.15;200;18;17;8;73%;142;25%;1;1;AXIBYTE ESPORTS;

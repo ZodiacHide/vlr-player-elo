@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;172;8;13;3; ;90;17%;0;0;Rated Gaming;
-L;Brimstone; ;111;6;17;3; ;73;24%;1;0;Rated Gaming;
-L;Astra;0.85;153;11;13;0;56%;98;46%;0;2;TradeLikePros;

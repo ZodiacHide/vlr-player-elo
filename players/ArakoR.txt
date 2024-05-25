@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;104;8;18;5; ;76;14%;0;0;KHABHAT GAMING;
-W;Omen; ;238;23;19;6; ;129;28%;1;1;KHABHAT GAMING;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.96;202;16;16;4;50%;119;22%;1;4;RAIJIN;
-L;Raze;0.56;125;7;18;5;48%;97;21%;2;6;RAIJIN;
-L;Phoenix;0.98;257;20;17;2;82%;154;26%;5;4;RAIJIN;
-L;Jett;0.79;167;10;15;1;44%;113;38%;3;2;RAIJIN;
-L;Phoenix;0.66;208;8;13;1;57%;136;6%;3;0;RAIJIN;
-L;Reyna;0.50;165;8;14;4;53%;100;13%;1;4;RAIJIN;
-L;Reyna;0.56;178;9;15;3;73%;111;13%;2;1;RAIJIN;

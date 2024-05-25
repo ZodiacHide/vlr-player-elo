@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;205;15;14;5; ;132;23%;4;1;Triumphant Song Gaming;
-W;Jett; ;265;25;17;2; ;178;18%;7;2;Triumphant Song Gaming;
-W;Sage; ;233;17;15;3; ;144;18%;1;2;Triumphant Song Gaming;

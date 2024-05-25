@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy;1.05;225;18;15;4;67%;140;15%;5;1;24Haven;
-W;Sova;0.71;149;10;15;9;78%;96;10%;1;0;24Haven;
-L;Killjoy;0.19;80;2;17;4;44%;57;13%;0;3;24Haven;
-L;Sova;0.64;183;10;13;1;57%;80;10%;0;1;24Haven;

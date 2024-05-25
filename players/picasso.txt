@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.54;122;7;14;1;50%;86;23%;0;2;Saplak;
-L;Viper;0.66;149;7;14;6;75%;77;24%;0;2;Saplak;

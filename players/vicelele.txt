@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Max Control;
-L;None;0;0;0;0;0;0;0;0;0;0;Max Control;
-L;Sova; ;223;16;18;6; ; ; ;0; ;Max Control;
-L;Raze; ;327;25;16;3; ;195;22%;4;2;Max Control;
-L;Raze; ;254;16;13;5; ;139;14%;3;1;Max Control;
-L;Raze; ;208;14;15;4; ;128;21%;3;3;RainbowMind;

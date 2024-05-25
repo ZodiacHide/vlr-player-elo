@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;92;8;16;6; ;69;21%;2;2;CrowСrowd;
-W;Raze; ;151;12;14;2; ;99;30%;1;5;CrowСrowd;
-L;Raze; ;205;13;11;5; ;189;25%;0;2;CrowСrowd;
-L;Raze; ;112;4;13;4; ;85;17%;1;4;CrowСrowd;

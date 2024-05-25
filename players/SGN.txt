@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.16;93;3;13;1;23%;57;9%;0;0;Injected Sheesh;

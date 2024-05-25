@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;255;24;19;3; ;170;24%;5;2;HARD Esports;
-L;Omen; ;204;13;17;8; ;141;16%;4;4;HARD Esports;

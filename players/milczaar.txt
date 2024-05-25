@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.28;87;4;15;2;41%;51;7%;0;1;Alejkum Salam;
-L;Cypher;0.25;69;3;16;4;41%;55;43%;1;4;Alejkum Salam;

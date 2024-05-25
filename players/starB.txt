@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.50;100;5;14;0;43%;75;22%;1;2;We Raise Blame;
-L;Jett;1.00;247;12;13;1;64%;170;39%;2;2;We Raise Blame;

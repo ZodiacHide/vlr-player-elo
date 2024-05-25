@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;203;10;13;1; ;107;28%;0;2;US Army Esports;
-L;Raze; ;211;9;16;4; ;119;4%;3;3;US Army Esports;

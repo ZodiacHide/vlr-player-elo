@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Skye;1.22;240;23;18;15;68%;167;24%;3;2;Lycus Empire Red;
-L;Skye;0.91;165;14;16;6;67%;100;26%;1;3;Lycus Empire Red;
-L;Sage;1.14;192;16;15;8;71%;137;34%;3;2;Lycus Empire Red;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;272;18;14;0; ;180;33%;3;1;Atheris Esports;
-L;Sova; ;354;27;13;3; ;212;32%;3;2;Atheris Esports;
-L;Sova; ;197;14;13;1; ;131;24%;2;2;Atheris Esports;
-L;Sova; ;213;15;15;5; ;139;17%;1;0;Wolves of Hell;
-L;Sova; ;156;9;17;7; ;117;20%;0;2;Wolves of Hell;
-L;Viper;0.70;146;7;13;2;50%;114;45%;0;2;Bnat Char9i;
-L;Sova;0.77;217;12;15;1;50%;144;30%;3;1;Bnat Char9i;

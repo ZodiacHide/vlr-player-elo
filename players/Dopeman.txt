@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;213;19;19;5; ;150;28%;2;1;GBP Esports;
-L;Sova;0.62;124;8;17;5;55%;78;10%;0;2;GBP Esports;
-L;Sova;0.79;182;12;16;8;65%;112;15%;0;1;GBP Esports;

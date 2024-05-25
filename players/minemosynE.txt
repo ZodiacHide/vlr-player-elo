@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.55;354;29;15;5;78%;224;13%;3;4;Team Singularity Female;
-L;Jett;1.23;276;24;21;9;79%;194;24%;8;2;Team Singularity Female;
-W;Sage;1.31;234;18;12;9;65%;157;21%;1;4;Team Singularity Female;
-W;Jett;1.37;308;17;11;8;88%;195;16%;6;1;Team Singularity Female;
-L;Jett;0.36;134;5;14;2;38%;86;33%;1;2;Team Singularity Female;
-L;Jett;0.10;42;1;13;1;15%;39;18%;0;4;Team Singularity Female;

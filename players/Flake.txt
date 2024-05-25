@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;172;13;14;3; ;109;12%;4;3;Bencheados Academy;
-W;Brimstone; ;93;7;13;6; ;65;11%;0;2;Bencheados Academy;
-L;Sova; ;175;7;12;0; ;99;30%;1;1;Bencheados Academy;

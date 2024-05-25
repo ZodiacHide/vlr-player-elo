@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Sentinels;
-L;None;0;0;0;0;0;0;0;0;0;0;Sentinels;
-L;None;0;0;0;0;0;0;0;0;0;0;Sentinels;
-L;None;0;0;0;0;0;0;0;0;0;0;Sentinels;
-L;None;0;0;0;0;0;0;0;0;0;0;Sentinels;
-W;None;0;0;0;0;0;0;0;0;0;0;Team dizzy;
-W;None;0;0;0;0;0;0;0;0;0;0;Team dizzy;

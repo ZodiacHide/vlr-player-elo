@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;254;30;28;8; ;175;24%;8;8;The Clappening;
-W;Jett; ;175;16;16;3; ;100;12%;4;3;The Clappening;
-W;Jett; ;234;13;10;5; ;143;13%;4;2;The Clappening;
-W;Phoenix; ;181;16;26;11; ;128;17%;5;4;The Clappening;
-L;Jett; ;252;15;13;4; ;152;18%;3;4;The Clappening;
-L;Jett; ;202;12;16;4; ;139;21%;0;5;The Clappening;
-L;Sage;0.44;163;9;17;3;67%;86;15%;3;5;O.O.D.A Loopers;
-L;Phoenix;0.58;157;9;17;4;53%;109;8%;2;5;O.O.D.A Loopers;

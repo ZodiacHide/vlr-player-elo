@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;183;19;17;5; ;108;16%;2;5;Trouble Makers;
-L;Reyna; ;244;12;11;1; ;206;12%;0;2;Trouble Makers;
-L;Reyna; ;258;23;18;3; ;155;23%;5;4;Trouble Makers;

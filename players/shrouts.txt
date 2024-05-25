@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.45;121;10;21;2;67%;84;18%;1;0;Rock Bottom;
-L;Astra;0.28;96;4;14;0;33%;63;7%;0;1;Rock Bottom;
-L;Omen;0.78;177;10;16;4;72%;111;18%;2;1;Rock Bottom;
-L;Astra;0.75;144;7;15;7;53%;103;43%;1;2;Rock Bottom;
-L;Skye;0.66;143;9;16;4;72%;93;22%;0;1;Rock Bottom;
-L;Astra;0.47;119;7;14;5;65%;70;15%;0;1;Rock Bottom;
-L;Astra;0.86;182;16;16;4;65%;111;26%;3;2;Rock Bottom;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;None;0;0;0;0;0;0;0;0;0;0;Arcana;
-L;Reyna; ;203;12;15;1; ;145;34%;2;1;Arcana;
-W;Jett; ;296;20;11;2; ;162;31%;5;0;Arcana;

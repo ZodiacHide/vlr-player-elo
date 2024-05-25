@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;230;23;22;6; ;141;40%;1;1;Marten Gaming;
-W;Cypher; ;266;19;7;3; ;153;38%;4;0;Marten Gaming;
-L;Cypher; ;129;11;17;0; ;91;24%;2;0;Marten Gaming;
-L;Breach; ;116;10;16;5; ;73;39%;0;2;Marten Gaming;
-W;Breach; ;75;5;12;8; ;52;26%;0;1;Marten Gaming;
-L;Breach; ;172;14;14;9; ;113;39%;1;1;Marten Gaming;

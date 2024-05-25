@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.61;141;9;15;1;61%;94;4%;3;4;Mist Walkers;

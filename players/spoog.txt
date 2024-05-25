@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;193;11;13;3; ;105;34%;0;2;Shadow Life;
-L;Omen; ;144;9;16;7; ;90;13%;4;4;Shadow Life;
-L;Sage;0.41;81;3;13;3;50%;68;26%;0;3;HalfBliss;
-L;Astra;0.67;133;9;15;7;59%;74;21%;0;2;HalfBliss;
-L;Astra;0.73;184;10;14;5;53%;112;33%;0;3;HalfBliss;
-L;Astra;0.28;55;1;13;1;38%;44;8%;0;1;MystiC;

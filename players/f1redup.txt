@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;1.14;160;13;12;6;68%;115;15%;2;2;Team Cohesion;
-W;Jett;1.36;279;23;15;5;96%;172;21%;7;3;Team Cohesion;
-L;Jett;0.84;206;11;14;2;56%;126;32%;4;6;Team Cohesion;
-L;Reyna;1.15;264;19;15;5;71%;177;32%;0;1;Team Cohesion;
-L;Jett;0.52;125;6;16;2;39%;89;23%;2;2;Team Cohesion;
-L;Viper;0.76;157;13;16;5;55%;104;24%;2;0;Team Cohesion;

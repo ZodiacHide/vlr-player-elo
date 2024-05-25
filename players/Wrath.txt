@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;89;3;12;2; ;55;23%;0;0;HACKJR;
-L;Cypher; ;97;4;14;5; ;66;6%;1;0;HACKJR;

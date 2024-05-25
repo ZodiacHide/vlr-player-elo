@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye; ;138;6;13;6; ;95;15%;1;2;Polarity Esports;

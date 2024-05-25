@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.79;201;25;30;7;69%;131;25%;5;5;Zero Zone W;
-L;Sova;1.14;241;17;14;7;80%;171;20%;2;0;Zero Zone W;

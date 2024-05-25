@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;87;4;14;4; ;56;18%;0;2;Progress;
-L;Omen; ;119;7;15;4; ;75;26%;1;2;Progress;
-L;Raze;0.56;133;7;16;3;50%;88;21%;1;3;Illés Akadémia Spirit;
-L;Raze;0.75;226;10;14;2;50%;131;9%;1;3;Illés Akadémia Spirit;

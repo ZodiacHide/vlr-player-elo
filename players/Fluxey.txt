@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;1.04;188;16;14;4;73%;125;13%;1;1;TGS aXe;
-L;Cypher;0.55;150;9;15;1;47%;88;9%;1;1;TGS aXe;
-W;Skye;1.34;211;17;13;8;78%;134;12%;0;1;TGS aXe;
-W;Killjoy;0.96;170;13;16;5;64%;113;13%;1;0;TGS aXe;
-L;Skye;0.46;163;7;15;6;67%;132;17%;0;3;TGS aXe;
-L;Cypher;0.83;172;10;16;5;71%;122;39%;2;0;TGS aXe;

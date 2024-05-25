@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;188;9;13;2; ;108;40%;0;2;Amarok Esports;
-L;Breach; ;182;10;14;3; ;112;29%;1;1;Amarok Esports;

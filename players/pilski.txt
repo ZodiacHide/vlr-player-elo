@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;210;14;11;12; ;121;8%;1;1;Shidiots;
-L;Sova; ;179;8;13;11; ;109;18%;0;3;Shidiots;
-W;Sage; ;157;12;9;5; ;94;10%;2;1;Shidiots;
-W;Sova; ;162;11;14;7; ;106;21%;0;0;Shidiots;
-W;Sova; ;199;16;14;10; ;120;11%;1;1;Shidiots;

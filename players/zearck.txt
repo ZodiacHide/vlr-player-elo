@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;133;10;19;6; ;82;11%;0;2;Mik0nsDisciple;
-W;Killjoy; ;261;22;18;5; ;166;12%;0;1;Mik0nsDisciple;
-W;Killjoy; ;236;13;6;4; ;126;7%;1;0;Mik0nsDisciple;
-W;Killjoy; ;171;14;13;5; ;99;12%;2;1;Mik0nsDisciple;
-L;Killjoy; ;103;4;19;7; ;75;5%;0;0;Mik0nsDisciple;

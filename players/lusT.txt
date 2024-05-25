@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;120;6;13;3; ;89;21%;0;3;EZPZ;
-W;Sage; ;229;21;14;10; ;133;27%;1;1;EZPZ;
-W;Cypher; ;195;12;10;4; ;116;14%;1;2;EZPZ;
-L;Sage; ;107;4;15;4; ;83;17%;2;4;EZPZ;
-L;Cypher; ;215;10;12;2; ;131;27%;2;0;EZPZ;

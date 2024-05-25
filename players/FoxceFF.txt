@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;408;26;8;2; ;256;25%;4;1;Team Invictus (India);
-W;Omen; ;230;15;10;7; ;136;33%;4;1;Team Invictus (India);
-W;Omen; ;217;16;16;3; ;123;29%;3;2;Team Invictus (India);

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;126;7;17;4; ;84;23%;0;3;Sakura Storm;
-W;Sova; ;181;16;15;4; ;118;13%;2;2;Sakura Storm;
-L;Breach; ;118;6;13;5; ;77;11%;1;3;Sakura Storm;
-L;Sova;0.71;163;9;15;5;58%;109;25%;2;1;Team Rocket;
-L;Sova;0.54;154;5;15;4;33%;119;9%;0;2;Team Rocket;
-L;Sova;0.94;154;13;15;7;75%;112;24%;1;1;Team Rocket;

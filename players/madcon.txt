@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.66;129;8;16;4;55%;85;24%;2;2;ArchNemesis;
-L;Reyna;0.67;118;7;15;4;72%;79;29%;1;4;ArchNemesis;
-L;Reyna;0.80;184;12;15;1;47%;110;31%;2;1;ArchNemesis;

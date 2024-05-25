@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;123;11;15;6; ;87;18%;2;1;T1 Korea;
-L;Cypher; ;183;15;20;4; ;97;13%;1;3;T1 Korea;
-W;Cypher; ;148;10;13;11; ;113;15%;1;0;T1 Korea;
-L;Cypher; ;162;11;16;2; ;83;13%;3;0;T1 Korea;
-L;Cypher; ;143;8;15;8; ;101;15%;2;1;T1 Korea;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;173;10;14;3; ; ; ;1; ;Dia De Los Muertos;
-L;Sage; ;117;8;19;8; ; ; ;0; ;Dia De Los Muertos;

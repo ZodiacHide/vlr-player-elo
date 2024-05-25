@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.53;79;5;18;4;55%;57;9%;1;2;TinyTurtles;
-L;Sova;0.61;171;11;19;4;62%;113;25%;0;3;TinyTurtles;
-W;Sage;0.69;108;4;12;13;73%;61;3%;0;1;TinyTurtles;

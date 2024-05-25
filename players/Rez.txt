@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;146;8;14;2; ;104;21%;0;4;Far East Society;
-L;Cypher; ;140;8;14;0; ;57;33%;2;4;Far East Society;
-L;Reyna; ;162;11;17;7; ;112;20%;2;6;Akademus Esport;

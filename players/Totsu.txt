@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;311;22;10;5; ;202;33%;4;1;Awake Esports;
-L;Jett; ;247;15;15;2; ;156;44%;5;4;Awake Esports;
-L;Raze; ;138;5;14;2; ;73;18%;1;3;Awake Esports;
-L;Jett; ;254;15;15;0; ;144;50%;4;2;Awake Esports;
-W;Jett; ;244;23;22;4; ;157;25%;5;3;Awake Esports;

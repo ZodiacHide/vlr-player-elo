@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher;1.05;160;11;10;5;74%;95;22%;1;0;En corto gamers;
-L;Viper;0.64;132;7;13;3;41%;81;60%;2;3;En corto gamers;
-L;Viper;0.91;244;14;14;5;81%;160;31%;0;2;En corto gamers;
-L;Cypher;0.75;190;12;17;3;50%;127;39%;4;0;En corto gamers;
-L;Viper;0.43;120;6;15;3;38%;98;22%;0;0;En corto gamers;

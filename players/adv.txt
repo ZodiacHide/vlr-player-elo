@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;132;8;14;10; ; ; ;2; ;Only-Esports;
-L;Sage; ;108;10;14;8; ; ; ;0; ;Only-Esports;
-L;Sage; ;184;14;12;3; ; ; ;1; ;Only-Esports;

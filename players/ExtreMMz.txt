@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;174;9;14;4; ;103;29%;2;0;Helios Gaming;
-L;Omen; ;238;18;15;6; ;133;32%;3;2;Helios Gaming;
-L;Brimstone; ;166;12;14;1; ;113;23%;0;2;Helios Gaming;

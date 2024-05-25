@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;153;13;18;6; ;111;29%;1;2;komand04ka;
-L;Sova; ;157;11;18;11; ;110;15%;1;0;komand04ka;
-L;Sova; ;234;14;14;4; ;146;33%;2;2;komand04ka;
-L;Phoenix; ;163;10;17;8; ;130;24%;2;5;komand04ka;
-W;Phoenix; ;241;20;19;5; ;144;19%;2;4;komand04ka;
-W;Phoenix; ;226;15;11;7; ;132;20%;0;0;komand04ka;
-L;Phoenix; ;162;9;17;4; ;97;29%;1;4;komand04ka;
-L;Phoenix; ;134;7;16;3; ;84;22%;1;2;komand04ka;

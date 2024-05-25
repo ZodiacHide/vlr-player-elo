@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.90;224;12;14;3;76%;120;16%;4;3;CNG Esports;
-L;Jett;1.02;202;15;15;0;50%;119;20%;1;5;CNG Esports;
-W;Jett;1.51;352;23;12;5;83%;214;24%;4;3;CNG Esports;
-L;Jett;0.31;124;7;17;1;32%;83;11%;1;5;CNG Esports;

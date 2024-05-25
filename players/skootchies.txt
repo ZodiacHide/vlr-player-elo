@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;261;22;16;3; ;160;47%;2;1;Team Toxic;
-L;Killjoy; ;116;10;17;0; ;66;6%;1;4;Team Toxic;
-W;Killjoy; ;202;17;13;2; ;128;27%;1;0;Team Toxic;
-L;Killjoy; ;162;12;17;5; ;106;9%;1;1;Team Toxic;
-W;Killjoy; ;226;21;14;0; ;135;24%;1;0;Team Toxic;
-L;Killjoy; ;177;19;24;4; ;112;26%;4;6;Team Toxic;

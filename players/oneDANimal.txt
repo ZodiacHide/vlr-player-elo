@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;191;10;18;4; ;124;19%;1;1;SAKS;
-L;Jett; ;274;15;14;4; ;170;25%;2;0;SAKS;
-L;Jett; ;186;13;15;1; ;99;29%;2;1;Logan Paulers;
-L;Sova; ;118;5;13;6; ;79;15%;0;4;Logan Paulers;

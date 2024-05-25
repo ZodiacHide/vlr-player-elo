@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;170;15;18;2; ; ; ;6; ;RATVI;
-W;Jett; ;406;29;11;6; ; ; ;7; ;RATVI;
-L;Jett; ;102;6;14;0; ; ; ;3; ;RATVI;
-W;Jett; ;128;10;15;2; ; ; ;3; ;RATVI;
-L;Jett; ;132;8;18;5; ; ; ;1; ;RATVI;
-W;Jett; ;227;20;17;2; ; ; ;6; ;RATVI;
-L;Jett; ;116;6;15;1; ; ; ;1; ;RATVI;
-L;Jett; ;146;7;14;2; ; ; ;1; ;RATVI;

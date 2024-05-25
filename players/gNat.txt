@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;82;2;14;3; ;61;0%;1;1;Old Dudes;
-L;Omen; ;138;9;14;3; ;81;16%;0;1;Old Dudes;

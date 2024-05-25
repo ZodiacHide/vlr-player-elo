@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;175;10;17;2; ;105;32%;3;2;Anatolia Esports;
-L;Sova; ;177;10;14;1; ;118;35%;1;1;Anatolia Esports;

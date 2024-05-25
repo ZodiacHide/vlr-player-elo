@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;222;18;20;5; ; ; ;2; ;Exceptis;
-W;Raze; ;231;19;14;2; ; ; ;1; ;Exceptis;
-W;None;0;0;0;0;0;0;0;0;0;0;CITRON CHIEN;
-W;Raze; ;236;15;9;2; ; ; ;2; ;CITRON CHIEN;
-W;Breach; ;200;16;16;6; ; ; ;3; ;CITRON CHIEN;
-W;Cypher; ;190;16;14;6; ; ; ;3; ;CITRON CHIEN;

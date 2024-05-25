@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy;1.18;236;18;13;6;78%;169;11%;2;2;Team Singularity Female;
-L;Killjoy;1.14;232;22;17;6;79%;153;11%;2;3;Team Singularity Female;
-W;Viper;1.00;168;12;12;6;85%;115;18%;1;0;Team Singularity Female;
-W;Killjoy;1.33;196;10;7;6;88%;125;14%;2;0;Team Singularity Female;
-L;Killjoy;0.33;150;6;13;1;54%;106;17%;0;1;Team Singularity Female;
-L;Killjoy;0.70;240;9;13;0;54%;149;19%;1;1;Team Singularity Female;

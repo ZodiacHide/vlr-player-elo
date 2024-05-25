@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;180;13;17;7; ;116;21%;2;3;DKS Esports;
-L;Omen; ;226;19;17;4; ;162;25%;2;3;DKS Esports;
-L;Omen; ;275;15;15;3; ;152;18%;2;1;DKS Esports;
-L;Brimstone; ;155;14;15;5; ;95;15%;0;0;DKS Esports;
-L;Omen;0.77;193;15;19;7;65%;130;20%;2;1;DKS Esports;
-L;Omen;0.90;187;19;20;4;57%;126;19%;4;4;DKS Esports;
-L;Omen;0.66;132;7;16;7;58%;93;18%;1;2;DKS Esports;

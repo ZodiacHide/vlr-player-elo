@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.35;265;29;22;4;72%;190;18%;2;2;KJC eSports;
-L;Jett;0.81;180;11;15;0;47%;102;21%;0;3;KJC eSports;
-L;Sova;0.86;148;12;17;5;65%;87;15%;1;0;Clutch Jeans;
-L;None;0;0;0;0;0;0;0;0;0;0;Clutch Jeans;

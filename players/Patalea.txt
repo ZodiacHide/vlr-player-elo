@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.07;71;3;15;2;27%;45;33%;0;1;Sad Girls;
-W;Sage;0.93;172;13;15;8;67%;114;9%;2;2;Sad Girls;
-W;Sage;1.27;213;15;15;16;74%;142;17%;3;2;Sad Girls;
-L;Sage;1.07;189;18;17;5;65%;113;17%;1;1;Sad Girls;
-L;Viper;1.16;309;18;15;4;68%;191;17%;1;1;Sad Girls;

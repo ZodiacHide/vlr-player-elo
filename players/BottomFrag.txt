@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.68;143;9;14;1;41%;105;38%;0;1;Celestial Violet;
-L;Killjoy;0.23;101;4;13;0;31%;56;71%;0;2;Celestial Violet;

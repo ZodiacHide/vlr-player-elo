@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;218;19;16;2; ;148;37%;4;1;Nerd Banana;
-W;None;0;0;0;0;0;0;0;0;0;0;Nerd Banana;

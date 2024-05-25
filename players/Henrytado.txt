@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;63;4;12;6; ; ; ;1; ;Anata;
-W;Sage; ; ; ; ; ; ; ; ; ; ;Anata;
-W;Sage; ;28;2;14;0; ; ; ;0; ;Anata;
-L;None;0;0;0;0;0;0;0;0;0;0;Anata;
-L;None;0;0;0;0;0;0;0;0;0;0;Anata;

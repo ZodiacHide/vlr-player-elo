@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper; ;229;20;17;5; ;203;23%;5;1;AnimeSquad;

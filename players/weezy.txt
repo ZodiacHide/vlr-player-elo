@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;199;18;24;4; ;116;23%;4;3;Affinity Esports;
-L;Killjoy; ;132;6;17;4; ;86;24%;2;4;Affinity Esports;

@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.06;248;17;17;5;65%;138;15%;3;6;Invictus Gaming Academy;
-L;Jett;0.57;175;9;19;5;58%;117;18%;2;4;Invictus Gaming Academy;
-L;Jett;0.70;180;12;15;1;78%;99;31%;4;3;O2 Gaming;
-L;Jett;0.82;179;13;17;2;62%;113;19%;3;5;O2 Gaming;
-W;Jett;0.62;134;12;16;1;64%;77;13%;2;7;O2 Gaming;
-W;Jett;1.19;223;19;16;2;59%;131;39%;2;3;O2 Gaming;
-L;Jett;0.36;75;4;13;2;43%;45;20%;0;5;O2 Gaming;
-L;Jett;0.75;174;15;18;3;70%;114;40%;2;4;O2 Gaming;

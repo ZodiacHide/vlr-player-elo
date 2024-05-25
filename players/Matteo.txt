@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;161;10;15;3; ;109;8%;1;5;LG Terra;
-L;Reyna;1.24;258;20;16;6;78%;168;19%;2;2;RD Esports;
-L;Raze;0.96;233;15;18;4;67%;148;10%;4;3;RD Esports;

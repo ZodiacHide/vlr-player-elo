@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna; ;171;11;14;13; ;98;13%;1;2;StarlessGG;
-L;Reyna; ;176;23;28;6; ;112;7%;2;4;StarlessGG;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna;0.74;162;15;26;11;63%;99;9%;5;4;KJC eSports;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.42;181;9;16;1;60%;95;6%;2;4;Guardian Esports Team;

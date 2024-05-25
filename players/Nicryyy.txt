@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;161;11;15;3; ;113;30%;2;3;PuR eSport;
-L;Omen;0.44;111;7;16;2;47%;74;15%;0;2;MSR Esport;
-L;Omen;0.77;206;14;16;1;63%;107;43%;2;0;MSR Esport;

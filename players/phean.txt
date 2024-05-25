@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;227;14;15;2; ;124;21%;7;3;steven edge le;
-L;Jett; ;159;14;19;2; ;91;7%;2;6;steven edge le;
-L;Cypher;0.55;110;7;16;3;41%;72;25%;0;1;Saber;
-L;Cypher;0.89;188;15;18;6;67%;131;33%;0;2;Saber;
-L;Killjoy;0.84;220;18;18;1;64%;136;31%;3;6;Hysteria;
-L;Sage;0.52;163;8;14;1;40%;96;11%;1;2;Hysteria;
-L;Cypher;0.20;86;4;16;1;41%;55;14%;1;1;Hysteria;

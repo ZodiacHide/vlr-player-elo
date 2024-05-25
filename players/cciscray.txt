@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen;1.05;201;16;14;3;71%;113;21%;1;0;Unbind Crouch;
-L;Brimstone;0.67;149;12;18;3;71%;95;18%;0;2;Unbind Crouch;
-L;Omen;0.95;170;14;15;4;81%;118;26%;1;0;Unbind Crouch;

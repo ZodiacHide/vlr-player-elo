@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;233;12;15;3; ;133;10%;2;3;The Mandalorian;
-L;Raze; ;83;2;15;1; ;60;6%;0;0;The Mandalorian;
-L;Raze;0.53;157;6;12;1;54%;105;19%;1;0;Spanish Mix;
-L;Reyna;0.18;87;4;13;0;31%;42;22%;0;4;Spanish Mix;

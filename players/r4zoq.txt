@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;142;7;17;9; ;79;27%;2;4;Steel Tactics;
-L;Breach; ;173;12;17;8; ;115;24%;2;2;Steel Tactics;

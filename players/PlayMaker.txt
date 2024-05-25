@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen;1.16;134;8;3;0;86%;78;14%;1;0;Fancy United Esports;
-W;Omen;0.67;115;10;17;3;73%;76;23%;0;2;Fancy United Esports;
-W;Astra;1.10;142;11;11;11;76%;90;29%;2;2;Fancy United Esports;
-L;Astra;0.84;168;11;17;11;73%;104;23%;1;0;Fancy United Esports;
-L;Astra;0.68;121;9;16;5;71%;84;15%;0;1;Fancy United Esports;
-L;Astra;0.65;152;12;18;2;62%;93;54%;1;2;Fancy United Esports;
-W;Astra;1.05;152;9;8;9;93%;81;10%;1;1;Fancy United Esports;
-L;Astra;0.58;113;8;16;9;62%;69;27%;0;0;Fancy United Esports;

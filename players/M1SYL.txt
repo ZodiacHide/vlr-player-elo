@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;157;13;17;4; ;101;21%;4;1;Exceeli Esports;
-L;Killjoy; ;144;9;18;6; ;106;32%;1;1;Exceeli Esports;
-L;Jett;0.57;130;7;14;2;38%;81;23%;3;4;Exceeli Esports;
-L;Skye;0.88;196;15;15;7;67%;110;23%;2;2;Exceeli Esports;
-W;Jett;1.72;422;27;12;4;89%;261;29%;7;1;Exceeli Esports;
-W;Skye;1.40;285;23;16;8;74%;188;19%;5;5;Exceeli Esports;
-L;Jett;1.06;226;24;23;5;73%;153;31%;8;4;Exceeli Esports;
-L;Jett;1.03;251;18;16;5;73%;169;27%;3;4;Exceeli Esports;

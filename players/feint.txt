@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.76;137;10;13;5;58%;99;36%;1;4;Slaughter House;
-L;Astra;0.36;112;6;14;0;36%;75;53%;0;1;Slaughter House;
-L;Viper;0.97;170;13;15;4;67%;110;40%;2;1;Slaughter House;

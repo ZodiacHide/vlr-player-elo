@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;217;13;17;2; ;145;21%;1;1;RosCey eSports;

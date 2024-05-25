@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;1.24;230;16;13;4;80%;149;16%;2;2;Bonk Babes;
-W;Sova;1.41;275;18;10;8;75%;188;13%;4;0;Bonk Babes;
-L;Sova;0.28;78;2;13;2;36%;58;0%;1;4;Bonk Babes;
-L;Sova;0.67;187;10;19;8;58%;137;6%;0;2;Bonk Babes;

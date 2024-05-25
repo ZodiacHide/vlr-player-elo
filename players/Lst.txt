@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;156;5;13;1; ;122;15%;0;1;Friendlings;
-L;Raze; ;129;7;13;0; ;83;30%;1;4;Friendlings;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;253;17;14;7; ; ; ;4; ;Team kennymcc;
-W;Reyna; ;218;20;18;3; ; ; ;1; ;Team kennymcc;
-L;Breach; ;174;7;12;2; ; ; ;1; ;Team kennymcc;
-W;None;0;0;0;0;0;0;0;0;0;0;Team kennymcc;
-L;Breach; ;136;8;15;5; ; ; ;0; ;Team kennymcc;

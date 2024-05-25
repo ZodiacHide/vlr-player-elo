@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;152;6;13;0; ;97;15%;0;3;Eternal Zen Gaming;
-L;Omen; ;269;23;15;7; ;148;26%;3;0;Eternal Zen Gaming;

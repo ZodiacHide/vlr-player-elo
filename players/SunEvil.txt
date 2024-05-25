@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.70;172;13;18;6;52%;93;21%;1;4;335 Cầu Giấy;
-L;Cypher;0.75;202;14;17;3;53%;144;27%;0;4;335 Cầu Giấy;

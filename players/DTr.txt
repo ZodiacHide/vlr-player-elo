@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;271;20;9;5; ; ; ;1; ;Urubuzada e-Sports;
-L;Sage; ;84;7;15;4; ; ; ;1; ;Urubuzada e-Sports;
-L;Omen; ;112;9;18;1; ;78; ;2; ;no org;
-L;Cypher; ;272;26;19;7; ;187; ;4; ;no org;
-L;Cypher; ;213;12;14;4; ;143;20%;0;3;no org;

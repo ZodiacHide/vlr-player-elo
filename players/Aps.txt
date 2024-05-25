@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;105;5;15;2; ;56;17%;0;2;Aricat Esport Family;
-L;Breach; ;73;4;13;4; ;35;20%;0;0;Aricat Esport Family;

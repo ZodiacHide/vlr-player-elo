@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;98;5;18;4; ;56;15%;2;6;Noctis;
-L;Omen; ;181;8;16;3; ;115;26%;2;3;Noctis;

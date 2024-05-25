@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;112;6;15;4; ;67;9%;2;2;XenoFrost;
-L;Killjoy; ;139;5;14;0; ;85;14%;3;1;XenoFrost;

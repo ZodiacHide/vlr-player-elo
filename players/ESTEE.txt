@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;1.09;182;17;14;8;83%;127;31%;1;0;Team Singularity Female;
-L;Sova;0.90;122;12;18;10;79%;90;15%;0;1;Team Singularity Female;
-W;Brimstone;0.84;114;7;12;4;75%;83;24%;1;2;Team Singularity Female;
-W;Sova;1.21;150;9;7;4;88%;118;35%;1;0;Team Singularity Female;
-L;Sova;0.78;258;10;12;4;62%;165;35%;0;0;Team Singularity Female;
-L;Sova;0.43;159;8;13;0;54%;115;53%;1;0;Team Singularity Female;

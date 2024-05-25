@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.38;86;4;14;4;69%;63;9%;0;2;Griffos Starfire;
-L;Sova;0.74;187;10;17;13;70%;125;13%;1;1;Griffos Starfire;
-W;Sova;1.55;327;22;12;7;83%;216;13%;3;1;Griffos Starfire;
-W;Sova;1.02;215;18;17;5;77%;130;13%;0;0;Griffos Starfire;
-L;Sova;0.99;191;15;16;6;76%;111;7%;1;0;Griffos Starfire;
-L;Sova;0.89;224;13;16;9;78%;147;9%;0;0;Griffos Starfire;

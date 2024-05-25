@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;219;12;15;7; ;138;19%;1;1;Bounty Esports;
-L;Brimstone; ;133;10;16;4; ;84;17%;1;3;Bounty Esports;
-L;Brimstone; ;225;11;14;4; ;125;21%;3;0;Bounty Esports;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;263;15;10;2; ;140;14%;2;3;Excelsa;
-L;Breach; ;188;14;18;3; ;124;37%;1;0;Excelsa;
-W;Breach; ;191;17;18;12; ;116;17%;1;2;Excelsa;
-W;Raze; ;293;22;16;6; ;185;25%;4;4;Excelsa;
-L;Sova; ;154;8;13;1; ;90;13%;0;1;Excelsa;
-W;Raze; ;210;14;17;4; ;133;25%;5;5;Excelsa;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.82;200;13;17;4;60%;129;38%;1;2;TLP Monkies;
-W;Omen;1.04;205;16;15;9;68%;129;23%;2;2;TLP Monkies;
-L;Omen;0.79;187;12;17;5;55%;96;15%;2;4;TLP Monkies;
-L;Viper;0.71;221;19;20;3;63%;135;30%;1;4;TLP Monkies;
-L;Killjoy;0.83;189;12;15;1;42%;117;17%;3;3;TLP Monkies;
-W;Cypher;0.75;160;14;18;6;58%;84;26%;1;4;TLP Monkies;
-L;Killjoy;0.89;203;12;15;4;61%;131;13%;0;2;TLP Monkies;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;0.59;112;8;16;3;62%;72;29%;1;0;trying to win;
-L;Brimstone;1.01;202;17;19;13;67%;156;28%;5;3;trying to win;
-W;Brimstone;0.85;223;18;20;8;79%;133;28%;6;2;trying to win;

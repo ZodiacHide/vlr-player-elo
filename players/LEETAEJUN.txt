@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna; ;353;22;6;1; ;169;21%;1;0;Team Korea;
-W;Reyna; ;211;12;9;4; ;148;33%;2;3;Team Korea;
-L;Reyna; ;114;6;14;2; ;77;29%;2;1;Team Korea;
-L;Reyna; ;188;15;17;4; ;127;19%;0;5;Team Korea;

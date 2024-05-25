@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.56;135;12;23;9;54%;94;20%;1;6;Icons;
-L;Jett;0.33;117;5;16;5;44%;76;13%;1;2;Waverunners;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;143;12;14;5; ;101;30%;1;1;RARE Esports;
-W;Jett; ;258;23;19;3; ;144;34%;4;2;RARE Esports;
-W;Jett; ;231;16;11;1; ;128;35%;4;2;RARE Esports;
-L;Jett; ;154;12;18;2; ;107;24%;4;3;RARE Esports;
-L;Jett; ;182;11;13;1; ;122;36%;3;6;RARE Esports;

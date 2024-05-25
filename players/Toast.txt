@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;129;6;13;8; ;75;17%;1;0;Dallas Vendetta;
-L;Breach; ;101;5;14;10; ;59;17%;0;0;Dallas Vendetta;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;172;11;17;4; ;117;32%;1;1;Logan Paulers;
-L;Brimstone; ;152;8;15;5; ;93;23%;2;0;Logan Paulers;

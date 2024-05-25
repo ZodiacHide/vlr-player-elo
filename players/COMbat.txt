@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.84;192;12;15;2;63%;118;23%;1;0;Spectral Esports Purple;

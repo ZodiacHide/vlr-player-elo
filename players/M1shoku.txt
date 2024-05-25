@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;148;6;13;1; ;98;15%;1;1;Lunatic-Hai FLUX;
-L;Sage; ;182;11;17;4; ;103;26%;0;1;Lunatic-Hai FLUX;
-L;Breach; ;54;3;14;8; ;35;11%;0;1;TUBEPLE Gaming;
-W;Breach; ;278;25;17;14; ;144;18%;5;0;TUBEPLE Gaming;
-L;Breach; ;116;7;16;5; ;74;20%;2;2;TUBEPLE Gaming;
-L;Breach; ;119;8;18;8; ;78;16%;0;5;TUBEPLE Gaming;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;117;8;13;0; ;61;13%;1;3;A SEITA;
-L;Cypher; ;207;19;16;3; ;125;30%;2;3;A SEITA;

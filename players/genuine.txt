@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;168;12;17;4; ;120;13%;2;3;Flawless;
-L;Skye;0.84;163;14;17;1;64%;95;21%;1;2;Team Ancients Female;
-L;Skye;0.48;113;7;14;4;50%;80;20%;1;4;Team Ancients Female;
-L;Reyna;0.71;180;9;16;4;65%;115;22%;3;3;Team Ancients Female;
-L;Phoenix;0.83;212;14;16;4;79%;131;28%;3;3;Team Ancients Female;

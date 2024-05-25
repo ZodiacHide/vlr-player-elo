@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.83;188;11;13;2;47%;134;31%;0;3;BBBongos;
-W;Skye;1.21;219;21;17;3;77%;153;42%;2;2;BBBongos;
-L;Phoenix;1.31;329;23;17;6;81%;206;49%;2;0;BBBongos;

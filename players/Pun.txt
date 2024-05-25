@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;161;12;14;6; ;97;29%;0;1;All Victory Esports;
-L;Cypher; ;41;2;17;1; ;35;6%;0;5;All Victory Esports;
-L;Cypher; ;184;15;19;5; ;120;16%;2;0;All Victory Esports;

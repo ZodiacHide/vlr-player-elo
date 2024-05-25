@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;129;8;12;2; ;81;16%;3;4;Destined;
-L;Cypher; ;96;8;16;4; ;67;9%;1;2;Destined;
-L;None;0;0;0;0;0;0;0;0;0;0;Destined;

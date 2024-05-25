@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.21;80;4;15;0;44%;48;29%;0;1;Aerstream Esports;

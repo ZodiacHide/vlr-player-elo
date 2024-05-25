@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;72;4;15;1; ;43;23%;1;6;TheDuckArmy;
-W;Sova; ;314;18;8;6; ;222;21%;3;3;TheDuckArmy;
-L;Sova; ;264;22;17;5; ;171;18%;1;1;TheDuckArmy;

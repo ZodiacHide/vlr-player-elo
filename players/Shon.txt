@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.19;54;4;19;2;32%;52;31%;0;5;Bunker Esports;

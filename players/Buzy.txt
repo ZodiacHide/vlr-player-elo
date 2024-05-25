@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;169;14;18;1; ;108;20%;0;3;ZENITH;
-L;Omen; ;114;4;12;2; ;80;39%;0;1;ZENITH;

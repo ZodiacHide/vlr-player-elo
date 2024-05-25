@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;104;4;15;4; ;57;10%;1;2;Helios Gaming;
-L;Breach; ;87;6;19;3; ;58;11%;0;0;Helios Gaming;
-L;Breach; ;96;6;17;7; ;71;27%;0;2;Helios Gaming;

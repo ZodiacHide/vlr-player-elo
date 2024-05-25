@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.63;163;6;13;2;50%;113;15%;0;1;HalfBliss;
-L;Sova;0.71;197;11;15;1;47%;112;26%;1;4;HalfBliss;
-L;Sova;0.65;170;7;13;5;60%;134;23%;1;1;HalfBliss;
-L;Sova;0.29;107;3;13;2;38%;85;9%;1;1;MystiC;

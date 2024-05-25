@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.64;190;11;15;1;50%;99;24%;0;2;Union Gaming;
-W;Cypher;1.14;151;12;9;5;90%;102;28%;1;1;Union Gaming;
-W;Cypher;1.16;206;17;15;8;74%;151;13%;0;2;Union Gaming;
-W;Killjoy;1.16;207;16;15;4;71%;139;41%;4;3;Union Gaming;
-L;Cypher;0.97;189;15;16;6;67%;127;40%;2;3;Union Gaming;
-L;Sage;0.78;163;11;13;1;68%;92;31%;1;1;Union Gaming;

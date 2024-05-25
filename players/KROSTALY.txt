@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.26;281;22;15;4;82%;170;45%;2;0;OtherSide Blue;
-W;Jett;1.39;219;16;7;2;83%;132;37%;2;2;OtherSide Blue;
-L;Jett;0.63;216;13;15;3;59%;130;35%;0;1;OtherSide Blue;

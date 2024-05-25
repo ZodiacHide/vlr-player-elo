@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.68;217;12;16;4;50%;117;16%;1;5;Schat'z;
-L;Raze;0.68;216;13;18;5;55%;125;14%;4;7;Schat'z;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;161;15;19;3; ;98;17%;1;3;Team gob b;
-W;Omen; ;194;11;9;6; ;116;19%;0;0;Team gob b;
-W;Omen; ;317;20;9;1; ;190;22%;3;0;Team gob b;

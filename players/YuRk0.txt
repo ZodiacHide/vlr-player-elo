@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;347;21;10;3; ;205;29%;2;2;QLASH;
-L;Jett; ;187;16;21;5; ;107;14%;4;5;Acolarse;
-L;Jett; ;178;18;22;4; ;102;16%;4;3;QLASH;
-L;Jett; ;178;11;15;1; ;108;24%;3;7;QLASH;

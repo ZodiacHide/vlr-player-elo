@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;1.21;212;18;15;13;85%;152;14%;2;1;Gen.G Black;
-L;Sova;0.96;197;17;18;12;77%;129;10%;3;3;Gen.G Black;
-L;Sova;1.06;197;14;13;7;81%;125;27%;2;0;Gen.G Black;
-W;Sova;0.86;154;12;17;11;63%;97;13%;0;0;Gen.G Black;
-W;Sova;1.22;246;16;14;11;81%;151;12%;3;3;Gen.G Black;
-W;Sova;1.23;167;14;8;4;80%;116;16%;0;1;Gen.G Black;
-L;Sova;0.45;110;5;13;1;36%;71;10%;0;0;Gen.G Black;
-L;Sova;0.91;173;12;14;2;55%;122;29%;2;3;Gen.G Black;

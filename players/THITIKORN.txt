@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;238;14;15;7; ;154;12%;1;3;NongWaen;
-W;Omen; ;170;12;17;3; ;111;14%;2;4;NongWaen;
-L;Omen; ;166;9;16;2; ;89;11%;1;5;NongWaen;
-L;Omen; ;168;13;17;7; ;114;11%;2;2;NongWaen;

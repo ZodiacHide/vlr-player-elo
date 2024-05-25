@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;1.18;211;19;18;7;69%;147;44%;0;1;STREET SHARKS;

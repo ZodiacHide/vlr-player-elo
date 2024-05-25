@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;178;13;17;7; ;111;9%;3;1;Galaxy Carrots;
-L;Sage; ;150;6;15;4; ;127;13%;0;0;Galaxy Carrots;
-L;Sage; ;79;6;18;6; ;57;14%;0;5;Galaxy Carrots;
-L;Sage; ;174;16;16;4; ;113;11%;2;2;Galaxy Carrots;
-L;Sage;0.66;153;12;18;4;52%;96;32%;0;1;Jaguares Esports;
-L;None;0;0;0;0;0;0;0;0;0;0;Jaguares Esports;
-L;Astra;0.80;154;11;16;6;63%;85;19%;0;3;Jaguares Esports;
-L;Omen;0.54;101;7;16;1;47%;86;23%;0;1;Jaguares Esports;

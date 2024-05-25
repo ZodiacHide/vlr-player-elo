@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.17;69;3;16;1;38%;45;18%;1;4;SEMORGAINDA;
-L;Breach;0.97;221;15;17;12;84%;138;36%;3;2;SEMORGAINDA;
-L;Jett;0.78;204;19;22;5;64%;119;33%;4;7;SEMORGAINDA;

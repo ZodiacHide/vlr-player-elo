@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.58;155;7;17;5;61%;108;20%;1;1;Nexus Gaming;
-L;Sage;0.57;141;9;16;3;56%;76;22%;0;1;Nexus Gaming;
-W;Killjoy;0.95;126;10;12;3;76%;68;16%;2;2;Nexus Gaming;
-L;Killjoy;0.59;91;5;14;2;47%;64;18%;0;3;Nexus Gaming;
-W;Sage;0.91;223;18;19;6;63%;140;29%;2;3;Nexus Gaming;
-L;Killjoy;0.65;129;6;16;5;63%;104;17%;0;1;Nexus Gaming;
-L;Sage;0.66;148;7;17;10;61%;102;14%;0;2;Nexus Gaming;

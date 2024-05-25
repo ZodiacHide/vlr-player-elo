@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;None;0;0;0;0;0;0;0;0;0;0;The Ultimates;
-L;Breach; ;189;20;23;15; ;107;24%;2;4;The Ultimates;
-L;Breach; ;209;15;17;5; ;139;24%;1;5;The Ultimates;

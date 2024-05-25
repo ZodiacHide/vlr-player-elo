@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;176;11;15;3; ;116;12%;1;0;Bulldozer Gaming;
-L;Omen; ;181;9;13;2; ;113;21%;0;1;Bulldozer Gaming;
-L;Sage; ;118;5;17;6; ;69;20%;1;1;Bulldozer Gaming;
-L;Omen; ;147;8;14;1; ;90;19%;0;1;Bulldozer Gaming;

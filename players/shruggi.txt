@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;261;21;19;4; ; ; ;3; ;Pillow;
-L;Sova; ;196;15;12;2; ; ; ;1; ;Pillow;
-L;Sova; ;166;11;15;4; ; ; ;3; ;Pillow;
-W;Cypher; ;205;13;11;3; ;130;27%;2;1;Pillow;
-W;Cypher; ;176;14;8;6; ;121;26%;0;2;Pillow;
-L;Cypher; ;147;13;16;5; ;125;28%;4;4;Pillow;
-L;Cypher; ;140;8;17;4; ;83;10%;0;1;Pillow;
-L;Cypher; ;110;11;15;2; ;83;33%;0;0;Pillow;

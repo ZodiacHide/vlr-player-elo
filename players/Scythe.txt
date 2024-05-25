@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;117;8;15;7; ; ; ;1; ;Team Yelo;
-W;Sage; ;249;15;6;8; ; ; ;2; ;Team Yelo;
-L;Sage; ;94;7;19;21; ; ; ;0; ;Team Yelo;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach;1.36;126;9;5;8;86%;88;17%;1;0;Guild GC;
-W;Killjoy;1.34;214;11;7;5;100%;143;31%;4;0;Guild GC;
-W;Cypher;1.75;284;17;3;1;86%;177;32%;2;0;Guild GC;
-W;Killjoy;1.59;241;15;4;0;94%;155;25%;2;0;Guild GC;
-L;Killjoy;0.91;173;12;18;9;70%;134;21%;1;1;Guild GC;
-L;Killjoy;0.80;159;12;15;3;60%;110;18%;1;4;Guild GC;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;195;9;15;6; ;125;33%;0;0;Helios Gaming;
-L;Sova; ;160;12;18;3; ;112;16%;2;1;Helios Gaming;
-L;Sage; ;184;14;16;7; ;98;26%;1;3;Helios Gaming;

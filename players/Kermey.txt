@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.85;176;14;16;1;62%;100;25%;4;4;Ahjin;
-W;Jett;0.74;194;15;18;2;52%;114;18%;3;5;Ahjin;
-L;Jett;1.24;289;22;17;5;64%;170;11%;5;6;Ahjin;

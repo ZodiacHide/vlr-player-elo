@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;155;13;17;5; ;98;18%;0;2;Connect Gaming;
-W;Cypher; ;206;15;9;9; ;124;29%;0;3;Connect Gaming;
-L;Cypher; ;115;6;14;1; ;60;50%;1;2;Connect Gaming;

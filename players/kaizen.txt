@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.87;212;11;14;2;69%;130;21%;1;0;Akuma Esports Black;
-L;Raze;0.46;150;5;14;2;50%;106;15%;1;2;Akuma Esports Black;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;233;20;20;8; ; ; ;4; ;Team Tixinha;
-W;Cypher; ;206;15;12;3; ;128;24%;0;1;OSKARAVELHO;
-W;Killjoy; ;269;24;13;3; ;142;14%;2;2;OSKARAVELHO;
-L;Cypher; ;143;8;17;6; ;101;16%;1;5;OSKARAVELHO;
-L;Cypher; ;134;7;14;3; ;95;33%;0;1;OSKARAVELHO;

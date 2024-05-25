@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;257;18;10;5; ; ; ;2; ;MIRONGA VIRUS;
-W;Omen; ;268;22;12;4; ; ; ;2; ;MIRONGA VIRUS;
-W;Omen; ;180;11;9;7; ; ; ;2; ;MIRONGA VIRUS;
-L;Omen; ;188;12;14;3; ; ; ;1; ;MIRONGA VIRUS;
-L;Omen; ;249;18;21;5; ; ; ;3; ;MIRONGA VIRUS;

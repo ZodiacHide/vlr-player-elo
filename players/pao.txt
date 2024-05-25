@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;218;22;13;3; ;117;25%;2;2;Grind City;
-L;Cypher; ;183;12;18;5; ;118;23%;2;3;Grind City;
-L;Cypher; ;221;15;14;5; ;146;32%;0;1;Grind City;
-L;Cypher; ;242;15;16;4; ;156;20%;2;0;Grind City;
-L;Cypher; ;126;12;19;4; ;87;24%;1;5;Grind City;
-L;Cypher; ;222;16;16;5; ;120;21%;2;2;Resonate;
-L;Cypher;0.89;159;10;13;1;65%;106;34%;0;2;Team Rocket;

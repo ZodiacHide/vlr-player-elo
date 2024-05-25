@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.49;161;9;19;2;40%;111;15%;1;4;Orgless5;
-L;Sage;0.52;121;6;17;10;60%;79;15%;0;1;Orgless5;
-L;Killjoy;0.56;189;9;16;6;76%;125;21%;1;4;Orgless5;
-L;Cypher;0.98;253;20;18;3;78%;167;36%;1;1;Orgless5;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;177;19;15;8; ;147;21%;1;1;SPARX ESPORTS;
-L;Killjoy; ;123;7;14;4; ;92;5%;1;1;SPARX ESPORTS;
-L;Cypher; ;141;12;14;0; ;87;25%;0;2;RainbowMind;

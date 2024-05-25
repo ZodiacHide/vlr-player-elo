@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Bumbleboys;
-L;Sage; ;188;10;16;6; ; ; ;0; ;Dire Wolves;
-L;Sage; ;165;10;16;6; ; ; ;1; ;Dire Wolves;
-W;Sage; ;268;25;16;5; ; ; ;2; ;Dire Wolves;
-W;Sage; ;243;22;15;7; ; ; ;4; ;Dire Wolves;
-W;Sage; ;83;8;8;5; ; ; ;0; ;Dire Wolves;
-W;Sova; ;214;20;18;10; ; ; ;3; ;Dire Wolves;

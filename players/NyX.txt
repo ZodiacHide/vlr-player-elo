@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;178;8;14;5; ;109;14%;2;2;Good Game;
-L;Breach; ;147;7;16;8; ;86;20%;2;4;Good Game;
-L;Reyna; ;228;19;17;6; ;139;15%;1;2;Good Game;
-W;Reyna; ;184;14;18;3; ;134;18%;2;1;Good Game;
-W;Reyna; ;173;10;12;4; ;104;15%;3;1;Good Game;
-L;Reyna; ;262;20;16;5; ;159;18%;3;3;Good Game;

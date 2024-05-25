@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;291;29;17;5; ;155;19%;5;1;Lycus Empire;
-L;Omen; ;154;9;12;3; ;91;21%;1;0;Lycus Empire;

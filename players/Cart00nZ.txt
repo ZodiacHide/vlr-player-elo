@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;128;8;13;3; ;88;16%;0;2;Kum Gaming;
-W;Cypher; ;209;14;7;2; ;136;22%;2;1;Kum Gaming;
-L;Cypher; ;131;9;16;2; ;91;15%;1;1;Kum Gaming;
-W;Cypher; ;216;19;16;3; ;130;19%;2;2;Kum Gaming;
-L;Cypher; ;225;18;16;4; ;138;14%;2;0;Kum Gaming;
-W;Cypher; ;218;17;19;9; ;130;10%;2;2;Kum Gaming;

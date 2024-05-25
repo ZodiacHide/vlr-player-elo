@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;179;15;14;4; ;87;5%;4;3;No Teeth;
-L;Jett; ;230;13;14;5; ;145;14%;2;4;No Teeth;
-L;Jett; ;130;10;17;2; ;88;10%;0;4;No Teeth;

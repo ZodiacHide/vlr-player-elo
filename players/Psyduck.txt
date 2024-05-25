@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;182;14;14;4; ;117;12%;2;1;StarlessGG;
-L;Jett; ;158;21;28;4; ;109;19%;6;9;StarlessGG;

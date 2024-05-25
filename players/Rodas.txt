@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;189;10;16;5; ;106;42%;1;0;aspyxia;
-L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;
-L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;
-L;None;0;0;0;0;0;0;0;0;0;0;aspyxia;

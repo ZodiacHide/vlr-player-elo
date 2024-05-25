@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.61;119;9;17;3;62%;80;19%;0;1;Fakezin de cria;
-L;Jett;0.29;130;5;17;5;50%;88;20%;3;6;Fakezin de cria;

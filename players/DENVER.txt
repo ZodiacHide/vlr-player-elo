@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;114;5;14;2; ;73;21%;0;5;Elite;
-L;Cypher; ;148;10;13;2; ;94;13%;1;1;Elite;
-L;Reyna; ;189;14;16;3; ;137;18%;1;0;Elite;
-L;Cypher; ;173;12;17;3; ;88;19%;1;2;Elite;

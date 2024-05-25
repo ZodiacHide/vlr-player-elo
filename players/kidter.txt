@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.65;125;7;14;4;53%;90;20%;0;0;Grow uP eSports;
-L;Sova;0.29;70;2;14;4;47%;62;23%;0;0;Grow uP eSports;

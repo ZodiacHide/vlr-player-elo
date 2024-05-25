@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;105;4;14;4; ;74;28%;1;0;ATK Mode;
-L;Omen; ;134;7;16;3; ;73;9%;0;1;ATK Mode;

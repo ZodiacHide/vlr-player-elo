@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.85;172;14;16;5;71%;106;14%;2;2;Fakezin de cria;
-L;Viper;0.73;189;11;14;3;50%;89;10%;0;1;Fakezin de cria;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;182;13;18;7; ;109;52%;2;2;be Logic;
-W;None;0;0;0;0;0;0;0;0;0;0;be Logic;

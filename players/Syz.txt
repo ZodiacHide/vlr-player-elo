@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.38;131;5;14;1;36%;98;23%;0;2;Valkyrie;
-L;Reyna;0.91;234;14;16;4;61%;141;31%;1;1;Valkyrie;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.56;148;10;19;5;68%;95;21%;3;2;gucciGANG;
-L;Viper;0.74;153;9;16;8;62%;108;41%;1;4;gucciGANG;

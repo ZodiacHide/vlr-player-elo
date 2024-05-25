@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.97;224;18;18;10;77%;144;26%;3;2;ChatBanned;
-W;Viper;1.42;302;25;18;5;96%;201;37%;2;1;ChatBanned;
-W;Omen;1.43;248;17;10;11;83%;161;40%;5;0;ChatBanned;
-L;Omen;1.18;262;23;16;5;74%;156;32%;4;1;ChatBanned;
-L;Sage;1.01;219;19;16;6;73%;133;29%;3;4;ChatBanned;

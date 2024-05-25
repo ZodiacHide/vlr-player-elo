@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;86;6;15;0; ;60;19%;1;2;Onslaught Gaming;
-L;Sova; ;46;1;14;2; ;28;0%;0;1;Onslaught Gaming;

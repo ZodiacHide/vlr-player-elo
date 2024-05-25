@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;281;16;14;3; ;152;11%;1;0;Frigid;
-L;Omen; ;95;4;18;8; ;69;16%;0;5;Frigid;
-W;Omen; ;197;16;12;4; ;132;11%;3;0;Frigid;
-L;Omen; ;129;10;18;5; ;72;14%;1;0;Penguin Sledding;
-L;Omen; ;148;17;19;7; ;98;17%;3;0;Penguin Sledding;

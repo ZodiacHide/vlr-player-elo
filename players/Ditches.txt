@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;121;11;23;5; ;72;23%;1;1;Vendetta;
-L;Omen; ;287;22;18;5; ;172;23%;3;1;Vendetta;
-W;Omen; ;210;14;13;6; ;144;21%;1;1;Vendetta;
-L;Omen; ;138;9;15;4; ;88;16%;1;4;Vendetta;

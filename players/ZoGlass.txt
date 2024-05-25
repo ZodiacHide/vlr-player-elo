@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;162;12;17;4; ;100;18%;0;1;Somnium Esports;
-L;Sage;0.80;140;12;17;6;57%;85;10%;1;2;Somnium Esports;
-L;Skye;0.91;164;11;16;4;63%;96;39%;1;2;Somnium Esports;

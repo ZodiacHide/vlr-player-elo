@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;214;11;13;5; ;144;40%;3;2;team flavor;
-L;Jett; ;268;19;16;1; ;147;20%;7;3;team flavor;
-L;Sova; ;219;22;21;8; ;140;18%;3;4;Team NoX;
-L;Sova; ;93;4;14;4; ;78;35%;0;2;Team NoX;
-L;Breach; ;208;15;19;7; ;127;31%;4;4;BE FUN SWORD;
-L;Breach; ;205;13;19;7; ;129;30%;5;4;BE FUN SWORD;

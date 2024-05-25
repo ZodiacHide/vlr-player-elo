@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;1.05;265;16;14;2;75%;160;30%;0;1;Dominus Esports;
-W;Skye;0.89;215;17;18;5;81%;109;24%;3;1;Dominus Esports;
-L;Skye;0.82;194;11;15;1;56%;123;38%;1;1;Dominus Esports;
-L;Jett;0.82;157;17;19;4;63%;103;22%;1;2;Dominus Esports;
-L;Skye;0.58;114;7;15;4;53%;70;9%;0;4;Dominus Esports;
-L;Omen;0.59;133;8;13;2;44%;87;33%;0;1;Dominus Esports;

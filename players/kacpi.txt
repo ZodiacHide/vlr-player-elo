@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;221;13;11;5; ;142;30%;3;0;MAJSTERSZTYK;
-W;Phoenix; ;270;15;5;3; ;165;45%;2;2;MAJSTERSZTYK;
-L;Phoenix; ;246;21;17;1; ;168;27%;3;1;MAJSTERSZTYK;
-W;Phoenix; ;209;22;21;4; ;140;33%;2;5;MAJSTERSZTYK;
-L;Phoenix; ; ; ; ; ; ; ; ; ; ;MAJSTERSZTYK;
-L;Jett; ;237;18;21;4; ;184;20%;4;1;BRACIA;
-L;Jett; ;180;10;12;2; ;118;27%;1;2;BRACIA;

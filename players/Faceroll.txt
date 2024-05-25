@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;101;5;16;3; ;69;15%;0;4;ARES Gaming;
-L;Omen; ;206;12;15;3; ;126;16%;3;2;GodVibes;
-L;Sage;0.68;105;9;18;7;61%;60;11%;1;4;Asteria Gaming;
-L;None;0;0;0;0;0;0;0;0;0;0;Asteria Gaming;

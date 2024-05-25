@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.75;113;8;16;2;55%;94;23%;1;1;Team Ancients Female;
-L;Killjoy;0.38;67;2;13;0;38%;55;13%;1;0;Team Ancients Female;
-L;Killjoy;0.50;116;5;14;4;41%;101;20%;0;0;Team Ancients Female;
-L;Sage;0.94;195;13;14;10;79%;115;24%;0;2;Team Ancients Female;

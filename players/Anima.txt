@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.68;127;7;12;5;63%;72;6%;0;3;FOXN TEAM;
-L;Reyna;1.20;272;24;18;9;75%;159;26%;3;2;FOXN TEAM;

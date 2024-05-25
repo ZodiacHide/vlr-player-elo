@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.48;108;7;17;3;65%;82;30%;0;3;OnlyFriends;
-L;Viper;0.67;175;9;15;2;69%;101;29%;0;0;OnlyFriends;
-W;Killjoy;0.99;188;13;13;4;70%;143;25%;0;0;OnlyFriends;
-L;Killjoy;0.64;178;11;16;1;56%;115;21%;0;2;OnlyFriends;
-L;Viper;0.44;95;5;21;11;54%;78;14%;0;4;OnlyFriends;

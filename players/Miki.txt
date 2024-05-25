@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;178;10;16;3; ;115;19%;2;4;Vela Gaming;
-L;Omen; ;207;11;15;5; ;151;20%;0;2;Vela Gaming;
-L;Omen;0.80;173;13;16;2;65%;98;15%;0;2;Looking For Org;
-W;Astra;0.86;170;14;16;5;67%;106;14%;0;2;Looking For Org;
-L;Omen;0.71;203;12;15;2;59%;89;50%;2;1;Looking For Org;
-W;Astra;1.28;238;17;9;5;65%;115;23%;2;0;Looking For Org;
-L;Astra;1.01;238;25;22;6;68%;153;32%;1;2;Looking For Org;

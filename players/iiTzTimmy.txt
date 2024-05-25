@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.39;218;15;7;5;84%;156;26%;1;0;What's going on;
-W;Jett;1.22;214;13;8;3;82%;140;19%;1;1;What's going on;
-L;Jett;0.39;100;5;17;3;67%;61;17%;2;1;What's going on;
-L;Jett; ; ;17;15;2; ; ; ; ; ;What's going on;

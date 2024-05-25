@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;153;6;13;2; ;99;21%;0;1;Exodus;
-L;Omen; ;220;12;15;2; ;133;18%;1;1;Exodus;

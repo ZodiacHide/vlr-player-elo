@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;85;3;12;0; ;54;60%;0;2;Ethereal;
-L;Reyna; ;135;7;15;3; ;96;16%;1;4;Ethereal;
-L;Omen;0.38;87;6;15;4;56%;48;9%;0;4;Ethereal;
-L;Brimstone;0.90;171;16;15;2;67%;102;20%;1;2;Ethereal;

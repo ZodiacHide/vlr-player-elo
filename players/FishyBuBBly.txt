@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.14;67;2;13;2;38%;54;25%;0;2;Lethal Esports Alpha;
-L;Omen;0.64;176;9;14;1;53%;115;38%;2;1;Lethal Esports Alpha;
-L;Astra;1.02;301;16;14;1;63%;176;40%;3;0;Lethal Esports Alpha;
-L;Astra;0.80;209;11;16;4;53%;136;35%;1;1;Lethal Esports Alpha;

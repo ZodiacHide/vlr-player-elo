@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.80;228;11;15;4;69%;158;21%;3;2;Unity Esports;
-W;Sova;1.02;154;12;11;3;71%;117;45%;1;2;Unity Esports;
-L;Raze;0.54;165;8;14;2;53%;100;24%;2;3;Unity Esports;
-L;Sova;0.96;196;16;20;8;65%;142;21%;3;2;Unity Esports;
-W;Raze;0.71;207;17;23;7;62%;125;14%;3;4;Unity Esports;
-L;Raze;1.25;350;25;18;2;75%;220;18%;5;1;Unity Esports;

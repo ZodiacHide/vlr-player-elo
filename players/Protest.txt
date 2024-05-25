@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;146;8;15;5; ;67;19%;0;1;Waverunners;
-L;Breach; ;84;3;14;10; ;49;18%;0;1;Waverunners;

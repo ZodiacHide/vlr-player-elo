@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.60;170;11;18;3;55%;121;31%;1;1;Spectral Esports Blue;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;147;8;14;5; ;108;21%;0;0;Raptor Esport;
-L;Cypher; ;147;8;13;3; ;82;15%;1;0;Raptor Esport;

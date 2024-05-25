@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.62;149;12;15;1;55%;95;24%;1;0;Zeusaberz Esports;
-L;Breach;0.40;115;5;13;2;29%;86;37%;0;1;Zeusaberz Esports;

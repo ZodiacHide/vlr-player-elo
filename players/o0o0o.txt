@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;153;11;19;0; ;92;26%;3;3;All Gamers;
-W;Breach; ;164;14;13;10; ;102;27%;4;2;All Gamers;
-L;Breach; ;131;11;18;10; ;91;39%;2;2;All Gamers;

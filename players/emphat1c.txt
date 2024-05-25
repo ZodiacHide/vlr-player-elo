@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;125;5;11;2; ;151;19%;1;1;Flash and Dash;
-W;Cypher; ;143;10;18;8; ;93;28%;2;3;Flash and Dash;
-L;Cypher; ;176;11;16;5; ;124;23%;1;2;Flash and Dash;

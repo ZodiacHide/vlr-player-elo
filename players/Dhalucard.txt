@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;220;15;18;5; ; ; ;1; ;Team Dhalucard;
-L;Raze; ;167;7;14;2; ; ; ;0; ;Team Dhalucard;
-L;Raze; ;158;7;14;0; ; ; ;1; ;Team Dhalucard;

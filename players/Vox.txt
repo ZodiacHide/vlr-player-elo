@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.86;183;13;16;7;68%;116;31%;3;2;Digger Esports;
-L;Sova;0.50;82;4;15;6;58%;57;23%;0;3;Digger Esports;

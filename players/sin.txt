@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;139;13;19;2; ;92;26%;4;4;Sk8tr Boyz;
-L;Phoenix; ;204;17;17;6; ;124;20%;1;6;Sk8tr Boyz;
-L;Phoenix; ;163;11;19;2; ;95;33%;0;3;Sk8tr Boyz;
-L;Killjoy; ;215;11;13;2; ;191;21%;1;1;Surabaya Esports;
-L;Killjoy; ;101;6;14;2; ;77;13%;0;2;Surabaya Esports;
-W;Viper;0.79;84;7;14;7;67%;67;6%;1;1;Innocent Cats Esports;
-L;Viper;0.79;123;7;15;7;64%;84;10%;0;1;Innocent Cats Esports;
-L;Viper;0.68;111;8;15;4;63%;71;32%;0;1;Innocent Cats Esports;

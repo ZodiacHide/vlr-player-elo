@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;55;3;4;1; ;36;0%;0;0;Team Japan;
-W;Sova; ;93;7;14;7; ;64;6%;1;2;Team Japan;
-L;Omen; ;131;6;11;2; ;148;15%;0;1;AlmondLatte;

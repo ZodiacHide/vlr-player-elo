@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;149;10;18;1; ;101;18%;1;3;Crab Walk Killers;
-L;Raze; ;142;9;17;4; ;85;0%;2;3;Crab Walk Killers;
-W;Raze; ;237;20;13;3; ;155;23%;1;1;Tilted;
-L;Phoenix; ;92;4;15;4; ;67;9%;0;3;Tilted;
-W;Reyna; ;233;14;12;4; ;139;15%;2;1;Tilted;

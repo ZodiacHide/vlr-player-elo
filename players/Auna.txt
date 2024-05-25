@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;69;3;13;1; ;50;22%;0;2;BLUEJAYS Frates;
-L;Sage; ;118;5;14;6; ;77;10%;0;7;BLUEJAYS Frates;

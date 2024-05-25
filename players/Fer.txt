@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;165;11;17;8; ;103;13%;0;3;XP Team;
-L;Raze; ;184;11;19;6; ;124;17%;4;2;XP Team;
-W;Killjoy;1.37;305;18;11;4;82%;215;31%;2;0;XcN Gaming;
-L;Viper;0.95;151;13;14;2;71%;110;27%;3;2;XcN Gaming;
-W;Killjoy;0.95;190;20;21;6;63%;127;20%;1;2;XcN Gaming;

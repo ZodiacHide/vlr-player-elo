@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;180;6;14;4; ;111;11%;2;0;US Army Esports;
-L;Brimstone; ;230;13;13;2; ;147;26%;0;0;US Army Esports;

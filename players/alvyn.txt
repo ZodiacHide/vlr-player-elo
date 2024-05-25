@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;189;10;10;6; ;126;28%;2;1;2red;
-L;Killjoy; ;215;16;17;5; ;153;27%;1;4;2red;
-L;Cypher;0.34;93;5;15;4;44%;57;33%;0;3;2red;
-L;Cypher;0.72;205;13;16;1;58%;106;33%;2;4;2red;
-W;Sova;1.30;288;19;12;7;95%;180;27%;1;0;2red;
-W;Sage;0.81;189;13;15;7;71%;135;22%;2;2;2red;
-L;Sova;0.92;222;12;16;16;68%;149;29%;1;4;2red;

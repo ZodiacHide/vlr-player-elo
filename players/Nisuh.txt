@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.70;161;7;14;5;71%;105;19%;1;5;FreeAgentz;
-L;Jett;0.92;252;17;16;1;60%;143;27%;6;6;FreeAgentz;

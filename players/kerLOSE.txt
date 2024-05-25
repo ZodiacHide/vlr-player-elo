@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.84;405;24;9;2;94%;243;24%;5;0;Clutch Jeans;
-W;Jett;1.00;213;15;13;3;74%;124;16%;1;2;Clutch Jeans;
-L;Jett;0.88;271;14;15;5;75%;151;27%;2;1;Clutch Jeans;
-L;Jett;0.97;259;20;18;3;68%;156;36%;3;2;Clutch Jeans;
-L;Jett;0.86;192;14;18;3;59%;126;33%;3;4;Clutch Jeans;
-L;Sage;0.46;139;7;15;3;53%;87;23%;3;1;Clutch Jeans;
-L;Reyna;0.82;171;13;20;5;48%;107;33%;1;1;Clutch Jeans;
-L;Reyna;0.86;182;13;16;3;75%;105;42%;0;1;Clutch Jeans;

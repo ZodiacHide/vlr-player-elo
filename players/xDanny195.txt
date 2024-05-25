@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;217;9;12;4; ;146;27%;1;1;Sprayz Gaming;
-W;Cypher; ;152;11;17;9; ;82;29%;1;1;Sprayz Gaming;
-L;Cypher; ;172;15;18;3; ;126;33%;1;3;Sprayz Gaming;

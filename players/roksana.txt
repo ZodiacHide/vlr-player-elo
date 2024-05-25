@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;1.09;238;19;17;9;68%;158;22%;3;2;Nebula;
-W;Sova;1.67;346;23;12;8;90%;238;18%;0;1;Nebula;
-W;Sova;1.45;244;21;12;9;78%;183;21%;1;3;Nebula;

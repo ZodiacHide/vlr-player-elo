@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;180;8;13;4; ; ; ;1; ;AVALON Gaming;
-L;Brimstone; ;160;12;17;4; ;86;21%;4;1;AVALON Gaming;
-L;Omen; ;193;15;16;2; ;118;26%;2;3;AVALON Gaming;
-W;Omen; ;214;12;7;5; ;156;23%;1;1;AVALON Gaming;
-W;Brimstone; ;128;10;14;4; ;89;28%;0;5;AVALON Gaming;
-L;Omen; ;156;8;13;4; ;90;18%;2;3;AVALON Gaming;
-L;Brimstone; ;270;19;19;7; ;225;15%;3;1;AVALON Gaming;

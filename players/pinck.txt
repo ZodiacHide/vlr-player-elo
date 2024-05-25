@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;236;14;14;8; ;158;14%;0;3;CYCLOPS athlete gaming;
-W;Sova; ;198;16;9;7; ;130;27%;0;0;CYCLOPS athlete gaming;
-L;Sova; ;250;26;22;11; ;173;27%;2;2;CYCLOPS athlete gaming;
-W;Sova;1.46;236;19;11;11;90%;115;24%;4;1;BLUE BEES.ESP;

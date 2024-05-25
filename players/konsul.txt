@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;202;14;8;8; ;93;26%;2;1;roughtimes;
-W;Sova; ;120;9;17;8; ;80;7%;0;1;roughtimes;
-L;Sova; ;127;8;17;8; ;93;12%;3;2;roughtimes;
-L;Sage; ;131;8;16;3; ;97;35%;0;6;roughtimes;
-W;Sova; ;245;24;19;16; ;157;17%;3;3;Phenomenon;
-L;Sova; ;251;15;15;2; ;212;9%;2;2;Phenomenon;
-L;Breach; ;144;10;16;12; ;101;23%;0;1;Phenomenon;

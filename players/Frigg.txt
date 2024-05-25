@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.49;125;4;14;2;29%;99;27%;0;0;Shaverma;
-L;Sage;0.95;256;14;14;4;81%;161;13%;0;0;Shaverma;

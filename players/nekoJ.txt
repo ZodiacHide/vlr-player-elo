@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;235;19;16;4; ;156;18%;5;2;Italian Hope;
-W;Jett; ;246;23;14;2; ;142;17%;1;1;Italian Hope;
-W;Jett; ;172;13;15;2; ;111;16%;3;2;Italian Hope;
-L;Breach; ;200;18;18;7; ;132;38%;1;0;Offlimits;
-L;Jett; ;162;11;15;1; ;90;18%;1;4;Offlimits;

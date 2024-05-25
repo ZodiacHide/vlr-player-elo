@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;201;13;14;3; ;150;23%;1;2;Team White;
-W;Jett; ;237;16;14;6; ;137;14%;4;3;Team White;
-L;Jett; ;247;18;15;3; ;157;25%;4;1;Team White;
-L;Jett;0.97;270;20;20;7;73%;156;12%;2;3;Macacos Bovinos;
-W;Jett;1.52;288;24;12;4;86%;159;36%;6;4;Macacos Bovinos;
-L;Jett;0.38;112;7;18;2;47%;74;11%;2;5;Macacos Bovinos;

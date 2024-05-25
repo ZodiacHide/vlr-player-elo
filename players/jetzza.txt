@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;148;9;12;4; ;114;37%;0;0;200 Policemen;
-L;Cypher; ;159;14;16;1; ;111;46%;1;1;200 Policemen;
-W;Cypher; ;119;10;13;6; ;71;53%;3;1;200 Policemen;

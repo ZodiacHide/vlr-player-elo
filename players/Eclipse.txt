@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.28;128;5;13;1;38%;73;13%;1;2;Barely Acceptable;
-L;Phoenix;0.33;140;5;13;2;54%;80;23%;0;2;Barely Acceptable;
-L;Viper;0.36;138;8;18;1;47%;68;12%;0;6;OBSRV;

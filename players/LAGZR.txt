@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;276;13;14;3; ;228;29%;2;2;GodLAN;
-W;Cypher; ;227;24;22;11; ;151;21%;3;3;GodLAN;
-L;Cypher; ;230;19;18;6; ;138;25%;5;2;GodLAN;

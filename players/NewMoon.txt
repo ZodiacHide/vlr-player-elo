@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;152;12;15;4; ;89;9%;1;3;Ka4 e-Sports Club;

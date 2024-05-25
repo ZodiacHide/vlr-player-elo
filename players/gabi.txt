@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.46;109;6;13;1;47%;64;21%;3;4;Jaguares Fem;
-L;Astra;0.42;146;7;14;3;60%;88;32%;2;4;Jaguares Fem;
-L;Reyna;1.25;270;19;14;4;75%;156;23%;6;2;Jaguares Fem;
-W;Sage;1.36;287;25;17;9;71%;163;30%;1;4;Jaguares Fem;
-L;Raze;0.70;130;5;10;3;79%;66;19%;1;4;Jaguares Fem;
-L;Jett;0.95;246;21;21;5;73%;165;27%;5;7;Jaguares Fem;
-L;Viper;0.96;226;18;17;6;61%;130;20%;2;3;Jaguares Fem;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.97;220;24;26;13;75%;148;18%;2;5;Amateur Team;

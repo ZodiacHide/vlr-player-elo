@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;197;12;14;3; ;131;29%;4;3;Designated;
-L;Killjoy; ;207;17;15;3; ;177;19%;1;1;Designated;
-L;Killjoy;0.38;141;7;16;1;53%;74;19%;2;4;SIZDIM BEKLE;
-L;Killjoy;0.32;101;3;14;4;40%;85;25%;0;0;SIZDIM BEKLE;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;157;10;14;3; ;164;21%;1;2;that cool team;
-L;Raze; ;215;13;20;4; ;146;14%;3;1;that cool team;
-L;Omen; ;124;7;15;2; ;85;43%;0;2;ex-Team Bliss;
-W;Omen; ;256;21;12;3; ;160;29%;0;0;ex-Team Bliss;
-L;Omen; ;189;13;17;3; ;105;21%;1;1;ex-Team Bliss;
-W;Omen; ;167;10;11;4; ;98;22%;2;0;ex-Team Bliss;
-L;Omen; ;185;14;17;4; ;125;30%;1;0;ex-Team Bliss;

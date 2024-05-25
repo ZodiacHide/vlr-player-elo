@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;188;11;14;0; ;98;18%;3;3;Lunch Club;
-W;Jett; ;161;15;14;2; ;143;23%;2;3;Lunch Club;
-L;Jett; ;180;12;16;2; ;189;27%;0;4;Lunch Club;
-L;Sova;0.76;183;8;16;3;47%;142;46%;0;0;Admirals;
-L;Sova;0.93;176;12;13;4;75%;119;57%;2;1;Admirals;
-L;Raze;0.71;242;12;16;1;56%;171;42%;1;2;Lunch Club;
-L;Raze;0.84;206;14;18;4;68%;114;33%;4;0;Lunch Club;

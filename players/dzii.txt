@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher;1.38;285;15;10;3;93%;158;24%;4;1;Timing Monster Gaming;
-L;Killjoy;0.84;208;11;16;6;78%;144;19%;0;2;Timing Monster Gaming;
-L;Viper;0.91;217;14;15;2;72%;143;31%;2;2;Timing Monster Gaming;
-L;Sage;0.93;232;17;17;3;77%;129;23%;3;1;Timing Monster Gaming;

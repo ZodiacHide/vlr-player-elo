@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.56;124;7;15;0;56%;66;0%;2;4;Las Palmas Unity;
-L;Raze;0.13;120;4;13;1;38%;72;29%;0;2;Las Palmas Unity;
-W;Jett;0.73;199;13;14;2;56%;135;46%;4;7;Team Galaga;
-L;Jett;0.37;127;7;15;3;63%;79;25%;3;5;Team Galaga;
-L;Jett;0.79;218;15;15;1;67%;132;37%;2;4;Team Galaga;
-W;Jett;0.89;151;10;14;7;64%;105;12%;3;4;Team Galaga;
-W;Jett;1.54;382;33;17;3;78%;231;32%;7;5;Team Galaga;

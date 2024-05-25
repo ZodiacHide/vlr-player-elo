@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.55;126;7;15;3;44%;101;22%;0;2;MeowMeow;
-L;Jett;0.62;204;10;16;2;73%;116;9%;3;4;MeowMeow;

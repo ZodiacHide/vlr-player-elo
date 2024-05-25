@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;240;18;17;2; ;149;19%;3;3;+W party;
-W;Cypher; ;165;16;17;8; ;140;14%;2;5;+W party;
-W;Omen; ;196;16;16;4; ;109;28%;1;0;+W party;
-L;Omen; ;178;15;17;5; ;107;15%;0;3;+W party;
-L;Omen; ;238;13;14;3; ;139;23%;1;2;+W party;

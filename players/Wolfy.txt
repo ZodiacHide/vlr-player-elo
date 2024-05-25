@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;180;12;12;2; ;95;6%;6;0;SUPERFLY;
-L;Jett; ;216;12;15;2; ;107;19%;5;2;SUPERFLY;
-L;Jett; ;159;7;13;3; ;96;21%;3;1;SUPERFLY;

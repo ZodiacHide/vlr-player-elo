@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.30;141;5;13;1;38%;82;24%;0;0;Super Weenie Hut Jr's;
-L;Sova;0.86;217;16;17;3;57%;124;17%;2;2;Night Raid;
-W;None;0;0;0;0;0;0;0;0;0;0;Night Raid;
-L;Sova;0.87;175;13;19;9;79%;128;26%;1;1;Team Reckaroo;

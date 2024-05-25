@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.39;121;6;14;3;50%;70;25%;0;3;DiaXmix;
-L;Jett;0.45;150;7;14;0;50%;84;33%;1;2;DiaXmix;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;175;11;18;4; ;117;20%;1;2;BE FUN SWORD;
-L;Jett; ;176;14;16;4; ;110;32%;2;1;BE FUN SWORD;

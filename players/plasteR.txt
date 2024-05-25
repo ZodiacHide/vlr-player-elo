@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.87;183;11;16;3;68%;115;23%;1;0;DIVAN;
-L;Sova;0.67;159;11;16;1;47%;112;30%;1;2;DIVAN;
-L;Sova;0.69;163;12;17;7;59%;109;31%;2;1;Invicta Gaming;
-L;Sova;1.02;259;17;17;5;55%;164;24%;1;2;Invicta Gaming;

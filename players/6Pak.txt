@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;114;8;15;3; ;62;38%;1;5;Kraken ESC White;
-L;Cypher; ;128;5;13;0; ;82;15%;2;2;Kraken ESC White;

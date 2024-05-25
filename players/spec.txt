@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;320;25;18;2; ;163;19%;7;2;Swagoi;
-L;Reyna; ;240;13;16;2; ;157;22%;2;2;Swagoi;

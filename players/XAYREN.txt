@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.58;186;10;15;1;44%;111;30%;1;2;Namak Boys;
-L;Skye;0.41;97;5;15;0;29%;57;8%;1;1;Namak Boys;

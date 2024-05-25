@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.63;205;7;14;3;57%;149;13%;1;1;OtherSide Rouge;
-L;Sova;0.62;160;6;15;3;33%;115;25%;0;2;OtherSide Rouge;

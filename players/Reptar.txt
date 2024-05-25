@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;1.38;328;21;14;3;79%;196;24%;5;2;Chariot;
-L;Sova;0.43;112;6;16;2;50%;75;47%;0;0;Chariot;

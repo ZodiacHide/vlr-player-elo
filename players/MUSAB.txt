@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.71;212;12;16;2;65%;125;40%;7;5;MAXD Esports;
-L;Jett;1.14;274;22;16;3;65%;159;37%;6;4;MAXD Esports;
-W;Jett;0.83;178;16;20;4;54%;121;46%;4;4;MAXD Esports;
-L;Jett;0.85;196;15;19;3;63%;130;19%;4;6;MAXD Esports;
-L;Jett;0.38;131;7;13;0;50%;88;60%;2;4;MAXD Esports;
-L;Raze;0.87;172;13;16;4;71%;112;31%;4;3;MAXD Esports;
-L;Sage;0.34;86;4;16;2;33%;54;17%;2;1;MAXD Esports;
-L;Jett;0.61;149;11;18;1;57%;99;35%;1;1;MAXD Esports;

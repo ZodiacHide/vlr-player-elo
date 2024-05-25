@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;174;10;13;6; ;126;12%;0;2;LG Terra;
-L;Cypher;0.99;197;17;16;6;65%;125;15%;4;3;RD Esports;
-L;Killjoy;0.82;165;13;14;1;67%;91;17%;1;1;RD Esports;

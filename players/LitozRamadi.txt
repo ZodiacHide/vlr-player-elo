@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;249;15;16;4; ;118;21%;6;5;Rodelindo Roman esports;
-L;Jett; ;197;14;15;0; ;105;42%;5;5;Rodelindo Roman esports;
-L;Jett; ;200;19;17;1; ;130;36%;4;2;Rodelindo Roman esports;

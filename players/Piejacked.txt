@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.90;204;12;14;2;61%;124;20%;0;3;Dark Matter Purple;
-L;Viper;0.80;283;15;14;1;86%;160;41%;1;0;Dark Matter Purple;

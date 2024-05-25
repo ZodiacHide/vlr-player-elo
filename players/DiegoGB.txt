@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;280;23;22;7; ;187;19%;4;3;Builders;
-W;Raze; ;317;21;22;7; ;207;9%;3;3;Builders;
-L;Raze; ;73;2;14;2; ;52;17%;0;6;Builders;

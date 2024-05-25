@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;207;23;20;6; ;131;23%;3;2;SPEAR GAMING;
-W;Sova; ;231;14;10;1; ;116;19%;1;2;SPEAR GAMING;
-L;Sova; ;143;4;15;6; ;100;11%;2;2;SPEAR GAMING;
-L;Sova; ;151;6;15;4; ;103;9%;1;1;SPEAR GAMING;
-L;Omen; ;143;9;18;6; ;97;19%;2;2;SPEAR GAMING;
-L;Omen; ;236;18;19;10; ;152;23%;3;2;SPEAR GAMING;

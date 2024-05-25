@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;137;9;15;6; ;78;29%;2;3;Digital Athletics;
-W;Cypher; ;247;15;8;9; ;138;32%;2;2;Digital Athletics;
-W;Killjoy; ;122;11;16;4; ;79;16%;0;3;Digital Athletics;
-L;Killjoy; ;126;9;17;5; ;86;20%;2;3;Digital Athletics;

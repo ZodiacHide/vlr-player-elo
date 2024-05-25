@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;132;10;16;5; ;91;16%;0;0;Random Five;
-L;Omen; ;167;16;18;5; ;122;30%;3;4;Random Five;
-W;Omen; ;250;21;15;4; ;171;35%;2;2;5NOOBS;
-W;Omen; ;150;11;10;2; ;119;22%;2;0;5NOOBS;
-L;Omen; ;200;15;13;2; ;112;24%;2;2;5NOOBS;
-W;Omen; ;234;19;13;5; ;168;28%;2;4;5NOOBS;
-L;Omen; ;201;13;18;3; ;134;30%;3;3;5NOOBS;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;241;20;19;3; ;137;48%;3;2;Thatoc Esports;
-L;Sage; ;219;12;16;4; ;134;26%;3;1;Thatoc Esports;

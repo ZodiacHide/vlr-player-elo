@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Exalted Esports;
-L;Sage; ;191;11;16;8; ; ; ;4; ;Exalted Esports;
-L;Sage; ;89;4;14;4; ; ; ;0; ;Exalted Esports;
-W;Sova; ;209;15;9;8; ; ; ;2; ;Exalted Esports;
-W;Brimstone; ;191;15;12;4; ; ; ;1; ;Exalted Esports;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;175;13;15;6; ; ; ;4; ;Resurrection Sickness;
-L;Sage; ;154;11;14;1; ; ; ;2; ;Resurrection Sickness;
-L;Sova; ;143;8;15;1; ; ; ;1; ;Resurrection Sickness;

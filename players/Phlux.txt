@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna; ;271;21;18;7; ;167;14%;4;4;Air Raiders;
-L;Reyna; ;157;10;16;1; ;166;24%;2;4;Air Raiders;
-L;Reyna; ;253;15;14;7; ;170;17%;0;2;Air Raiders;
-L;Reyna; ;222;17;14;3; ;136;21%;1;4;Air Raiders;

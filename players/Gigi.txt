@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.96;220;18;17;2;61%;143;22%;1;3;NMG Indigo;
-L;Killjoy;0.89;203;13;13;2;72%;116;23%;0;1;NMG Indigo;
-L;Skye;1.00;205;14;13;7;63%;124;24%;0;1;NMG Indigo;
-L;Skye;0.88;191;11;13;6;63%;117;16%;0;1;NMG Indigo;

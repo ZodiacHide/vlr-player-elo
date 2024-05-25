@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;173;18;24;4; ;137;19%;1;0;TradeLikePros Gold;
-L;Cypher; ;206;17;15;3; ;137;24%;2;2;TradeLikePros Gold;
-L;Cypher; ;156;9;15;5; ;111;15%;2;1;TradeLikePros Gold;
-L;Cypher; ;213;18;16;2; ;127;26%;2;5;TradeLikePros Gold;
-L;Cypher; ;143;7;17;3; ;99;20%;1;2;TradeLikePros Gold;
-L;Omen; ;146;11;16;3; ;99;20%;1;2;THE FIVE EMPERORS;
-L;Omen; ;104;4;14;2; ;49;16%;0;3;THE FIVE EMPERORS;

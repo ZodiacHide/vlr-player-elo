@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;182;15;17;11; ;125;27%;1;2;T1 Korea;
-L;Sage; ;148;12;19;7; ;91;19%;0;2;T1 Korea;
-W;Sova; ;162;15;16;7; ;126;36%;0;1;T1 Korea;
-L;Sage; ;149;8;17;5; ;90;33%;1;0;T1 Korea;
-L;Sova; ;195;12;16;8; ;146;27%;0;1;T1 Korea;

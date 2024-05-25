@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.36;101;5;13;2;62%;43;30%;1;1;NecroRaisers;
-L;Breach;0.18;64;2;13;2;23%;52;25%;0;3;NecroRaisers;

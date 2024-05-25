@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;241;19;20;9; ; ; ;2; ;Begrip Gaming;
-L;Sova; ;218;13;16;6; ; ; ;1; ;Begrip Gaming;
-L;Cypher; ;188;12;11;4; ; ; ;1; ;Begrip Gaming;
-L;None;0;0;0;0;0;0;0;0;0;0;Begrip Gaming;
-L;Cypher; ;136;6;13;4; ; ; ;1; ;Begrip Gaming;
-L;Sova; ;111;7;14;4; ; ; ;0; ;Begrip Gaming;

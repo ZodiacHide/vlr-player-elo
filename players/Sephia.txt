@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix;1.63;280;15;5;2;93%;184;45%;3;1;Papara SuperMassive Female;
-W;Phoenix;1.17;273;18;12;3;84%;186;58%;6;2;Papara SuperMassive Female;
-W;Phoenix;0.91;238;16;14;3;74%;150;33%;3;4;Papara SuperMassive Female;
-W;Sage;1.58;259;13;8;9;93%;165;21%;1;1;Papara SuperMassive Female;
-W;Sage;1.18;275;23;17;4;77%;174;28%;5;0;Papara SuperMassive Female;
-L;Skye;0.62;179;14;21;4;57%;124;34%;3;4;Papara SuperMassive Female;
-L;Phoenix;0.94;247;14;15;3;67%;146;25%;6;3;Papara SuperMassive Female;

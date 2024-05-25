@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.36;92;5;15;1;50%;59;20%;0;1;ATK Mode;
-L;Viper;0.48;153;9;17;1;47%;110;16%;0;0;ATK Mode;

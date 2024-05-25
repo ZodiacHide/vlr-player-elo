@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;211;14;5;3; ;138;23%;1;0;Chick Fil Ayy;

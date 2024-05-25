@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;186;12;9;3; ;116;32%;2;0;ONIC G;
-L;Cypher; ;163;15;16;5; ;112;34%;1;3;ONIC G;
-W;Cypher; ;273;23;13;7; ;154;41%;1;2;ONIC G;
-L;Cypher; ;163;9;15;4; ;109;21%;0;1;ONIC G;
-L;Cypher; ;169;14;16;8; ;108;24%;2;2;ONIC G;

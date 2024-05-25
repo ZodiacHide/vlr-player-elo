@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;115;6;15;2; ;76;24%;1;1;badcovid;
-L;Omen; ;218;27;23;5; ;143;26%;3;5;badcovid;
-L;Omen; ;164;9;13;0; ;92;22%;3;0;NO ORG;
-L;Omen; ;154;10;19;5; ;97;16%;1;2;NO ORG;
-L;Omen;0.45;110;5;16;3;38%;73;22%;1;1;SEMORGAINDA;
-L;Omen;0.63;185;10;17;7;74%;112;12%;1;0;SEMORGAINDA;
-L;Omen;1.09;196;22;19;6;68%;127;26%;2;0;SEMORGAINDA;

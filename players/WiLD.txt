@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.74;207;13;16;1;47%;121;23%;3;2;afterMath Esports;
-L;Kayo;0.76;193;14;17;4;65%;105;15%;3;4;afterMath Esports;
-L;Reyna;0.33;128;6;16;3;44%;80;17%;2;6;afterMath Esports;

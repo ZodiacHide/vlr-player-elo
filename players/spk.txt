@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;170;11;15;3; ;104;31%;2;2;Nanashi no Gonbee;

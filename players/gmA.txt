@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.80;164;12;15;3;68%;112;31%;0;4;FTW Esports;
-L;Brimstone;0.25;86;3;13;1;29%;60;24%;1;2;FTW Esports;
-W;Killjoy;0.95;149;11;14;7;70%;102;29%;2;3;FTW Esports;
-L;Cypher;0.71;214;14;19;4;57%;122;32%;1;2;FTW Esports;
-W;Viper;1.02;170;13;14;8;71%;95;25%;1;2;FTW Esports;
-L;Viper;0.63;115;8;14;2;40%;62;31%;0;1;FTW Esports;
-L;Viper;0.92;131;10;11;5;60%;66;50%;0;2;FTW Esports;

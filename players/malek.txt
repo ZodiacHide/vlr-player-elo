@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.63;133;9;17;5;47%;83;35%;1;2;Free Sign;
-L;Sage;0.55;145;7;14;2;53%;61;11%;2;0;Free Sign;

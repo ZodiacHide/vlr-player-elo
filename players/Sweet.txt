@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.99;233;17;16;5;65%;142;51%;0;1;Monkey Stars;
-L;Skye;0.67;153;9;16;3;59%;95;38%;2;2;Monkey Stars;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;176;12;18;9; ;116;24%;0;2;ALFA Esport;
-L;Sage; ;176;9;14;2; ;123;16%;1;1;ALFA Esport;
-L;Sage; ;167;13;18;12; ;104;20%;0;1;ALFA Esport;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;117;7;14;3; ;142;36%;1;2;Frigid;
-L;Cypher; ;157;11;15;4; ;94;9%;0;4;Frigid;
-W;Cypher; ;171;13;14;7; ;98;39%;2;3;Frigid;
-L;Cypher;0.90;189;12;14;3;63%;121;13%;2;1;IlluZion;
-L;Cypher;0.42;74;4;15;3;42%;59;17%;0;6;IlluZion;
-L;Killjoy;0.32;78;3;16;3;56%;64;11%;0;3;IlluZion;

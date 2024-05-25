@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;57;2;14;2; ;35;0%;0;1;Vertical Seven Esports;
-L;Sage; ;175;7;12;1; ;73;19%;2;2;Vertical Seven Esports;

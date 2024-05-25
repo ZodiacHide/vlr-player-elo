@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;226;12;13;3; ;117;14%;3;1;Team Singapore;
-L;Raze; ;187;9;14;2; ;111;13%;3;3;Team Singapore;

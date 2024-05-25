@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;214;14;15;3; ;125;35%;1;2;In The Lab;
-L;Breach; ;69;4;13;2; ;34;33%;1;3;In The Lab;
-L;Phoenix;0.58;171;7;13;1;54%;114;30%;1;2;Super Weenie Hut Jr's;

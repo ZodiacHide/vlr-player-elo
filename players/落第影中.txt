@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;225;17;16;8; ;129;16%;2;4;Suning Gaming;
-W;Breach; ;133;11;19;12; ;86;14%;0;4;Suning Gaming;
-L;Breach; ;140;10;18;8; ;102;29%;0;1;Suning Gaming;

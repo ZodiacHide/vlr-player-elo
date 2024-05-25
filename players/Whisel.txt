@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.78;176;11;16;4;50%;103;21%;3;2;UCF Valorant;
-L;Killjoy;0.66;162;8;13;1;56%;111;11%;0;3;UCF Valorant;
-L;Sage;0.22;107;4;14;5;43%;71;14%;0;2;Reborn;
-L;Sage;0.73;157;8;16;1;53%;109;21%;2;3;Rated Gaming;

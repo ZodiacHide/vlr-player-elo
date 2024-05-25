@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.61;103;7;16;4;55%;66;18%;1;3;RAIJIN;
-L;Omen;0.56;123;8;19;4;48%;86;12%;2;1;RAIJIN;
-L;Viper;0.76;147;11;15;6;64%;93;13%;0;3;RAIJIN;
-L;Astra;0.73;127;9;14;1;33%;91;32%;0;1;RAIJIN;
-L;Omen;0.46;89;3;13;2;50%;68;20%;0;1;RAIJIN;
-L;Brimstone;0.69;189;10;14;4;67%;114;28%;2;1;RAIJIN;
-L;Brimstone;0.51;115;5;14;6;53%;81;24%;1;3;RAIJIN;

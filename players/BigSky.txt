@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.13;65;3;14;0;27%;50;25%;0;1;Want It Gaming;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.85;274;16;16;2;59%;168;18%;1;4;ABB ASKI E-Spor WHITE;
-L;Raze;0.74;192;9;15;1;44%;153;22%;1;2;ABB ASKI E-Spor WHITE;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Demise;
-L;None;0;0;0;0;0;0;0;0;0;0;Demise;
-W;Omen; ;178;10;8;5; ; ; ;1; ;Demise;
-W;Brimstone; ;297;14;13;10; ; ; ;3; ;Demise;
-L;Brimstone; ;95;6;15;4; ; ; ;0; ;Demise;
-L;Brimstone; ;216;15;18;4; ; ; ;4; ;Demise;
-L;Brimstone; ;146;9;14;2; ; ; ;1; ;Demise;

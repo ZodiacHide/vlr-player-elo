@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;165;6;14;7; ;124;15%;1;1;Kaizen Esports;
-L;Sova; ;110;9;22;12; ;79;23%;0;2;Kaizen Esports;

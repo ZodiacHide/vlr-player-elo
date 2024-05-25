@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;165;12;11;8; ;99;11%;2;2;aspyxia;
-L;Raze; ;198;12;13;2; ;118;23%;2;0;aspyxia;
-L;Sova; ;162;10;13;14; ;113;11%;1;0;aspyxia;
-W;Sova; ;158;12;15;8; ;95;18%;2;1;aspyxia;
-W;Sova; ;288;15;4;9; ;177;12%;1;0;aspyxia;
-L;Sova; ;174;9;15;7; ;112;21%;0;1;aspyxia;
-L;Sova; ;182;14;16;4; ;120;33%;1;0;aspyxia;
-L;Raze; ;216;17;16;7; ;152;17%;1;2;AnimeSquad;

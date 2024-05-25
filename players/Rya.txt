@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.53;139;11;18;1;61%;99;22%;0;1;Zero2Hero Esports Academy;
-L;Jett;0.95;204;15;16;3;64%;135;44%;3;3;Zero2Hero Esports Academy;
-L;Reyna;1.19;271;19;13;3;74%;164;20%;0;1;Zero2Hero Esports Academy;

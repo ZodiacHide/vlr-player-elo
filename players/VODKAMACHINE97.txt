@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;236;20;18;19; ;128;12%;5;4;Exorcist.ESC;
-L;Sova; ;190;10;15;4; ;124;19%;2;1;Exorcist.ESC;

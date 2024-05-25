@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;198;16;11;2; ;118;16%;1;1;PuR eSport;

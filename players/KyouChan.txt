@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;134;8;17;2; ; ; ;1; ;Team Clutch_Fii;
-L;Raze; ;117;9;20;4; ; ; ;1; ;Team Clutch_Fii;
-L;Reyna; ;143;9;14;2; ; ; ;2; ;Team Clutch_Fii;

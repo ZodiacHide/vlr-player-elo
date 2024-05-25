@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.61;141;7;15;6;56%;89;30%;1;1;Team Reckaroo;

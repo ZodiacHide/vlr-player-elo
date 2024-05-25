@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.45;120;5;15;2;38%;82;19%;1;2;Kolossus Academy;
-L;Sage;0.52;162;8;13;0;46%;73;33%;1;0;Kolossus Academy;

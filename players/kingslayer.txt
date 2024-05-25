@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;153;7;14;4; ;100;19%;1;4;L8R Bot;
-W;Raze; ;215;13;12;6; ;124;16%;1;3;L8R Bot;
-W;Reyna; ;250;18;18;6; ;185;17%;7;4;L8R Bot;
-L;Reyna; ;135;10;16;5; ;96;29%;0;5;L8R Bot;
-L;Reyna; ;217;10;13;2; ;127;19%;5;4;L8R Bot;
-L;Raze; ;265;32;28;5; ;173;15%;5;1;L8R Bot;
-L;Reyna; ;183;12;15;2; ;117;25%;2;4;L8R Bot;

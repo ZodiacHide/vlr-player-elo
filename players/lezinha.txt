@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.51;149;7;15;2;44%;102;21%;1;2;Cruzeiro Esports;
-L;Killjoy;0.68;127;8;16;2;44%;85;13%;1;0;Cruzeiro Esports;
-L;Killjoy;0.50;135;8;18;2;56%;80;21%;0;2;Cruzeiro Esports;
-L;Cypher;1.28;271;26;16;4;62%;160;35%;2;1;Cruzeiro Esports;

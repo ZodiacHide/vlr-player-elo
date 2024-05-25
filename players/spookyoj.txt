@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;77;3;13;0; ; ; ;0; ;GVNG;
-W;Sage; ;86;7;13;8; ; ; ;0; ;GVNG;
-W;Sage; ;237;17;9;10; ; ; ;1; ;GVNG;
-W;Sage; ;146;11;8;7; ; ; ;0; ;GVNG;
-W;Sage; ;255;17;13;10; ; ; ;3; ;GVNG;
-L;Sage; ;139;7;13;11; ; ; ;0; ;GVNG;
-W;Sage; ;140;12;16;7; ; ; ;0; ;GVNG;
-L;Sage; ; ; ; ; ; ; ; ; ; ;GVNG;

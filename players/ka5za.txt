@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.38;87;4;14;2;27%;58;8%;0;0;Aim from Kitchen;
-L;Sage;0.25;104;4;14;2;36%;73;16%;1;1;Aim from Kitchen;

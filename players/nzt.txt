@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;248;14;16;4; ; ; ;1; ;mercenaries;
-L;None;0;0;0;0;0;0;0;0;0;0;mercenaries;
-L;Raze; ;167;7;13;4; ;120;8%;2;1;mercenaries;

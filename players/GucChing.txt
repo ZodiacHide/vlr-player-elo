@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;170;14;17;3; ;96;19%;0;2;AD Infinitum MORPHEUS;
-L;Sage;0.81;221;11;14;5;41%;143;17%;3;4;AD Infinitum MORPHEUS;

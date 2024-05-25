@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.51;128;7;18;8;83%;83;8%;1;1;Funkboings;
-L;None;0;0;0;0;0;0;0;0;0;0;Funkboings;
-L;Phoenix;0.37;84;4;13;1;43%;27;0%;0;0;Funkboings;
-L;Reyna;0.44;107;6;15;4;59%;55;9%;0;3;Funkboings;

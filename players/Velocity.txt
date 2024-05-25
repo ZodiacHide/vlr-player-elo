@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;225;14;16;2; ;189;23%;2;2;D2E Gold;
-L;Killjoy; ;167;17;22;12; ;114;16%;0;0;D2E Gold;
-L;Killjoy; ;134;7;17;4; ;94;25%;0;4;D2E Gold;
-L;Killjoy; ;177;8;15;5; ;133;25%;1;1;D2E Gold;
-L;Sova;0.76;109;6;14;8;68%;87;16%;0;1;UYU;
-W;Cypher;0.74;150;15;20;3;65%;113;40%;2;2;UYU;
-L;Killjoy;1.14;222;14;12;3;63%;142;17%;1;0;UYU;
-L;Killjoy;0.59;155;7;14;3;50%;90;23%;0;2;UYU;

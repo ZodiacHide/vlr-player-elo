@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;190;19;26;12; ;124;25%;2;6;Invicta;
-L;Omen; ;210;19;15;1; ;140;22%;1;2;Invicta;
-L;Omen; ;92;6;16;1; ;64;35%;0;4;Invicta;

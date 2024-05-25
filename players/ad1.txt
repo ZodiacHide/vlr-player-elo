@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;155;12;16;4; ;96; ;1; ;no org;
-L;Omen; ;215;23;13;6; ;123; ;3; ;no org;
-L;Brimstone; ;135;7;15;2; ;85;33%;1;2;no org;
-L;Omen; ;172;10;15;5; ;100;28%;2;0;no org;
-L;Killjoy; ;155;8;13;1; ;175;21%;0;1;Intel New Indians;
-L;Killjoy; ;176;10;15;4; ;102;11%;3;0;Intel New Indians;
-L;Sova; ;153;7;14;14; ;112;17%;0;1;NOSLEEP;
-L;Killjoy; ;161;14;18;5; ;101;15%;2;1;NOSLEEP;

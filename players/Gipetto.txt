@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;96;3;13;2; ;82;27%;1;5;Digital Ninjas;
-L;Killjoy; ;202;12;14;1; ;132;19%;0;0;Digital Ninjas;
-L;Killjoy; ;137;10;22;3; ;99;13%;2;1;Digital Ninjas;

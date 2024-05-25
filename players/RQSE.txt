@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;102;4;14;3; ;42;17%;0;5;BLUEJAYS Frates;
-L;Jett; ;178;10;15;1; ;103;18%;1;2;BLUEJAYS Frates;

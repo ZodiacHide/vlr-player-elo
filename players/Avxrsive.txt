@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna; ;252;20;13;5; ;156;22%;2;3;Las Vegas Inferno;
-W;Reyna; ;212;15;17;7; ;121;27%;2;4;Las Vegas Inferno;
-L;Reyna; ;253;17;17;1; ;139;26%;3;2;Las Vegas Inferno;
-L;Phoenix;0.83;216;13;19;2;63%;152;35%;2;4;DNADIFF;
-L;Phoenix;0.49;135;7;16;1;41%;92;34%;2;4;DNADIFF;

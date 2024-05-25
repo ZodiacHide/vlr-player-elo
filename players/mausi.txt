@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;215;13;16;6; ;144;28%;0;0;PAJACE;
-L;Phoenix; ;284;23;19;9; ;163;21%;1;1;PAJACE;
-L;Breach;1.03;164;13;16;10;65%;113;18%;2;1;Illuminar Gaming;
-W;Sova;1.49;169;11;4;9;83%;113;11%;2;0;Illuminar Gaming;
-L;Breach;0.64;110;7;16;9;73%;81;11%;0;0;Illuminar Gaming;

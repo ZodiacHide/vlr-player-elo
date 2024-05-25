@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;1.39;206;11;4;2;86%;132;23%;2;0;Guild GC;
-W;Sova;0.96;88;6;5;5;67%;63;6%;1;1;Guild GC;
-W;Sova;1.35;171;9;5;8;100%;128;28%;2;0;Guild GC;
-W;Sova;1.76;259;18;4;2;94%;155;31%;1;0;Guild GC;
-L;Sova;1.22;209;16;15;13;83%;146;16%;2;2;Guild GC;
-L;Sova;0.84;136;9;15;10;65%;90;15%;1;0;Guild GC;

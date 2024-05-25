@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.80;188;13;16;3;74%;85;16%;2;4;Moose Knucklers;
-L;Astra;0.46;161;7;15;3;60%;86;14%;1;2;Moose Knucklers;
-W;Omen;0.90;191;20;24;13;72%;118;17%;1;2;Bifrost;
-L;Brimstone;0.43;131;6;15;2;38%;86;11%;0;4;Bifrost;
-L;Omen;1.02;247;21;19;10;71%;140;13%;3;1;Bifrost;

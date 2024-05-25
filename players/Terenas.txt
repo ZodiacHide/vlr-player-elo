@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;133;6;14;1; ; ; ;0; ;Team Terenas;
-L;Brimstone; ;220;18;19;2; ;129;33%;3;2;Team Italy;
-L;Brimstone; ;193;14;19;4; ;118;20%;1;1;Team Italy;
-L;Brimstone; ;119;10;18;1; ;69;17%;0;0;Team Italy;
-L;Brimstone; ;93;4;17;4; ;80;9%;2;6;Team Italy;

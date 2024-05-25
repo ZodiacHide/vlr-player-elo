@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna;1.30;293;21;14;4;74%;166;27%;4;3;Knights;
-L;Reyna;0.89;173;12;15;0;55%;127;27%;0;2;Knights;
-W;Reyna;1.53;294;17;7;4;93%;193;48%;5;0;Knights;
-W;Reyna;1.38;244;22;13;4;79%;175;25%;3;2;Knights;
-W;Reyna;0.68;133;9;14;3;65%;89;39%;3;5;Knights;
-L;Reyna;0.79;240;20;20;1;78%;153;32%;2;4;Knights;
-L;Skye;0.98;239;18;17;4;68%;158;25%;2;0;Knights;

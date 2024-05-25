@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;152;11;15;2; ;94;31%;0;1;Sakura Storm;
-W;Omen; ;174;15;13;6; ;96;14%;1;0;Sakura Storm;
-L;Omen; ;134;5;13;7; ;94;18%;0;2;Sakura Storm;

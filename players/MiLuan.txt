@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;213;14;18;11; ;132;27%;2;1;Ka4 e-Sports Club;

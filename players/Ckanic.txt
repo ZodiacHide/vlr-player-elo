@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;0.81;145;13;16;9;75%;94;26%;0;0;Regnum Carya Esports;
-L;Sova;0.84;183;11;14;3;69%;120;38%;0;1;Regnum Carya Esports;
-L;Sova;0.85;153;15;23;9;69%;109;22%;1;1;Regnum Carya Esports;

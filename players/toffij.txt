@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ; ; ; ; ; ; ; ; ; ;clowns;
-L;Sage; ;133;8;17;5; ; ; ;1; ;clowns;
-L;Sage; ;143;8;12;6; ;99;15%;0;2;clowns;

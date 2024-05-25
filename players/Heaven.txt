@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;183;9;15;3; ;105;13%;1;4;Helios Gaming;
-L;Raze; ;192;14;17;5; ;115;12%;3;5;Helios Gaming;
-L;Raze; ;143;9;19;3; ;93;10%;1;5;Helios Gaming;

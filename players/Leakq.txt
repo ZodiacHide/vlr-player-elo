@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;220;10;16;1; ;132; ;1; ;Imposto é Roubo;
-W;Omen; ;180;15;23;7; ;118; ;1; ;Imposto é Roubo;
-L;Omen; ;166;9;14;3; ;120;26%;0;2;Imposto é Roubo;
-W;Omen; ;246;18;14;4; ;137;29%;3;1;Athletico Zombies;
-L;Omen; ;140;9;17;6; ;141;28%;2;3;Athletico Zombies;
-L;Astra; ;114;6;16;0; ;71;13%;0;1;Athletico Zombies;

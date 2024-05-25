@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;247;14;17;3; ;210;23%;0;1;FlyMatez;
-L;Raze; ;207;12;15;5; ;127;11%;4;1;FlyMatez;

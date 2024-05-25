@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;283;25;21;6; ; ; ;8; ;Team juankorea;
-L;None;0;0;0;0;0;0;0;0;0;0;Team juankorea;
-W;Sage; ;137;11;18;6; ; ; ;0; ;Team juankorea;
-W;Sage; ;147;13;17;4; ; ; ;4; ;Team juankorea;
-L;None;0;0;0;0;0;0;0;0;0;0;Team juankorea;

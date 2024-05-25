@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;158;12;15;5; ;94;26%;0;1;Pants Down;
-W;Omen; ;137;11;16;10; ;73;23%;1;2;Pants Down;

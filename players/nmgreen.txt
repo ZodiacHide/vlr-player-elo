@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.51;151;7;13;0;60%;73;4%;3;1;slime slats;
-L;Brimstone;0.31;111;3;14;5;43%;86;7%;1;2;slime slats;

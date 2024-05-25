@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.62;210;13;18;3;60%;144;23%;2;1;Finest Female;
-L;Killjoy;0.96;231;14;14;3;55%;161;25%;2;1;Finest Female;
-L;Killjoy;0.55;107;6;16;3;42%;74;24%;1;0;Finest Female;
-L;Sage;0.15;27;1;14;1;29%;26;33%;0;3;Finest Female;

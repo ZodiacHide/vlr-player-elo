@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;1.06;247;16;13;3;72%;156;14%;1;2;the gu krew;
-L;Raze;0.50;88;6;15;1;42%;60;16%;0;1;the gu krew;

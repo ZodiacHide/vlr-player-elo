@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;269;20;15;3; ;151;18%;2;0;Sausage Party;
-L;Phoenix; ;210;11;15;3; ;147;32%;0;5;Sausage Party;
-L;Raze;0.67;163;9;14;4;65%;100;14%;0;0;Team Adios;
-L;Reyna;0.25;87;4;14;0;50%;64;24%;1;2;Team Adios;

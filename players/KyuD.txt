@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;87;4;14;3; ;43;20%;0;3;ECM FCG eSports;
-L;Sage; ;203;13;17;6; ;127;25%;2;1;ECM FCG eSports;
-L;Astra;0.73;104;8;17;9;67%;81;21%;1;1;ECM FCG eSports;
-L;Astra;0.46;74;5;13;4;38%;45;33%;0;0;ECM FCG eSports;

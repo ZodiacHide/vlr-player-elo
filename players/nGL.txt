@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;202;11;15;3; ;131;22%;2;0;Team Doggo;
-L;Omen; ;118;5;14;1; ;86;23%;0;3;Game Fist;
-L;Omen; ;107;4;15;3; ;135;7%;0;3;Game Fist;

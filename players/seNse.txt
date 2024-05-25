@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.77;166;12;15;3;76%;99;25%;3;3;BLUEJAYS Hunter;
-L;Astra;0.64;93;8;16;4;61%;70;18%;1;4;BLUEJAYS Hunter;

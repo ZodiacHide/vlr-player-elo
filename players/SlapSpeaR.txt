@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.77;203;12;14;4;59%;148;28%;0;5;Gunslingers;
-L;Reyna;1.15;235;23;17;5;58%;149;27%;4;8;Gunslingers;
-W;Reyna;1.61;310;22;11;2;83%;176;18%;7;3;Gunslingers;

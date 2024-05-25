@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;312;20;14;1; ;166;53%;4;1;Twin Esports;
-W;Cypher; ;221;16;12;2; ;132;33%;1;2;Twin Esports;
-L;Cypher; ;174;12;17;4; ;100;37%;1;2;Twin Esports;

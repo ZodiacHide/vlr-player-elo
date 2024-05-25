@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;216;17;19;4; ;145;38%;3;3;ANKA E-Sports;
-L;Sova; ;161;9;14;6; ;109;22%;0;3;ANKA E-Sports;

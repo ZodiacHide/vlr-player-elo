@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.63;164;8;16;1;59%;114;18%;2;2;NBD Esports;
-L;Phoenix;0.64;162;9;14;4;63%;91;26%;1;4;NBD Esports;
-L;Kayo;0.92;218;17;17;13;74%;145;14%;3;3;NBD Esports;
-L;Phoenix;0.87;213;16;17;2;55%;143;13%;0;5;NBD Esports;

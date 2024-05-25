@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.74;187;9;14;3;69%;121;17%;1;0;FearSlay;
-L;Sova;0.71;196;9;12;2;53%;123;23%;1;0;FearSlay;

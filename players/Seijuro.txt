@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;318;21;15;1; ; ; ;4; ;Project D;
-L;Sova; ;184;10;13;7; ;113;15%;1;0;Hashira;
-W;Sova; ;245;12;3;8; ;147;32%;0;0;Hashira;
-W;Sova; ;159;13;16;7; ;141;22%;1;1;Hashira;

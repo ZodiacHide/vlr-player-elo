@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;277;26;20;2; ;153;16%;5;2;1stCav eSport Club;
-L;Jett; ;153;6;14;2; ;98;30%;1;5;1stCav eSport Club;
-L;Jett; ;241;13;16;1; ;124;8%;6;2;1stCav eSport Club;
-L;Jett; ;260;12;13;0; ;117;31%;4;0;1stCav eSport Club;

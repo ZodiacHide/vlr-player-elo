@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.50;121;5;13;0;33%;87;16%;0;2;Skelp Esports;
-L;Raze;0.27;116;5;13;2;47%;69;6%;0;6;Skelp Esports;

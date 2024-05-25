@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.56;123;5;13;3;43%;86;10%;3;0;afterMath Esports;
-L;Sova;0.40;94;4;16;3;41%;65;19%;1;2;afterMath Esports;
-L;Sova;0.82;176;14;18;4;61%;118;21%;0;1;afterMath Esports;
-L;Sova;0.34;97;5;16;1;38%;60;11%;0;3;afterMath Esports;

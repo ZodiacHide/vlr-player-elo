@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.88;221;17;17;3;64%;144;28%;2;2;Digger Esports;
-L;Killjoy;0.72;171;9;16;2;42%;127;17%;3;2;Digger Esports;

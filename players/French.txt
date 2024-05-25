@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;42;1;13;0; ;34;10%;1;7;Pirate Nation;
-L;Killjoy; ;210;10;14;1; ;93;19%;0;1;Pirate Nation;
-L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;
-L;None;0;0;0;0;0;0;0;0;0;0;Pirate Nation;

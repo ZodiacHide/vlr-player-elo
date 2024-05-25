@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;300;24;16;7; ;216;16%;5;6;DELIRAWOW;
-W;Raze; ;251;25;26;12; ;153;13%;7;5;DELIRAWOW;
-L;Raze; ;321;23;17;5; ;216;21%;1;4;DELIRAWOW;
-L;Raze; ;167;10;14;6; ;111;16%;3;0;DELIRAWOW;

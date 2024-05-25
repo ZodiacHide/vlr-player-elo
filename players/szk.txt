@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Furacão RED;
-L;Sage; ;118;7;15;2; ;73;14%;0;0;Furacão RED;
-L;Raze; ;226;19;18;6; ;154;29%;4;2;Urubuzada e-Sports;
-L;Raze; ;276;17;17;2; ;164;27%;1;2;Urubuzada e-Sports;

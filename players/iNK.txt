@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;323;18;14;3; ;213;27%;4;2;LE GAMING;
-L;Jett; ;179;8;12;1; ;126;29%;1;2;LE GAMING;
-L;Sage;0.54;186;8;16;4;50%;128;24%;0;3;Taunt;
-L;Sova; ;143;4;13;2; ;104;13%;0;0;Taunt;

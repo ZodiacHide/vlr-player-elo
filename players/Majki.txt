@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper; ;189;13;18;5; ;131;42%;2;2;Team Gravity;
-L;Sova; ;122;8;16;5; ;71;23%;1;1;Team Gravity;
-L;Sova;0.87;254;12;13;2;80%;155;28%;1;0;Team Gravity;
-L;Sova;1.40;253;20;14;10;75%;168;32%;3;0;Team Gravity;
-L;Sova;0.53;116;6;15;1;28%;78;18%;1;0;Fadee Gaming;
-L;Sova;0.57;117;4;14;4;50%;85;33%;2;0;Fadee Gaming;

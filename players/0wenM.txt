@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;263;17;15;1; ;149;28%;3;0;SLAMMING GEARS;
-W;Omen; ;93;8;17;7; ;65;10%;0;2;SLAMMING GEARS;
-L;Omen; ;146;8;15;9; ;94;31%;2;0;SLAMMING GEARS;

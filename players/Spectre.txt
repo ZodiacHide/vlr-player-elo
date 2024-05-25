@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.80;213;13;17;4;58%;129;22%;2;0;Regal E-Sports;
-L;Jett;1.11;206;11;12;3;65%;136;39%;4;0;Regal E-Sports;

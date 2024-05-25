@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;203;9;13;1; ;119;17%;2;0;Elite;
-L;Reyna; ;178;12;13;2; ;132;24%;2;3;Elite;
-L;Killjoy; ;77;3;20;5; ;51;11%;1;2;Elite;
-L;Reyna; ;118;7;17;7; ;89;15%;0;2;Elite;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.37;157;6;14;2;43%;99;13%;1;5;East Hill;
-L;Reyna;0.26;150;5;15;3;50%;111;16%;2;5;East Hill;
-L;Killjoy;0.83;182;11;14;3;87%;105;26%;1;1;East Hill;

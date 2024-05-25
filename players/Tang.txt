@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.54;135;6;14;2;44%;98;26%;1;2;Goats and Glory;

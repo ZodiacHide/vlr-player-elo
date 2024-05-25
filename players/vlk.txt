@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;181;18;19;3; ;117;26%;1;4;Květinky;
-L;Breach; ;127;6;16;6; ;84;23%;1;2;Květinky;
-L;Killjoy; ;163;10;16;7; ;124;24%;1;4;Květinky;
-L;Killjoy; ;150;9;16;3; ;111;17%;3;1;Květinky;

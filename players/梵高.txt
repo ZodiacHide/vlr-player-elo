@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;193;13;7;4; ;130;19%;0;0;eStar Gaming;
-W;Sova; ;207;14;12;7; ;128;35%;1;3;eStar Gaming;
-W;Sova; ;166;10;12;8; ;121;22%;1;3;eStar Gaming;

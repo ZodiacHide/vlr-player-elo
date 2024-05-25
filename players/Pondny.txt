@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;67;3;15;1; ;49;9%;0;0;Terminate Esports;
-L;Omen; ;124;7;17;4; ;91;8%;1;2;Terminate Esports;

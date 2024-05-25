@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze;1.00;247;24;23;10;83%;156;14%;4;5;Angry Titans;
-L;Jett;0.44;135;9;17;3;55%;98;24%;2;5;Angry Titans;
-L;Jett;0.74;160;9;16;3;47%;113;36%;3;3;Angry Titans;
-L;Raze;0.86;177;15;16;1;64%;113;22%;3;5;Angry Titans;
-L;Raze;0.88;235;19;24;8;79%;164;24%;6;3;Angry Titans;

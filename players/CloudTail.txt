@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;172;7;11;1; ;107;35%;0;1;Flash and Dash;
-W;Sova; ;219;18;17;9; ;114;29%;3;4;Flash and Dash;
-L;Sova; ;209;13;15;5; ;115;31%;1;1;Flash and Dash;

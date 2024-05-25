@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.05;244;21;20;1;68%;158;48%;2;5;ChatBanned;
-W;Jett;0.79;171;12;19;7;57%;113;16%;2;5;ChatBanned;
-W;Sage;1.20;186;12;11;9;78%;122;27%;2;0;ChatBanned;
-L;Sage;0.72;144;12;17;4;57%;93;21%;2;4;ChatBanned;
-L;Jett;0.81;164;13;18;3;59%;100;15%;3;2;ChatBanned;

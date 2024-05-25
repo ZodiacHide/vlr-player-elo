@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.29;75;5;15;1;41%;43;45%;1;4;Celestial Violet;
-L;Astra;0.54;187;9;12;1;54%;90;20%;0;1;Celestial Violet;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;101;5;14;0; ;60;50%;1;1;LE GAMING;
-L;Omen; ;120;5;12;1; ;65;19%;0;1;LE GAMING;
-L;Omen;0.47;110;4;17;4;44%;85;27%;1;2;Taunt;
-L;Omen; ;150;6;13;2; ;86;33%;2;4;Taunt;

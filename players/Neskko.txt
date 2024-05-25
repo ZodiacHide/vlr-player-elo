@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;160;10;11;5; ;99;15%;1;1;Noobs With Attitude;
-L;Breach; ;180;9;15;2; ;104;22%;2;0;Noobs With Attitude;
-L;Breach; ;139;10;14;2; ;69;16%;0;2;Noobs With Attitude;
-L;Breach; ;136;11;22;4; ;85;23%;2;4;Noobs With Attitude;
-L;Killjoy; ;180;13;18;1; ;123;22%;4;1;Megastitut;
-L;Cypher; ;155;12;13;2; ;92;22%;0;0;Megastitut;
-L;Viper;0.75;208;14;16;2;68%;101;37%;2;4;FC Pat Patrouille;
-L;Skye;0.23;70;4;15;3;47%;32;43%;0;2;FC Pat Patrouille;

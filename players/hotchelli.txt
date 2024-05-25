@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;167;10;9;6; ;96;8%;2;1;Pillow;
-W;Sova; ;264;17;12;8; ;145;21%;8;0;Pillow;
-L;Sova; ;149;11;18;10; ;111;14%;1;1;Pillow;
-L;Sova; ;154;10;17;8; ;91;17%;1;5;Pillow;
-L;Sova; ;192;13;18;10; ;128;18%;5;3;Pillow;

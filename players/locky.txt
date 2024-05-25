@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.72;135;10;15;1;44%;95;29%;3;2;Bingueiros;
-L;Sova;0.36;74;3;13;0;33%;51;18%;0;3;Bingueiros;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.86;182;11;15;5;53%;112;25%;2;0;Moose Knucklers;
-L;Raze;0.23;78;3;15;2;40%;62;22%;1;4;Moose Knucklers;
-W;Kayo;0.91;146;16;23;18;72%;102;12%;1;4;Bifrost;
-L;Raze;0.85;184;11;14;2;56%;117;13%;3;0;Bifrost;
-L;Jett;0.92;191;16;18;4;67%;123;17%;8;6;Bifrost;

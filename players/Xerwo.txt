@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.89;239;19;16;1;52%;151;39%;4;4;BLUEJAYS Hunter;
-L;Jett;0.95;224;16;18;7;65%;131;17%;3;3;BLUEJAYS Hunter;

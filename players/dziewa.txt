@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher;1.08;207;21;19;3;71%;136;35%;3;3;Kraken;
-W;Cypher;1.05;227;19;16;4;78%;143;16%;2;0;Kraken;
-L;Raze;0.85;245;17;20;2;62%;157;28%;5;2;Kraken;
-L;Cypher;0.98;243;17;17;6;71%;163;30%;4;1;Kraken;

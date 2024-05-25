@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;245;19;15;2; ;136;33%;2;2;Exality;
-L;Jett; ;186;12;17;6; ;124;36%;3;3;Exality;
-L;Jett; ;324;25;17;2; ;186;36%;7;5;Exality;
-L;Jett; ;103;6;15;1; ;59;17%;0;2;Exality;
-L;Omen;0.68;107;10;18;4;67%;73;21%;2;1;Exality;
-L;Omen;0.51;140;7;15;5;63%;101;22%;0;1;Exality;

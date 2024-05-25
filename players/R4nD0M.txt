@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;157;12;15;7; ;114;22%;0;2;Question Mark;
-L;Killjoy; ;165;9;14;2; ;92;20%;0;3;Question Mark;
-L;Killjoy; ;233;17;14;3; ;130;17%;2;1;Question Mark;

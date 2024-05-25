@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;97;4;14;4; ;73;8%;1;1;K/D Fixers;
-L;Brimstone; ;191;12;17;2; ;102;17%;0;2;K/D Fixers;
-L;Brimstone; ;174;14;15;1; ;114;14%;3;1;K/D Fixers;

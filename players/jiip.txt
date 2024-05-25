@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;137;9;14;2; ;96;28%;1;3;Caught in 4k;
-L;Cypher; ;176;8;14;1; ;116;18%;3;1;Caught in 4k;

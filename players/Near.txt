@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;RvN;
-W;Sova; ;290;28;20;17; ;183;17%;4;3;RvN;
-W;Cypher; ;157;13;13;4; ;92;20%;2;1;RvN;
-L;Cypher;1.16;278;21;16;3;85%;171;25%;3;2;GhostFamily E-Sports;

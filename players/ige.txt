@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.88;177;15;17;3;74%;123;27%;0;3;RD Esports;
-L;Sage;0.58;114;9;15;1;52%;75;15%;0;3;RD Esports;

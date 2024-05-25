@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;131;11;16;3; ;98;24%;0;1;Team 7AM;
-L;Brimstone; ;143;6;13;2; ;111;17%;2;1;Team 7AM;
-L;Omen; ;104;5;16;4; ;66;19%;1;6;Team 7AM;
-L;Omen; ;171;10;17;5; ;97;29%;0;2;Team 7AM;

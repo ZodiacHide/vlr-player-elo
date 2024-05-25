@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.30;102;4;13;2;43%;73;33%;0;0;Waifu Warriors;

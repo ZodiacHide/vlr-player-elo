@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Yoru;0.74;231;12;14;1;53%;141;44%;0;1;Guardian Esports Team;
-L;Raze;1.15;271;18;17;4;65%;183;19%;2;4;Guardian Esports Team;

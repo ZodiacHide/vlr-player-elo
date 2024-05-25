@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.76;194;9;14;4;56%;136;19%;0;2;Aggie Gaming at UC;
-L;Killjoy;0.36;98;3;14;3;33%;70;10%;0;1;Aggie Gaming at UC;
-L;Cypher;1.07;217;19;13;0;77%;117;25%;0;0;Aggie Gaming at UC;
-L;Cypher;1.28;244;18;13;4;67%;148;10%;2;0;Aggie Gaming at UC;

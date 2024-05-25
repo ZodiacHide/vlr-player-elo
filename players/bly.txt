@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;284;18;7;3; ;174;25%;3;0;eStar Gaming;
-W;Omen; ;305;24;11;4; ;178;21%;1;3;eStar Gaming;
-W;Omen; ;196;16;15;3; ;119;26%;1;4;eStar Gaming;

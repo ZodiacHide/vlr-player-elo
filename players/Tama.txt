@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;86;4;13;2; ;27;20%;0;0;The Box by Infinity Area;

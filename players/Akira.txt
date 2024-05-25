@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.93;190;14;15;3;55%;122;38%;2;0;Native 2 Empire;
-L;Sage;0.78;173;14;19;5;61%;112;36%;1;1;Native 2 Empire;

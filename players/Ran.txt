@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;183;8;12;1; ;93;24%;4;1;AVALON Gaming;
-W;Sage; ;315;17;9;8; ;196;22%;2;0;AVALON Gaming;
-W;Omen; ;175;11;10;3; ;116;31%;2;1;AVALON Gaming;

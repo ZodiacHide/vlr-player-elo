@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.61;103;9;16;1;47%;73;31%;0;2;Altered Edge;
-L;Sova;0.64;139;5;13;7;60%;109;35%;0;0;Altered Edge;

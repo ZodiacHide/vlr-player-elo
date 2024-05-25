@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;181;15;18;2; ;107;21%;3;3;ex-Timing Monster Gaming;
-W;Reyna; ;314;23;16;4; ;175;17%;5;0;ex-Timing Monster Gaming;
-L;Reyna; ;192;11;19;7; ;117;20%;2;4;ex-Timing Monster Gaming;
-L;Phoenix; ;233;22;21;6; ;146;26%;3;3;ex-Timing Monster Gaming;
-L;Reyna; ;288;19;16;1; ;177;25%;3;2;ex-Timing Monster Gaming;

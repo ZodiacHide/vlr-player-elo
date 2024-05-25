@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;223;18;22;10; ; ; ;3; ;Team staxvlrt;
-W;Cypher; ;187;14;16;3; ; ; ;1; ;Team staxvlrt;
-W;None;0;0;0;0;0;0;0;0;0;0;Team staxvlrt;
-L;Cypher; ;213;17;17;6; ; ; ;3; ;Team staxvlrt;
-W;None;0;0;0;0;0;0;0;0;0;0;Team staxvlrt;

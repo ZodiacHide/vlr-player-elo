@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;189;9;13;3; ;113;19%;3;2;lvlUP;
-L;Sage; ;188;12;14;2; ;118;52%;3;3;lvlUP;
-L;Sage; ;167;12;16;8; ;111;28%;1;1;lvlUP;
-L;Phoenix; ;145;10;17;2; ;81;19%;3;2;lvlUP;
-L;Breach; ;115;6;15;5; ;72;32%;0;3;lvlUP;
-L;Sage; ;118;4;14;2; ;85;25%;1;3;lvlUP;

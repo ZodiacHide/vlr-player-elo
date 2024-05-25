@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;233;21;21;2; ;146;24%;5;4;OG Esports;
-L;Reyna; ;162;8;15;1; ;102;27%;1;3;OG Esports;
-L;Jett; ;237;13;14;1; ;132;28%;3;1;OG Esports;
-L;Jett; ;181;16;16;3; ;118;10%;3;4;OG Esports;
-L;Reyna; ;189;17;20;4; ;126;23%;4;3;OG Esports;
-L;Phoenix; ;212;13;15;4; ;129;27%;3;3;OG Esports;
-L;Phoenix; ;198;11;15;4; ;134;30%;0;5;OG Esports;

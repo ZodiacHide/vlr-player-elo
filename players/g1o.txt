@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.61;159;10;16;2;56%;95;30%;2;1;Vammo E-Sports;
-L;Reyna;0.86;176;10;14;4;65%;113;14%;2;0;Vammo E-Sports;

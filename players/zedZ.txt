@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.84;199;10;13;1;67%;118;23%;3;0;Waifu Warriors;
-L;Raze;0.57;157;6;16;6;53%;99;13%;3;4;Waifu Warriors;

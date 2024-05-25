@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.73;163;10;13;2;56%;92;33%;0;2;Horse Victory;
-L;Omen;0.52;88;4;17;11;53%;47;14%;0;2;Horse Victory;

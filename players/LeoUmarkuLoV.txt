@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;196;18;11;3; ;173;31%;1;1;Boca Boston;
-L;Phoenix; ;182;13;17;3; ;119;29%;0;1;Boca Boston;
-L;Phoenix; ;163;8;15;2; ;115;21%;2;2;Boca Boston;

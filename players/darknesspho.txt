@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;0.72;140;11;18;9;69%;98;24%;1;0;Swag Silicone;
-L;Sage;0.56;82;6;15;5;62%;62;12%;0;1;Swag Silicone;
-L;Sage;0.85;200;12;14;2;67%;109;16%;3;3;Swag Silicone;
-L;Sage;0.40;89;5;14;5;38%;50;47%;0;2;Axolotl;
-L;Sage;0.55;105;4;13;5;67%;72;9%;0;1;Axolotl;

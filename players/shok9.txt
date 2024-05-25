@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;273;23;17;5; ; ; ;3; ;FazTeuHype;
-W;Omen;0.97;191;17;16;4;79%;113;10%;0;1;OS GURI;
-L;Omen;0.94;201;12;13;4;58%;105;21%;1;0;OS GURI;
-L;Breach;0.65;115;7;14;9;72%;68;19%;0;0;OS GURI;

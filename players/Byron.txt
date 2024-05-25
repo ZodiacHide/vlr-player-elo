@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen;1.32;247;25;15;8;69%;163;35%;0;2;Swag Silicone;
-L;Omen;1.17;231;17;14;11;76%;146;29%;3;2;Swag Silicone;
-L;Viper;0.83;203;15;15;3;89%;103;13%;2;0;Swag Silicone;
-L;Omen;0.69;121;7;13;4;56%;78;22%;0;1;Axolotl;
-L;Astra;0.82;206;12;13;2;60%;120;19%;2;1;Axolotl;

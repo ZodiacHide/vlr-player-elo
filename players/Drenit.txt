@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;240;16;17;3; ;158;23%;4;2;Team Untold;
-L;Raze; ;280;17;13;2; ;144;13%;3;1;Team Untold;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;222;16;18;6; ;143;26%;4;5;Grow uP eSports;
-L;Jett; ;166;10;14;3; ;96;11%;2;4;Grow uP eSports;
-L;Jett; ;201;12;20;6; ;124;14%;1;4;Grow uP eSports;
-L;Breach; ;105;6;13;4; ;61;28%;0;3;Grow uP eSports;
-L;Jett; ;226;15;16;2; ;135;33%;6;3;Grow uP eSports;

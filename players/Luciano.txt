@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;136;6;16;1; ; ; ;1; ;Team Kephrii;
-L;Omen; ;133;8;18;1; ; ; ;2; ;Team Kephrii;
-L;Raze; ;150;9;15;3; ; ; ;2; ;Team Kephrii;
-L;Sage; ;101;4;13;1; ; ; ;1; ;Team Kephrii;
-L;Raze; ;63;4;17;2; ; ; ;2; ;Team Kephrii;
-L;Raze; ;208;11;16;6; ; ; ;1; ;Team Kephrii;
-L;Raze; ;59;1;13;3; ; ; ;0; ;Team Kephrii;
-L;Cypher; ;113;7;16;2; ; ; ;1; ;Team Kephrii;

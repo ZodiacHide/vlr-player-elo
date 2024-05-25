@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.60;173;7;12;1;47%;118;21%;2;3;Zelos;
-L;Sova;0.96;212;12;11;3;72%;147;20%;0;2;Zelos;
-L;Brimstone;0.30;66;2;14;3;29%;48;17%;0;1;JustSoldiers;
-L;Omen;0.33;59;2;14;3;33%;42;6%;0;2;JustSoldiers;

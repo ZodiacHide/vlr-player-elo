@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.18;46;2;14;0;21%;28;0%;1;2;Valkyrie;
-L;Omen;0.77;169;10;14;2;56%;101;22%;2;2;Valkyrie;

@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.03;254;20;17;3;67%;167;33%;3;4;HE Gaming;
-W;Jett;0.70;140;8;10;3;81%;91;22%;3;3;HE Gaming;
-W;Jett;1.12;211;25;21;5;79%;118;26%;2;2;HE Gaming;
-L;Sova;1.02;211;18;19;9;65%;134;24%;1;5;HE Gaming;
-L;Jett;1.33;331;26;17;2;63%;210;27%;9;8;HE Gaming;
-W;Sova;1.32;266;24;20;11;82%;166;25%;7;7;HE Gaming;
-L;Jett;0.35;148;9;22;5;60%;101;24%;2;5;HE Gaming;
-L;Jett;0.13;63;3;15;0;27%;44;33%;1;2;HE Gaming;

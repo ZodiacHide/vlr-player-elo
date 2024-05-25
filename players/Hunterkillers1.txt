@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.75;119;8;14;5;45%;74;11%;1;0;FIU Valorant;
-L;Sage;0.69;201;10;15;1;53%;115;17%;2;1;FIU Valorant;
-L;Omen;0.76;156;11;18;3;62%;99;23%;1;2;Merry Men;
-L;Omen;0.67;146;12;18;2;41%;93;28%;0;3;Merry Men;
-L;Jett;0.87;191;19;25;5;70%;114;19%;2;4;Merry Men;

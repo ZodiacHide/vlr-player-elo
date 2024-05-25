@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.28;111;5;15;4;53%;66;27%;0;3;Kingsmen;
-L;Skye;0.65;212;10;14;4;73%;110;29%;0;1;Kingsmen;

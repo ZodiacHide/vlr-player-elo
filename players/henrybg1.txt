@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;187;13;15;6; ;132;14%;0;2;CH1LL;
-L;Sova; ;127;5;14;4; ;83;15%;0;0;CH1LL;
-W;Sova; ;247;23;19;10; ;210;15%;3;3;CH1LL;
-L;Killjoy;0.58;161;10;19;6;70%;120;7%;0;0;AVEZ Esport;
-W;Killjoy;1.32;216;16;10;2;79%;130;20%;2;0;AVEZ Esport;
-L;Killjoy;1.11;211;15;14;3;84%;146;14%;1;0;AVEZ Esport;
-L;Sova;0.46;117;5;17;4;37%;83;6%;1;2;AVEZ Esport;
-L;Killjoy;0.56;121;10;16;0;45%;64;32%;0;1;AVEZ Esport;

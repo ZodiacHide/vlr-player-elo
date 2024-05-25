@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.30;85;4;14;3;53%;53;17%;0;2;Odyssey Atlas;

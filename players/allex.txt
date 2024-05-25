@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.48;121;5;13;3;57%;81;31%;0;0;Godalions;
-L;Raze;0.52;178;9;16;0;50%;96;10%;2;2;Godalions;
-L;Sova;1.10;277;16;16;2;65%;185;44%;1;0;EDGE;
-L;Sova;0.66;166;8;13;1;47%;118;23%;0;2;EDGE;

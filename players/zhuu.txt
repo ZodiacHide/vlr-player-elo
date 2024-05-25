@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.24;89;4;14;2;47%;51;30%;0;3;Guardian Esports Team;

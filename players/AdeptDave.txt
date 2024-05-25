@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy;1.14;203;11;7;4;73%;97;16%;0;1;Evolved Gamers;
-L;Killjoy;0.80;182;11;13;1;63%;108;30%;1;1;Evolved Gamers;
-L;None;0;0;0;0;0;0;0;0;0;0;Evolved Gamers;

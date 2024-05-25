@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.22;83;4;16;4;50%;55;9%;1;6;Method2Madness;
-L;Sage;0.78;172;11;15;4;55%;125;33%;2;3;Method2Madness;

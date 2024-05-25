@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;G.Gang;
-W;Brimstone; ;177;15;18;5; ; ; ;0; ;G.Gang;
-L;Brimstone; ;164;13;17;5; ; ; ;1; ;G.Gang;
-L;Brimstone; ;232;14;13;0; ; ; ;0; ;G.Gang;
-L;Jett; ;166;11;17;4; ; ; ;2; ;G.Gang;
-W;Omen; ;130;9;10;6; ; ; ;1; ;G.Gang;
-L;Omen; ;92;4;15;5; ;57;15%;2;3;G.Gang;

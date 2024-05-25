@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.54;159;9;15;0;44%;108;35%;0;1;Chilling in Space;
-L;Omen;0.34;87;4;16;4;41%;63;17%;0;1;Chilling in Space;

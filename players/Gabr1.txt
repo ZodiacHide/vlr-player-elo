@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;193;15;17;6; ;162;20%;1;4;VETERANOS e-Sports;

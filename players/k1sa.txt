@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;156;9;15;1; ;93;35%;1;1;No Mercy;
-W;Omen; ;183;15;14;3; ;105;28%;4;2;No Mercy;
-L;Raze; ;229;19;15;2; ;136;24%;2;3;No Mercy;

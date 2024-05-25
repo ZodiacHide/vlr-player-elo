@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;196;12;14;3; ;124;14%;0;0;NOT SNP;
-W;Killjoy; ;166;11;10;5; ;100;6%;2;3;NOT SNP;
-W;Reyna; ;202;12;16;7; ;116;15%;5;2;NOT SNP;
-L;Killjoy; ;189;10;15;4; ;118;11%;1;2;NOT SNP;
-L;Killjoy; ;238;12;14;4; ;150;11%;1;2;NOT SNP;

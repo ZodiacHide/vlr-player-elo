@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;140;9;13;2; ; ; ;0; ;Team Mithrain;
-L;Sage; ;172;8;15;4; ; ; ;1; ;Team Mithrain;
-W;Phoenix; ;239;22;17;0; ; ; ;4; ;Team Mithrain;

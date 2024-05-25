@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;136;8;17;1; ;66;32%;4;4;Atheris Esports;
-L;Phoenix; ;158;10;16;4; ;145;24%;2;6;Atheris Esports;
-L;Phoenix; ;129;8;17;0; ;73;22%;2;4;Atheris Esports;
-W;Phoenix;1.13;290;24;17;7;65%;175;30%;2;2;FlamexSerenity;
-L;Omen;0.44;118;6;14;3;33%;64;28%;0;1;FlamexSerenity;
-L;Raze;0.93;227;11;15;8;65%;155;11%;3;1;FlamexSerenity;

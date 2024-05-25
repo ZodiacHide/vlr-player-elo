@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;238;17;20;7; ;152;18%;4;5;PLATOON;
-W;Raze; ;265;17;10;1; ;156;33%;5;3;PLATOON;
-L;Jett; ;198;13;17;3; ;111;19%;1;4;PLATOON;
-L;Raze;1.06;252;25;21;6;70%;169;27%;7;5;Anyway;
-L;Jett;1.09;197;13;12;2;61%;140;43%;5;3;Anyway;
-L;Raze;0.67;198;15;22;3;61%;133;25%;3;5;Anyway;
-L;Jett;1.02;200;16;16;3;65%;131;38%;6;2;Anyway;
-L;Jett;0.84;205;13;12;0;63%;115;21%;3;3;Anyway;

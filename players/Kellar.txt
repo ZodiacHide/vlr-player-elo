@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;309;32;22;9; ;198;27%;3;3;Team Name;
-W;Phoenix; ;212;13;11;4; ;139;24%;2;2;Team Name;
-W;Jett; ;280;22;13;4; ;162;13%;2;2;Team Name;
-L;Jett; ;191;12;14;4; ;113;24%;3;2;Team Name;
-W;Phoenix; ;225;18;13;5; ;141;21%;2;1;Team Name;
-W;Phoenix; ;258;19;17;11; ;155;19%;3;1;Team Name;
-L;Jett; ;251;18;16;3; ;166;21%;4;2;Team Name;
-L;Jett; ;214;19;19;5; ;144;21%;2;5;Team Name;

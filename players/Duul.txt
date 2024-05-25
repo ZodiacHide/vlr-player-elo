@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;85;4;16;1; ;52;27%;0;4;Up For Sale;
-L;Cypher; ;157;9;13;7; ;98;26%;2;3;Up For Sale;
-L;Cypher; ;153;6;13;1; ;88;46%;0;2;Up For Sale;
-L;Cypher; ;172;14;18;3; ;105;28%;1;2;Up For Sale;
-L;Sage; ;191;9;14;3; ;109;15%;0;3;SFG;
-L;Sova; ;203;10;16;4; ;128;25%;2;2;SFG;

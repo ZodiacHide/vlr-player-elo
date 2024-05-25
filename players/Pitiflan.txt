@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;La Menace Fantôme;
-L;Viper;0.70;185;12;17;2;53%;97;8%;1;2;La Menace Fantôme;

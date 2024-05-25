@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.67;203;20;27;7;53%;134;24%;2;6;Invaders;
-L;Omen;0.46;130;5;14;1;36%;82;24%;2;3;Invaders;

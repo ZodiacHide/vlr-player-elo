@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.72;181;14;16;1;60%;95;25%;0;2;Invictus Gaming Academy;
-L;Omen;0.46;120;6;17;6;53%;94;10%;0;1;Invictus Gaming Academy;
-W;Killjoy;1.50;294;22;10;3;79%;178;18%;3;1;Invictus Gaming Academy;
-L;Killjoy;1.24;303;24;15;1;77%;180;17%;3;1;Invictus Gaming Academy;
-W;Killjoy;1.13;194;12;6;4;88%;132;11%;1;1;Invictus Gaming Academy;
-L;Killjoy;0.66;183;11;16;1;58%;99;21%;3;1;Invictus Gaming Academy;
-L;Astra;0.93;169;12;14;2;53%;113;37%;0;4;O2 Gaming;
-L;Astra;0.76;199;13;15;2;71%;122;48%;3;0;O2 Gaming;

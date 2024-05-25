@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna;1.71;342;22;8;4;89%;192;49%;7;1;Team Exploit;
-W;Reyna;1.16;221;18;14;6;79%;121;36%;6;5;Team Exploit;
-L;Viper;0.87;245;17;16;1;61%;130;38%;4;3;MAXD Esports;
-L;Astra;1.55;315;23;14;2;76%;210;42%;3;1;MAXD Esports;

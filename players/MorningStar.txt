@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.82;176;12;16;2;57%;104;24%;1;2;335 Cầu Giấy;
-L;Omen;0.92;208;14;14;2;68%;111;23%;0;1;335 Cầu Giấy;

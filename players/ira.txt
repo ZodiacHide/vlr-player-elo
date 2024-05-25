@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;163;7;14;4; ;114;8%;2;3;Occamy Omega;
-L;Cypher; ;87;5;15;1; ;47;4%;2;3;Occamy Omega;
-W;Sage;1.25;215;13;11;6;76%;142;24%;3;1;Fire Flux Fierce;
-W;Reyna;1.70;349;23;12;6;89%;231;30%;6;0;Fire Flux Fierce;
-W;Reyna;1.76;336;17;5;1;93%;210;21%;1;2;Fire Flux Fierce;
-W;Reyna;1.27;273;17;10;4;78%;183;23%;2;2;Fire Flux Fierce;
-L;Sage;0.27;43;2;16;2;31%;24;0%;1;3;Fire Flux Fierce;
-L;Reyna;0.81;270;16;15;1;59%;185;20%;2;3;Fire Flux Fierce;

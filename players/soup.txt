@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.40;105;5;14;4;43%;51;13%;1;1;VESPA;
-L;Sova;0.70;147;9;15;2;47%;87;19%;0;1;VESPA;

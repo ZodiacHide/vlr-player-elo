@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;100;4;15;1; ;67;21%;2;2;Grow uP eSports;
-L;Jett; ;170;9;13;1; ;107;14%;2;2;Grow uP eSports;

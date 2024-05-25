@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;180;15;12;1; ; ; ;2; ;i95;
-L;Cypher; ;187;15;18;7; ; ; ;3; ;i95;
-L;Raze;0.45;143;5;14;2;36%;98;26%;1;2;Interstate 95;
-L;Breach;1.00;284;16;14;2;56%;169;25%;1;1;Interstate 95;
-L;Killjoy;0.78;186;18;20;4;62%;103;9%;0;3;Interstate 95;

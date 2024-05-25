@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.79;198;11;16;4;76%;128;20%;2;0;PSISTORM;
-L;Viper;0.80;194;13;16;4;58%;109;14%;0;2;PSISTORM;

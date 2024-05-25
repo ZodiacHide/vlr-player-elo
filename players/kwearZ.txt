@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;271;21;16;3; ;163;26%;4;2;N0thing To L0se;
-L;Jett; ;168;7;14;0; ;107;33%;3;2;N0thing To L0se;
-W;Raze; ;279;23;14;1; ;144;15%;5;1;N0thing To L0se;
-L;Jett; ;59;3;17;1; ;50;36%;0;5;N0thing To L0se;
-L;Raze; ;287;20;20;7; ;179;29%;4;4;TIMETOPLAY;
-L;Raze; ;142;9;16;1; ;91;20%;2;6;TIMETOPLAY;
-L;Omen;0.97;247;17;18;10;73%;164;33%;1;4;Average Joes;
-L;Omen; ;118;7;16;3; ;57;38%;0;4;Average Joes;

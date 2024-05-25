@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.69;110;8;15;3;62%;70;19%;0;1;Team Assassin;
-L;Omen;0.97;198;13;13;2;72%;124;22%;0;1;Team Reapers;
-L;Sage;0.23;96;4;15;2;33%;63;7%;0;1;Victory Formula;

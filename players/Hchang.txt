@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;1.15;286;18;16;2;58%;198;22%;1;2;LCVS esports club;
-W;Sova;1.55;232;13;3;6;93%;163;42%;0;1;Team VS;
-L;Sage;0.39;93;5;15;3;29%;53;21%;0;3;Team VS;
-L;Sova;0.74;128;11;15;1;58%;86;13%;0;1;Team VS;
-L;Cypher;1.27;293;19;13;0;63%;195;33%;2;1;Phoenix;
-L;Viper;0.96;230;16;13;0;56%;136;45%;2;2;Phoenix;

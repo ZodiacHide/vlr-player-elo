@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze;0.96;237;11;11;7;80%;172;8%;3;2;Galakticos Sirens;
-L;Jett;1.06;230;18;19;4;75%;136;12%;11;1;Galakticos Sirens;
-L;Raze;1.02;238;16;17;7;70%;158;13%;2;4;Galakticos Sirens;
-L;Jett;0.13;43;1;16;2;25%;43;6%;0;4;Galakticos Sirens;
-L;Raze;0.56;136;6;16;3;47%;92;13%;2;4;Galakticos Sirens;

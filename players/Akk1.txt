@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.51;115;7;14;2;41%;76;13%;0;2;NBD Esports;
-L;Omen;0.57;161;8;15;4;63%;112;23%;0;2;NBD Esports;
-L;Omen;1.05;239;19;16;2;70%;154;38%;3;2;NBD Esports;
-L;Jett;0.75;179;14;17;3;50%;105;35%;1;6;NBD Esports;

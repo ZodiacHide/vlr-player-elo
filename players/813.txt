@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy;1.18;176;13;7;1;83%;119;28%;1;0;Totoro Gaming;
-W;Killjoy;0.70;120;9;13;2;65%;60;17%;2;2;Totoro Gaming;
-W;Killjoy;0.79;152;12;15;1;73%;93;15%;1;2;Totoro Gaming;
-W;Sage;0.66;98;7;14;3;55%;56;9%;0;2;Totoro Gaming;

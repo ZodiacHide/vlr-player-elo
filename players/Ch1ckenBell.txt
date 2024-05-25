@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.89;191;14;18;7;78%;134;13%;1;0;Fancy United Esports;
-W;Sova;1.36;242;17;12;8;81%;165;20%;1;0;Fancy United Esports;
-L;Sova;0.88;220;17;20;7;63%;149;28%;4;2;Fancy United Esports;
-L;Sova;0.86;178;9;14;9;67%;125;17%;0;2;Fancy United Esports;
-L;Sova;1.00;220;22;24;10;66%;138;14%;1;1;Fancy United Esports;

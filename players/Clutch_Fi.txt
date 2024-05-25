@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;193;12;14;5; ; ; ;4; ;Team Clutch_Fii;
-L;Sage; ;137;13;19;4; ; ; ;3; ;Team Clutch_Fii;
-L;Sage; ;133;9;14;6; ; ; ;0; ;Team Clutch_Fii;
-L;Sage; ;56;2;13;1; ; ; ;0; ;ROX Gaming;
-W;Jett; ;67;3;7;2; ;32;17%;3;2;Team Japan;
-W;Omen; ;209;19;13;6; ;131;13%;1;1;Team Japan;

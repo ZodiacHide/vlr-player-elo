@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.87;146;9;15;4;40%;93;21%;3;1;ArchNemesis;
-L;Jett;0.82;178;11;16;1;50%;116;35%;3;2;ArchNemesis;
-L;Jett;0.48;107;7;17;4;63%;70;44%;1;2;ArchNemesis;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;224;11;5;1; ; ; ;0; ;Team Valkia;
-W;Cypher; ;137;12;15;3; ; ; ;1; ;Team Valkia;
-L;None;0;0;0;0;0;0;0;0;0;0;Team Valkia;
-L;Breach; ;88;3;14;1; ; ; ;0; ;Team Valkia;

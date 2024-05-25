@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;1.15;202;19;13;3;83%;109;26%;1;1;LIZHI;
-W;Sova;1.10;188;13;10;3;78%;117;11%;1;0;LIZHI;
-W;Sova;1.07;213;15;12;4;78%;134;27%;0;0;LIZHI;
-L;Sova;0.82;166;9;14;4;61%;119;10%;1;1;LIZHI;
-L;Sova;0.84;197;15;18;11;79%;109;18%;1;1;LIZHI;
-L;Sova;0.85;217;13;15;7;81%;155;23%;0;1;LIZHI;
-L;Sova;0.93;208;12;15;3;63%;126;19%;0;0;LIZHI;
-L;Sova;0.86;203;14;19;12;81%;147;18%;1;1;LIZHI;

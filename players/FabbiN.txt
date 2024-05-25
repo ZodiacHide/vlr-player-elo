@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;198;15;16;5; ;109;29%;1;2;Winfinity;
-W;Raze;1.92;400;23;6;5;88%;252;15%;3;2;Macko Esports;
-W;Jett;1.24;331;28;17;5;79%;199;14%;6;4;Macko Esports;
-L;Jett;0.67;180;13;17;3;65%;106;26%;3;6;Macko Esports;
-L;Raze;0.86;206;15;19;9;73%;136;17%;3;7;Macko Esports;

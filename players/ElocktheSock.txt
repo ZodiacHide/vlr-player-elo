@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;125;6;15;2; ;82;15%;0;2;NC State Esports;
-L;Sage; ;100;4;12;2; ;77;31%;0;2;NC State Esports;
-L;Brimstone; ;182;10;17;4; ;76;28%;3;1;NC State Esports;
-L;Omen; ;193;8;16;1; ;117;23%;2;0;NC State Esports;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna;0.78;189;20;22;2;71%;124;34%;4;6;Good Fellas;
-L;Kayo;0.51;89;8;16;4;61%;41;14%;1;2;Good Fellas;
-W;Reyna;0.94;218;18;15;1;61%;151;28%;1;5;Good Fellas;
-L;Raze;0.70;174;9;16;6;47%;113;14%;3;5;Good Fellas;
-L;Kayo;0.81;185;12;17;6;60%;122;24%;1;2;Good Fellas;
-L;Kayo;0.39;131;6;13;1;57%;103;28%;0;3;Good Fellas;

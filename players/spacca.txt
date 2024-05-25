@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;240;24;18;2; ; ; ;5; ;Team Tixinha;
-L;Omen; ;176;10;13;2; ;97;10%;1;0;Team Tixinha;
-L;Omen; ;181;14;17;1; ;87;31%;0;1;Team Tixinha;
-L;Omen; ;185;15;15;4; ;107;23%;2;1;Team Vikings;
-W;Omen; ;185;13;11;2; ;114;36%;3;2;OSKARAVELHO;
-W;Omen; ;160;12;19;2; ;99;21%;2;2;OSKARAVELHO;
-L;Omen; ;182;14;18;3; ;168;16%;0;2;OSKARAVELHO;
-L;Omen; ;160;9;13;4; ;158;35%;0;2;OSKARAVELHO;

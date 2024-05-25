@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;140;6;11;14; ;105;21%;0;0;Arctic Gaming Mexico;
-L;Sova; ;94;3;13;4; ;73;42%;0;3;Arctic Gaming Mexico;
-W;Sova; ;148;10;15;5; ;100;29%;1;1;Arctic Gaming Mexico;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;273;21;17;3; ;153;32%;3;2;QLASH Egypt;
-L;Omen; ;145;11;16;2; ;86;36%;2;2;QLASH Egypt;
-L;Omen; ;208;16;16;6; ;110;20%;3;3;QLASH Egypt;
-L;Omen; ;137;8;14;5; ;151;21%;0;5;QLASH Egypt;

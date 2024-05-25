@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;95;6;15;0; ;50;22%;1;3;Pepeggas;
-L;Jett; ;76;4;14;0; ;44;40%;1;4;836.PizzaLocale;
-L;Jett; ;89;6;16;3; ;48;15%;0;6;836.PizzaLocale;

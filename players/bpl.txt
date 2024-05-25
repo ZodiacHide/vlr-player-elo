@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;248;26;17;5; ;152;26%;3;1;Sk8tr Boyz;
-L;Sova; ;163;10;17;7; ;129;34%;1;1;Sk8tr Boyz;
-L;Sova; ;145;9;16;5; ;116;31%;1;4;Sk8tr Boyz;

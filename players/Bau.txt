@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Astra;1.13;250;20;16;9;75%;154;21%;3;3;MEOGANG;
-W;Astra;1.59;213;13;3;3;100%;139;18%;2;0;MEOGANG;
-L;Astra;0.85;207;14;17;5;76%;114;20%;3;2;MEOGANG;

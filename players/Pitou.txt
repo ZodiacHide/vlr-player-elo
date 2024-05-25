@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.81;261;13;13;2;71%;161;34%;1;1;Salade Sun;
-L;Viper;0.19;132;5;16;2;27%;83;4%;1;4;Salade Sun;

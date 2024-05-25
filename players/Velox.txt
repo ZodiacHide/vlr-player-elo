@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;182;9;16;4; ; ; ;0; ;GODSENT;
-L;Omen; ;131;7;15;0; ; ; ;1; ;Carpet Cleaners;

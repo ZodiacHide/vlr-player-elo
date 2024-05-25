@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.78;230;14;17;6;79%;156;14%;0;2;Moose Knucklers;
-L;Breach;0.34;96;5;14;1;33%;47;16%;0;2;Moose Knucklers;
-W;Sova;1.18;217;24;21;5;66%;153;28%;6;3;Bifrost;
-L;Viper;0.81;134;7;12;2;56%;97;27%;0;3;Bifrost;
-L;Skye;0.56;104;8;20;11;67%;77;12%;0;2;Bifrost;

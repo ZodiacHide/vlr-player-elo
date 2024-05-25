@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.29;78;3;15;4;40%;57;14%;1;0;Sad Girls;
-W;Jett;0.89;201;18;19;1;50%;129;18%;1;7;Sad Girls;
-W;Killjoy;0.61;77;6;16;3;52%;63;11%;1;2;Sad Girls;
-L;Jett;0.73;204;15;22;5;65%;140;21%;3;2;Sad Girls;
-L;Skye;0.30;96;5;18;5;42%;70;13%;0;1;Sad Girls;

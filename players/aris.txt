@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.76;159;9;15;1;58%;115;29%;1;1;Chariot;
-L;Viper;0.96;211;12;16;4;44%;144;23%;0;0;Chariot;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;226;14;15;10; ;107;21%;1;2;KHABHAT GAMING;
-L;Breach; ;147;12;17;9; ;81;18%;2;4;KHABHAT GAMING;
-W;Breach; ;102;10;16;11; ;65;18%;0;1;KHABHAT GAMING;

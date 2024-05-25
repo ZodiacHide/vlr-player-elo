@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;224;16;10;1; ;128;30%;1;1;Buscando Org;
-W;Raze; ;161;10;10;4; ;107;22%;1;0;Buscando Org;
-L;Raze; ;145;6;13;3; ;113;15%;0;1;Buscando Org;
-L;Jett; ;171;9;16;4; ;110;11%;0;2;Buscando Org;

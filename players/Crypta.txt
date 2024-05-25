@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.46;157;6;13;5;50%;110;21%;0;2;Bnat Char9i;
-L;Omen;0.17;95;4;16;3;44%;66;32%;1;2;Bnat Char9i;

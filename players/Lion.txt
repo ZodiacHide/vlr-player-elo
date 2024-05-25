@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;167;11;15;4; ;86;10%;2;5;NongWaen;
-W;Raze; ;163;10;16;8; ;112;5%;2;4;NongWaen;
-L;Phoenix; ;185;9;16;4; ;101;17%;1;1;NongWaen;
-L;Raze; ;175;7;14;3; ;95;11%;1;5;NongWaen;
-L;Reyna; ;144;9;16;1; ;87;29%;1;5;NongWaen;
-L;Raze; ;259;18;20;5; ;160;14%;0;3;NongWaen;
-L;Reyna; ;153;7;15;0; ;101;11%;4;5;NongWaen;
-L;Reyna; ;153;7;15;0; ;101;11%;4;5;NongWaen;

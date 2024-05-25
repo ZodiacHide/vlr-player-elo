@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze;1.23;286;23;18;8;71%;170;13%;5;3;Spectral Esports Blue;
-L;Raze;0.42;117;5;17;8;44%;84;20%;0;4;Spectral Esports Blue;
-L;Raze;0.76;185;12;19;4;55%;137;23%;1;5;Spectral Esports Blue;

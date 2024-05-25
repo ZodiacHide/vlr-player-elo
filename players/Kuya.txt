@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.39;113;4;14;2;50%;69;5%;2;4;Valkyrie;
-L;Jett;0.78;203;12;15;4;72%;118;7%;3;7;Valkyrie;

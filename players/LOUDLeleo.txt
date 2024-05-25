@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ; ; ; ; ; ; ; ; ; ;Team Tom;
-W;None;0;0;0;0;0;0;0;0;0;0;Team Tom;
-L;Reyna; ;148;5;15;5; ; ; ;0; ;Team Tom;

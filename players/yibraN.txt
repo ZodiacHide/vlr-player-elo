@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;216;15;12;10; ;144;28%;2;2;Furious Gaming;
-L;Breach; ;199;12;17;7; ;135;29%;0;0;Furious Gaming;
-L;None;0;0;0;0;0;0;0;0;0;0;Furious Gaming;

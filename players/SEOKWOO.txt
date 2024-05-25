@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;256;21;12;3; ;139;17%;0;0;SeolHaeOne Prince;
-L;Sova; ;198;17;17;9; ;150;27%;1;2;SeolHaeOne Prince;
-L;Sova; ;182;11;15;5; ;131;41%;0;2;SeolHaeOne Prince;
-L;Killjoy; ;199;11;16;2; ;179;23%;2;0;SeolHaeOne Prince;
-L;Killjoy; ;199;13;17;5; ;124;14%;3;5;SeolHaeOne Prince;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;107;8;16;2; ;64;35%;0;1;Gaming Team SELECTOR;
-W;Astra;1.22;129;7;4;4;80%;94;30%;0;0;Gaming Team SELECTOR;

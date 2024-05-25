@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.79;153;11;16;6;68%;118;30%;1;1;Third Impact;
-W;Sova;1.46;285;15;9;6;75%;162;15%;3;0;Third Impact;
-L;Sova;0.94;193;10;13;7;71%;115;19%;0;2;Third Impact;
-L;Reyna;1.04;322;19;16;5;68%;184;32%;3;2;Third Impact;

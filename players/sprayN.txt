@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;200;11;13;4; ;179;13%;2;2;KHABHAT GAMING;
-L;Raze; ;229;18;20;3; ;141;16%;2;4;KHABHAT GAMING;
-W;Raze; ;289;24;19;7; ;183;13%;7;5;KHABHAT GAMING;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;198;15;19;3; ;120;26%;3;3;Yendez;
-W;Breach; ;185;12;14;7; ;127;31%;0;2;Yendez;
-L;None;0;0;0;0;0;0;0;0;0;0;Yendez;

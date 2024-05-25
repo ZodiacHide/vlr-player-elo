@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;135;8;16;8; ;75;17%;0;4;Sausage Party;
-L;Sova; ;168;9;12;4; ;104;24%;1;1;Sausage Party;
-L;Sova;0.86;193;9;14;9;76%;140;25%;2;2;Team Adios;
-L;Breach;0.76;197;10;13;1;64%;95;27%;0;3;Team Adios;

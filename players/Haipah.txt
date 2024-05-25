@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;144;11;17;5; ;102;9%;2;0;PHARAONS;
-L;Omen; ;176;13;16;7; ;107;15%;0;4;PHARAONS;

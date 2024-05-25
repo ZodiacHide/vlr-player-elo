@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.62;172;9;14;1;47%;98;43%;2;4;Bizarre Gaming;
-L;Jett;0.54;123;6;16;1;41%;77;30%;1;0;Bizarre Gaming;

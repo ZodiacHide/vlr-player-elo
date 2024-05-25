@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;140;14;18;7; ;91;23%;2;2;Vipes Anime Crew;
-L;Omen; ;172;8;13;3; ;98;22%;0;0;Vipes Anime Crew;

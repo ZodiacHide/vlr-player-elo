@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.34;142;6;14;2;46%;91;19%;0;0;Project A;
-L;Astra;0.23;71;4;15;2;38%;49;16%;0;3;Project A;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.92;243;16;16;1;58%;133;47%;2;5;LCVS esports club;

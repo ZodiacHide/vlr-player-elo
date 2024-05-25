@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;141;5;13;3; ;103;15%;0;0;bTitans;
-L;Sova; ;191;11;13;5; ;120;33%;1;1;TBA;
-L;Sova; ;161;7;14;3; ;99;31%;0;4;TBA;
-L;Sova;0.62;167;7;14;2;40%;120;19%;1;1;Atfinest;
-L;Sage;0.66;263;12;14;3;71%;146;24%;0;2;Atfinest;

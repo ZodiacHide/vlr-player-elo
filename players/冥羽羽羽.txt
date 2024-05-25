@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;1.22;282;18;16;10;95%;188;20%;1;0;Remember Me;
-L;Raze;1.28;293;24;18;4;74%;178;13%;5;1;Remember Me;
-W;Raze;1.35;287;16;8;4;87%;170;19%;0;3;Remember Me;

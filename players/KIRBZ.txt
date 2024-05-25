@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;64;5;22;5; ;64;19%;0;4;Team UK;
-W;Brimstone; ;101;8;16;2; ;75;17%;0;2;Team UK;
-W;Brimstone; ;127;14;20;3; ;89;12%;2;2;Team UK;
-W;Brimstone; ;120;9;17;3; ;77;2%;1;0;Team UK;
-W;Brimstone; ;171;13;21;5; ;117;16%;1;2;Team UK;
-L;Brimstone; ;107;6;15;0; ;76;12%;0;1;Team UK;
-L;Brimstone; ;111;5;14;3; ;81;5%;1;3;Team UK;

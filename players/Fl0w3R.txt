@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;234;15;11;6; ;142; ;0; ;VAC Kimchi;
-W;Omen; ;137;11;13;6; ;85; ;0; ;VAC Kimchi;
-L;Omen; ;190;10;13;4; ;118; ;2; ;VAC Kimchi;
-L;Brimstone; ;158;11;14;4; ;112; ;0; ;VAC Kimchi;

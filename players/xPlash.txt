@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;220;21;17;2; ;124;23%;0;3;Builders;
-W;Omen; ;180;17;15;4; ;100;28%;2;4;Builders;
-L;Omen; ;109;5;13;1; ;69;25%;0;2;Builders;

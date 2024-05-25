@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;115;5;15;3; ;153;21%;0;3;Intel New Indians;
-L;Omen; ;118;8;14;4; ;127;14%;1;2;Intel New Indians;
-L;Omen; ;205;15;14;4; ;126;18%;1;0;NOSLEEP;
-L;Omen; ;218;20;17;2; ;146;34%;2;3;NOSLEEP;

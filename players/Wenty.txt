@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.70;206;16;21;1;54%;127;18%;6;6;Gehenna Sweepers;
-L;Jett;0.70;173;11;16;4;60%;107;24%;2;6;Gehenna Sweepers;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;191;16;19;8; ;130;12%;3;3;Team Lothar;
-L;Killjoy; ;105;3;15;6; ;73;13%;2;2;Team Lothar;
-L;Skye; ;104;6;15;2; ;68;13%;1;2;Team Poland;
-L;Reyna; ;198;9;14;0; ;109;15%;1;1;Team Poland;
-W;Reyna; ;191;12;14;7; ;126;18%;3;2;Team Poland;
-L;Reyna; ;238;16;15;4; ;135;10%;1;4;Team Poland;

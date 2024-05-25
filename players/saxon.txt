@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;150;14;12;4; ;92;22%;0;1;Waterbottle;
-W;Cypher; ;285;20;12;5; ;175;18%;2;1;Waterbottle;
-L;Cypher; ;103;6;14;1; ;65;21%;0;2;Waterbottle;
-L;Cypher; ;209;13;15;6; ;145;26%;4;2;Waterbottle;
-L;Cypher; ;140;9;18;4; ;88;26%;1;1;Waterbottle;

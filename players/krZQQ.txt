@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;374;20;5;3; ;251;26%;3;0;FYB v2;
-L;Killjoy; ;116;6;17;3; ;80;13%;2;1;FYB v2;
-W;Cypher; ;254;17;12;7; ;164;25%;2;2;Frick Ya Bag;
-W;Cypher; ;183;14;20;12; ;115;13%;1;3;Frick Ya Bag;
-W;Cypher; ;146;12;11;4; ;86;19%;1;1;Frick Ya Bag;
-W;Cypher; ;146;13;15;5; ;96;31%;1;2;Frick Ya Bag;
-L;Cypher; ;63;2;14;0; ;38;25%;0;4;Frick Ya Bag;
-L;Cypher; ;80;3;13;1; ;61;20%;0;1;Frick Ya Bag;

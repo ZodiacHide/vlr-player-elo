@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;120;4;14;3; ;84;22%;0;4;Shoguns;
-L;Brimstone; ;64;2;17;2; ;45;8%;0;1;Shoguns;

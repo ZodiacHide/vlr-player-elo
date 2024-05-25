@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;258;20;15;3; ;171;18%;3;3;Drop Shot;
-L;Reyna; ;197;10;13;1; ;125;23%;2;1;Drop Shot;
-L;Reyna; ;121;6;15;3; ;54;7%;0;5;Drop Shot;

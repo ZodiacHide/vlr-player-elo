@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix;0.57;149;11;18;4;67%;89;28%;2;7;Unbind Crouch;
-L;Phoenix;0.73;155;10;18;10;79%;109;17%;1;2;Unbind Crouch;
-L;Sage;0.83;153;11;16;4;57%;98;20%;3;3;Unbind Crouch;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;273;20;8;0; ;158;29%;5;1;roughtimes;
-W;Jett; ;201;17;19;4; ;126;15%;6;3;roughtimes;
-L;Jett; ;135;10;14;3; ;141;21%;1;4;roughtimes;
-L;Jett; ;231;15;16;1; ;151;23%;2;0;roughtimes;
-W;Jett; ;175;16;26;6; ;121;25%;6;4;Phenomenon;
-L;Jett; ;124;7;17;2; ;73;15%;2;3;Phenomenon;
-L;Jett; ;217;14;19;7; ;150;25%;5;10;Phenomenon;

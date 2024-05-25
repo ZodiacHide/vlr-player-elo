@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;206;15;18;4; ;132;25%;4;2;doneVAL;
-L;Omen; ;182;18;18;5; ;119;21%;0;2;doneVAL;
-L;Sage; ;203;18;18;7; ;123;31%;2;2;doneVAL;
-L;Sage; ;174;8;14;2; ;126;24%;3;0;doneVAL;
-L;Sage; ;221;13;19;14; ;128;20%;3;1;doneVAL;

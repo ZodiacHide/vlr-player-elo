@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.51;128;6;15;3;50%;90;8%;1;2;NBKS CENTURIONS;
-L;Omen;0.53;100;7;15;3;35%;58;19%;1;4;NBKS CENTURIONS;

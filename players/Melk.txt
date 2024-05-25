@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.77;138;9;15;4;75%;97;17%;0;2;GhostFamily E-Sports;

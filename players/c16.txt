@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.67;198;9;16;3;56%;117;23%;2;6;Aggie Gaming at UC;
-L;Jett;0.66;159;8;14;1;47%;91;24%;2;4;Aggie Gaming at UC;
-L;Raze;0.88;205;14;19;7;50%;136;20%;4;2;Aggie Gaming at UC;
-L;Jett;0.85;239;18;18;4;71%;123;9%;6;3;Aggie Gaming at UC;

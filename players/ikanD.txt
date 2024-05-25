@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;160;10;16;4; ;116;24%;0;2;D2E Gold;
-L;Omen; ;236;28;28;5; ;160;42%;5;1;D2E Gold;
-L;Omen; ;122;9;14;1; ;92;28%;1;1;D2E Gold;
-L;Brimstone; ;173;9;15;3; ;104;16%;3;3;D2E Gold;

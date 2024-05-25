@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;238;20;14;3; ; ; ;1; ;LEGENDs;
-L;Phoenix; ;174;10;16;2; ; ; ;0; ;LEGENDs;
-L;Phoenix; ;256;19;18;7; ;150; ;5; ;LEGENDs;
-L;Raze; ;319;25;16;7; ;229; ;2; ;LEGENDs;
-W;Raze; ;205;14;15;5; ;143; ;1; ;LEGENDs;
-L;Breach; ;138;7;15;9; ;67;5%;0;2;Team Z;
-W;Breach; ;220;19;11;5; ;149;22%;1;0;Team Z;
-L;Breach; ;213;19;17;6; ;138;13%;0;1;Team Z;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.86;199;13;15;6;67%;138;23%;1;1;Graviton Surge;
-L;Sova;1.07;203;11;14;8;58%;133;21%;0;1;Graviton Surge;
-L;Sova;1.24;241;17;13;5;65%;150;26%;3;3;Graviton Surge;
-W;Sova;1.01;139;11;14;5;88%;88;22%;2;2;Graviton Surge;
-L;Sova;0.98;222;17;18;5;61%;146;32%;2;2;Graviton Surge;

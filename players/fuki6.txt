@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;215;12;15;5; ;144;22%;3;1;REVIVE;
-L;Omen; ;97;5;16;2; ;46;22%;0;1;REVIVE;
-L;Raze; ;170;9;15;0; ;93;15%;1;2;REVIVE;
-W;Raze; ;244;20;13;3; ;139;17%;2;2;REVIVE;
-L;Raze; ;137;7;17;5; ;105;10%;1;2;REVIVE;

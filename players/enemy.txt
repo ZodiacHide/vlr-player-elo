@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;226;21;15;6; ;128;33%;4;1;MJAOMODE;
-L;Jett; ;170;15;17;2; ;97;39%;3;7;MJAOMODE;
-L;Omen;0.48;130;8;12;3;60%;89;20%;0;3;Nomads;
-L;Omen;0.89;175;12;17;6;76%;126;28%;2;2;AGAiN;
-L;Omen;0.62;186;9;14;1;47%;112;24%;2;1;AGAiN;

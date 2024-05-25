@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;100;5;14;0; ;51;5%;0;4;EWAVE ESPORTS;
-L;Breach; ;222;14;14;2; ;119;10%;2;1;EWAVE ESPORTS;

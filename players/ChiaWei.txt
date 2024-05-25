@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix;1.21;277;31;26;6;75%;175;32%;6;5;KPC Computer Studio;
-W;Phoenix;1.53;305;19;9;5;82%;183;21%;3;2;KPC Computer Studio;
-W;Phoenix;1.79;401;26;12;7;84%;259;33%;5;3;KPC Computer Studio;
-W;Phoenix;1.78;281;17;5;5;93%;186;22%;2;1;KPC Computer Studio;
-W;Phoenix;1.45;333;26;15;4;86%;187;26%;2;2;KPC Computer Studio;
-W;Phoenix;1.16;290;27;19;5;73%;189;32%;2;7;KPC Computer Studio;
-W;Phoenix;1.07;216;18;15;5;78%;142;25%;2;4;KPC Computer Studio;
-L;Phoenix;0.36;107;5;13;2;53%;70;15%;2;4;KPC Computer Studio;

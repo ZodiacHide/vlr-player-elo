@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;1.13;296;14;14;2;69%;197;11%;0;1;PXL Esports;
-L;Raze;1.51;333;29;16;5;88%;204;8%;7;3;PXL Esports;
-L;Raze;1.27;311;27;17;2;71%;180;15%;6;3;PXL Esports;
-L;Raze;0.70;228;13;18;4;55%;131;12%;4;3;PXL Esports;

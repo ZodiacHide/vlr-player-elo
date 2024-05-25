@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;189;18;20;2; ;105;27%;4;5;ANARCHY;
-W;Phoenix; ;245;21;16;6; ;130;23%;1;2;ANARCHY;
-W;Phoenix; ;206;16;24;6; ;120;18%;2;4;ANARCHY;
-L;Phoenix; ;162;9;15;3; ;101;32%;1;1;ANARCHY;
-L;Phoenix; ;161;8;15;4; ;124;23%;0;1;ANARCHY;

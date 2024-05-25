@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.52;109;6;14;3;53%;66;8%;0;2;Bonde da Loli Careca;
-L;Omen;0.11;25;1;13;1;15%;15;0%;0;2;Bonde da Loli Careca;

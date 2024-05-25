@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;161;12;17;2; ;81;13%;4;1;MELiNA;
-L;Jett; ;165;13;14;4; ;110;10%;2;3;MELiNA;
-L;Killjoy;0.77;179;11;14;3;68%;122;24%;0;3;OutRage;
-W;Cypher;1.18;210;22;20;10;73%;153;24%;1;2;OutRage;
-L;Killjoy;0.70;136;9;15;3;53%;73;17%;1;0;OutRage;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.73;197;10;16;5;63%;117;12%;0;4;ShanXi Gaming Girls;
-L;Sova;0.65;171;7;15;6;73%;124;17%;1;5;ShanXi Gaming Girls;
-L;Killjoy;0.26;95;3;13;2;54%;78;16%;0;0;ShanXi Gaming Girls;
-L;Killjoy;1.03;274;12;13;2;57%;182;35%;1;1;ShanXi Gaming Girls;

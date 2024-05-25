@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;241;18;12;6; ;151;18%;3;0;UnSigned;
-W;None;0;0;0;0;0;0;0;0;0;0;UnSigned;

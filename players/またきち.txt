@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.50;85;3;14;6;33%;63;13%;0;0;GEKO GEKO GAMING;

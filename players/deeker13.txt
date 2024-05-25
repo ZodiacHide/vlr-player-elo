@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.76;178;8;14;5;71%;98;21%;0;0;Saber;
-L;Skye;0.93;149;12;17;6;54%;102;28%;0;0;Saber;
-L;Sova;0.44;129;7;16;2;35%;96;39%;1;2;Spectral Esports Blue;

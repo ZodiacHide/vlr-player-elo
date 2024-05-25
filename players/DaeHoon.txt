@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;1.16;233;19;15;1;71%;138;47%;2;1;ELNiS Esports;
-L;Sage;0.46;100;7;14;0;41%;56;35%;1;2;ELNiS Esports;

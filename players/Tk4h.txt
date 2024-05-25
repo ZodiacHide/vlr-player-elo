@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;131;11;17;5; ;128;30%;2;2;VK Gaming;
-L;Sova; ;120;9;17;5; ;70;12%;0;4;VK Gaming;
-L;Astra;0.32;132;5;15;2;38%;82;23%;2;4;Triplers;

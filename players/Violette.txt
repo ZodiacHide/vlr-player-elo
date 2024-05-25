@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.44;110;4;12;0;38%;78;19%;1;1;Sanctity;
-L;Killjoy;0.65;138;6;13;3;40%;109;20%;0;0;Sanctity;

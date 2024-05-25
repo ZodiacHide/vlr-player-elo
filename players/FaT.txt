@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;161;12;15;5; ;104;16%;3;2;RevX Necrosis;
-L;Phoenix;0.43;132;5;14;2;43%;71;32%;1;2;MercenarieZ;
-L;Phoenix;1.15;257;22;16;3;45%;149;18%;3;1;MercenarieZ;

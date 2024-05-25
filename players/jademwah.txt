@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;1.29;296;20;13;3;67%;188;24%;1;2;instalocked;
-L;Sage;1.20;303;20;14;5;89%;194;26%;1;1;instalocked;

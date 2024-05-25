@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;141;9;15;10; ;84;15%;2;1;BDV;
-L;Breach; ;151;12;17;9; ;101;18%;0;0;N0thing To L0se;
-L;Breach; ;108;5;15;4; ;60;27%;1;2;N0thing To L0se;
-W;Breach; ;152;11;11;10; ;104;17%;0;0;N0thing To L0se;
-L;Breach; ;123;7;16;11; ;84;16%;0;0;N0thing To L0se;
-L;Breach; ;205;15;18;5; ;136;21%;1;2;TIMETOPLAY;
-L;Breach; ;164;10;16;11; ;98;25%;1;0;TIMETOPLAY;
-L;Breach; ;183;11;17;15; ;120;21%;1;2;Dontcare;

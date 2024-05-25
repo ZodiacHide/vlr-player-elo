@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;292;26;17;2; ;182;29%;4;3;Team Solace;
-L;Jett; ;242;13;17;4; ;158;30%;5;2;Team Solace;
-L;Raze; ;210;15;20;7; ;147;20%;1;7;Team Solace;
-L;Reyna; ;331;22;17;5; ;213;32%;4;1;Team Solace;

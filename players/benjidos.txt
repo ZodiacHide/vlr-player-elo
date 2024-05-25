@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;305;19;10;3; ;178;38%;3;0;95x Esports;
-L;Sova; ;208;15;19;11; ;130;29%;3;3;95x Esports;
-L;Sova; ;187;13;18;9; ;132;21%;3;4;95x Esports;
-L;Phoenix; ;152;7;16;4; ;90;25%;0;1;95x Esports;
-L;Sova; ;205;13;14;5; ;172;26%;0;0;Exsto Gaming;
-L;Sova; ;105;7;16;2; ;74;22%;0;2;Exsto Gaming;

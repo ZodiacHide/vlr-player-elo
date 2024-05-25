@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;224;18;17;7; ;182;36%;1;2;VETERANOS e-Sports;

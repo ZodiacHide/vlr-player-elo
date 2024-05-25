@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;142;9;16;5; ;105;19%;0;0;BULLS Esports;
-L;Sova; ;227;13;16;6; ;135;23%;1;0;BULLS Esports;

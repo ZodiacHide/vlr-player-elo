@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;216;14;17;1; ;124;30%;5;3;Team Sinful;
-L;Jett; ;90;4;14;2; ;57;21%;1;7;Team Sinful;
-L;Jett; ;162;9;18;4; ;113;26%;1;7;Team Sinful;
-L;Jett; ;236;11;14;0; ;145;29%;2;2;Team Sinful;

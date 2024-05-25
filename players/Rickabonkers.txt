@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;215;12;11;13; ;144;11%;0;0;Roosters;
-L;Sova; ;93;5;15;4; ;61;6%;0;3;Roosters;
-L;Sova; ;209;11;15;3; ;117;13%;0;3;Roosters;
-L;Sova; ;186;14;19;3; ;117;14%;1;2;MROrgless;
-L;Sage; ;146;10;16;6; ;101;18%;1;4;MROrgless;
-L;Sova;0.83;229;11;14;4;65%;158;13%;1;1;ATK Mode;

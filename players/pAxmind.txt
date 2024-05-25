@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.57;137;8;16;7;61%;93;23%;2;1;Schat'z;
-L;Killjoy;0.75;190;13;16;1;75%;123;32%;0;1;Schat'z;

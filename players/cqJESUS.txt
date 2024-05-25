@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;193;14;15;4; ;100;20%;2;3;aim hor$e;
-L;Cypher; ;95;5;13;3; ;62;20%;1;0;aim hor$e;
-L;Cypher; ;173;15;20;6; ;115;26%;2;1;REVOADINHA;
-W;Cypher; ;156;9;8;8; ;90;15%;1;0;REVOADINHA;
-L;Cypher; ;117;8;15;2; ;75;26%;2;2;REVOADINHA;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;187;20;24;5; ;114;13%;7;3;ME CONTRATA;
-W;Raze; ;301;18;18;7; ;175;21%;5;1;ME CONTRATA;
-L;Omen; ;191;18;21;4; ;146;24%;1;3;ME CONTRATA;
-L;Jett; ;305;19;16;6; ;204;25%;4;4;badcovid;
-L;Jett; ;249;30;27;7; ;151;21%;3;5;badcovid;
-L;Viper;1.09;220;17;15;8;79%;142;26%;4;0;Stars Horizon;
-L;Reyna;0.63;139;9;17;3;50%;99;15%;1;5;Stars Horizon;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;250;12;14;1; ;151;15%;3;4;SUMMIT's 탁아소;
-L;Jett; ;233;14;13;1; ;80;13%;5;3;SUMMIT's 탁아소;

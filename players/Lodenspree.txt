@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.57;186;13;21;3;57%;103;8%;4;3;Dynasty ZRAW;

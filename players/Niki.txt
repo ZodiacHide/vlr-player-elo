@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Astra;1.31;277;21;14;6;90%;183;27%;3;1;Bonk Babes;
-W;Astra;1.06;193;14;11;3;65%;131;28%;1;2;Bonk Babes;
-L;Astra;0.40;99;3;14;2;43%;72;15%;1;2;Bonk Babes;
-L;Astra;0.61;175;11;17;4;58%;107;24%;0;5;Bonk Babes;

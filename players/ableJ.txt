@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;209;14;13;4; ; ; ;2; ;FULLCS;
-L;Raze; ;196;14;19;6; ; ; ;1; ;FULLCS;
-W;Cypher; ;273;18;10;7; ; ; ;2; ;FULLCS;
-L;Raze; ;194;18;17;1; ; ; ;2; ;FULLCS;

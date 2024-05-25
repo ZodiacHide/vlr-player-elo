@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;166;9;15;1; ;98;28%;4;1;McTeam;
-L;Sova; ;82;3;18;3; ;60;6%;0;3;McTeam;
-L;Phoenix; ;171;12;15;1; ;106;63%;4;1;McTeam;
-L;None;0;0;0;0;0;0;0;0;0;0;McTeam;

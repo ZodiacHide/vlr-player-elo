@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;172;15;16;3; ;128;35%;1;0;Wombocombo Team;
-L;Sage; ;140;13;12;8; ;93;16%;3;1;Wombocombo Team;
-W;Sage; ;122;7;4;6; ;87;24%;1;0;Wombocombo Team;
-W;Brimstone; ;203;13;9;9; ;159;21%;2;0;Wombocombo Team;
-W;Brimstone; ;184;17;13;12; ;123;34%;2;0;Wombocombo Team;
-L;Brimstone; ;141;7;16;5; ;107;31%;2;1;Wombocombo Team;
-L;Brimstone; ;159;10;14;2; ;101;28%;1;2;Wombocombo Team;

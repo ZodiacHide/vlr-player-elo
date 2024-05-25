@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;213;16;14;3; ;119;17%;4;3;Akademus Esport;
-L;Sova; ;170;10;16;3; ;110;19%;3;4;Akademus Esport;
-L;Killjoy;0.83;210;11;15;3;53%;141;29%;2;2;DNA PEEK;
-L;Killjoy;1.01;233;18;18;4;52%;136;23%;5;4;DNA PEEK;

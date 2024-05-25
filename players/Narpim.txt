@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;197;11;17;5; ;115;22%;0;1;Darkness;
-L;Omen; ;57;11;16;2; ;35;7%;0;0;Darkness;
-W;Brimstone; ;176;11;16;16; ;119;22%;0;3;KADILIMAN;
-L;Omen; ;233;19;15;4; ;148;15%;1;2;KADILIMAN;
-L;Omen;0.71;160;13;16;4;62%;87;19%;2;1;KADILIMAN;
-L;Omen;1.29;269;23;16;2;74%;167;17%;2;1;KADILIMAN;
-L;Omen;0.90;247;24;21;2;69%;155;26%;3;5;KADILIMAN;

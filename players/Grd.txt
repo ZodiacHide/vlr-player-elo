@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;122;5;13;4; ;91;23%;0;0;Team Samurai;
-L;Cypher; ;178;12;16;5; ;109;21%;1;2;Team Samurai;
-L;Cypher; ;122;6;18;7; ;81;23%;3;4;Team Samurai;
-L;Cypher; ;244;25;22;7; ;172;32%;5;4;Team Samurai;
-L;Cypher; ;85;4;15;3; ;52;13%;0;6;Team Samurai;
-L;Cypher; ;91;5;14;4; ;61;23%;2;5;Team Samurai;

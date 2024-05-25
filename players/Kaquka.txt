@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Team Leviathan;
-L;Sage; ;131;10;14;7; ; ; ;1; ;Team Leviathan;
-L;None;0;0;0;0;0;0;0;0;0;0;Team Leviathan;
-W;Sage; ;120;6;11;5; ;83;14%;0;1;Team Influencer;
-L;Sage; ;155;11;16;6; ;109;15%;0;1;Team Influencer;
-W;Sage; ;83;8;19;12; ;40;3%;1;2;Team Influencer;

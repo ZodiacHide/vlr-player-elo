@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;127;6;15;6; ;86;11%;1;2;ÉPEGADINHA;
-W;Brimstone; ;123;11;16;7; ;69;15%;2;1;ÉPEGADINHA;
-L;Omen; ;125;9;15;3; ;85;21%;1;1;ÉPEGADINHA;
-L;Astra;0.79;117;10;18;12;65%;85;21%;1;2;ROLO COMPRESSOR;
-L;Astra;0.98;205;17;18;8;78%;113;21%;0;1;ROLO COMPRESSOR;
-L;Sova;0.32;96;3;13;3;36%;72;19%;0;0;Botafogo eSports;
-L;Astra;1.00;182;13;15;9;84%;118;19%;0;0;Botafogo eSports;

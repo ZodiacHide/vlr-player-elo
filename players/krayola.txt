@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;168;9;15;6; ;104;27%;2;2;IQ White;
-L;Raze; ;254;14;15;4; ;173;14%;2;1;IQ White;
-L;Omen; ;92;4;15;3; ;60;19%;0;4;IQ White;
-L;Omen; ;75;5;18;1; ;41;13%;1;1;IQ White;

@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;194;16;13;2; ; ; ;0; ;Clan123;
-L;Breach; ;126;11;19;9; ; ; ;2; ;Clan123;
-W;Breach; ;104;6;9;4; ; ; ;0; ;Clan123;
-L;Breach; ;207;14;15;6; ; ; ;2; ;Clan123;
-L;Breach; ;132;7;14;3; ; ; ;1; ;Clan123;
-L;Breach; ;31;2;18;2; ; ; ;0; ;Clan123;
-L;Breach; ;174;12;16;3; ; ; ;1; ;Clan123;

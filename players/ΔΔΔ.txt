@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;134;10;6;7; ;86;15%;2;0;AoeXe;
-L;Sova; ;146;9;13;2; ;154;33%;0;0;AoeXe;
-L;Reyna; ;142;12;23;2; ;94;14%;4;4;AoeXe;

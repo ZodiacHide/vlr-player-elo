@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.33;78;4;14;3;40%;46;27%;0;1;Castaways;
-L;Sova;0.22;97;3;13;2;31%;71;50%;1;1;Castaways;
-W;Sova;0.57;94;4;12;5;82%;76;15%;1;2;Castaways;
-W;Sova;0.97;167;14;12;3;71%;121;18%;0;1;Castaways;
-L;Sova;0.56;93;6;15;3;58%;65;24%;0;3;Castaways;
-L;Sova;0.41;106;4;14;4;56%;77;20%;0;4;Castaways;
-L;Sova;0.64;148;8;14;2;56%;105;27%;0;1;Castaways;
-L;Sova;0.30;33;1;14;3;39%;31;7%;0;2;Castaways;

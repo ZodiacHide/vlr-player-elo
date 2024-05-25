@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.56;161;9;16;4;61%;125;23%;1;2;RAIJIN;
-L;Killjoy;0.48;137;5;13;3;50%;81;24%;2;4;RAIJIN;
-L;Viper;0.43;98;4;13;4;53%;71;21%;0;2;RAIJIN;
-L;Cypher;0.85;171;9;13;3;53%;122;41%;1;1;RAIJIN;

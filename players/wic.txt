@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;1.03;243;13;14;1;69%;157;19%;3;0;Saplak;
-L;Jett;0.50;158;9;16;0;63%;100;21%;0;4;Saplak;

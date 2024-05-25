@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;138;9;15;10; ;87;33%;2;2;Elemental Esports;
-L;Sova; ;133;8;16;10; ;92;16%;2;5;Elemental Esports;
-W;Sova; ;213;18;13;7; ;127;20%;0;0;Elemental Esports;
-L;Sova; ;104;4;13;2; ;75;29%;2;2;Elemental Esports;

@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Astra;0.94;120;8;8;3;89%;77;39%;0;0;Team Exploit;
-W;Astra;0.85;130;11;15;10;63%;78;20%;1;2;Team Exploit;
-L;Brimstone;0.95;153;16;20;14;71%;97;20%;4;3;Team Exploit;
-W;Astra;0.97;136;11;15;15;75%;101;17%;0;2;Team Exploit;
-L;Astra;0.88;191;17;17;7;83%;122;41%;2;4;Team Exploit;

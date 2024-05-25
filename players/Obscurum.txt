@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;105;3;13;5; ;69;4%;0;0;TEAM X-FORCE;

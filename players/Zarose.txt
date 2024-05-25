@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;157;10;19;2; ;89;15%;0;2;Prima Esport;
-W;Cypher; ;189;15;19;5; ;102;20%;1;2;Prima Esport;
-L;Killjoy; ;257;14;13;2; ;155;11%;3;3;Prima Esport;

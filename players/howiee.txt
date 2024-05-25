@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.70;208;14;18;1;65%;123;29%;3;4;Goblin Squadron;

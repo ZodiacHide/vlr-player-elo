@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;152;7;16;2; ;100;36%;2;1;Twin Esports;
-W;Sova; ;215;16;14;8; ;143;33%;0;3;Twin Esports;
-L;Reyna; ;231;15;16;5; ;151;32%;4;6;Twin Esports;

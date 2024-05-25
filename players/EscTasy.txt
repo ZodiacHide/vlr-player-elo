@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.62;174;8;12;1;57%;117;36%;0;2;LFT;
-L;Skye;0.28;109;4;13;1;38%;71;35%;2;2;LFT;

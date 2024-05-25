@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;AMENO;
-L;None;0;0;0;0;0;0;0;0;0;0;AMENO;
-L;Jett; ;231;14;17;4; ; ; ;2; ;Team PAGO3;
-W;Jett; ;268;12;10;4; ; ; ;6; ;Team PAGO3;
-L;Jett; ;229;15;15;0; ; ; ;3; ;Team PAGO3;
-L;None;0;0;0;0;0;0;0;0;0;0;AMENO;
-L;None;0;0;0;0;0;0;0;0;0;0;AMENO;

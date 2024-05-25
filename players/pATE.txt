@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;0.64;146;10;19;3;46%;102;24%;2;3;EXEN Esports;
-L;Jett;0.36;77;4;14;0;47%;53;13%;0;2;EXEN Esports;
-L;Jett;1.02;198;17;16;3;67%;132;31%;3;5;EXEN Esports;
-L;Jett;0.51;106;7;15;2;28%;77;21%;0;4;EXEN Esports;
-L;Jett;0.77;162;11;17;2;41%;99;39%;1;4;EXEN Esports;
-L;Jett;1.15;237;27;24;5;72%;153;28%;9;3;EXEN Esports;
-L;Jett;0.81;177;13;19;2;58%;123;36%;3;5;EXEN Esports;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;108;4;13;1; ;71;12%;1;1;Out of sight;
-L;Jett; ;80;3;13;1; ;56;33%;0;2;Out of sight;

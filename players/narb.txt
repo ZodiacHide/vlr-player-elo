@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;187;17;12;3; ;114;11%;2;1;Air Raiders;
-L;Omen; ;221;14;18;4; ;116;12%;5;1;Air Raiders;
-L;Omen; ;102;5;18;5; ;72;21%;0;2;Air Raiders;
-L;Omen; ;195;13;16;3; ;111;17%;3;1;Air Raiders;

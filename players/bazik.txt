@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.11;63;2;14;0;20%;57;13%;0;4;Rhyno Esports;
-L;Sova;0.56;141;8;15;1;59%;89;14%;0;0;Rhyno Esports;
-L;Sova;0.20;116;5;16;4;40%;73;18%;0;3;Tropa Suprema;
-L;Sova;1.07;277;15;13;4;63%;178;34%;0;2;Tropa Suprema;

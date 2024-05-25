@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;345;27;9;8; ;181;23%;2;1;SUPERFLY;
-L;Omen; ;99;5;14;5; ;70;14%;0;2;SUPERFLY;
-L;Brimstone; ;246;13;14;1; ;144;31%;0;0;SUPERFLY;

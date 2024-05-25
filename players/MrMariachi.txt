@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;179;14;16;5; ;116;20%;2;3;Phinance G;
-L;Brimstone; ;155;11;16;15; ;109;20%;1;1;Phinance G;

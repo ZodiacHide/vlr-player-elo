@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.92;253;15;16;4;72%;149;34%;3;6;Food Eat;
-L;Jett;0.86;200;14;17;1;65%;122;30%;4;2;Food Eat;
-L;Jett;0.87;212;15;16;5;68%;129;27%;1;4;Food Eat;
-L;Jett;0.85;201;14;17;2;65%;124;13%;2;0;Food Eat;

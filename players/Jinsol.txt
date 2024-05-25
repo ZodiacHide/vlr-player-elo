@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;196;10;7;6; ;120;9%;2;2;Team Korea;
-W;Raze; ;219;12;8;4; ;129;6%;2;2;Team Korea;
-L;Raze; ;131;6;13;1; ;72;4%;0;1;Team Korea;
-L;Sova; ;161;14;15;4; ;99;14%;3;0;Team Korea;

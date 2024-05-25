@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;248;20;11;7; ;158;20%;1;0;Phinance G;
-L;Omen; ;158;12;18;8; ;93;19%;0;2;Phinance G;
-L;Omen; ;144;11;17;5; ;105;20%;3;2;Phinance G;

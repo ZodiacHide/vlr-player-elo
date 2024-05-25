@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;154;10;14;6; ;103;28%;0;1;Necrotic Esports;
-L;Sova; ;110;6;16;7; ;142;26%;0;0;Necrotic Esports;
-L;Sova; ;101;8;18;2; ;55;6%;1;1;Necrotic Esports;
-W;Sova; ;133;14;22;10; ;83;29%;0;5;Necrotic Esports;
-L;Sova; ;150;13;18;7; ;98;15%;2;1;Necrotic Esports;
-W;Sova; ;178;12;13;7; ;126;20%;0;0;Necrotic Esports;

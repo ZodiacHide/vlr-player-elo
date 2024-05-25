@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;202;15;12;3; ; ; ;4; ;Demon Time;
-W;Breach; ;258;20;17;7; ; ; ;4; ;Demon Time;
-L;Jett; ;180;15;15;4; ; ; ;2; ;Demon Time;
-L;Jett; ;238;14;15;3; ; ; ;5; ;Demon Time;
-W;Breach; ;109;7;17;6; ;72;11%;0;2;Demon Time;

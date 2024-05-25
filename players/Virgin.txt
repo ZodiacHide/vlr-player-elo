@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.93;206;12;14;3;50%;126;23%;2;0;Mist Walkers;

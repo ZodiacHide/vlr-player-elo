@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.52;126;6;15;1;40%;82;44%;3;3;Neebs and Weebs;
-L;Reyna;1.06;280;19;16;1;53%;176;51%;0;0;Neebs and Weebs;

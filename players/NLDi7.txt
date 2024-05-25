@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.46;155;7;14;1;50%;94;17%;0;2;Shaverma;
-L;Brimstone;0.55;164;8;15;4;44%;108;33%;1;1;Shaverma;

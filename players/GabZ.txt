@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;173;13;15;6; ;92;24%;3;0;Zwan Gaming;
-L;Jett; ;146;9;17;0; ;82;22%;1;3;Zwan Gaming;
-L;Phoenix; ;191;11;14;2; ;154;22%;0;2;Zwan Gaming;
-L;Phoenix; ;191;11;14;2; ;154;22%;0;2;Zwan Gaming;

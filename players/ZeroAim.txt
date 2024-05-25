@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;69;2;15;3; ;53;7%;0;5;Borderline;
-L;Sage; ;164;10;15;3; ;96;6%;0;2;Borderline;
-L;Omen; ;109;7;16;2; ;52;11%;0;4;Borderline;
-L;Sage; ;75;4;19;5; ;53;0%;0;5;Borderline;

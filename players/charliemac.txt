@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;132;6;13;1; ;91;14%;0;0;Java PR;
-L;Killjoy; ;147;8;13;0; ;80;19%;0;1;Java PR;

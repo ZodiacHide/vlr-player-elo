@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;207;13;7;3; ;134;24%;2;1;Team Invictus (India);
-W;Jett; ;228;19;7;0; ;142;19%;2;2;Team Invictus (India);
-W;Jett; ;157;13;11;0; ;93;33%;2;1;Team Invictus (India);

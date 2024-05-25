@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;1.04;352;15;13;0;69%;226;29%;0;1;Lethal Esports Alpha;
-L;Raze;0.55;173;8;14;3;53%;109;23%;2;1;Lethal Esports Alpha;
-L;Jett;0.24;103;5;14;2;56%;64;24%;0;4;Lethal Esports Alpha;
-L;Jett;0.94;281;16;15;0;71%;187;25%;1;2;Lethal Esports Alpha;

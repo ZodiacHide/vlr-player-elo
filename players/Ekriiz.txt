@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy;1.45;256;16;9;7;83%;191;24%;1;0;Team Galaga;
-L;Killjoy;0.38;117;5;15;3;44%;88;38%;0;2;Team Galaga;
-L;Killjoy;0.94;237;13;13;3;67%;154;40%;4;1;Team Galaga;
-W;Killjoy;0.97;195;14;15;3;64%;131;16%;2;0;Team Galaga;
-W;Cypher;0.78;141;11;16;2;70%;94;15%;0;1;Team Galaga;

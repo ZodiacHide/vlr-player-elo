@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ; ; ; ; ; ; ; ; ; ;DREAMCHASERS;
-W;Sage; ;216;19;14;6; ;129;29%;4;1;DREAMCHASERS;
-L;Sage; ;196;13;15;5; ; ; ;1; ;DREAMCHASERS;
-L;Sage; ;169;11;15;9; ; ; ;0; ;DREAMCHASERS;
-W;Sage; ;243;25;14;6; ;151;25%;1;2;GGmate;
-W;Sage; ;260;17;7;12; ;121;21%;1;1;GGmate;
-L;Sage; ;97;5;14;9; ;76;18%;0;3;GGmate;

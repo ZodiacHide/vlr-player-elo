@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.38;86;3;14;1;27%;68;35%;0;1;Young Supremacy;
-L;Sova;0.30;117;4;14;4;50%;64;42%;0;3;Young Supremacy;

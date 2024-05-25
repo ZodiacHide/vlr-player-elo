@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.57;111;5;13;2;53%;76;13%;2;4;ExPandable;
-L;Sage;0.34;80;3;18;5;40%;62;9%;0;5;ExPandable;
-L;Astra;1.10;244;19;16;8;86%;138;20%;2;0;afterMath Esports;

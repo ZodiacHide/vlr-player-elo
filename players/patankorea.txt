@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;270;13;13;5; ;172;12%;1;0;BearClaw Gaming;
-L;Viper; ;177;13;14;4; ;124;16%;1;2;BearClaw Gaming;

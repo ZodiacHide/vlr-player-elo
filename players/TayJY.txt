@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;153;8;15;4; ;81;16%;0;0;My Queen;
-W;Killjoy; ;317;25;15;3; ;198;21%;4;1;My Queen;
-W;Omen; ;195;16;16;3; ;133;36%;2;5;My Queen;

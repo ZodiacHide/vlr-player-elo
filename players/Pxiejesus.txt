@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;350;22;9;1; ;228;30%;5;5;OhMyGirl;
-W;Jett; ;246;21;18;4; ;160;31%;4;5;OhMyGirl;
-L;Jett; ;198;12;19;3; ;135;22%;3;6;OhMyGirl;
-L;Sage; ;150;11;15;5; ;95;14%;2;1;OhMyGirl;

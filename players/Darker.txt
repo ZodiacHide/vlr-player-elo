@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.70;184;11;16;6;65%;111;24%;0;2;CNG Esports;
-L;Breach;0.59;143;10;19;4;60%;87;20%;1;1;CNG Esports;
-W;Sage;1.26;257;15;10;7;94%;160;28%;2;1;CNG Esports;
-L;Cypher;0.71;194;13;16;3;53%;112;32%;2;3;CNG Esports;

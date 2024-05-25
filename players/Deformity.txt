@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;166;9;17;5; ;116;13%;2;0;Onslaught Gaming;
-L;Raze; ;126;6;13;0; ;86;15%;0;3;Onslaught Gaming;

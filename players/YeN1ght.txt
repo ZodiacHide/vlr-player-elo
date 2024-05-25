@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;1.14;276;24;17;3;69%;181;46%;4;0;DingFeng Gaming;
-L;Sova;0.85;195;13;20;13;67%;136;40%;3;2;DingFeng Gaming;
-W;Raze;0.93;238;19;25;7;64%;145;26%;3;3;DingFeng Gaming;
-W;Sova;1.37;148;9;4;8;100%;93;55%;0;1;DingFeng Gaming;

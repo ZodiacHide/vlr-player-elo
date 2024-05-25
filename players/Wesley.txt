@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;261;22;15;9; ;250;21%;4;0;Connect Gaming;
-L;Killjoy; ;182;16;18;3; ;115;27%;1;1;Connect Gaming;
-L;Killjoy; ;240;21;12;1; ;146;18%;1;1;Connect Gaming;
-L;Breach; ;102;6;16;5; ;72;17%;1;0;Connect Gaming;

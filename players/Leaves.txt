@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;1.07;209;13;14;4;70%;134;18%;2;0;FIU Valorant;
-L;Sova;0.11;53;1;15;2;20%;46;40%;0;1;FIU Valorant;
-L;Viper;0.29;87;2;16;4;33%;64;15%;1;1;FIU;
-L;Astra;0.37;66;3;17;5;50%;42;30%;1;3;FIU;

@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;203;13;18;3; ; ; ;1; ;Team YamatoN;
-L;Cypher; ;182;11;15;2; ; ; ;1; ;Team YamatoN;
-W;Jett; ;135;9;11;0; ; ; ;3; ;Team YamatoN;
-W;Cypher; ;223;15;12;15; ; ; ;1; ;Nora-Rengo;
-W;Cypher; ;208;16;16;7; ; ; ;2; ;Nora-Rengo;
-L;Cypher; ;85;4;14;1; ; ; ;1; ;Nora-Rengo;
-L;Cypher; ;145;9;17;4; ; ; ;0; ;Nora-Rengo;
-L;Raze; ;119;6;15;2; ;75;9%;1;4;Unsold Stuff Gaming;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;261;18;16;7; ; ; ;3; ;Resurrection Sickness;
-W;Omen; ;223;17;14;2; ; ; ;1; ;Resurrection Sickness;
-W;Raze; ;220;18;17;4; ; ; ;2; ;Resurrection Sickness;

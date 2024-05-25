@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;122;8;15;6; ;77;21%;2;1;GX3;
-W;Breach; ;137;7;7;5; ;83;19%;1;2;GX3;
-W;Breach; ;191;14;15;3; ;131;14%;2;1;GX3;
-L;Breach; ;148;9;13;2; ;100;32%;1;2;GX3;
-L;Breach; ;200;17;15;4; ;141;38%;2;1;GX3;

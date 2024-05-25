@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;226;18;10;3; ;125;19%;1;4;Awake Esports;
-L;Omen; ;88;4;18;7; ;68;17%;0;1;Awake Esports;
-L;Brimstone; ;165;7;13;0; ;112;17%;1;0;Awake Esports;
-L;Omen; ;118;6;16;5; ;78;30%;1;1;Awake Esports;
-W;Sova; ;295;27;19;15; ;182;24%;3;2;Awake Esports;

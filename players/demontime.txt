@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.45;102;5;12;1;36%;60;9%;0;0;Buffalo;
-L;Sage;0.62;103;6;13;0;38%;80;30%;1;2;Buffalo;

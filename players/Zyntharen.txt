@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;201;18;18;5; ;99;19%;2;5;GGmate;
-W;Jett; ;216;12;7;5; ;138;15%;2;1;GGmate;
-L;Jett; ;205;12;16;3; ;132;20%;2;5;GGmate;

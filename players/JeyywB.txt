@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;107;8;19;5; ;63;40%;0;4;Crew Esports;
-L;Raze; ;38;0;16;2; ;34;7%;0;2;Crew Esports;
-L;Sage; ;119;8;12;5; ;72;20%;0;1;Crew Esports;
-L;Phoenix; ;153;14;23;5; ;97;21%;1;4;Crew Esports;

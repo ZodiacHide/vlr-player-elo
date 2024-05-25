@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.67;138;7;14;5;65%;85;29%;2;3;DELIRAWOW;
-L;Raze;0.73;144;6;14;7;59%;119;31%;0;2;DELIRAWOW;
-W;Reyna;1.06;158;9;6;1;73%;90;57%;3;1;LilBabies;
-W;Skye;1.48;201;12;6;3;93%;157;55%;0;0;LilBabies;

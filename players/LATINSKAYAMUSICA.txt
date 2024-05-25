@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;198;17;19;5; ;108;16%;0;6;FiftyOne;
-W;Reyna; ;226;15;14;6; ;143;20%;2;2;FiftyOne;
-L;Reyna; ;169;12;18;4; ;100;12%;0;3;FiftyOne;
-L;Omen; ;155;16;19;4; ;98;16%;2;5;FiftyOne;
-L;Omen; ;146;9;15;2; ;97;14%;1;1;FiftyOne;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;72;3;10;4; ;66;15%;1;4;Team Korea;
-W;Killjoy; ;233;13;9;3; ;139;13%;1;0;Team Korea;
-L;Killjoy; ;79;2;14;3; ;71;11%;0;3;Team Korea;
-L;Killjoy; ;138;11;17;3; ;80;7%;1;4;Team Korea;

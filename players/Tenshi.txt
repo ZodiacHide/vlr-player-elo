@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;192;12;12;14; ;118;30%;1;0;Infinite Esports;
-W;Omen; ;125;10;11;4; ;81;18%;0;1;Infinite Esports;
-L;Omen; ;154;11;16;2; ;104;30%;0;3;Infinite Esports;

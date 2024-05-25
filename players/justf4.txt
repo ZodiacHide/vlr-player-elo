@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;205;11;12;0; ;113;15%;1;0;paroXysme;
-L;Sova; ;169;7;13;1; ;115;21%;0;1;paroXysme;

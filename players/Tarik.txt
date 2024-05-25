@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;None;0;0;0;0;0;0;0;0;0;0;Divine Vendetta;
-W;Cypher; ;202;13;12;2; ; ; ;1; ;Divine Vendetta;
-W;Cypher; ;219;15;3;1; ; ; ;4; ;Divine Vendetta;
-W;Cypher; ;177;14;16;7; ; ; ;1; ;Divine Vendetta;
-W;Cypher; ;234;14;9;3; ; ; ;0; ;Divine Vendetta;
-W;None;0;0;0;0;0;0;0;0;0;0;Divine Vendetta;
-W;None;0;0;0;0;0;0;0;0;0;0;putsch;

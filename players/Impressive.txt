@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;150;12;16;1; ;94;28%;0;1;Lethal Grinders;
-L;Raze; ;195;10;17;4; ;122;15%;1;0;Lethal Grinders;
-W;Raze; ;219;14;14;8; ;147;13%;6;3;Lethal Grinders;
-W;Raze; ;324;23;15;3; ;159;13%;3;1;Lethal Grinders;
-L;Raze; ;163;10;18;0; ;99;30%;1;5;Lethal Grinders;
-L;Sage; ;119;7;16;5; ;73;28%;1;3;Lethal Grinders;

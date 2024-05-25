@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;194;10;14;1; ;113;13%;2;2;Furore Draco;
-L;Raze; ;132;8;17;3; ;84;6%;1;7;Furore Draco;
-L;Raze; ;184;13;13;1; ;137;15%;0;2;Furore Draco;
-L;Raze; ;155;8;16;1; ;92;8%;1;5;Furore Draco;

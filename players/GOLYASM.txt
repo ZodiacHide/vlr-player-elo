@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;Exalted Esports;
-L;Cypher; ;158;10;15;3; ; ; ;2; ;Exalted Esports;
-L;Cypher; ;96;6;13;2; ; ; ;2; ;Exalted Esports;
-W;Cypher; ;181;12;15;5; ; ; ;1; ;Exalted Esports;
-W;Cypher; ;200;13;15;6; ; ; ;2; ;Exalted Esports;

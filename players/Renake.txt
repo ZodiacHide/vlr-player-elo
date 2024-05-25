@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;177;12;13;2; ;119;20%;3;1;UCAM Esports Club;
-L;Omen; ;141;7;15;5; ;92;14%;0;0;UCAM Esports Club;

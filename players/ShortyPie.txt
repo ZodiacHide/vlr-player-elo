@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;117;3;13;3; ;85;9%;2;1;GFuel Krabby Patties;

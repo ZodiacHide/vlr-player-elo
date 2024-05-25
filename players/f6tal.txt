@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;0.84;197;24;30;5;58%;117;18%;6;5;SMARACIS eSports Female;
-W;Jett;1.45;336;24;13;4;80%;200;29%;4;1;SMARACIS eSports Female;
-W;Jett;1.30;348;23;16;2;74%;206;16%;4;2;SMARACIS eSports Female;
-L;Jett;0.70;169;12;19;4;62%;104;19%;4;1;SMARACIS eSports Female;
-L;Jett;0.61;103;7;17;6;61%;72;18%;1;5;SMARACIS eSports Female;

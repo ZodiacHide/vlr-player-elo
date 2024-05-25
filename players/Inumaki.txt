@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.47;172;7;14;1;57%;94;57%;3;2;Salade Sun;
-L;Jett;0.45;161;8;16;0;53%;96;64%;3;2;Salade Sun;

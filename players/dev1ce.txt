@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;157;12;13;3; ;100;19%;2;1;ShengJie Gaming;
-L;Brimstone; ;72;5;16;3; ;44;19%;2;1;ShengJie Gaming;
-W;Brimstone; ;233;15;11;4; ;138;20%;2;2;ShengJie Gaming;

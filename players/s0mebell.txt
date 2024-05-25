@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;96;6;13;2; ;58;14%;0;2;Occamy Omega;
-L;Omen; ;221;11;15;3; ;136;25%;2;2;Occamy Omega;
-L;Killjoy; ;145;7;15;1; ;97;14%;1;2;Cursed Team;

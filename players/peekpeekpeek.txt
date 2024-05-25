@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.75;190;8;13;1;50%;112;15%;4;2;5Ravens;
-L;Sage;0.94;234;14;14;4;75%;125;26%;0;3;5Ravens;
-L;Omen;0.41;148;5;13;3;46%;97;32%;1;2;5Ravens;
-W;Omen;0.75;171;10;13;4;59%;112;17%;1;0;5Ravens;

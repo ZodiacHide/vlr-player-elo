@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.58;109;8;16;5;55%;81;7%;1;5;TinyTurtles;
-L;Killjoy;0.73;160;12;17;1;52%;114;13%;1;1;TinyTurtles;
-W;Omen;1.70;366;20;10;4;93%;193;16%;4;0;TinyTurtles;

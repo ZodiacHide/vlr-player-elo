@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;306;25;11;3; ;166;22%;4;1;Outlaws;
-L;Sova; ;273;23;16;6; ;214;16%;4;2;Outlaws;
-L;Sova; ;212;11;14;9; ;138;21%;1;2;Outlaws;

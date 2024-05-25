@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;108;7;14;0; ;73;24%;1;2;Thane Peek;
-W;Sova; ;88;6;12;5; ;63;20%;0;2;Thane Peek;
-L;Cypher; ;161;10;15;2; ;101;12%;0;2;Thane Peek;

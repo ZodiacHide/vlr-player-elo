@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;252;20;18;10; ;142;17%;9;5;Galakticos;
-W;Omen; ;182;16;18;4; ;103;19%;2;3;Galakticos;
-W;Omen; ;167;14;16;2; ;109;19%;2;4;Galakticos;
-L;Omen; ;175;10;16;5; ;97;25%;2;3;Galakticos;
-L;Omen; ;102;4;15;3; ;68;9%;1;6;Galakticos;
-W;Killjoy; ;338;17;5;3; ;190;19%;1;1;Galakticos;
-L;Cypher; ;295;16;14;1; ;173;14%;0;2;Galakticos;
-L;Killjoy; ;220;16;18;1; ;139;22%;3;4;Galakticos;

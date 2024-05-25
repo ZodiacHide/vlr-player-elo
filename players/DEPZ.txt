@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;159;9;17;3; ;109;21%;1;2;WDNO;
-L;Brimstone; ;111;5;14;8; ;63;12%;1;2;WDNO;

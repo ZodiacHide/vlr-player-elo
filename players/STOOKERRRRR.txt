@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;72;7;16;2; ;50;24%;0;3;Alterfox Esports;
-L;Omen; ;190;17;18;7; ;125;29%;0;3;Alterfox Esports;
-L;Omen; ;126;8;13;3; ;146;18%;0;5;Alterfox Esports;
-L;Omen; ;177;9;14;2; ;132;29%;2;0;Alterfox Esports;
-L;Omen; ;157;13;14;5; ;139;36%;2;2;Alterfox Esports;
-L;Sova;0.67;130;9;18;8;58%;90;31%;2;0;Alterfox Esports;
-L;Sage;0.86;172;11;17;13;67%;103;21%;1;0;Alterfox Esports;

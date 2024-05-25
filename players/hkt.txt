@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;267;20;14;7; ; ; ;2; ;Crab Walk Killers;
-L;Sage; ;275;23;14;7; ; ; ;2; ;Crab Walk Killers;
-W;Sage; ;293;24;11;4; ; ; ;1; ;Crab Walk Killers;
-L;Sage; ;216;20;15;5; ; ; ;1; ;Crab Walk Killers;

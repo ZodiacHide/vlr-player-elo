@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;212;12;14;1; ; ; ;3; ;Team Mithrain;
-L;Brimstone; ;110;5;14;1; ; ; ;0; ;Team Mithrain;
-W;Reyna; ;197;15;19;5; ; ; ;1; ;Team Mithrain;

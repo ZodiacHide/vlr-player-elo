@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;202;13;15;1; ;124;41%;3;1;Epherium;
-L;Sova; ;164;12;17;6; ;102;42%;0;3;Epherium;

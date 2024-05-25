@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.79;195;8;13;3;62%;144;23%;1;2;Super Weenie Hut Jr's;

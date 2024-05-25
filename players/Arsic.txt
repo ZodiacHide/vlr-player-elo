@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;208;16;14;4; ;108;10%;3;0;Las Vegas Inferno;
-W;Jett; ;268;22;16;5; ;146;22%;1;4;Las Vegas Inferno;
-L;Jett; ;181;12;17;2; ;110;31%;1;1;Las Vegas Inferno;

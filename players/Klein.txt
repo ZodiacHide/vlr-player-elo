@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.90;174;13;14;5;68%;106;39%;1;2;Legion de Reconocimiento;
-L;Astra;0.61;98;6;14;1;50%;71;30%;1;1;Legion de Reconocimiento;

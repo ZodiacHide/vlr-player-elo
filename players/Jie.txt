@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.95;185;18;17;3;73%;121;46%;1;3;DingFeng Gaming;
-L;Viper;0.73;167;14;18;3;63%;125;36%;1;3;DingFeng Gaming;
-W;Omen;0.86;174;16;23;9;61%;123;43%;3;3;DingFeng Gaming;
-W;Viper;0.98;142;7;8;4;80%;104;38%;0;0;DingFeng Gaming;
-L;Astra;0.87;161;12;15;6;68%;98;26%;4;3;DingFeng Gaming;
-L;Viper;0.77;183;13;16;2;63%;109;20%;2;3;DingFeng Gaming;
-L;Astra;0.67;97;9;20;8;68%;62;36%;2;1;DingFeng Gaming;
-L;Viper;0.93;159;15;18;5;58%;110;48%;0;2;DingFeng Gaming;

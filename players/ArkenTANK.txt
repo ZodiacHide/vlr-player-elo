@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.73;164;12;17;6;56%;84;33%;0;4;qz;
-L;Sage;0.19;91;5;14;0;36%;45;63%;0;5;qz;

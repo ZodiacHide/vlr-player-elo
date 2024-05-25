@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;131;6;13;2; ;71;13%;1;1;Black Dragons;
-W;Jett; ;211;17;15;3; ;105;23%;5;4;Black Dragons;

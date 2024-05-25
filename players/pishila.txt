@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;304;27;18;6; ;160;14%;3;3;DREAMCHASERS;
-W;Breach; ;215;15;15;9; ;188;13%;3;2;HSDIRR;
-L;Breach; ;207;13;12;5; ;128;33%;2;3;HSDIRR;

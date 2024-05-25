@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Astra; ;107;7;11;3; ;76;17%;0;0;Lasagna Beam;
-W;Astra; ;222;16;10;5; ;118;17%;1;3;Lasagna Beam;
-L;Astra;0.56;127;10;16;3;65%;85;28%;0;3;Lasagna Beam;
-L;Astra;0.64;97;8;14;2;55%;59;33%;1;4;Lasagna Beam;
-W;Viper;0.76;175;13;15;3;62%;91;41%;1;3;Lasagna Beam;
-W;Astra;1.09;180;13;12;5;62%;118;23%;2;2;Lasagna Beam;
-L;Cypher;0.75;133;9;15;7;65%;101;17%;1;2;Team 7AM;
-L;Killjoy;0.91;236;17;19;3;65%;160;22%;3;1;Team 7AM;

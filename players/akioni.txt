@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;193;11;14;1; ; ; ;1; ;CREST GAMING Zst;
-L;Omen; ;227;15;16;6; ;135;15%;1;2;CREST GAMING Zst;
-L;Omen; ;133;9;18;1; ;83;16%;2;2;CREST GAMING Zst;
-L;Breach; ;175;8;14;10; ;117;21%;0;3;CREST GAMING Zst;
-L;Cypher; ;242;21;16;7; ;142;21%;0;3;CREST GAMING Zst;

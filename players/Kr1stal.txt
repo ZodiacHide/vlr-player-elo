@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;111;6;15;1; ;71;6%;1;7;DIRTY;
-L;Jett; ;251;14;15;2; ;152;17%;5;3;DIRTY;
-L;Sage; ;234;14;15;7; ;144;33%;2;1;Brotherhood of the Five;
-W;Jett;1.56;250;22;8;1;86%;143;24%;4;3;trying to win;
-L;Jett;0.96;186;15;16;2;58%;122;20%;2;2;trying to win;
-W;Jett;1.20;254;22;15;7;79%;153;17%;2;3;trying to win;

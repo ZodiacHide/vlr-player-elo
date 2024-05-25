@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.40;99;4;15;3;38%;79;15%;1;4;DaBaby Clan;
-L;Phoenix;0.96;230;13;15;3;59%;147;31%;4;3;DaBaby Clan;

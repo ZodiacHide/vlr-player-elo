@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.34;230;19;11;3;75%;159;18%;1;2;Bonk Babes;
-W;Phoenix;0.95;185;13;15;3;60%;123;31%;2;3;Bonk Babes;
-L;Jett;0.64;160;8;13;1;36%;87;17%;0;2;Bonk Babes;
-L;Phoenix;0.83;170;12;17;2;58%;110;30%;1;0;Bonk Babes;

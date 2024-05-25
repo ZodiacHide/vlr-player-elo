@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;159;17;20;8; ;105;26%;1;5;Affinity Esports;
-L;Viper; ;223;13;14;4; ;147;32%;0;4;Affinity Esports;
-W;Cypher; ;226;14;8;6; ;164;24%;0;2;Affinity Esports;
-L;Omen; ;211;21;17;9; ;168;23%;3;1;Affinity Esports;

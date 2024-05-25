@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.40;122;6;14;1;47%;59;17%;1;3;Vorpal Sword;
-L;Omen;0.81;158;12;17;5;67%;89;17%;0;0;Vorpal Sword;

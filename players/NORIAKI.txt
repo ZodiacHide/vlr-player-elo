@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna; ;111;6;15;10; ; ; ;0; ;Team sabagod2;
-W;Reyna; ;158;8;11;5; ; ; ;3; ;Team sabagod2;
-W;Reyna; ;211;12;5;3; ; ; ;2; ;Team sabagod2;
-L;None;0;0;0;0;0;0;0;0;0;0;Team sabagod2;
-W;Reyna; ;112;7;10;4; ; ; ;2; ;Team sabagod2;

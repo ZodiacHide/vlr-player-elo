@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;107;4;17;6; ;79;27%;0;5;The Mandalorian;
-L;Phoenix; ;126;6;16;3; ;84;14%;0;3;The Mandalorian;
-L;Jett;0.55;192;8;13;0;38%;106;19%;2;3;Spanish Mix;
-L;Jett;0.75;248;10;14;0;46%;143;32%;3;2;Spanish Mix;

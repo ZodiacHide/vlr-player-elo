@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.56;153;9;16;2;50%;82;17%;1;2;Bingueiros;
-L;Viper;0.65;177;8;13;0;47%;116;36%;1;1;Bingueiros;

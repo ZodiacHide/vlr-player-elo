@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.31;150;5;13;0;38%;96;31%;1;2;InsignedEU;
-L;Omen;0.96;212;14;16;3;74%;126;27%;0;0;InsignedEU;

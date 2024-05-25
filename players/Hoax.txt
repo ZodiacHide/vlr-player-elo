@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;136;7;17;6; ;94;14%;3;3;God Particles;
-L;Sova; ;156;9;13;2; ;94;17%;1;0;God Particles;

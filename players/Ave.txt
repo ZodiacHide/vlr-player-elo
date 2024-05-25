@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;224;17;16;4; ;135;9%;3;3;Invicta Gaming;
-L;Sova; ;148;8;15;4; ;87;21%;0;2;Invicta Gaming;
-L;Astra;0.43;152;7;13;3;64%;92;24%;1;0;Buffalo;
-L;Astra;0.57;177;9;16;0;38%;104;45%;4;1;Buffalo;

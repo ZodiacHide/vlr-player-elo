@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;156;11;5;9; ;100;11%;0;1;Team Invictus (India);
-W;Sova; ;193;10;7;9; ;134;12%;0;2;Team Invictus (India);
-W;Sova; ;260;20;12;10; ;191;14%;2;2;Team Invictus (India);

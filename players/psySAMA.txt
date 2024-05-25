@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;244;16;15;4; ;129;33%;0;2;Team Lightning;
-L;Breach; ;121;7;16;13; ;92;30%;0;1;Team Lightning;

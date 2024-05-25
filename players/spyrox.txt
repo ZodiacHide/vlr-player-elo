@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;276;25;10;4; ;177;15%;3;0;Bunkergg;
-L;Cypher; ;124;9;15;6; ;75;21%;1;0;Bunkergg;

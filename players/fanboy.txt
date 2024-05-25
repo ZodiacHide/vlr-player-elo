@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen;1.27;285;24;15;6;88%;177;24%;2;0;WLGaming Esports;
-L;Omen;1.18;272;28;24;9;73%;185;35%;4;1;WLGaming Esports;
-L;Brimstone;0.88;231;13;15;1;53%;152;36%;1;1;WLGaming Esports;

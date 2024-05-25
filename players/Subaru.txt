@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;198;16;17;6; ; ; ;3; ;NeverEndingStory;
-W;Cypher; ;183;17;19;4; ; ; ;0; ;NeverEndingStory;
-L;Cypher; ;199;11;13;3; ; ; ;2; ;NeverEndingStory;

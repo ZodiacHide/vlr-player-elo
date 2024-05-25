@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;219;17;16;2; ; ; ;3; ;Vincit Gaming;
-W;Raze; ;164;13;14;3; ; ; ;3; ;Vincit Gaming;
-W;Phoenix; ;345;26;13;4; ; ; ;6; ;Vincit Gaming;
-L;Raze; ;213;9;14;2; ; ; ;2; ;Vincit Gaming;
-W;Raze; ;200;14;13;4; ; ; ;2; ;Vincit Gaming;
-L;Phoenix; ;212;11;16;4; ; ; ;1; ;Vincit Gaming;

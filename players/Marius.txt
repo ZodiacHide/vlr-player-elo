@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;183;12;14;4; ;128;17%;4;4;Mik0nsDisciple;
-W;Raze; ;152;11;19;6; ;99;13%;2;3;Mik0nsDisciple;
-W;Raze; ;325;20;8;4; ;248;19%;2;4;Mik0nsDisciple;
-W;Raze; ;222;17;14;5; ;130;13%;3;2;Mik0nsDisciple;
-L;Raze; ;187;16;20;3; ;101;15%;4;4;Mik0nsDisciple;
-L;Sage;0.21;87;3;14;1;33%;71;22%;0;1;Team Doggo;
-L;Reyna;0.95;195;14;16;1;57%;122;12%;2;3;Team Doggo;

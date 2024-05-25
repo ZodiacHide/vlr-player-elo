@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;145;10;22;7; ;93;18%;2;1;gudetamas;
-L;Omen;0.29;143;5;13;2;38%;93;19%;2;3;Super Weenie Hut Jr's;
-L;Reyna;1.12;266;18;17;3;67%;175;30%;3;1;Night Raid;
-W;None;0;0;0;0;0;0;0;0;0;0;Night Raid;

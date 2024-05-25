@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;189;14;14;6; ; ; ;0; ;Team gamelifeow;
-L;Sage; ;90;4;14;3; ; ; ;0; ;Team gamelifeow;
-L;Sage; ;166;12;17;6; ; ; ;2; ;Team gamelifeow;
-W;Killjoy; ;193;13;15;9; ;145;16%;1;3;Team CIS;
-L;Killjoy; ;191;9;14;1; ;122;16%;1;1;Team CIS;
-L;Killjoy; ;127;10;22;5; ;100;10%;2;7;Team CIS;
-L;Cypher; ;81;6;19;0; ;60;16%;0;6;Team CIS;

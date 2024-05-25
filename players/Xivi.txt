@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;136;12;15;3; ;86;32%;1;2;Vandal Only;
-W;Omen; ;109;9;9;1; ;80;58%;1;3;Vandal Only;
-W;Omen; ;122;14;15;9; ;74;26%;0;1;Vandal Only;
-L;Omen; ;89;7;18;4; ;55;29%;1;2;Vandal Only;

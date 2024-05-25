@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;187;14;17;10; ; ; ;6; ;Varazze;
-L;Cypher; ;149;9;14;5; ; ; ;3; ;Varazze;
-L;Breach; ;80;4;14;5; ;44;18%;0;1;Emerald Gaming;
-W;Cypher; ;185;14;18;7; ;129;39%;0;1;Emerald Gaming;
-L;Cypher; ;130;10;15;4; ;132;24%;0;2;Emerald Gaming;

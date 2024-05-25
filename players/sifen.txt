@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.46;134;7;17;5;50%;77;13%;0;7;qz;
-L;Jett;0.57;207;9;14;1;64%;129;31%;1;2;qz;
-L;Raze;0.45;149;7;21;6;55%;104;14%;2;4;qz;
-L;Raze;0.43;116;6;15;4;50%;68;14%;2;4;qz;

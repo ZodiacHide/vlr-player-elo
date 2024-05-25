@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher;0.51;196;8;14;4;64%;133;25%;0;2;DiaXmix;
-L;Cypher;0.56;168;7;13;1;43%;114;30%;1;5;DiaXmix;

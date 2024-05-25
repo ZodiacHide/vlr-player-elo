@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage; ;122;6;8;9; ;97;8%;0;1;GoodVibes;
-L;Sage; ;138;9;14;10; ; ; ;2; ;GoodVibes;
-L;Omen; ;117;6;13;2; ;77;6%;1;2;team cotch;
-L;Omen; ;163;14;14;5; ;109;26%;4;1;team cotch;

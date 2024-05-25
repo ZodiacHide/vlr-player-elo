@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;197;26;22;13; ;128;25%;2;1;LEGENDs;
-W;Breach; ;152;11;22;11; ;105;26%;1;0;LEGENDs;
-L;Breach; ;161;11;14;9; ;104;17%;1;1;LEGENDs;
-L;Breach; ;128;8;18;8; ;77;13%;2;1;Game Dimension Esports;

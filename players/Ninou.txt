@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;1.11;226;16;16;8;85%;140;26%;2;0;TENSTAR Nova;
-L;Sage;1.08;216;18;17;10;90%;133;36%;3;1;TENSTAR Nova;
-W;Sova;1.69;253;13;4;12;87%;179;31%;0;2;TENSTAR Nova;
-W;Brimstone;1.47;285;15;5;4;86%;175;29%;2;1;TENSTAR Nova;
-W;Sage;1.27;245;15;9;5;88%;138;10%;3;1;TENSTAR Nova;
-W;Sage;1.38;250;19;12;7;85%;166;24%;4;0;TENSTAR Nova;
-W;Sage;0.82;153;11;14;6;70%;100;11%;2;3;TENSTAR Nova;
-W;Brimstone;0.76;122;8;12;4;72%;80;15%;1;2;TENSTAR Nova;

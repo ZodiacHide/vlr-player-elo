@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.43;132;6;13;2;67%;66;22%;0;3;Rhyno Esports;
-L;Omen;0.47;141;7;15;4;59%;89;11%;1;1;Rhyno Esports;
-W;Sova;1.68;244;14;6;10;94%;182;53%;1;1;ORO Esports;
-W;Sova;1.55;292;20;14;15;91%;199;26%;3;1;ORO Esports;
-L;Omen;0.77;97;10;14;2;64%;76;46%;1;2;ORO Esports;
-W;Viper;0.78;119;9;13;2;76%;68;20%;1;2;ORO Esports;
-L;Sova;0.99;230;14;17;4;74%;146;27%;0;2;ORO Esports;

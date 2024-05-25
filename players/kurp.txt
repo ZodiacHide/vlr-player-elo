@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.72;209;14;16;0;56%;126;26%;0;2;Wave Academy;
-L;Omen;0.60;117;7;13;2;44%;94;33%;2;2;Wave Academy;

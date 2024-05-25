@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ; ; ; ; ; ; ; ; ; ;mismashhh;
-L;Brimstone; ; ; ; ; ; ; ; ; ; ;mismashhh;
-L;Brimstone; ; ; ; ; ; ; ; ; ; ;mismashhh;
-W;Skye;0.79;123;9;9;1;76%;86;35%;0;3;Legendary Donkey Destroyers;
-W;Reyna;0.83;237;18;20;2;68%;140;19%;3;3;Legendary Donkey Destroyers;
-L;Skye;0.57;143;8;19;5;62%;99;15%;1;4;Legendary Donkey Destroyers;
-L;Reyna;0.67;148;10;18;2;57%;98;21%;2;2;Legendary Donkey Destroyers;

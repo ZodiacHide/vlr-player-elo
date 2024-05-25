@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova;1.05;159;17;18;5;61%;121;23%;1;5;Lycus Empire Red;
-L;Sova;1.03;229;17;15;4;67%;137;12%;2;1;Lycus Empire Red;
-L;Sova;0.90;167;9;17;13;81%;121;11%;1;2;Lycus Empire Red;

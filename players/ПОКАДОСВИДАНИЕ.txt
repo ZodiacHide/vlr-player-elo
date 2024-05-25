@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;254;18;10;2; ;138;18%;3;1;InFernal;
-L;Omen; ;147;9;18;1; ;90;23%;2;1;InFernal;
-L;Cypher; ;146;9;14;1; ;80;18%;1;4;InFernal;

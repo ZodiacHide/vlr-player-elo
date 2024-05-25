@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;162;13;17;4; ;139;38%;2;3;Team Solace;
-L;Phoenix; ;113;6;17;3; ;75;22%;1;3;Team Solace;
-L;Phoenix; ;261;22;18;3; ;162;30%;3;0;Team Solace;
-L;Sova; ;127;7;14;3; ;85;28%;0;1;Team Solace;

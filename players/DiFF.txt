@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;201;12;16;2; ; ; ;2; ;SHAKA BRAH;
-L;Sova; ;153;12;15;2; ; ; ;3; ;SHAKA BRAH;
-L;Reyna; ;147;12;14;1; ;80;44%;1;2;PLATOON;
-L;Jett; ;170;13;20;4; ;103;40%;1;2;PLATOON;

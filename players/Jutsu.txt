@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.33;95;4;13;1;40%;72;17%;0;5;Odyssey Atlas;

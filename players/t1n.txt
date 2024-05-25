@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.71;162;8;14;2;40%;110;35%;2;3;We Raise Blame;
-L;Killjoy;0.65;159;9;13;1;63%;114;17%;1;1;We Raise Blame;
-L;Raze;0.52;183;7;14;1;50%;112;15%;2;1;We Raise Blame;
-L;Raze;0.04;60;1;15;2;21%;50;8%;0;3;We Raise Blame;

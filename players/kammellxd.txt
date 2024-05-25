@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.71;191;11;16;3;61%;132;12%;0;3;NBKS CENTURIONS;
-L;Killjoy;0.57;167;8;16;3;47%;106;12%;1;2;NBKS CENTURIONS;

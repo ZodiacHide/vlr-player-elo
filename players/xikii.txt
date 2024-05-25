@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;165;18;19;8; ;96;24%;1;1;Acolarse;
-L;Breach; ;204;20;19;14; ;121;26%;3;3;QLASH;
-L;Breach; ;95;5;15;4; ;65;38%;1;1;QLASH;

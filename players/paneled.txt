@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.52;161;8;13;0;67%;86;6%;0;2;Odyssey Atlas;

@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;251;13;15;5; ; ; ;1; ;Team Mithrain;
-L;Reyna; ;198;10;13;1; ; ; ;2; ;Team Mithrain;
-W;Raze; ;271;18;16;10; ; ; ;1; ;Team Mithrain;
-L;Raze; ;206;15;16;4; ;137;18%;3;1;RARE Esports;
-W;Raze; ;271;23;17;5; ;171;20%;6;4;RARE Esports;
-W;Raze; ;220;14;10;2; ;154;27%;2;0;RARE Esports;
-L;Raze; ;234;15;18;4; ;149;15%;2;5;RARE Esports;
-L;Raze; ;205;9;15;4; ;120;19%;2;3;RARE Esports;

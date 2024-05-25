@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;119;11;21;8; ;114;17%;2;2;1stCav eSport Club;
-L;Breach; ;87;4;14;1; ;52;44%;0;2;1stCav eSport Club;
-L;Breach; ;139;8;14;4; ;85;37%;0;3;1stCav eSport Club;
-L;Breach; ;55;1;13;2; ;45;25%;0;2;1stCav eSport Club;

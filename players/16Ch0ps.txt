@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.84;230;12;15;1;38%;130;35%;0;3;4Fun Gaming;
-L;Jett;0.25;77;4;16;3;47%;37;20%;0;3;4Fun Gaming;
-W;Reyna;0.99;271;24;19;5;67%;153;41%;5;3;Innocent Cats Esports;
-L;Reyna;0.85;222;16;21;2;64%;136;39%;3;4;Innocent Cats Esports;
-L;Reyna;0.42;115;8;17;1;47%;71;47%;1;6;Innocent Cats Esports;
-L;Reyna;0.83;183;16;19;4;63%;122;35%;4;5;Innocent Cats Esports;
-L;Reyna;0.58;153;8;14;2;47%;96;29%;2;0;Innocent Cats Esports;

@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;127;6;14;2; ;72;22%;0;1;Team 600;
-W;Cypher; ;162;15;14;3; ;103;17%;2;3;Team 600;
-L;Cypher; ;113;8;17;2; ;62;26%;2;2;Team 600;

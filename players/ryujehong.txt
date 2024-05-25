@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;None;0;0;0;0;0;0;0;0;0;0;Team ocheon2;
-L;Brimstone; ;207;17;13;3; ; ; ;1; ;Team ocheon2;
-L;Brimstone; ;169;14;16;5; ; ; ;2; ;Team ocheon2;
-W;Omen; ;278;15;8;3; ;171;22%;1;1;Team Korea;
-W;Omen; ;317;17;7;3; ;249;18%;1;0;Team Korea;
-L;Omen; ;112;8;11;0; ;70;18%;0;1;Team Korea;
-L;Omen; ;233;20;18;5; ;143;23%;4;1;Team Korea;

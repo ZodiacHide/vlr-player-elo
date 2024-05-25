@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.40;38;1;18;8;55%;35;8%;0;4;Team Ancients Female;
-L;Astra;0.54;124;6;15;2;56%;90;20%;0;2;Team Ancients Female;
-L;Astra;0.41;65;4;15;4;35%;39;12%;1;5;Team Ancients Female;
-L;Astra;0.48;66;3;15;6;74%;53;11%;1;3;Team Ancients Female;

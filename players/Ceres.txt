@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone; ;132;7;16;2; ; ; ;0; ;1HP;
-L;Brimstone; ;228;16;16;5; ; ; ;1; ;1HP;
-L;Sage; ;167;9;13;6; ; ; ;0; ;1HP;

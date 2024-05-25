@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;128;5;13;1; ;105;29%;0;4;Game Fist;
-L;Jett; ;215;10;15;2; ;133;36%;1;3;Game Fist;
-L;Skye;0.64;133;8;15;5;53%;87;26%;0;3;Dream Team;
-L;Sage;0.91;165;14;17;7;68%;109;21%;0;3;Dream Team;

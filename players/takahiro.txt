@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;213;15;10;3; ;143;9%;1;0;Infinite Esports;
-W;Jett; ;199;15;13;3; ;107;20%;2;2;Infinite Esports;
-L;Jett; ;146;9;17;3; ;83;17%;1;1;Infinite Esports;

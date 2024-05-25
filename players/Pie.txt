@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;177;15;17;4; ;119;34%;4;4;Elevation;
-L;Reyna; ;252;16;16;5; ;202;36%;1;2;Elevation;

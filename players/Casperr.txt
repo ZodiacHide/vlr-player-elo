@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sova; ;150;12;16;7; ;89;21%;1;1;Caffeine Fiends;
-L;Sova; ;210;12;14;7; ;139;23%;0;1;Caffeine Fiends;
-L;Cypher; ;132;11;16;6; ;92;13%;0;1;Caffeine Fiends;
-L;Sova; ;222;18;17;8; ;143;15%;3;2;YFP Gaming;
-L;Sova; ;182;11;16;9; ;140;19%;1;0;YFP Gaming;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.83;201;12;16;5;63%;139;8%;2;3;MSR Esport;
-L;Raze;0.72;178;11;16;2;53%;105;14%;1;4;MSR Esport;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Cypher; ;286;23;14;7; ;153;28%;1;1;Typhoon;
-L;Omen; ;184;13;16;4; ;131;56%;2;1;Typhoon;
-W;Sova; ;260;13;7;5; ;147;39%;3;1;Typhoon;
-L;Jett; ;128;6;16;0; ;81;19%;3;2;Typhoon;
-L;Jett; ;179;13;18;5; ;110;21%;5;4;Typhoon;
-L;Jett; ;207;13;15;4; ;114;16%;3;2;Typhoon;

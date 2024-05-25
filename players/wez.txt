@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;107;5;14;1; ;63;30%;0;5;FUNSNATCHERS;
-L;Cypher; ;228;14;12;2; ;141;21%;3;1;FUNSNATCHERS;

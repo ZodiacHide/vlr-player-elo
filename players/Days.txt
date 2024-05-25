@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.87;195;12;14;5;67%;117;36%;1;1;Illuzion Orange;
-L;Omen;0.86;216;13;15;6;61%;122;15%;2;2;Illuzion Orange;
-L;Omen;0.70;172;10;13;0;60%;99;31%;1;1;Illuzion Orange;

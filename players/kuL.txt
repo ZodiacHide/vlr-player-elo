@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Breach; ;73;4;14;1; ;55;20%;0;4;200 Policemen;
-L;Brimstone; ;102;6;16;3; ;71;41%;0;4;200 Policemen;
-W;Brimstone; ;159;11;14;5; ;102;20%;0;2;200 Policemen;

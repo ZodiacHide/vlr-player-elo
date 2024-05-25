@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;159;10;16;3; ;93;11%;1;4;Frostwolf;
-L;Cypher; ;175;8;13;6; ;127;30%;1;1;Frostwolf;
-L;Cypher; ;103;6;16;5; ;67;11%;0;3;Frostwolf;
-L;Killjoy; ;214;12;18;2; ;146;17%;1;3;WAY Esports;
-L;Cypher; ;163;10;16;1; ;96;19%;2;1;WAY Esports;
-W;Killjoy; ;175;14;16;4; ;119;31%;1;3;WAY Esports;
-L;Killjoy; ;178;15;14;4; ;123;27%;1;0;WAY Esports;
-L;Cypher; ;214;16;16;4; ;145;20%;3;2;WAY Esports;

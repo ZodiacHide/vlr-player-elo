@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;206;11;10;4; ;118;28%;1;0;ex-Ravens Esports Club;
-W;Breach; ;141;9;10;6; ;60;26%;1;0;ex-Ravens Esports Club;
-L;Breach; ;74;3;14;5; ;54;15%;0;2;ex-Ravens Esports Club;
-W;Breach; ;93;6;15;16; ;58;18%;0;0;ex-Ravens Esports Club;
-L;Omen; ;179;12;15;5; ;118;21%;0;2;ex-Ravens Esports Club;
-L;Omen;0.87;193;11;12;2;56%;111;29%;1;2;John Howard;
-L;Viper;1.13;204;17;17;6;77%;136;28%;1;0;John Howard;

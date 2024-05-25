@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.59;92;3;12;2;40%;72;38%;2;1;Young Supremacy;
-L;Brimstone;0.31;125;5;14;3;50%;85;40%;1;4;Young Supremacy;

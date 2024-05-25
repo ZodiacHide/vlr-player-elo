@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;176;11;15;3; ;115;18%;1;1;Sausage Party;
-L;Killjoy; ;160;9;16;1; ;98;18%;1;1;Sausage Party;
-L;Jett;0.58;177;12;15;1;59%;91;19%;0;6;Team Adios;
-L;Raze;0.15;99;4;14;2;57%;69;10%;1;2;Team Adios;

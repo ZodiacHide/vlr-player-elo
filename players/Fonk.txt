@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;155;10;16;3; ;77;43%;4;1;ETERNAL;
-L;Raze; ;259;14;17;6; ;150;13%;5;4;ETERNAL;
-L;Jett; ;164;11;16;5; ;120;31%;1;8;ETERNAL;
-L;Skye; ;164;11;14;7; ;119;24%;2;3;Wygers;
-L;Skye;0.77;164;10;15;5;61%;114;26%;0;2;Souldazz;
-L;Skye;0.61;160;11;17;2;63%;104;32%;1;2;Souldazz;
-L;Skye; ;187;14;19;6; ;128;25%;4;1;Wygers;

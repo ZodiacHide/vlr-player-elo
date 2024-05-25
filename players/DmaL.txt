@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze;0.40;87;5;13;0;44%;65;31%;1;2;Frontline Esports;
-L;Omen;0.79;241;9;13;3;62%;166;36%;1;1;Frontline Esports;

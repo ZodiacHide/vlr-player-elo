@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Phoenix; ;205;14;9;3; ;142;42%;1;3;RED Canids;
-L;Sage; ;185;12;13;4; ;123;32%;2;2;RED Canids;
-W;Sage; ;162;12;14;2; ;117;37%;2;0;RED Canids;
-L;Sage; ;137;9;16;5; ;88;17%;0;3;RED Canids;
-L;Sage; ;249;28;25;6; ;166;32%;4;4;RED Canids;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna; ;126;7;19;4; ;95;21%;1;1;D2E Gold;
-L;Reyna; ;262;28;25;9; ;211;25%;4;4;D2E Gold;
-L;Reyna; ;165;10;17;2; ;96;18%;4;1;D2E Gold;
-L;Reyna; ;205;10;16;4; ;127;20%;3;1;D2E Gold;

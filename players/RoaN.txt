@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy;1.21;182;12;10;9;79%;127;9%;3;1;Cruzados Esports;
-W;Killjoy;1.44;270;16;6;4;94%;151;15%;4;0;Cruzados Esports;
-W;Killjoy;1.62;255;17;7;10;89%;175;13%;1;0;Cruzados Esports;
-W;Killjoy;0.89;175;14;14;6;67%;91;14%;2;4;Cruzados Esports;
-L;Viper;0.72;177;10;15;2;50%;134;25%;1;1;Cruzados Esports;
-L;Killjoy;0.74;162;11;15;3;50%;96;13%;1;5;Cruzados Esports;
-L;Killjoy;1.06;197;21;19;7;82%;118;20%;1;1;Cruzados Esports;
-L;Killjoy;0.78;167;10;17;7;68%;126;19%;1;1;Cruzados Esports;

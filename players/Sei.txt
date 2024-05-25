@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.61;139;9;16;2;47%;96;41%;0;1;MishMash Gaming;

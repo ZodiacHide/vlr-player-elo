@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;1.04;241;15;14;5;71%;152;17%;0;1;Spectral Esports Blue;

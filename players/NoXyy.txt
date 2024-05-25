@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.52;124;8;16;1;53%;65;7%;2;4;Phoenix;
-L;Brimstone;0.55;108;7;14;4;50%;68;30%;1;4;Phoenix;

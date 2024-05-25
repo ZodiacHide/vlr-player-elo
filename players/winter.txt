@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;127;7;14;4; ;100;10%;0;5;Paradox Esports;
-W;Cypher; ;214;16;12;4; ;125;15%;4;2;Paradox Esports;
-L;Cypher; ;195;12;13;6; ;126;24%;1;4;Paradox Esports;
-L;Cypher; ;147;10;15;1; ;99;21%;1;2;Paradox Esports;
-W;Cypher; ;221;15;6;3; ;121;14%;0;1;Paradox Esports;
-L;Cypher; ;180;11;13;4; ;121;21%;0;2;Paradox Esports;
-L;Cypher; ;172;13;19;2; ;118;24%;1;4;Paradox Esports;
-L;Cypher; ;136;9;17;0; ;76;21%;2;3;Paradox Esports;

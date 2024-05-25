@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;299;32;20;2; ;180;30%;8;2;euphoria;
-L;Raze; ;129;8;19;3; ;91;11%;0;4;euphoria;
-W;Jett; ;186;14;11;2; ;129;7%;0;2;euphoria;
-L;Jett; ;214;19;17;3; ;138;29%;3;2;euphoria;
-L;Cypher; ;159;10;15;1; ;90;17%;1;1;euphoria;

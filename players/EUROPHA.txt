@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.84;145;11;15;6;68%;95;22%;2;4;AUTOCRACY;
-L;Killjoy;0.82;178;14;19;2;58%;91;13%;2;2;AUTOCRACY;
-W;Omen;0.81;176;12;17;6;68%;103;21%;3;1;AUTOCRACY;
-W;Killjoy;0.90;159;10;12;3;75%;103;16%;2;2;AUTOCRACY;
-L;Omen;1.00;197;23;22;7;68%;122;20%;0;5;AUTOCRACY;
-L;Killjoy;0.70;156;11;16;4;60%;101;23%;0;2;AUTOCRACY;

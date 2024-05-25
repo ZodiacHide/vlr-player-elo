@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Reyna; ;199;18;13;1; ;115;30%;4;3;Paratroops;
-L;Phoenix; ;260;22;15;3; ;161;28%;0;4;Paratroops;
-L;Sage; ;142;10;15;9; ;92;23%;0;5;Paratroops;
-W;Phoenix; ;162;8;10;6; ;106;10%;2;3;Paratroops;
-W;Phoenix; ;303;21;14;4; ;167;29%;5;4;Paratroops;
-L;Phoenix; ;267;22;18;8; ;172;33%;4;3;Paratroops;
-L;Phoenix; ;226;26;28;7; ;145;30%;4;4;Paratroops;

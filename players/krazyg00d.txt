@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;98;5;18;4; ;61;4%;1;4;Orange Borange;
-L;Jett; ;114;5;14;1; ;72;14%;3;2;Orange Borange;
-L;Killjoy; ;146;11;15;3; ;103;20%;0;0;Divine;
-W;Cypher; ;277;21;16;7; ;168;28%;5;0;Divine;
-L;Raze; ;104;4;14;2; ;73;13%;0;1;Divine;

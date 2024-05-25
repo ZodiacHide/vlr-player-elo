@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;178;9;14;4; ;109;34%;1;2;Clemson Esports;
-L;Omen; ;53;2;16;1; ;32;15%;1;3;Clemson Esports;

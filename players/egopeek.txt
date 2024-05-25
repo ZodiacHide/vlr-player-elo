@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen;0.52;112;7;15;6;50%;80;22%;0;1;5 Yung Drillas;
-L;Omen;0.69;159;14;19;3;55%;88;31%;2;0;5 Yung Drillas;

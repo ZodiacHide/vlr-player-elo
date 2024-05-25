@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;1.57;256;14;4;7;93%;175;33%;0;2;THE ORIGINALS;
-W;Astra;1.35;174;11;4;9;93%;114;13%;0;1;THE ORIGINALS;
-W;Viper;1.80;355;21;7;6;94%;188;15%;5;1;THE ORIGINALS;
-W;Viper;1.74;305;20;8;5;88%;186;37%;5;1;THE ORIGINALS;
-W;Sage;0.87;136;8;10;8;82%;98;23%;1;4;THE ORIGINALS;
-W;Sage;1.01;248;18;15;6;75%;162;18%;1;3;THE ORIGINALS;

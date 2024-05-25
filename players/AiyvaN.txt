@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.32;278;23;13;2;74%;161;26%;5;3;deathwish;
-W;Astra;1.36;185;12;5;7;88%;122;21%;0;1;deathwish;
-W;Jett;0.81;161;11;13;1;47%;105;21%;2;4;deathwish;
-L;Jett;0.83;213;14;18;2;70%;128;23%;4;3;deathwish;
-L;Jett;1.00;238;18;21;6;75%;149;22%;10;1;deathwish;

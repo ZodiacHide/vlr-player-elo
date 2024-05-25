@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;194;13;10;3; ;107;15%;3;2;Hazmat.gg;
-L;Raze; ;202;13;17;5; ;129;10%;2;2;Hazmat.gg;
-W;Jett; ;241;20;22;8; ;127;5%;7;7;Hazmat.gg;

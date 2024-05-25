@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.59;127;8;14;1;53%;74;23%;0;3;Tropa Suprema;
-L;Jett;0.80;202;11;15;1;44%;138;26%;1;2;Tropa Suprema;
-L;Skye;0.94;197;17;18;3;54%;128;36%;1;1;FTW Red;
-L;Sage;0.89;226;12;14;6;71%;142;19%;2;4;FTW Red;

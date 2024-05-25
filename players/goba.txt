@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;1.05;260;16;14;2;65%;168;39%;1;0;epic gaming;

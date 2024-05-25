@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;159;9;20;4; ;96;18%;3;4;ex-Reckless Lads;
-L;Sage; ;229;14;13;9; ;122;15%;1;2;ex-Reckless Lads;
-W;Brimstone; ;229;18;14;16; ;143;21%;1;3;ex-Reckless Lads;
-L;Omen; ;224;12;14;4; ;124;25%;4;0;ex-Reckless Lads;
-W;Jett; ;255;30;23;3; ;138;22%;8;4;ex-Reckless Lads;
-L;Jett; ;247;18;15;2; ;157;26%;6;2;ex-Reckless Lads;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;None;0;0;0;0;0;0;0;0;0;0;Charlotte Phoenix;
-L;None;0;0;0;0;0;0;0;0;0;0;Charlotte Phoenix;
-L;None;0;0;0;0;0;0;0;0;0;0;Charlotte Phoenix;
-W;None;0;0;0;0;0;0;0;0;0;0;Charlotte Phoenix;

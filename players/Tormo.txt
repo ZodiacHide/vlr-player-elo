@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.35;117;5;14;3;40%;76;17%;1;3;Rexpect eSports;
-L;Viper;0.69;138;12;16;4;48%;82;43%;1;3;Rexpect eSports;

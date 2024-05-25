@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;99;8;18;4; ;65;11%;1;3;JG and friends;
-L;Phoenix;0.87;212;12;14;1;56%;125;20%;2;0;JG and friends;

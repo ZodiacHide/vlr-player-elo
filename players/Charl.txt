@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.42;108;6;15;3;47%;63;43%;0;0;EDGE;
-L;Jett;0.39;153;6;15;1;40%;90;42%;1;4;EDGE;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.72;184;11;14;1;50%;90;36%;3;5;DaBaby Clan;
-L;Jett;0.44;117;6;15;1;47%;92;18%;0;3;DaBaby Clan;

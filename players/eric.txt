@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;164;8;15;1; ;89;20%;1;2;Fojosok;
-L;Cypher; ;122;5;14;2; ;68;17%;0;2;Fojosok;
-L;Skye;0.37;73;3;16;8;59%;53;35%;0;3;Space Bound;

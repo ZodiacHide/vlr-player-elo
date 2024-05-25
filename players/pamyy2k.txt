@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage; ;256;14;14;2; ;148;26%;3;2;M1XXX;
-L;Sage; ;233;12;13;3; ;137;25%;2;1;M1XXX;
-L;Sage;0.78;201;13;16;4;61%;110;44%;2;1;Vacuumers;
-W;Sage; ;236;17;8;11; ;138;36%;1;1;Vacuumers;
-L;Sage; ;188;12;17;8; ;97;38%;0;4;Vacuumers;
-L;Reyna;0.70;217;14;18;0;47%;125;20%;3;3;FC Pat Patrouille;
-L;Reyna;0.96;250;12;14;1;53%;147;41%;3;2;FC Pat Patrouille;

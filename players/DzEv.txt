@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;265;14;5;8; ;146;18%;1;0;MUTED;
-W;Omen; ;265;22;15;5; ;183;35%;3;2;MUTED;
-W;Omen; ;203;18;17;3; ;118;36%;3;2;MUTED;
-L;Viper; ;213;18;18;5; ;136;26%;3;0;MUTED;
-W;Viper; ;162;13;16;4; ;94;26%;2;1;MUTED;
-W;Omen; ;190;16;16;1; ;129;31%;2;1;MUTED;
-L;Brimstone; ;232;21;20;6; ;151;26%;3;3;MUTED;
-L;Omen; ;160;12;17;0; ;94;40%;1;4;MUTED;

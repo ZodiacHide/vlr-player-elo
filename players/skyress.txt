@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.65;180;15;20;2;61%;114;38%;3;3;Fenerbahçe Esports;
-L;Jett;0.65;161;12;20;3;59%;92;26%;3;2;Fenerbahçe Esports;
-L;Jett;0.51;131;7;15;1;47%;79;30%;2;4;Fenerbahçe Esports;
-W;Jett;0.81;164;13;17;3;65%;96;39%;2;3;Fenerbahçe Esports;
-L;Jett;0.96;208;11;14;3;59%;151;20%;2;1;Fenerbahçe Esports;
-L;Sage;1.31;269;23;15;6;74%;184;49%;2;3;Fenerbahçe Esports;
-L;Jett;1.01;226;22;20;3;65%;142;38%;5;7;Fenerbahçe Esports;
-L;Jett;0.40;150;7;15;0;47%;98;67%;2;2;Fenerbahçe Esports;

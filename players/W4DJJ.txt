@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen;1.48;262;18;11;7;89%;177;25%;2;0;TIAN DOGS GAMING;
-L;Omen;0.99;204;15;15;4;70%;150;23%;1;1;TIAN DOGS GAMING;

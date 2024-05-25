@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Astra;1.11;200;22;18;8;86%;126;15%;1;1;EGO Media;
-L;Viper;0.79;137;9;17;8;79%;97;15%;3;4;EGO Media;
-W;Astra;0.86;112;11;15;6;71%;70;27%;1;0;EGO Media;
-L;Omen;0.97;135;13;14;10;75%;94;25%;0;2;EGO Media;
-W;Astra;0.94;103;7;11;10;85%;75;20%;0;1;EGO Media;
-L;Omen;0.56;112;8;18;4;43%;63;15%;0;1;EGO Media;

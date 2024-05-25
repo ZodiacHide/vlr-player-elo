@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Brimstone; ;228;17;22;8; ; ; ;0; ;RATVI;
-W;Brimstone; ;151;9;12;11; ; ; ;1; ;RATVI;
-L;Brimstone; ;128;7;14;0; ; ; ;0; ;RATVI;
-W;Brimstone; ;179;14;17;4; ; ; ;2; ;RATVI;
-L;Brimstone; ;118;8;15;5; ; ; ;0; ;RATVI;
-W;Brimstone; ;243;23;16;5; ; ; ;1; ;RATVI;
-L;Brimstone; ;112;7;13;0; ; ; ;0; ;RATVI;
-L;Brimstone; ;208;12;14;1; ; ; ;0; ;RATVI;

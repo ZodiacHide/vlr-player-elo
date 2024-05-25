@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Raze; ;192;16;20;4; ;132;13%;1;0;EMPEROR;
-L;Omen; ;138;7;15;2; ;88;11%;0;1;EMPEROR;

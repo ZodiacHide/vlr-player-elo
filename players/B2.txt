@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.99;261;16;15;5;78%;179;29%;1;2;FANGZ;
-L;Sage;0.69;121;5;13;12;61%;85;16%;1;3;FANGZ;
-W;Reyna;1.49;293;20;10;4;89%;178;30%;4;3;FANGZ;

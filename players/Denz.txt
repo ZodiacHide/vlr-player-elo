@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.53;126;7;18;4;67%;90;19%;0;3;Night Raid;
-W;None;0;0;0;0;0;0;0;0;0;0;Night Raid;
-L;Cypher;0.57;182;9;15;3;71%;119;14%;2;4;Organic Gamers;
-L;Sage;0.44;135;6;14;1;71%;93;35%;0;1;Organic Gamers;

@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Viper;2.00;417;27;9;8;88%;263;18%;4;1;Fire Flux Fierce;
-W;Viper;0.92;165;10;11;8;67%;106;9%;1;1;Fire Flux Fierce;
-W;Omen;2.01;358;18;4;8;100%;239;23%;0;0;Fire Flux Fierce;
-W;Viper;1.45;273;19;7;2;78%;173;13%;1;2;Fire Flux Fierce;
-L;Viper;0.93;222;10;14;4;69%;158;17%;0;1;Fire Flux Fierce;
-L;Astra;0.55;120;7;15;6;59%;78;27%;0;1;Fire Flux Fierce;

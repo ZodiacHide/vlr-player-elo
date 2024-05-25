@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.56;91;7;18;4;54%;60;17%;1;4;Born to win;
-W;Sage;0.97;218;20;21;9;68%;132;16%;2;2;Born to win;
-L;Raze;0.32;68;4;17;2;47%;56;13%;0;3;Born to win;

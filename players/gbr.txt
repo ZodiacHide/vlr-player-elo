@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;214;20;15;4; ;141;18%;1;0;Barrados Do Divine;
-L;Killjoy; ;113;7;14;1; ;125;15%;0;0;Barrados Do Divine;
-L;Killjoy; ;168;10;17;8; ;125;12%;0;0;Barrados Do Divine;

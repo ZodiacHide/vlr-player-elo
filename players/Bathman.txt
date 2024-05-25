@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;105;4;18;5; ;81;16%;2;1;K/D Fixers;
-L;Sova; ;131;10;17;0; ;79;19%;2;0;K/D Fixers;
-L;Sova; ;172;12;16;10; ;124;16%;0;2;K/D Fixers;

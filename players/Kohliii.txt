@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;0.76;144;8;15;6;67%;95;14%;0;1;FANGZ;
-L;Viper;0.67;164;8;16;8;50%;135;40%;1;1;FANGZ;
-W;Astra;1.04;146;10;10;8;67%;87;24%;0;2;FANGZ;

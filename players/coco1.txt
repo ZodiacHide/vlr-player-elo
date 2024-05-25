@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;None;0;0;0;0;0;0;0;0;0;0;LEGENDs;
-W;None;0;0;0;0;0;0;0;0;0;0;Anti Eco Eco Club;
-W;Killjoy; ;185;17;22;9; ;134;15%;2;4;Anti Eco Eco Club;
-W;None;0;0;0;0;0;0;0;0;0;0;Anti Eco Eco Club;
-W;Killjoy; ;200;15;17;6; ;133;20%;2;4;Anti Eco Eco Club;

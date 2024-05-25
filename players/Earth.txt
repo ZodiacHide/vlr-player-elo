@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;319;31;18;5; ;187;19%;8;2;Sk8tr Boyz;
-L;Jett; ;296;23;16;2; ;155;18%;2;2;Sk8tr Boyz;
-L;Jett; ;324;22;15;0; ;189;37%;7;2;Sk8tr Boyz;

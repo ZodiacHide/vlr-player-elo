@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Raze; ;281;16;10;7; ;184;18%;2;2;Team Influencer;
-L;Raze; ;154;9;18;4; ;110;14%;2;2;Team Influencer;
-W;Raze; ;354;36;21;3; ;199;21%;4;3;Team Influencer;

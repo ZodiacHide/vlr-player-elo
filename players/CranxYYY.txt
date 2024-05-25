@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;70;4;15;2; ;43;11%;0;2;FTG Esports;
-L;Omen; ;194;14;15;5; ;125;40%;3;4;FTG Esports;
-L;Brimstone;0.24;94;5;15;3;35%;66;22%;0;6;FTG Esports;

@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;197;10;17;5; ;125;9%;3;3;Nanashi no Gonbee;

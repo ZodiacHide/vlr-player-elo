@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.18;82;3;13;1;23%;60;33%;2;7;Flying Pigs;

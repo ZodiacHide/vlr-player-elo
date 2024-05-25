@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Viper; ;140;9;15;5; ;126;30%;2;3;Boca Boston;
-L;Omen; ;145;11;15;3; ;81;33%;2;1;Boca Boston;
-L;Omen; ;191;9;15;1; ;118;43%;0;1;Boca Boston;
-W;Omen; ;192;15;15;3; ;110;29%;2;1;Kafalar eSports;
-W;Brimstone; ;228;17;15;4; ;138;36%;3;1;Kafalar eSports;
-W;Omen; ;221;15;16;6; ;123;21%;6;2;Kafalar eSports;
-L;Omen; ;137;11;18;4; ;84;27%;2;2;Kafalar eSports;
-L;Brimstone; ;133;8;16;3; ;108;29%;1;0;Kafalar eSports;

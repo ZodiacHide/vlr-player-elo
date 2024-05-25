@@ -1,8 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Killjoy; ;183;17;12;5; ;110;15%;0;2;Mixery;
-W;Killjoy; ;202;11;7;3; ;123;23%;1;1;Mixery;
-W;Omen; ;257;16;6;3; ;146;18%;2;1;Mixery;
-W;Omen; ;149;12;10;2; ;80;16%;2;0;Mixery;
-L;Brimstone; ;80;5;13;5; ;55;4%;0;2;Mixery;
-W;Omen; ;237;14;10;4; ;165;21%;2;0;Mixery;
-L;Omen; ;153;14;22;9; ;99;16%;2;5;Mixery;

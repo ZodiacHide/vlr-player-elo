@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Kayo;0.61;114;8;17;8;50%;71;16%;0;0;Cyber Skull Esports;
-L;Breach;0.70;129;11;18;2;71%;88;17%;1;1;Cyber Skull Esports;

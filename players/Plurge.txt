@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;229;25;21;7; ;148;18%;1;1;Marten Gaming;
-W;Sova; ;168;11;10;9; ;126;28%;0;0;Marten Gaming;
-L;Sova; ;178;13;15;5; ;89;22%;0;3;Marten Gaming;
-L;Sova; ;201;16;13;5; ;143;23%;1;1;Marten Gaming;
-W;Reyna; ;297;20;13;4; ;162;11%;7;3;Marten Gaming;
-L;Sova; ;311;22;15;6; ;185;21%;4;1;Marten Gaming;
-L;Sova; ;184;12;18;13; ;123;24%;1;1;Marten Gaming;
-L;Sova; ;112;6;14;5; ;83;36%;0;0;Marten Gaming;

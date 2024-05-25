@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.47;168;9;19;4;71%;110;22%;4;2;Spanish Leftovers;
-L;Raze;0.49;158;7;14;2;64%;100;8%;1;1;Spanish Leftovers;

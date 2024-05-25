@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.64;180;12;17;5;70%;103;16%;2;3;White Lotus;
-L;Jett;0.28;94;5;13;0;40%;58;40%;1;5;White Lotus;

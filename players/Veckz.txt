@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Skye;0.89;182;10;13;8;74%;122;19%;2;1;En corto gamers;
-L;Skye;0.68;107;7;15;1;59%;70;7%;1;2;En corto gamers;
-L;Skye;0.70;176;9;15;2;69%;120;40%;1;2;En corto gamers;
-L;Kayo;0.56;123;7;16;6;56%;81;15%;2;2;En corto gamers;
-L;Skye;0.27;83;5;16;2;44%;47;33%;1;5;En corto gamers;

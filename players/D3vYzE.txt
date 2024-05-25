@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sage;0.45;87;6;17;5;47%;64;11%;1;1;Regal E-Sports;
-L;None;0;0;0;0;0;0;0;0;0;0;Regal E-Sports;

@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix;0.36;112;5;16;3;53%;47;19%;2;4;100emoji;
-L;Cypher;0.69;165;9;14;4;44%;103;15%;0;5;100emoji;

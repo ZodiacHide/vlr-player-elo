@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.64;150;9;16;4;65%;102;19%;0;2;NBD Esports;
-L;Killjoy;0.59;169;10;14;1;75%;109;30%;0;0;NBD Esports;
-L;Cypher;0.76;164;14;18;2;61%;103;38%;2;1;NBD Esports;
-L;Killjoy;0.79;170;12;17;4;73%;117;16%;2;4;NBD Esports;

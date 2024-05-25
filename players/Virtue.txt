@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Reyna;0.50;120;5;13;2;29%;75;13%;0;1;EZBake Clan;

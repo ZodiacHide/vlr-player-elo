@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Skye;1.00;175;11;11;5;89%;106;24%;1;1;Leviatán;
-L;Skye;0.56;82;4;15;5;55%;63;16%;1;1;Leviatán;
-L;Sage;0.56;169;9;14;1;63%;108;18%;1;1;Leviatán;

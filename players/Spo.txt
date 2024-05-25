@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy; ;212;9;12;0; ;134;29%;2;0;Team Sprel;
-L;Cypher; ;72;4;15;1; ;47;13%;0;1;Team Sprel;

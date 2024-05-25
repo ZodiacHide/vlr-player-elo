@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Astra;1.12;282;19;15;6;86%;169;21%;2;1;Ahjin;
-W;Astra;1.09;250;18;17;10;81%;153;18%;1;0;Ahjin;
-L;Viper;0.82;188;11;19;7;64%;130;27%;4;1;Ahjin;

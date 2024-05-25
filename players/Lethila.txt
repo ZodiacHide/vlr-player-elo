@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett; ;188;14;12;6; ;123;17%;4;3;TradeLikePros;
-W;Raze; ;156;12;14;5; ;95;7%;2;5;TradeLikePros;
-W;Jett; ;330;25;16;6; ;196;16%;6;2;TradeLikePros;
-L;Jett; ;250;17;16;2; ;143;23%;3;2;TradeLikePros;
-W;Raze; ;214;16;13;6; ;151;23%;2;5;TradeLikePros;
-L;Jett; ;170;9;14;2; ;88;22%;2;3;TLP & Friends;

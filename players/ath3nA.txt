@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.62;176;10;16;5;50%;105;6%;1;4;Mist Walkers;
-W;Jett;1.35;321;20;11;1;82%;172;16%;4;0;Mist Walkers;
-L;Jett;0.58;150;11;17;1;60%;94;21%;1;5;Mist Walkers;

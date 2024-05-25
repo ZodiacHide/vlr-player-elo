@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Omen; ;162;10;8;1; ;112;50%;0;0;Vital Force;
-L;Omen; ;128;12;16;2; ;84;38%;0;0;Vital Force;
-L;Omen; ;164;13;20;7; ;108;34%;0;0;Vital Force;

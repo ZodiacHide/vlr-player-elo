@@ -1,9 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.62;153;10;15;1;39%;114;27%;1;3;TiAMAT;
-L;Omen;0.49;141;6;14;5;60%;90;17%;3;3;TiAMAT;
-L;Omen;0.73;174;9;15;3;59%;110;19%;2;0;TiAMAT;
-L;Brimstone;0.76;145;11;16;4;64%;93;18%;2;1;TiAMAT;
-L;Viper;0.92;215;13;16;2;59%;139;25%;0;2;TiAMAT;
-L;Brimstone;0.29;127;5;13;1;54%;86;45%;0;2;TiAMAT;
-L;Omen;0.77;167;11;17;9;70%;126;28%;2;1;TiAMAT;
-L;Omen;0.85;218;12;14;3;47%;137;13%;2;1;TiAMAT;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;203;15;18;4; ;126;17%;4;5;Zero MarksMen;
-L;Jett; ;166;10;13;3; ;82;17%;1;4;Zero MarksMen;
-L;Jett; ;153;8;16;1; ;95;17%;2;3;Zero MarksMen;
-L;Raze;0.79;135;9;15;1;59%;88;35%;1;5;Spectral Esports Blue;

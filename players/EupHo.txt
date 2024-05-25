@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett;0.52;138;12;23;5;65%;96;28%;4;5;Velocity Gaming;
-L;Jett;0.68;134;12;18;2;57%;79;17%;4;4;Velocity Gaming;
-W;Omen;0.83;114;9;14;4;71%;89;28%;0;3;Velocity Gaming;
-W;Omen;0.79;74;4;11;11;67%;55;26%;0;1;Velocity Gaming;

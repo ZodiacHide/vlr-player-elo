@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Sage;1.26;197;11;7;14;93%;130;22%;0;0;Giants G4E;
-W;Sage;1.65;175;10;4;9;92%;129;32%;2;0;Giants G4E;
-L;Sage;0.66;113;6;14;6;41%;76;16%;0;1;Giants G4E;
-L;Sage;0.75;142;7;15;10;61%;94;10%;0;3;Giants G4E;

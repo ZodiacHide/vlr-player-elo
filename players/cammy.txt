@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.42;119;4;14;5;40%;96;15%;0;3;Anavrin Esports;
-L;Kayo;0.45;81;4;15;3;56%;50;25%;0;0;Anavrin Esports;

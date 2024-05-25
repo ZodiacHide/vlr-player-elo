@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;189;10;15;7; ;120;30%;1;4;PAJACE;
-L;Brimstone; ;213;16;18;9; ;158;20%;1;5;PAJACE;

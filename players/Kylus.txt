@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Omen; ;143;9;16;4; ;95;25%;2;5;TMU SHORTYKINGS;
-L;Omen; ;212;15;14;5; ;132;27%;3;3;TMU SHORTYKINGS;

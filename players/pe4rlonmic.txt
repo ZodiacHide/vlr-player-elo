@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova;0.96;182;12;14;9;71%;105;19%;2;1;335 Cầu Giấy;
-L;Sova;0.87;145;8;15;10;63%;95;23%;0;0;335 Cầu Giấy;

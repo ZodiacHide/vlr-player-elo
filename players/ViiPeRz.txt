@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach; ;245;11;14;3; ;147;41%;0;1;Elite;
-L;Jett; ;245;15;14;4; ;121;25%;3;2;Elite;
-L;Breach; ;260;19;15;7; ;158;21%;1;0;Elite;
-L;Jett; ;234;13;15;5; ;141;19%;2;4;Elite;

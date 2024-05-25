@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Killjoy;0.46;103;6;20;5;45%;73;2%;1;4;Arbalest;
-L;Viper;0.74;149;10;16;4;65%;86;20%;2;2;Arbalest;
-L;Killjoy;0.52;124;5;14;4;67%;86;12%;0;1;Arbalest;
-L;Sage;0.54;137;7;17;10;68%;96;11%;0;1;Arbalest;
-L;Omen;0.98;208;20;17;6;79%;119;21%;1;4;Team Plague;
-L;Killjoy;1.29;253;22;12;2;75%;159;25%;0;1;Team Plague;

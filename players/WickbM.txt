@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Viper;0.55;124;7;17;5;45%;71;13%;2;3;Double Vision;
-L;Astra;0.55;89;4;13;5;53%;57;8%;0;3;Double Vision;

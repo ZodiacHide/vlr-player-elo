@@ -1,2 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Sova; ;259;17;15;4; ;166;25%;2;0;Nanashi no Gonbee;

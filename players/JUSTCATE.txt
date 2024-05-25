@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Brimstone;0.36;137;6;13;4;69%;66;12%;0;0;NecroRaisers;
-L;Brimstone;0.57;163;6;13;1;38%;87;15%;2;2;NecroRaisers;
-L;Astra;0.30;140;6;15;3;53%;90;20%;0;3;Parek v rohliku;
-L;Astra;0.63;146;8;15;5;63%;91;12%;0;1;Parek v rohliku;

@@ -1,5 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Breach;0.70;186;11;17;5;56%;106;26%;1;0;Cracked and Dialed;
-L;Sova;0.63;163;11;17;2;59%;100;16%;1;2;Cracked and Dialed;
-L;Breach;0.71;149;9;17;7;67%;103;46%;0;1;Cracked and Dialed;
-L;Sova;0.76;156;7;14;8;61%;110;13%;2;2;Cracked and Dialed;

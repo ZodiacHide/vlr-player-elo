@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;250;19;18;5; ;132;12%;0;0;5 Randoms;
-L;Cypher; ;187;11;17;7; ;123;9%;1;1;5 Randoms;
-L;Cypher;0.90;198;18;16;3;70%;138;29%;2;2;Skull Cracker;
-L;Cypher;1.15;299;25;17;1;73%;146;22%;4;3;Skull Cracker;
-W;Cypher;1.01;176;10;10;6;88%;124;22%;2;1;Skull Cracker;
-L;Cypher;1.07;183;14;15;8;54%;144;17%;1;5;Skull Cracker;

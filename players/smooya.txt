@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;118;7;14;4; ; ; ;0; ;fish123;
-W;Sova; ;206;16;11;9; ; ; ;4; ;fish123;
-W;Brimstone; ;215;18;12;2; ; ; ;4; ;fish123;

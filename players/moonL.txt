@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Skye;0.32;95;9;20;2;48%;45;16%;0;3;PULSAR OLDSTARS;
-L;Breach;0.67;174;9;17;4;68%;121;15%;0;2;PULSAR OLDSTARS;

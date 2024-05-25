@@ -1,3 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Jett; ;159;7;14;2; ;93;26%;3;2;Amarok Esports;
-L;Jett; ;173;10;14;2; ;89;15%;3;4;Amarok Esports;

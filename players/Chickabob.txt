@@ -1,4 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-W;Jett;1.80;400;22;10;4;93%;218;21%;6;0;Evolved Gamers;
-L;Jett;0.39;130;6;15;1;38%;88;15%;0;2;Evolved Gamers;
-L;None;0;0;0;0;0;0;0;0;0;0;Evolved Gamers;

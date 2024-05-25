@@ -1,6 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Cypher; ;92;6;17;3; ;62;35%;1;3;Zero MarksMen;
-L;Cypher; ;116;5;14;4; ;76;19%;0;4;Zero MarksMen;
-L;Killjoy; ;308;15;14;8; ;264;30%;1;0;Zero MarksMen;
-L;Killjoy;1.10;243;17;17;2;68%;164;27%;3;1;OG4Z;
-L;Sage;0.45;165;7;13;4;57%;105;40%;0;3;Zero MarksMen Black;

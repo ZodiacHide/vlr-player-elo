@@ -1,7 +1,0 @@
-map_result; agent; rating; acs; kills; deaths; assists; kast; adr; hs_percent; fk; fd; team;
-L;Phoenix; ;333;24;15;4; ;221;48%;3;5;Exality;
-L;Phoenix; ;290;18;18;9; ;194;28%;3;1;Exality;
-L;Phoenix; ;162;11;17;2; ;109;21%;0;1;Exality;
-L;Reyna; ;160;9;16;2; ;111;19%;1;3;Exality;
-L;Raze;1.23;282;23;18;3;63%;178;20%;1;3;Exality;
-L;Raze;0.58;153;7;14;7;69%;113;29%;1;5;Exality;
