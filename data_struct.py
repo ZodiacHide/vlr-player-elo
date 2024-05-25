@@ -295,17 +295,19 @@ def get_essential_if_not_played(parsed_content: bs4.element.Tag) -> tuple:
 def get_user_input_on_scraping():
     user_input = input('Continue with scraping? Yes: y, No: n \n')
     if user_input == 'Y' or user_input == 'y':
-        no_scrape = input('How many matchups? Input integer: ')
         try:
+            no_scrape = input('How many matchups? Input integer: ')
             no_matchups_to_do = int(no_scrape)
             return no_matchups_to_do
         except ValueError:
             # Poor input, try again
+            print("Poor user input, try again.\n")
             return get_user_input_on_scraping()
     elif user_input == 'N' or user_input == 'n':
         return None
     else:
         # Poor input, try again
+        print("Poor user input, try again.\n")
         return get_user_input_on_scraping()
 
 def remove_illegal_chars_in_filename(str_string: str):
