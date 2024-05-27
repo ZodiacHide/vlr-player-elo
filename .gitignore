@@ -405,4 +405,5 @@ match_urls*
 *.prof
 players/*.txt
 teams/*.txt
-Deprecated/*
+deprecated/*
+player_names_dupes/*.txt
