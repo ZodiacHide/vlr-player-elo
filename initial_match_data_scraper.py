@@ -240,9 +240,9 @@ def main():
     match_urls = text_file_to_array('match_urls_by_date.txt')
     no_matchups_to_do = get_user_input_on_scraping()
     for matchup_count, url in enumerate(match_urls):
-        if matchup_count < 10001:
+        if matchup_count < 24005:
             continue
-        if no_matchups_to_do <= 0:
+        if no_matchups_to_do < 0:
             new_no = get_user_input_on_scraping()
             if new_no == None:
                 break
