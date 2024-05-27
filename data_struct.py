@@ -296,7 +296,7 @@ def get_user_input_on_scraping():
     user_input = input('Continue with scraping? Yes: y, No: n \n')
     if user_input == 'Y' or user_input == 'y':
         try:
-            no_scrape = input('How many matchups? Input integer: ')
+            no_scrape = input('How many urls? Input integer: ')
             no_matchups_to_do = int(no_scrape)
             return no_matchups_to_do
         except ValueError:
