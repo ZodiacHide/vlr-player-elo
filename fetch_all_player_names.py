@@ -9,6 +9,7 @@ def connect(url: str) -> tuple:
     response = requests.get(url)
     if response.status_code != 200:
         print(f"Failed to retrieve data from {url}. Status code: {response.status_code}")
+        return False, response.status_code
     else:
         try:
             content = response.content
@@ -47,7 +48,7 @@ def get_player_name(parsed_html: bs4.BeautifulSoup) -> tuple:
         # Unable to find player alias or name
         return False, 0
     
-    if player_name == None:
+    if len(player_name.get_text()) == 0:
         # No name, not interested
         return False, 0 
 
@@ -77,7 +78,9 @@ def scraper(start_id: int, player_count: int):
         url = f"https://www.vlr.gg/player/{id}"
         answer, content = connect(url=url)
         if not answer:
-            for attempt in range(3):
+            if content == 404:
+                continue
+            for attempt in range(2):
                 # Avoid overloading
                 time.sleep(1)
                 try:
@@ -116,11 +119,11 @@ def scraper(start_id: int, player_count: int):
     return player_count + start_id
         
 
-def main(begin: int=1):
+def main(begin: int=1001):
     player_count = get_user_input_on_scraping()
     if player_count == None:
         exit()
-    new_start = scraper(149, player_count)
+    new_start = scraper(begin, player_count)
     main(new_start)
 
 if __name__=='__main__':
