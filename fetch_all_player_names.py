@@ -71,7 +71,7 @@ def write_to_file(player_id: int, player_alias: str, player_name: str, team_list
         pass   
     
 def scraper(start_id: int, player_count: int):
-    for id in range(start_id, start_id + player_count+1):
+    for id in range(start_id, start_id + player_count):
         # Avoid overloading
         time.sleep(1)
         print(f'Player id: {id}')
@@ -119,12 +119,12 @@ def scraper(start_id: int, player_count: int):
     return player_count + start_id
         
 
-def main(begin: int=1001):
+def main(begin: int=1):
     player_count = get_user_input_on_scraping()
     if player_count == None:
         exit()
     new_start = scraper(begin, player_count)
-    main(new_start)
+    main(new_start+1)
 
 if __name__=='__main__':
     main()
