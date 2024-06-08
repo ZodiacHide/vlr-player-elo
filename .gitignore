@@ -407,3 +407,6 @@ players/*.txt
 teams/*.txt
 deprecated/*
 player_names_dupes/*.txt
+team_name_errors.txt
+connection_errors.txt
+player_name_errors.txt
