@@ -400,4 +400,5 @@ FodyWeavers.xsd
 # Custom files
 *.prof
 /deprecated
+/error
 
