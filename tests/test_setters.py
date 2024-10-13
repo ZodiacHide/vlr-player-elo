@@ -1,0 +1,61 @@
+# test_insert_player_and_get_player.py
+import sys
+import os
+import inspect
+
+# Add src directory to sys.path relative to this file
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
+from vlr_player_elo import setters_db
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', '..'))
+from tools.tools import delete_row
+
+def test_insert_player_no_error_for_same_id():
+    player_id = int(1337+1e10)
+    filler_count = len(inspect.signature(setters_db.insert_player).parameters)-1
+    vars = [player_id] + [None]*filler_count
+
+    setters_db.insert_player(*vars)
+    setters_db.insert_player(*vars)
+    
+    delete_row('players', 'player_id', player_id)
+
+def test_insert_team_no_error_for_same_id():
+    team_id = int(1337+1e10)
+    filler_count = len(inspect.signature(setters_db.insert_team).parameters)-1
+    vars = [team_id] + [None]*filler_count
+
+    setters_db.insert_team(*vars)
+    setters_db.insert_team(*vars)
+
+    delete_row('teams', 'team_id', team_id)
+
+def test_insert_series_no_error_for_same_id():
+    series_id = int(1337+1e10)
+    filler_count = len(inspect.signature(setters_db.insert_series).parameters)-1
+    vars = [series_id] + [None]*filler_count
+    
+    setters_db.insert_series(*vars)
+    setters_db.insert_series(*vars)
+
+    delete_row('series', 'series_id', series_id)
+
+def test_insert_map_no_error_for_same_id():
+    map_id = int(1337+1e10)
+    filler_count = len(inspect.signature(setters_db.insert_map).parameters)-1
+    vars = [map_id] + [None]*filler_count
+    
+    setters_db.insert_map(*vars)
+    setters_db.insert_map(*vars)
+
+    delete_row('maps', 'map_id', map_id)
+
+###
+# Add test for non-int ID
+def main():
+    test_insert_player_no_error_for_same_id()
+    test_insert_team_no_error_for_same_id()
+    test_insert_series_no_error_for_same_id()
+    test_insert_map_no_error_for_same_id()
+
+if __name__=='__main__':
+    main()
