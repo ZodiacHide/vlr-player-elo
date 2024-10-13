@@ -7,17 +7,26 @@ def insert_player(player_id:int, alias:str, country:str, name:str) -> None:
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
     try:
-        cursor.execute('''
-        INSERT INTO players (player_id, alias, country, name)
-        VALUES (?, ?, ?, ?)
-        ''', (player_id, alias, country, name))
-    except sqlite3.IntegrityError:
-        print(f"player_id : {player_id}, already exists.")
-    conn.commit()
-    conn.close()
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        try:
+            cursor.execute('''
+            INSERT INTO players (player_id, alias, country, name)
+            VALUES (?, ?, ?, ?)
+            ''', (player_id, alias, country, name))
+            conn.commit()
+        except sqlite3.IntegrityError:
+            error_string = f"player_id : {player_id}, already exists."
+            print(error_string)
+            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_error.txt')
+            with open(erorr_dir, 'a') as infile:
+                infile.write(error_string + f' Tried to write: {player_id, alias, country, name}' '\n')
+    finally:
+        if conn:
+            conn.close()
+        else:
+            raise ConnectionError(f"Unable to establish connection to {db_path}")
 
 # Function to insert a team into the database
 def insert_team(team_id:int, team_name:str, current_roster:str, previous_players:str, maps_played:int,
@@ -30,29 +39,44 @@ def insert_team(team_id:int, team_name:str, current_roster:str, previous_players
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
     try:
-        cursor.execute('''
-        INSERT INTO teams (team_id, team_name, current_roster, previous_players, maps_played,
-                    maps_won, series_played, series_won, rounds_played, defence_rounds_won,
-                    defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
-                    ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
-                    fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
-                    lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
-                    sunset_played, sunset_won)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (team_id, team_name, current_roster, previous_players, maps_played,
-                    maps_won, series_played, series_won, rounds_played, defence_rounds_won,
-                    defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
-                    ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
-                    fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
-                    lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
-                    sunset_played, sunset_won))
-    except sqlite3.IntegrityError:
-        print(f"team_id : {team_id}, already exists.")
-    conn.commit()
-    conn.close()
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        try:
+            cursor.execute('''
+            INSERT INTO teams (team_id, team_name, current_roster, previous_players, maps_played,
+                        maps_won, series_played, series_won, rounds_played, defence_rounds_won,
+                        defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
+                        ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
+                        fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
+                        lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
+                        sunset_played, sunset_won)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (team_id, team_name, current_roster, previous_players, maps_played,
+                        maps_won, series_played, series_won, rounds_played, defence_rounds_won,
+                        defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
+                        ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
+                        fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
+                        lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
+                        sunset_played, sunset_won))
+            conn.commit()
+        except sqlite3.IntegrityError:
+            error_string = f"team_id : {team_id}, already exists."
+            print(error_string)
+            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_team_error.txt')
+            with open(erorr_dir, 'a') as infile:
+                infile.write(error_string + f""" Tried to write: {team_id, team_name, current_roster, previous_players, maps_played,
+                        maps_won, series_played, series_won, rounds_played, defence_rounds_won,
+                        defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
+                        ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
+                        fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
+                        lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
+                        sunset_played, sunset_won}""" + '\n')
+    finally:
+        if conn:
+            conn.close()
+        else:
+            raise ConnectionError(f"Unable to establish connection to {db_path}")
 
 # Function to insert a series into the database
 def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, date_played:str, time_started:str,
@@ -61,21 +85,31 @@ def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, dat
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
     try:
-        cursor.execute('''
-        INSERT INTO series (series_id, team1_id, team2_id, event_name, date_played, time_started,
-                    series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id,
-                    map5_id)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (series_id, team1_id, team2_id, event_name, date_played, time_started,
-            series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id))
-    except sqlite3.IntegrityError:
-        print(f"series_id : {series_id}, already exists.")
-    conn.commit()
-    conn.close()
-
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        try:
+            cursor.execute('''
+            INSERT INTO series (series_id, team1_id, team2_id, event_name, date_played, time_started,
+                        series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id,
+                        map5_id)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (series_id, team1_id, team2_id, event_name, date_played, time_started,
+                series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id))
+            conn.commit()  
+        except sqlite3.IntegrityError:
+            error_string = f"series_id : {series_id}, already exists."
+            print(error_string)
+            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_series_error.txt')
+            with open(erorr_dir, 'a') as infile:
+                infile.write(error_string + f""" Tried to write: {series_id, team1_id, team2_id, event_name, date_played, time_started,
+                series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id}""" '\n')
+    finally:
+        if conn:
+            conn.close()
+        else:
+            raise ConnectionError(f"Unable to establish connection to {db_path}")
+        
 # Function to insert a map into the database
 ## MAYBE CHANGE PICKED_BY TO INTEGER ID ##
 ## MAYBE CHANGE PISTOL WINNER TO INTEGER ID ##
@@ -85,21 +119,32 @@ def insert_map(map_id:int, series_id:int, map_name:str, picked_by:str, team1_id:
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
     try:
-        cursor.execute('''
-        INSERT INTO maps (map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
-                team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
-                pistol_sh_winner, vod_link, map_length)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
-                team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
-                pistol_sh_winner, vod_link, map_length))
-    except sqlite3.IntegrityError:
-        print(f"map_id : {map_id}, already exists.")
-    conn.commit()
-    conn.close()
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        try:
+            cursor.execute('''
+            INSERT INTO maps (map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
+                    team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
+                    pistol_sh_winner, vod_link, map_length)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
+                    team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
+                    pistol_sh_winner, vod_link, map_length))
+            conn.commit()
+        except sqlite3.IntegrityError:
+            error_string = f"map_id : {map_id}, already exists."
+            print(error_string)
+            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_map_error.txt')
+            with open(erorr_dir, 'a') as infile:
+                infile.write(error_string + f""" Tried to write: {map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
+                    team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
+                    pistol_sh_winner, vod_link, map_length}""" '\n')
+    finally:
+        if conn:
+            conn.close()
+        else:
+            raise ConnectionError(f"Unable to establish connection to {db_path}")
 
 # Function to insert a player performance into the database
 def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:float, acs:int,
@@ -107,16 +152,26 @@ def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:flo
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-    try: 
-        cursor.execute('''
-        INSERT INTO player_performances (performance_id, player_id, map_id, team_id, rating, acs,
-                    kills, deaths, assists, kast, adr, hsp, fk, fd)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (player_id, map_id, team_id, rating, acs, kills, 
-            deaths, assists, kast, adr, hsp, fk, fd))
-    except sqlite3.IntegrityError:
-        print(f"An error occurred.")
-    conn.commit()
-    conn.close()
+    try:
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        try: 
+            cursor.execute('''
+            INSERT INTO player_performances (performance_id, player_id, map_id, team_id, rating, acs,
+                        kills, deaths, assists, kast, adr, hsp, fk, fd)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (player_id, map_id, team_id, rating, acs, kills, 
+                deaths, assists, kast, adr, hsp, fk, fd))
+            conn.commit()
+        except sqlite3.IntegrityError:
+            error_string = f"An error occurred."
+            print(error_string)
+            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_performance_error.txt')
+            with open(erorr_dir, 'a') as infile:
+                infile.write(error_string + f""" Tried to write: {player_id, map_id, team_id, rating, acs, kills, 
+                deaths, assists, kast, adr, hsp, fk, fd}""" '\n')
+    finally:
+        if conn:
+            conn.close()
+        else:
+            raise ConnectionError(f"Unable to establish connection to {db_path}")
