@@ -3,7 +3,7 @@ import os
 from tools.tools import find_data_directory
 
 # Function to insert a player into the database
-def insert_player(player_id:int, alias:str, country:str, name:str) -> None:
+def insert_player(player_id:int, alias:str, country:str, name:str, test: bool | None = False) -> None:
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -19,9 +19,10 @@ def insert_player(player_id:int, alias:str, country:str, name:str) -> None:
         except sqlite3.IntegrityError:
             error_string = f"player_id : {player_id}, already exists."
             print(error_string)
-            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_error.txt')
-            with open(erorr_dir, 'a') as infile:
-                infile.write(error_string + f' Tried to write: {player_id, alias, country, name}' '\n')
+            if not test:
+                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_error.txt')
+                with open(erorr_dir, 'a') as infile:
+                    infile.write(error_string + f' Tried to write: {player_id, alias, country, name}' '\n')
     finally:
         if conn:
             conn.close()
@@ -35,7 +36,7 @@ def insert_team(team_id:int, team_name:str, current_roster:str, previous_players
                   ascent_played:int, ascent_won:int, bind_played:int, bind_won:int, breeze_played:int, breeze_won:int,
                   fracture_played:int, fracture_won:int, haven_played:int, haven_won:int, icebox_played:int, icebox_won:int,
                   lotus_played:int, lotus_won:int, pearl_played:int, pearl_won:int, split_played:int, split_won:int,
-                  sunset_played:int, sunset_won:int) -> None:
+                  sunset_played:int, sunset_won:int, test: bool | None = False) -> None:
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -63,15 +64,16 @@ def insert_team(team_id:int, team_name:str, current_roster:str, previous_players
         except sqlite3.IntegrityError:
             error_string = f"team_id : {team_id}, already exists."
             print(error_string)
-            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_team_error.txt')
-            with open(erorr_dir, 'a') as infile:
-                infile.write(error_string + f""" Tried to write: {team_id, team_name, current_roster, previous_players, maps_played,
-                        maps_won, series_played, series_won, rounds_played, defence_rounds_won,
-                        defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
-                        ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
-                        fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
-                        lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
-                        sunset_played, sunset_won}""" + '\n')
+            if not test:
+                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_team_error.txt')
+                with open(erorr_dir, 'a') as infile:
+                    infile.write(error_string + f""" Tried to write: {team_id, team_name, current_roster, previous_players, maps_played,
+                            maps_won, series_played, series_won, rounds_played, defence_rounds_won,
+                            defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
+                            ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
+                            fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
+                            lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
+                            sunset_played, sunset_won}""" + '\n')
     finally:
         if conn:
             conn.close()
@@ -81,7 +83,7 @@ def insert_team(team_id:int, team_name:str, current_roster:str, previous_players
 # Function to insert a series into the database
 def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, date_played:str, time_started:str,
                   series_format:str, team1_score:int, team2_score:int, map1_id:int, map2_id:int, map3_id:int,
-                  map4_id:int, map5_id:int) -> None:
+                  map4_id:int, map5_id:int, test: bool | None = False) -> None:
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -100,10 +102,11 @@ def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, dat
         except sqlite3.IntegrityError:
             error_string = f"series_id : {series_id}, already exists."
             print(error_string)
-            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_series_error.txt')
-            with open(erorr_dir, 'a') as infile:
-                infile.write(error_string + f""" Tried to write: {series_id, team1_id, team2_id, event_name, date_played, time_started,
-                series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id}""" '\n')
+            if not test:
+                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_series_error.txt')
+                with open(erorr_dir, 'a') as infile:
+                    infile.write(error_string + f""" Tried to write: {series_id, team1_id, team2_id, event_name, date_played, time_started,
+                    series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id}""" '\n')
     finally:
         if conn:
             conn.close()
@@ -115,7 +118,7 @@ def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, dat
 ## MAYBE CHANGE PISTOL WINNER TO INTEGER ID ##
 def insert_map(map_id:int, series_id:int, map_name:str, picked_by:str, team1_id:int, team1_fh_score:int,
                team1_sh_score:int, team2_id:int, team2_fh_score:int, team2_sh_score:int, pistol_fh_winner:str,
-               pistol_sh_winner:str, vod_link:str, map_length:str) -> None:
+               pistol_sh_winner:str, vod_link:str, map_length:str, test: bool | None = False) -> None:
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -135,11 +138,12 @@ def insert_map(map_id:int, series_id:int, map_name:str, picked_by:str, team1_id:
         except sqlite3.IntegrityError:
             error_string = f"map_id : {map_id}, already exists."
             print(error_string)
-            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_map_error.txt')
-            with open(erorr_dir, 'a') as infile:
-                infile.write(error_string + f""" Tried to write: {map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
-                    team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
-                    pistol_sh_winner, vod_link, map_length}""" '\n')
+            if not test:
+                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_map_error.txt')
+                with open(erorr_dir, 'a') as infile:
+                    infile.write(error_string + f""" Tried to write: {map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
+                        team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
+                        pistol_sh_winner, vod_link, map_length}""" '\n')
     finally:
         if conn:
             conn.close()
@@ -148,7 +152,8 @@ def insert_map(map_id:int, series_id:int, map_name:str, picked_by:str, team1_id:
 
 # Function to insert a player performance into the database
 def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:float, acs:int,
-                              kills:int, deaths:int, assists:int, kast:float, adr:float, hsp:float, fk:int, fd:int) -> None:
+                              kills:int, deaths:int, assists:int, kast:float, adr:float, hsp:float, fk:int, fd:int,
+                              test: bool | None = False) -> None:
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -166,10 +171,11 @@ def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:flo
         except sqlite3.IntegrityError:
             error_string = f"An error occurred."
             print(error_string)
-            erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_performance_error.txt')
-            with open(erorr_dir, 'a') as infile:
-                infile.write(error_string + f""" Tried to write: {player_id, map_id, team_id, rating, acs, kills, 
-                deaths, assists, kast, adr, hsp, fk, fd}""" '\n')
+            if not test:
+                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_performance_error.txt')
+                with open(erorr_dir, 'a') as infile:
+                    infile.write(error_string + f""" Tried to write: {player_id, map_id, team_id, rating, acs, kills, 
+                    deaths, assists, kast, adr, hsp, fk, fd}""" '\n')
     finally:
         if conn:
             conn.close()
