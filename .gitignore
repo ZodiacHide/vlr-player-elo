@@ -398,15 +398,6 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Custom files
-error.txt
-test_urls.txt
-test_urls2.txt
-match_urls*
 *.prof
-players/*.txt
-teams/*.txt
-deprecated/*
-player_names_dupes/*.txt
-team_name_errors.txt
-connection_errors.txt
-player_name_errors.txt
+/deprecated
+
