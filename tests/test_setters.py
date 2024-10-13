@@ -11,41 +11,41 @@ from tools.tools import delete_row
 
 def test_insert_player_no_error_for_same_id():
     player_id = int(1337+1e10)
-    filler_count = len(inspect.signature(setters_db.insert_player).parameters)-1
+    filler_count = len(inspect.signature(setters_db.insert_player).parameters)-2
     vars = [player_id] + [None]*filler_count
 
-    setters_db.insert_player(*vars)
-    setters_db.insert_player(*vars)
+    setters_db.insert_player(*vars, test=True)
+    setters_db.insert_player(*vars, test=True)
     
     delete_row('players', 'player_id', player_id)
 
 def test_insert_team_no_error_for_same_id():
     team_id = int(1337+1e10)
-    filler_count = len(inspect.signature(setters_db.insert_team).parameters)-1
+    filler_count = len(inspect.signature(setters_db.insert_team).parameters)-2
     vars = [team_id] + [None]*filler_count
 
-    setters_db.insert_team(*vars)
-    setters_db.insert_team(*vars)
+    setters_db.insert_team(*vars, test=True)
+    setters_db.insert_team(*vars, test=True)
 
     delete_row('teams', 'team_id', team_id)
 
 def test_insert_series_no_error_for_same_id():
     series_id = int(1337+1e10)
-    filler_count = len(inspect.signature(setters_db.insert_series).parameters)-1
+    filler_count = len(inspect.signature(setters_db.insert_series).parameters)-2
     vars = [series_id] + [None]*filler_count
     
-    setters_db.insert_series(*vars)
-    setters_db.insert_series(*vars)
+    setters_db.insert_series(*vars, test=True)
+    setters_db.insert_series(*vars, test=True)
 
     delete_row('series', 'series_id', series_id)
 
 def test_insert_map_no_error_for_same_id():
     map_id = int(1337+1e10)
-    filler_count = len(inspect.signature(setters_db.insert_map).parameters)-1
+    filler_count = len(inspect.signature(setters_db.insert_map).parameters)-2
     vars = [map_id] + [None]*filler_count
     
-    setters_db.insert_map(*vars)
-    setters_db.insert_map(*vars)
+    setters_db.insert_map(*vars, test=True)
+    setters_db.insert_map(*vars, test=True)
 
     delete_row('maps', 'map_id', map_id)
 
