@@ -130,5 +130,9 @@ def init_db():
     conn.commit()
     conn.close()
 
-# Initialize the database
-init_db()
+def main():
+    # Initialize the database
+    init_db()
+    
+if __name__=='__main__':
+    main()
