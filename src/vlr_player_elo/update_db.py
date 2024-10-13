@@ -1,5 +1,6 @@
 import sqlite3
 import os
+from typing import Union
 from getters_db import *
 from tools.tools import find_data_directory
 
@@ -21,7 +22,11 @@ def update_team_name(team_id:int, new_name:str):
     conn.close()
 
 # Function to update team players by ID
-def update_team_name(team_id:int, new_roster:list):
+def update_team_name(team_id:int, new_roster:Union[list, tuple]):
+    if isinstance(new_roster, tuple):
+        new_roster = list(new_roster)
+    else:
+        raise TypeError(f"'new_roster' must be of type 'list' or 'tuple', but got {type(new_roster).__name__}")
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
