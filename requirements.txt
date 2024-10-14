@@ -1,3 +1,8 @@
+# Scraper dependencies
+requests
+beautifulsoup4
+numpy
+
 # Custom package dependencies
 setuptools
 pkg_vlr_player_elo
