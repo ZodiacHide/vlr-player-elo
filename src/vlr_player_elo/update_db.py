@@ -1,7 +1,7 @@
 import sqlite3
 import os
 from typing import Union
-from getters_db import *
+from vlr_player_elo.getters_db import *
 from tools.tools import find_data_directory, validate_map_name, assert_parameter_types
 
 #############
@@ -33,10 +33,7 @@ def update_team_name(team_id:int, new_name:str):
 # Function to update team roster by ID
 def update_team_roster(team_id:int, new_roster:Union[list, tuple]):
     assert_parameter_types(update_team_roster, team_id, new_roster)
-    # assert isinstance(team_id, int), f"'team_id' must be of type 'int', but got {type(team_id).__name__}"
-    # assert isinstance(new_roster, (list, tuple)), f"'new_roster' must be of type 'list' or 'tuple', but got {type(new_roster).__name__}"
     new_roster = list(new_roster)
-    
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -45,21 +42,31 @@ def update_team_roster(team_id:int, new_roster:Union[list, tuple]):
         cursor = conn.cursor()
 
         team = get_team_by_team_id(team_id=team_id)
-        current_roster = sorted(team[2])
+        current_roster = sorted(team[2].split(', '))
         sorted_new_roster = sorted(new_roster)
-        
+
         # Check for same roster
         if sorted_new_roster != current_roster:
             # Find players removed from roster
             removed_players = []
-            for i in range(len(current_roster)):
-                if sorted_new_roster[i] != current_roster[i]:
-                    removed_players.append(current_roster[i])
-                continue
-            
+            for active_player in current_roster:
+                removed_player_confidence = 0
+                for new_player in sorted_new_roster:
+                    if active_player != new_player:
+                        removed_player_confidence += 1
+                    else:
+                        continue
+                if removed_player_confidence == len(sorted_new_roster):
+                    removed_players.append(active_player)
+            sorted_new_roster = ', '.join(sorted_new_roster)
+
             # Str -> List
             previous_players = team[3].split(", ")
-            new_previous_players = removed_players + previous_players
+            # Handle empty list entry
+            if previous_players[-1] != '':
+                new_previous_players = removed_players + previous_players
+            new_previous_players = removed_players + previous_players[:-1]
+            new_previous_players = ', '.join(new_previous_players)
             try:
                 cursor.execute('''UPDATE teams SET current_roster = ?
                                 WHERE team_id = ?''', (sorted_new_roster, team_id))
