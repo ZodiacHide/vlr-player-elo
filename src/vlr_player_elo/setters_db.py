@@ -1,9 +1,10 @@
 import sqlite3
 import os
-from tools.tools import find_data_directory
+from tools.tools import find_data_directory, assert_parameter_types
 
 # Function to insert a player into the database
 def insert_player(player_id:int, alias:str, country:str, name:str, test: bool | None = False) -> None:
+    assert_parameter_types(insert_player, player_id, alias, country, name)
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -30,15 +31,48 @@ def insert_player(player_id:int, alias:str, country:str, name:str, test: bool | 
             raise ConnectionError(f"Unable to establish connection to {db_path}")
 
 # Function to insert a team into the database
-def insert_team(team_id:int, team_name:str, current_roster:str, previous_players:str, maps_played:int,
-                  maps_won:int, series_played:int, series_won:int, rounds_played:int, defence_rounds_won:int,
-                  defence_winp:float, offence_rounds_won:int, offence_winp:float, abyss_played:int, abyss_won:int,
-                  ascent_played:int, ascent_won:int, bind_played:int, bind_won:int, breeze_played:int, breeze_won:int,
-                  fracture_played:int, fracture_won:int, haven_played:int, haven_won:int, icebox_played:int, icebox_won:int,
-                  lotus_played:int, lotus_won:int, pearl_played:int, pearl_won:int, split_played:int, split_won:int,
-                  sunset_played:int, sunset_won:int, test: bool | None = False) -> None:
+def insert_team(team_id:int, team_name:str, current_roster:str, test: bool | None = False) -> None:
+    assert_parameter_types(insert_team, team_id, team_name, current_roster)
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
+    
+    vars = [
+    team_id,
+    team_name,
+    current_roster, 
+    '',   # previous_players: str
+    0,    # maps_played: int
+    0,    # maps_won: int
+    0,    # series_played: int
+    0,    # series_won: int
+    0,    # rounds_played: int
+    0,    # defence_rounds_won: int
+    0.0,  # defence_winp: float
+    0,    # offence_rounds_won: int
+    0.0,  # offence_winp: float
+    0,    # abyss_played: int
+    0,    # abyss_won: int
+    0,    # ascent_played: int
+    0,    # ascent_won: int
+    0,    # bind_played: int
+    0,    # bind_won: int
+    0,    # breeze_played: int
+    0,    # breeze_won: int
+    0,    # fracture_played: int
+    0,    # fracture_won: int
+    0,    # haven_played: int
+    0,    # haven_won: int
+    0,    # icebox_played: int
+    0,    # icebox_won: int
+    0,    # lotus_played: int
+    0,    # lotus_won: int
+    0,    # pearl_played: int
+    0,    # pearl_won: int
+    0,    # split_played: int
+    0,    # split_won: int
+    0,    # sunset_played: int
+    0     # sunset_won: int
+    ]
 
     try:
         conn = sqlite3.connect(db_path)
@@ -53,13 +87,7 @@ def insert_team(team_id:int, team_name:str, current_roster:str, previous_players
                         lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
                         sunset_played, sunset_won)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (team_id, team_name, current_roster, previous_players, maps_played,
-                        maps_won, series_played, series_won, rounds_played, defence_rounds_won,
-                        defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
-                        ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
-                        fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
-                        lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
-                        sunset_played, sunset_won))
+            ''', vars)
             conn.commit()
         except sqlite3.IntegrityError:
             error_string = f"team_id : {team_id}, already exists."
@@ -67,13 +95,7 @@ def insert_team(team_id:int, team_name:str, current_roster:str, previous_players
             if not test:
                 erorr_dir = os.path.join(find_data_directory(), '..\error\insert_team_error.txt')
                 with open(erorr_dir, 'a') as infile:
-                    infile.write(error_string + f""" Tried to write: {team_id, team_name, current_roster, previous_players, maps_played,
-                            maps_won, series_played, series_won, rounds_played, defence_rounds_won,
-                            defence_winp, offence_rounds_won, offence_winp, abyss_played, abyss_won,
-                            ascent_played, ascent_won, bind_played, bind_won, breeze_played, breeze_won,
-                            fracture_played, fracture_won, haven_played, haven_won, icebox_played, icebox_won,
-                            lotus_played, lotus_won, pearl_played, pearl_won, split_played, split_won,
-                            sunset_played, sunset_won}""" + '\n')
+                    infile.write(error_string + f""" Tried to write: {vars}""" + '\n')
     finally:
         if conn:
             conn.close()
@@ -84,6 +106,8 @@ def insert_team(team_id:int, team_name:str, current_roster:str, previous_players
 def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, date_played:str, time_started:str,
                   series_format:str, team1_score:int, team2_score:int, map1_id:int, map2_id:int, map3_id:int,
                   map4_id:int, map5_id:int, test: bool | None = False) -> None:
+    assert_parameter_types(insert_series, series_id, team1_id, team2_id, event_name, date_played, time_started,
+                  series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id)
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -114,11 +138,12 @@ def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, dat
             raise ConnectionError(f"Unable to establish connection to {db_path}")
         
 # Function to insert a map into the database
-## MAYBE CHANGE PICKED_BY TO INTEGER ID ##
-## MAYBE CHANGE PISTOL WINNER TO INTEGER ID ##
-def insert_map(map_id:int, series_id:int, map_name:str, picked_by:str, team1_id:int, team1_fh_score:int,
-               team1_sh_score:int, team2_id:int, team2_fh_score:int, team2_sh_score:int, pistol_fh_winner:str,
-               pistol_sh_winner:str, vod_link:str, map_length:str, test: bool | None = False) -> None:
+def insert_map(map_id:int, series_id:int, map_name:str, picked_by:int, team1_id:int, team1_fh_score:int,
+               team1_sh_score:int, team2_id:int, team2_fh_score:int, team2_sh_score:int, pistol_fh_winner:int,
+               pistol_sh_winner:int, vod_link:str, map_length:str, test: bool | None = False) -> None:
+    assert_parameter_types(insert_map, map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
+                    team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
+                    pistol_sh_winner, vod_link, map_length)
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
@@ -154,6 +179,8 @@ def insert_map(map_id:int, series_id:int, map_name:str, picked_by:str, team1_id:
 def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:float, acs:int,
                               kills:int, deaths:int, assists:int, kast:float, adr:float, hsp:float, fk:int, fd:int,
                               test: bool | None = False) -> None:
+    assert_parameter_types(insert_player_performance, player_id, map_id, team_id, rating, acs, kills, 
+                deaths, assists, kast, adr, hsp, fk, fd)
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
 
