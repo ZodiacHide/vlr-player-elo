@@ -1,8 +1,13 @@
 import sqlite3
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from tools.tools import find_data_directory
 
 # Function to initialize the database and create tables
 def init_db():
-    conn = sqlite3.connect('valorant.db')
+    db_dir = find_data_directory()
+    conn = sqlite3.connect(db_dir + '/valorant.db')
     cursor = conn.cursor()
 
     # Create tables
