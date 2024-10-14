@@ -56,7 +56,8 @@ def _fetch_parameter_types(func:Callable):
 def assert_parameter_types(func:Callable, *args, **kwargs):
     assert isinstance(func, Callable), f"'func' must be callable, but is instead {type(func).__name__}"
     param_types = _fetch_parameter_types(func)
-    param_types.popitem()
+    if list(param_types.keys())[-1] == 'test':
+        param_types.popitem()
     params = list(args) + list(kwargs.values())
     param_names = list(param_types.keys())
 

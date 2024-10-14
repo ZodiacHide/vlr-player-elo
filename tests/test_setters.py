@@ -1,4 +1,4 @@
-# test_insert_player_and_get_player.py
+# test_setters.py
 import sys
 import os
 import inspect

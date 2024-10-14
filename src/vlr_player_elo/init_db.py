@@ -1,7 +1,6 @@
 import sqlite3
 import sys
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from tools.tools import find_data_directory
 
 # Function to initialize the database and create tables
