@@ -81,22 +81,20 @@ def init_db():
     )
     ''')
 
-    ## MAYBE CHANGE PICKED_BY TO INTEGER ##
-    ## MAYBE CHANGE PISTOL WINNER TO INTEGER ID ##
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS maps (
         map_id INTEGER PRIMARY KEY,
         series_id INTEGER,
         map_name TEXT,
-        picked_by TEXT,
+        picked_by INTEGER,
         team1_id INTEGER,
         team1_fh_score INTEGER,
         team1_sh_score INTEGER,
         team2_id INTEGER,
         team2_fh_score INTEGER,
         team2_sh_score INTEGER,
-        pistol_fh_winner TEXT,
-        pistol_sh_winner TEXT,
+        pistol_fh_winner INTEGER,
+        pistol_sh_winner INTEGER,
         vod_link TEXT,
         map_length TEXT,
         FOREIGN KEY (series_id) REFERENCES series(series_id),
