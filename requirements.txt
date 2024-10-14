@@ -1,0 +1,3 @@
+# Custom package dependencies
+setuptools
+pkg_vlr_player_elo
