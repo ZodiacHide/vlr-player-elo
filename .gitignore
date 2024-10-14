@@ -401,4 +401,5 @@ FodyWeavers.xsd
 *.prof
 /deprecated
 /error
+/src/pkg_vlr_player_elo.egg-info
 
