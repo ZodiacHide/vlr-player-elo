@@ -1,9 +1,10 @@
 import sqlite3
 import os
-from tools.tools import find_data_directory, assert_parameter_types
+from typing import Union
+from tools.tools import find_data_directory, assert_parameter_types, write_error_to_file
 
 # Function to insert a player into the database
-def insert_player(player_id:int, alias:str, country:str, name:str, test: bool | None = False) -> None:
+def insert_player(player_id:int, alias:str, country:Union[str, None], name:Union[str, None], test: bool | None = False) -> None:
     assert_parameter_types(insert_player, player_id, alias, country, name)
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
@@ -21,9 +22,8 @@ def insert_player(player_id:int, alias:str, country:str, name:str, test: bool | 
             error_string = f"player_id : {player_id}, already exists."
             print(error_string)
             if not test:
-                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_error.txt')
-                with open(erorr_dir, 'a') as infile:
-                    infile.write(error_string + f' Tried to write: {player_id, alias, country, name}' '\n')
+                error_string += f' Tried to write: {player_id, alias, country, name}' + '\n'
+                write_error_to_file('insert_player_error', error_string)
     finally:
         if conn:
             conn.close()
@@ -93,9 +93,8 @@ def insert_team(team_id:int, team_name:str, current_roster:str, test: bool | Non
             error_string = f"team_id : {team_id}, already exists."
             print(error_string)
             if not test:
-                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_team_error.txt')
-                with open(erorr_dir, 'a') as infile:
-                    infile.write(error_string + f""" Tried to write: {vars}""" + '\n')
+                error_string += f""" Tried to write: {vars}""" + '\n'
+                write_error_to_file('insert_team_error', error_string)
     finally:
         if conn:
             conn.close()
@@ -127,10 +126,9 @@ def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, dat
             error_string = f"series_id : {series_id}, already exists."
             print(error_string)
             if not test:
-                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_series_error.txt')
-                with open(erorr_dir, 'a') as infile:
-                    infile.write(error_string + f""" Tried to write: {series_id, team1_id, team2_id, event_name, date_played, time_started,
-                    series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id}""" '\n')
+                error_string += f""" Tried to write: {series_id, team1_id, team2_id, event_name, date_played, time_started,
+                    series_format, team1_score, team2_score, map1_id, map2_id, map3_id, map4_id, map5_id}""" + '\n'
+                write_error_to_file('insert_series_error', error_string)
     finally:
         if conn:
             conn.close()
@@ -164,11 +162,10 @@ def insert_map(map_id:int, series_id:int, map_name:str, picked_by:int, team1_id:
             error_string = f"map_id : {map_id}, already exists."
             print(error_string)
             if not test:
-                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_map_error.txt')
-                with open(erorr_dir, 'a') as infile:
-                    infile.write(error_string + f""" Tried to write: {map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
+                error_string += f""" Tried to write: {map_id, series_id, map_name, picked_by, team1_id, team1_fh_score,
                         team1_sh_score, team2_id, team2_fh_score, team2_sh_score, pistol_fh_winner,
-                        pistol_sh_winner, vod_link, map_length}""" '\n')
+                        pistol_sh_winner, vod_link, map_length}""" + '\n'
+                write_error_to_file('insert_map_error', error_string)
     finally:
         if conn:
             conn.close()
@@ -199,10 +196,9 @@ def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:flo
             error_string = f"An error occurred."
             print(error_string)
             if not test:
-                erorr_dir = os.path.join(find_data_directory(), '..\error\insert_player_performance_error.txt')
-                with open(erorr_dir, 'a') as infile:
-                    infile.write(error_string + f""" Tried to write: {player_id, map_id, team_id, rating, acs, kills, 
-                    deaths, assists, kast, adr, hsp, fk, fd}""" '\n')
+                error_string += f""" Tried to write: {player_id, map_id, team_id, rating, acs, kills, 
+                    deaths, assists, kast, adr, hsp, fk, fd}""" + '\n'
+                write_error_to_file('insert_player_performance_error', error_string)
     finally:
         if conn:
             conn.close()
