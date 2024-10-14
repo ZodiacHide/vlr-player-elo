@@ -1,6 +1,4 @@
 import sqlite3
-import sys
-import os
 from tools.tools import find_data_directory
 
 # Function to initialize the database and create tables
