@@ -1,7 +1,7 @@
 import os
 import sqlite3
 import inspect
-from typing import Optional, Callable
+from typing import Optional, Callable, Union
 
 def find_data_directory(start_dir: Optional[str] = os.path.dirname(os.path.abspath(__file__))) -> str:
     current_dir = start_dir
@@ -68,3 +68,9 @@ def assert_parameter_types(func:Callable, *args, **kwargs):
         expected_type = param_types[param_name]
         actual_type = type(param)
         assert isinstance(param, expected_type), f"'{param_name}' must be of type '{expected_type.__name__}', but got '{actual_type.__name__}'"
+
+def write_error_to_file(error_filename:str, error:Union[Exception, str]) -> None:
+    assert_parameter_types(write_error_to_file, error_filename, error)
+    erorr_dir = os.path.join(find_data_directory(), f'..\error\{error_filename}.txt')
+    with open(erorr_dir, 'a', encoding='utf-8') as infile:
+        infile.write(f'{error}' + '\n')
