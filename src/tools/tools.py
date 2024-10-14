@@ -1,6 +1,7 @@
 import os
 import sqlite3
-from typing import Optional
+import inspect
+from typing import Optional, Callable
 
 def find_data_directory(start_dir: Optional[str] = os.path.dirname(os.path.abspath(__file__))) -> str:
     current_dir = start_dir
@@ -36,3 +37,33 @@ def delete_row(table_name:str, index_name:str, index_value):
         # Close the connection
         if conn:
             conn.close()
+
+def validate_map_name(map_name:str):
+    assert isinstance(map_name, str), f"'map_name' must be of type 'str', but got {type(map_name).__name__}"
+    map_name = map_name.lower()
+    VALID_MAP_NAMES = {
+    "abyss", "ascent", "bind", "breeze", "fracture", 
+    "haven", "icebox", "lotus", "pearl", "split", "sunset"
+    }
+    assert map_name in VALID_MAP_NAMES, f"Invalid map name '{map_name}'. Must be one of {', '.join(VALID_MAP_NAMES)}"
+    return True
+
+def _fetch_parameter_types(func:Callable):
+    signature = inspect.signature(func)
+    param_types = {param_name: param.annotation for param_name, param in signature.parameters.items()}
+    return param_types
+
+def assert_parameter_types(func:Callable, *args, **kwargs):
+    assert isinstance(func, Callable), f"'func' must be callable, but is instead {type(func).__name__}"
+    param_types = _fetch_parameter_types(func)
+    param_types.popitem()
+    params = list(args) + list(kwargs.values())
+    param_names = list(param_types.keys())
+
+    assert len(params) == len(param_types), f"Expected {len(param_types)} parameters, but got {len(params)}"
+
+    for i, param in enumerate(params):
+        param_name = param_names[i]
+        expected_type = param_types[param_name]
+        actual_type = type(param)
+        assert isinstance(param, expected_type), f"'{param_name}' must be of type '{expected_type.__name__}', but got '{actual_type.__name__}'"
