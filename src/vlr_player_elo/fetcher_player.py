@@ -1,9 +1,10 @@
 import os
 import time
+import sqlite3
 import requests
 from bs4 import BeautifulSoup
 from vlr_player_elo.setters_db import insert_player
-from tools.tools import write_error_to_file
+from tools.tools import write_error_to_file, find_data_directory
 
 class PlayerData:
     def __init__(self, base_url:str) -> None:
@@ -75,11 +76,35 @@ class PlayerData:
             print(f"Unexpected error: {e}")
         
         return self.id, self.player_alias, self.player_country, self.player_real_name
-
+    
+    def find_last_player_id_in_db(self):
+        # Path to the db
+        db_path = os.path.join(find_data_directory(), 'valorant.db')
+        try: 
+            conn = sqlite3.connect(db_path)
+            cursor = conn.cursor()
+            try:
+                # Get last player_id by desc order
+                cursor.execute(f'SELECT * FROM players ORDER BY player_id DESC LIMIT 1;')
+                last_id = cursor.fetchone()[0]
+                if last_id:
+                    return last_id
+            except Exception as e:
+                print(f"Unexpected error: {e}")
+        finally:
+            if conn:
+                conn.close()
+            else:
+                raise ConnectionError(f"Unable to establish connection to {db_path}")
+    
 def main():
     base_url = 'https://www.vlr.gg'
     inst = PlayerData(base_url=base_url)
-    PLAYER_DATA = inst.fetch_player_data(41212)
-    insert_player(*PLAYER_DATA)
+    last_id = inst.find_last_player_id_in_db()
+    if last_id:
+        for i in range(last_id+1, 50000):
+            PLAYER_DATA = inst.fetch_player_data(i)
+            if PLAYER_DATA is not None:
+                insert_player(*PLAYER_DATA)
 if __name__=='__main__':
     main()
