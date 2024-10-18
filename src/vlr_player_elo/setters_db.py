@@ -173,10 +173,10 @@ def insert_map(map_id:int, series_id:int, map_name:str, picked_by:int, team1_id:
             raise ConnectionError(f"Unable to establish connection to {db_path}")
 
 # Function to insert a player performance into the database
-def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:float, acs:int,
-                              kills:int, deaths:int, assists:int, kast:float, adr:float, hsp:float, fk:int, fd:int,
+def insert_player_performance(player_id:int, game_id:int, team_id:int, agent:str, rating:float, acs:int,
+                              kills:int, deaths:int, assists:int, kast:float, adr:int, hsp:float, fk:int, fd:int,
                               test: bool | None = False) -> None:
-    assert_parameter_types(insert_player_performance, player_id, map_id, team_id, rating, acs, kills, 
+    assert_parameter_types(insert_player_performance, player_id, game_id, team_id, agent, rating, acs, kills, 
                 deaths, assists, kast, adr, hsp, fk, fd)
     # Path to the db
     db_path = os.path.join(find_data_directory(), 'valorant.db')
@@ -186,17 +186,17 @@ def insert_player_performance(player_id:int, map_id:int, team_id:int, rating:flo
         cursor = conn.cursor()
         try: 
             cursor.execute('''
-            INSERT INTO player_performances (performance_id, player_id, map_id, team_id, rating, acs,
+            INSERT INTO player_performances (player_id, game_id, team_id, agent, rating, acs,
                         kills, deaths, assists, kast, adr, hsp, fk, fd)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (player_id, map_id, team_id, rating, acs, kills, 
+            ''', (player_id, game_id, team_id, agent, rating, acs, kills, 
                 deaths, assists, kast, adr, hsp, fk, fd))
             conn.commit()
         except sqlite3.IntegrityError:
             error_string = f"An error occurred."
             print(error_string)
             if not test:
-                error_string += f""" Tried to write: {player_id, map_id, team_id, rating, acs, kills, 
+                error_string += f""" Tried to write: {player_id, game_id, team_id, agent, rating, acs, kills, 
                     deaths, assists, kast, adr, hsp, fk, fd}""" + '\n'
                 write_error_to_file('insert_player_performance_error', error_string)
     finally:
