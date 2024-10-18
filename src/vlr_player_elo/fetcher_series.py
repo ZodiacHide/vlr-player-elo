@@ -50,8 +50,8 @@ class SeriesData(Fetcher):
         self.parsed_page = parsed_page
 
     def _find_team_IDs(self) -> None:
-        self.match_header = self.parsed_page.find('div', class_='match-header-vs')
-        team_link_a = self.match_header.find_all('a', href=True)
+        self.match_header_vs = self.parsed_page.find('div', class_='match-header-vs')
+        team_link_a = self.match_header_vs.find_all('a', href=True)
         team_links = []
         for ref in team_link_a:
             team_links.append(ref['href'])
@@ -159,7 +159,32 @@ class SeriesData(Fetcher):
             data_list[i] = data_int   
         return tuple(data_list)
     
+    def _find_event_name(self) -> None:
+        self.match_header_sup = self.match_header_vs.find_previous_sibling('div', class_='match-header-super')
+        header_sup_a = self.match_header_sup.find('a', href=True)
+        self.event_name = header_sup_a.find('div', attrs={'style':True}).get_text()
+
+    def _find_date_time_played(self) -> None:
+        match_header_date = self.match_header_sup.find('div', class_='match-header-date')
+        date_played_div = match_header_date.find_next('div')
+        time_played_div = date_played_div.find_next('div')
+        self.date_played = date_played_div.get_text()
+        self.time_played = time_played_div.get_text()
+
+    def _find_series_format(self) -> None:
+        header_vs_score = self.match_header_vs.find('div', class_='match-header-vs-score')
+        header_vs_score_notes = header_vs_score.find_all('div', class_='match-header-vs-note')
+        game_format_str = header_vs_score_notes[-1].get_text()
+        self.game_format = game_format_str.capitalize()
+    
+    def _find_team_scores(self) -> None:
+        ...
+    
+    def _find_game_length(self) -> None:
+        ...
+
     def write_to_db(self) -> None:
+        ### Write player data to player_performance ###
         for g, game in enumerate(self.player_data):
             for i, player in enumerate(game):
                 arr = np.zeros(14, dtype=object)
