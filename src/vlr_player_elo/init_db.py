@@ -13,7 +13,10 @@ def init_db():
         player_id INTEGER PRIMARY KEY,
         alias TEXT,
         country TEXT,
-        name TEXT
+        name TEXT,
+        mmr INTEGER,
+        maps_played INTEGER,
+        rounds_played INTEGER         
     )
     ''')
 
