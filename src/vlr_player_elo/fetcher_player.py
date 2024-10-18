@@ -5,11 +5,12 @@ import requests
 from bs4 import BeautifulSoup
 from vlr_player_elo.setters_db import insert_player
 from tools.tools import write_error_to_file, find_data_directory
+from tools.fetcher_base import Fetcher
 
-class PlayerData:
-    def __init__(self, base_url:str) -> None:
-        self.base_url = base_url
-
+class PlayerData(Fetcher):
+    def __init__(self, base_url: str) -> None:
+        super().__init__(base_url)
+        
     def fetch_player_data(self, id:int) -> tuple:
         player_url = f'{self.base_url}/player/{id}'
         self.id = id
