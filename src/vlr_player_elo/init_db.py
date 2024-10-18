@@ -71,24 +71,24 @@ def init_db():
         series_format TEXT,
         team1_score INTEGER,
         team2_score INTEGER,
-        map1_id INTEGER,
-        map2_id INTEGER,
-        map3_id INTEGER,
-        map4_id INTEGER,
-        map5_id INTEGER,
+        game1_id INTEGER,
+        game2_id INTEGER,
+        game3_id INTEGER,
+        game4_id INTEGER,
+        game5_id INTEGER,
         FOREIGN KEY (team1_id) REFERENCES teams(team_id),
         FOREIGN KEY (team2_id) REFERENCES teams(team_id),
-        FOREIGN KEY (map1_id) REFERENCES maps(map_id),
-        FOREIGN KEY (map2_id) REFERENCES maps(map_id),
-        FOREIGN KEY (map3_id) REFERENCES maps(map_id),
-        FOREIGN KEY (map4_id) REFERENCES maps(map_id),
-        FOREIGN KEY (map5_id) REFERENCES maps(map_id)
+        FOREIGN KEY (game1_id) REFERENCES games(game_id),
+        FOREIGN KEY (game2_id) REFERENCES games(game_id),
+        FOREIGN KEY (game3_id) REFERENCES games(game_id),
+        FOREIGN KEY (game4_id) REFERENCES games(game_id),
+        FOREIGN KEY (game5_id) REFERENCES games(game_id)
     )
     ''')
 
     cursor.execute('''
-    CREATE TABLE IF NOT EXISTS maps (
-        map_id INTEGER PRIMARY KEY,
+    CREATE TABLE IF NOT EXISTS games (
+        game_id INTEGER PRIMARY KEY,
         series_id INTEGER,
         map_name TEXT,
         picked_by INTEGER,
@@ -112,8 +112,9 @@ def init_db():
     CREATE TABLE IF NOT EXISTS player_performances (
         performance_id INTEGER PRIMARY KEY AUTOINCREMENT,
         player_id INTEGER,
-        map_id INTEGER,
+        game_id INTEGER,
         team_id INTEGER,
+        agent TEXT,
         rating REAL,
         acs INTEGER,
         kills INTEGER,
@@ -125,7 +126,7 @@ def init_db():
         fk INTEGER,
         fd INTEGER,
         FOREIGN KEY (player_id) REFERENCES players(player_id),
-        FOREIGN KEY (map_id) REFERENCES maps(map_id),
+        FOREIGN KEY (game_id) REFERENCES games(game_id),
         FOREIGN KEY (team_id) REFERENCES teams(team_id)
     )
     ''')
