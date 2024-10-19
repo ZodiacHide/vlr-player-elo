@@ -73,7 +73,7 @@ def init_db():
         team1_score INTEGER,
         team2_score INTEGER,
         game1_id INTEGER,
-        game2_id INTEGER,
+        game2_id INTEGER DEFAULT NULL,
         game3_id INTEGER DEFAULT NULL,
         game4_id INTEGER DEFAULT NULL,
         game5_id INTEGER DEFAULT NULL,
