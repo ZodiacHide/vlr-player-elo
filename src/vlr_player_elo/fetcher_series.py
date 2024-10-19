@@ -198,8 +198,78 @@ class SeriesData(Fetcher):
         for i, map in enumerate(self.individual_maps):
             map_header = map.find('div', class_='vm-stats-game-header')
             game_duration_div = map_header.find('div', class_='map-duration ge-text-light')
-            self.game_duration[i] = game_duration_div.get_text()
+            self.game_duration[i] = game_duration_div.get_text().split()[0]
     
+    def _find_map_name_and_pick_by(self) -> None:
+        self.picked_by = np.zeros(len(self.individual_maps))
+        self.map_name = np.zeros(len(self.individual_maps), dtype=object)
+        for m, map in enumerate(self.individual_maps):
+            map_div = map.find('div', class_='map')
+            map_span = map_div.find('span')
+            self.map_name[m] = map_span.get_text().split()[0]
+            daughter_map_span = map_span.find('span')
+            if daughter_map_span is not None:
+                span_classes = daughter_map_span['class']
+                span_mod = span_classes[1]
+                if span_mod[-1].isdigit():
+                    digit = int(span_mod[-1])
+                    if digit == 2:
+                        self.picked_by[m] = self.team_id[1]
+                    else:
+                        self.picked_by[m] = self.team_id[0]
+                else:
+                    ...
+                    # Some error
+            else:
+                self.picked_by[m] = -1
+    
+    def _find_fh_sh_score(self) -> None:
+        self.fhsh_score = np.zeros((2, len(self.individual_maps), 2))
+        self.fh_sides = np.zeros((2, len(self.individual_maps)), dtype=object)
+        for m, map in enumerate(self.individual_maps):
+            game_header = map.find('div', class_='vm-stats-game-header')
+            team_header_score = game_header.find_all('div', class_='team')
+            for i, team_header in enumerate(team_header_score):
+                score_span = team_header.find_all('span')
+                self.fh_sides[i, m] = score_span[0]['class'][0].split('-')[-1]
+                fh_score = int(score_span[0].get_text().strip())
+                sh_score = int(score_span[1].get_text().strip())
+                self.fhsh_score[i,m,:] = fh_score, sh_score
+    
+    def _find_fh_sh_pistol_winner(self) -> None:
+        """Sets first half and second half pistol winner sides (CT/T)"""
+        self.fhsh_pistol_winner = np.zeros((len(self.individual_maps), 2), dtype=object)
+        for m, map in enumerate(self.individual_maps):
+            vlr_rounds = map.find('div', class_='vlr-rounds-row')
+            vlr_columns = vlr_rounds.find_all('div', class_='vlr-rounds-row-col')
+            fh_pistol_div = vlr_columns[1]
+            fh_pistol_winner_container = fh_pistol_div.find_all('div', class_='rnd-sq')
+            for container in fh_pistol_winner_container:
+                if len(container['class']) < 2:
+                    continue
+                else:
+                    fh_pistol_winner = container['class'][-1].split('-')[-1]
+            # skip 11 rounds + spacer
+            sh_pistol_div = vlr_columns[14]
+            sh_pistol_winner_container = sh_pistol_div.find_all('div', class_='rnd-sq')
+            for container in sh_pistol_winner_container:
+                if len(container['class']) < 2:
+                    continue
+                else:
+                    sh_pistol_winner = container['class'][-1].split('-')[-1]
+            self.fhsh_pistol_winner[m,:] = fh_pistol_winner, sh_pistol_winner
+    
+    def _find_vod_link(self) -> None:
+        match_vods_container = self.parsed_page.find('div', class_='match-vods')
+        streams_container = match_vods_container.find('div', class_='match-streams-container')
+        vod_refs = streams_container.find_all('a', href=True)
+        self.vod_link = ''
+        for i, vod in enumerate(vod_refs):
+            if i != len(vod_refs)-1:
+                self.vod_link += vod['href'] + ', '
+            else:
+                self.vod_link += vod['href']
+
     def fetch_all_data(self):
         self._find_team_IDs()
         self._find_match_table()
@@ -209,6 +279,10 @@ class SeriesData(Fetcher):
         self._find_series_format()
         self._find_team_scores()
         self._find_game_length()
+        self._find_map_name_and_pick_by()
+        self._find_fh_sh_score()
+        self._find_fh_sh_pistol_winner()
+        self._find_vod_link()
 
     def write_to_db(self) -> None:
         for g, game in enumerate(self.player_data):
@@ -229,7 +303,33 @@ class SeriesData(Fetcher):
                 # Attempt to write to db
                 # setters_db.insert_player_performance(*arr)
             ### Write game data to games ###
-            arr = np.zeros(14)
+            arr = np.zeros(14, dtype=object)
+            arr[0] = int(self.game_ids[g])
+            arr[1] = int(self.series_id)
+            arr[2] = self.map_name[g]
+            arr[3] = int(self.picked_by[g])
+            arr[4], arr[7] = int(self.team_id[0]), int(self.team_id[1])
+            arr[5], arr[6] = int(self.fhsh_score[0][g][0]), int(self.fhsh_score[0][g][1])
+            arr[8], arr[9] = int(self.fhsh_score[1][g][0]), int(self.fhsh_score[1][g][1])
+            for i, winner in enumerate(self.fhsh_pistol_winner[g]):
+                if winner == self.fh_sides[0][g]:
+                    # If it's the second half, and same side won
+                    # That means other team won
+                    if i != 1:
+                        arr[10+i] = int(self.team_id[0])
+                    else:
+                        arr[10+i] = int(self.team_id[1])
+                elif winner == self.fh_sides[1][g]:
+                    if i != 1:
+                        arr[10+i] = int(self.team_id[1])
+                    else:
+                        arr[10+i] = int(self.team_id[0])
+
+            arr[12] = self.vod_link
+            arr[13] = self.game_duration[g]
+            print(arr)
+            setters_db.insert_game(*arr)
+
         ### Write series data to series ###
         arr = np.zeros(9+len(self.player_data), dtype=object)
         arr[0] = int(self.series_id)
@@ -241,10 +341,13 @@ class SeriesData(Fetcher):
         arr[7], arr[8] = self.team_score
         for g in range(len(self.player_data)):
             arr[9+g] = self.game_ids[g]
-        # setters_db.insert_series(*arr)
+        setters_db.insert_series(*arr)
+
+        ### Write and/or update data to team ###
+        
 
 def main():
-    init = SeriesData(base_url='https://www.vlr.gg', series_id='411597')
+    init = SeriesData(base_url='https://www.vlr.gg', series_id='412600')
     init.fetch_all_data()
     init.write_to_db()
 
