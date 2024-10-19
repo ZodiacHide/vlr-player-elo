@@ -60,10 +60,10 @@ def insert_team(team_id:int, team_name:str, current_roster:str, test: bool | Non
             raise ConnectionError(f"Unable to establish connection to {db_path}")
 
 # Function to insert a series into the database
-### FIX THIS, NEED TO CHANGE FOR DEFAULT VALUES ###
 def insert_series(series_id:int, team1_id:int, team2_id:int, event_name:str, date_played:str, time_started:str,
-                  series_format:str, team1_score:int, team2_score:int, game1_id:int, game2_id:int, game3_id:int,
-                  game4_id:int, game5_id:int, test: bool | None = False) -> None:
+                  series_format:str, team1_score:int, team2_score:int, game1_id:int, game2_id:int | None = None, 
+                  game3_id:int | None = None, game4_id:int | None = None, game5_id:int | None = None, 
+                  test: bool | None = False) -> None:
     assert_parameter_types(insert_series, series_id, team1_id, team2_id, event_name, date_played, time_started,
                   series_format, team1_score, team2_score, game1_id, game2_id, game3_id, game4_id, game5_id)
     # Path to the db
