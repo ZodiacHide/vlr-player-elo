@@ -172,16 +172,24 @@ class SeriesData(Fetcher):
         self.time_played = time_played_div.get_text()
 
     def _find_series_format(self) -> None:
-        header_vs_score = self.match_header_vs.find('div', class_='match-header-vs-score')
-        header_vs_score_notes = header_vs_score.find_all('div', class_='match-header-vs-note')
-        game_format_str = header_vs_score_notes[-1].get_text()
-        self.game_format = game_format_str.capitalize()
+        self.header_vs_score = self.match_header_vs.find('div', class_='match-header-vs-score')
+        header_vs_score_notes = self.header_vs_score.find_all('div', class_='match-header-vs-note')
+        series_format_str = header_vs_score_notes[-1].get_text()
+        self.series_format = series_format_str.capitalize()
     
     def _find_team_scores(self) -> None:
-        ...
+        scoreline_div = self.header_vs_score.find('div', class_='js-spoiler')
+        score_span = scoreline_div.find_all('span')
+        team1_score = int(score_span[0].get_text())
+        team2_score = int(score_span[-1].get_text())
+        self.team_score = [team1_score, team2_score]
     
     def _find_game_length(self) -> None:
-        ...
+        self.game_duration = np.zeros(len(self.individual_maps))
+        for i, map in enumerate(self.individual_maps):
+            map_header = map.find('div', class_='vm-stats-game-header')
+            game_duration_div = map_header.find('div', class_='map-duration ge-text-light')
+            self.game_duration[i] = game_duration_div.get_text()
 
     def write_to_db(self) -> None:
         ### Write player data to player_performance ###
