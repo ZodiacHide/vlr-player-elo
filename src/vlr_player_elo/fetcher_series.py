@@ -20,10 +20,7 @@ class SeriesData(Fetcher):
 
         # Instance methods
         self._get_parsed_page()
-        self._find_team_IDs()
-        self._find_match_table()
-        self._find_player_data()
-
+        
     def _connect(self) -> Union[requests.Response, None]:
         # Send GET request
         response = requests.get(self.series_url, timeout=5)
@@ -45,11 +42,13 @@ class SeriesData(Fetcher):
         return response
 
     def _get_parsed_page(self) -> None:
+        """Sets parsed page data"""
         response = self._connect()
         parsed_page = BeautifulSoup(response.content, 'html.parser')
         self.parsed_page = parsed_page
 
     def _find_team_IDs(self) -> None:
+        """Sets team IDs as *int* *np.ndarray*"""
         self.match_header_vs = self.parsed_page.find('div', class_='match-header-vs')
         team_link_a = self.match_header_vs.find_all('a', href=True)
         team_links = []
@@ -65,6 +64,7 @@ class SeriesData(Fetcher):
         self.team_id = team_id
 
     def _find_match_table(self) -> None:
+        """Sets game ids as *list* of *int*, sets *list* for each map container and sets all maps container."""
         # Find the entire table
         match_table = self.parsed_page.find('div', class_='vm-stats-container')
         # Individual map table, also includes 'all'
@@ -100,6 +100,7 @@ class SeriesData(Fetcher):
                     self.player_data[m,i+(t*5),:] = data_list
            
     def _find_player_id(self, row) -> int:
+        """Returns the *int* ID of player"""
         table_data = row.find('td', class_='mod-player')
         player_ref = table_data.find('a', href=True)
         player_link_str = player_ref['href']
@@ -108,6 +109,7 @@ class SeriesData(Fetcher):
         return player_id
     
     def _find_player_agent(self, row) -> str:
+        """Returns the name of played agent"""
         table_data = row.find('td', class_='mod-agents')
         img_data = table_data.find('img')
         agent_name = img_data['title']
@@ -139,6 +141,7 @@ class SeriesData(Fetcher):
         return data_tuple
 
     def _find_player_KDA(self, row) -> tuple:
+        """Returns a tuple containing the kills, deaths and assists data"""
         kill_data = row.find('td', class_="mod-stat mod-vlr-kills")
         death_data = row.find('td', class_="mod-stat mod-vlr-deaths")
         assist_data = row.find('td', class_="mod-stat mod-vlr-assists")
@@ -150,6 +153,7 @@ class SeriesData(Fetcher):
         return tuple(data_list)
     
     def _find_player_FKFD(self, row) -> tuple:
+        """Returns a tuple containing the first kills and first deaths data"""
         kill_data = row.find('td', class_="mod-stat mod-fb")
         death_data = row.find('td', class_="mod-stat mod-fd")
         data_list = [kill_data, death_data]
@@ -160,24 +164,28 @@ class SeriesData(Fetcher):
         return tuple(data_list)
     
     def _find_event_name(self) -> None:
+        """Sets the event name as *str*"""
         self.match_header_sup = self.match_header_vs.find_previous_sibling('div', class_='match-header-super')
         header_sup_a = self.match_header_sup.find('a', href=True)
-        self.event_name = header_sup_a.find('div', attrs={'style':True}).get_text()
+        self.event_name = header_sup_a.find('div', attrs={'style':True}).get_text().strip()
 
     def _find_date_time_played(self) -> None:
+        """Sets the date played and time played as *str*"""
         match_header_date = self.match_header_sup.find('div', class_='match-header-date')
         date_played_div = match_header_date.find_next('div')
         time_played_div = date_played_div.find_next('div')
-        self.date_played = date_played_div.get_text()
-        self.time_played = time_played_div.get_text()
+        self.date_played = date_played_div.get_text().strip()
+        self.time_played = time_played_div.get_text().strip()
 
     def _find_series_format(self) -> None:
+        "Sets the series format as a *str*"
         self.header_vs_score = self.match_header_vs.find('div', class_='match-header-vs-score')
         header_vs_score_notes = self.header_vs_score.find_all('div', class_='match-header-vs-note')
-        series_format_str = header_vs_score_notes[-1].get_text()
-        self.series_format = series_format_str.capitalize()
+        series_format_str = header_vs_score_notes[-1].get_text().strip()
+        self.series_format = series_format_str.upper()
     
     def _find_team_scores(self) -> None:
+        """Sets the team scores as a *list* of *int*"""
         scoreline_div = self.header_vs_score.find('div', class_='js-spoiler')
         score_span = scoreline_div.find_all('span')
         team1_score = int(score_span[0].get_text())
@@ -185,15 +193,26 @@ class SeriesData(Fetcher):
         self.team_score = [team1_score, team2_score]
     
     def _find_game_length(self) -> None:
-        self.game_duration = np.zeros(len(self.individual_maps))
+        """Sets game duration as a *list* of *str*"""
+        self.game_duration = np.zeros(len(self.individual_maps), dtype=object)
         for i, map in enumerate(self.individual_maps):
             map_header = map.find('div', class_='vm-stats-game-header')
             game_duration_div = map_header.find('div', class_='map-duration ge-text-light')
             self.game_duration[i] = game_duration_div.get_text()
+    
+    def fetch_all_data(self):
+        self._find_team_IDs()
+        self._find_match_table()
+        self._find_player_data()
+        self._find_event_name()
+        self._find_date_time_played()
+        self._find_series_format()
+        self._find_team_scores()
+        self._find_game_length()
 
     def write_to_db(self) -> None:
-        ### Write player data to player_performance ###
         for g, game in enumerate(self.player_data):
+            ### Write player data to player_performance ###
             for i, player in enumerate(game):
                 arr = np.zeros(14, dtype=object)
                 arr[0] = player[0]
@@ -208,12 +227,25 @@ class SeriesData(Fetcher):
                         continue
                     arr[j+2] = point
                 # Attempt to write to db
-                setters_db.insert_player_performance(*arr)
-
-
+                # setters_db.insert_player_performance(*arr)
+            ### Write game data to games ###
+            arr = np.zeros(14)
+        ### Write series data to series ###
+        arr = np.zeros(9+len(self.player_data), dtype=object)
+        arr[0] = int(self.series_id)
+        arr[1], arr[2] = int(self.team_id[0]), int(self.team_id[1])
+        arr[3] = self.event_name
+        arr[4] = self.date_played
+        arr[5] = self.time_played
+        arr[6] = self.series_format
+        arr[7], arr[8] = self.team_score
+        for g in range(len(self.player_data)):
+            arr[9+g] = self.game_ids[g]
+        # setters_db.insert_series(*arr)
 
 def main():
     init = SeriesData(base_url='https://www.vlr.gg', series_id='411597')
+    init.fetch_all_data()
     init.write_to_db()
 
 if __name__=='__main__':
